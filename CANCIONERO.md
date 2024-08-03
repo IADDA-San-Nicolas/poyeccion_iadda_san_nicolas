@@ -1,6 +1,6 @@
 # Cancionero
 
-## Índice
+## Índice Alabanzas
 
 1. [A Dios Sea la Gloria ](#a-dios-sea-la-gloria-)
 2. [A Ti el Alfa y la Omega](#a-ti-el-alfa-y-la-omega)
@@ -95,6 +95,9 @@
 91. [Mas el Dios (a el Sea la Gloria) ](#mas-el-dios-(a-el-sea-la-gloria)-)
 92. [Mas que Palabras ](#mas-que-palabras-)
 93. [Me Gozare ](#me-gozare-)
+
+## Índice Adoración
+
 94. [Medley Ardiendo el Fuego ](#medley-ardiendo-el-fuego-)
 95. [Mi Corazon Entona la Cancion ](#mi-corazon-entona-la-cancion-)
 96. [Mi Cristo Mi Rey ](#mi-cristo-mi-rey-)
