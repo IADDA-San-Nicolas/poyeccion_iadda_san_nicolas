@@ -1,6 +1,6 @@
 # Cancionero
 
-## Índice
+# Índice
 
 1. [A Dios Sea la Gloria ](#a-dios-sea-la-gloria-)
 2. [A Ti el Alfa y la Omega](#a-ti-el-alfa-y-la-omega)
