@@ -1,6 +1,6 @@
 # Cancionero
 
-## Índice Alabanzas
+## Índice
 
 1. [A Dios Sea la Gloria ](#a-dios-sea-la-gloria-)
 2. [A Ti el Alfa y la Omega](#a-ti-el-alfa-y-la-omega)
@@ -95,9 +95,6 @@
 91. [Mas el Dios (a el Sea la Gloria) ](#mas-el-dios-a-el-sea-la-gloria-)-)
 92. [Mas que Palabras ](#mas-que-palabras-)
 93. [Me Gozare ](#me-gozare-)
-
-## Índice Adoración
-
 94. [Medley Ardiendo el Fuego ](#medley-ardiendo-el-fuego-)
 95. [Mi Corazon Entona la Cancion ](#mi-corazon-entona-la-cancion-)
 96. [Mi Cristo Mi Rey ](#mi-cristo-mi-rey-)
@@ -162,7 +159,7 @@
 ---
 
 ## A Dios Sea la Gloria 
-
+(Adoración)
   
 Como agradeceré  
 Todas las cosas  
@@ -207,7 +204,7 @@ Y el poder por siempre
 ---
 
 ## A Ti el Alfa y la Omega
-
+(Alabanza)
   
 A ti, el Alfa y la Omega  
 El principio y el fin  
@@ -429,8 +426,6 @@ Asi eres tu
 ---
 
 ## Al Estar Ante Ti 
-
-Orden: 1,2,3,4,5,6,4,5,7  
   
 Al estar ante ti  
 Adorando frente  
@@ -696,9 +691,6 @@ Mejor que la vida es tu amor por mí...
 ---
 
 ## Atraeme a Ti 
-
-  
-  
   
 Atraeme a ti  
 No me dejes ir  
@@ -814,7 +806,6 @@ Amen
 ---
 
 ## Bendito Sea el Señor
-
   
 Padre del cielo te adoramos  
 Alzamos hoy tu nombre en alto  
@@ -830,7 +821,6 @@ Por siempre reinara
 ---
 
 ## Bueno Es Alabar, Oh Señor, 
-
   
 Bueno es alabar oh Señor   
 Tú nombre  
@@ -850,46 +840,41 @@ Bueno es alabarte Señor
 ---
 
 ## Bienvenido Espíritu Santo
+  
+Espíritu Santo bienvenido   
+A este lugar  
+  
+Jesucristo bienvenido   
+A este lugar  
+  
+Padre omnipotente   
+De gracia y amor  
+  
+Bienvenido a este lugar  
+ 
+Espíritu Santo bienvenido   
+A este lugar  
+  
+Jesucristo bienvenido   
+A este lugar  
+  
+Padre omnipotente   
+De gracia y amor  
+  
+Bienvenido a este lugar  
+  
+Bienvenido Espíritu de aquí  
+Damos gloria solo a ti Señor  
+  
+Bienvenido Espíritu de aquí  
+Hoy rendimos coronas a tus pies  
+  
+Bienvenido Espíritu de aquí  
+Damos gloria solo a ti Señor  
+  
+Bienvenido Espíritu de aquí  
+Hoy rendimos coronas a tus pies  
 
-  
-Espíritu Santo bienvenido   
-A este lugar  
-  
-Jesucristo bienvenido   
-A este lugar  
-  
-Padre omnipotente   
-De gracia y amor  
-  
-Bienvenido a este lugar  
-  
-   
-  
-Espíritu Santo bienvenido   
-A este lugar  
-  
-Jesucristo bienvenido   
-A este lugar  
-  
-Padre omnipotente   
-De gracia y amor  
-  
-Bienvenido a este lugar  
-  
-Bienvenido Espíritu de aquí  
-Damos gloria solo a ti Señor  
-  
-Bienvenido Espíritu de aquí  
-Hoy rendimos coronas a tus pies  
-  
-Bienvenido Espíritu de aquí  
-Damos gloria solo a ti Señor  
-  
-Bienvenido Espíritu de aquí  
-Hoy rendimos coronas a tus pies  
-  
-   
-  
 Espíritu Santo bienvenido   
 A este lugar  
   
@@ -916,7 +901,6 @@ Hoy rendimos coronas a tus pies
 ---
 
 ## Cambiaré Mis Tristezas
-
   
 Cambiaré mí tristeza  
 Cambiaré mí vergüenza  
@@ -944,7 +928,6 @@ Gozo viene en la mañana
 ---
 
 ## Cantare al Señor por Siempre 
-
   
 //cantare al Señor por siempre  
 Su diestra es todo poder//  
@@ -963,7 +946,6 @@ Echo a la mar los carros del faraon
 ---
 
 ## Cantare de Tu Amor 
-
   
 Sobre montañas y el mar  
 Tú rio corre para amar  
@@ -987,7 +969,6 @@ Como danzamos hoy
 ---
 
 ## Celebrad 
-
   
 //celebrad a Cristo celebrad//  
 //resucito//  
@@ -1001,7 +982,6 @@ Resucito el Señor
 
 ## Con Mi Dios Yo Saltare los Muros
 
-  
 //con mí aquí   
 Yo saltare los muros   
 Con mí aquí   
