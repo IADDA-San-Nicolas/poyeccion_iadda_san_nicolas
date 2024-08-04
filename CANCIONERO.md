@@ -485,7 +485,6 @@ A Jesús
 ---
 
 ## Al que Esta Sentado en el Trono
-
   
 Quiero conocerte  
 Cada dia más a ti  
@@ -542,7 +541,6 @@ Consagramos todo nuestro ser a ti
 ---
 
 ## Alaba a Dios 
-
   
 aquí no rechaza oracion  
 Oracion es alimento  
@@ -601,38 +599,25 @@ Alaba a aquí, alaba a aquí//
 ---
 
 ## Aleluya Agnus Dei
-
   
 //aleluya aleluya  
-  
 Eres tu poderoso aquí//  
-  
 Aleluya aleluya  
   
 Santo Santo  
-  
-Eres tu aquí, poderoso rey  
-  
+Eres tu aquí, poderoso rey 
 Digno eres tú,  
   
 Cordero de aquí  
-  
 Tú eres Santo  
-  
-Santo Santo  
-  
-  
-   
+Santo Santo     
 Amen
 
 ---
 
 ## Aleluya
-
   
-Aleluya  
-Aleluya  
-Aleluya  
+Aleluya, Aleluya, Aleluya  
   
 Cristo viene  
 Cristo viene  
@@ -647,7 +632,6 @@ Cristo salva
 ---
 
 ## Así Es Tu Amor 
-
   
 Hay un deseo en mí corazón de estar donde tu estas  
 Se que no hay mejor lugar quiero habitar en tu altar 
@@ -903,25 +887,33 @@ Hoy rendimos coronas a tus pies
 ## Cambiaré Mis Tristezas
   
 Cambiaré mí tristeza  
-Cambiaré mí vergüenza  
+Cambiaré mí vergüenza 
+
 Los entregaré por el gozo de aquí  
-Cambiaré mí dolor  
-Y mí enfermedad  
-Los entregaré por el gozo de aquí (oh-Oh-oh-oh)Cambiaré  
-(cambiaré mí vergüenza) los entregaré  
+Cambiaré mí dolor Y mí enfermedad  
+
+Los entregaré por el gozo de aquí (oh-Oh-oh-oh)
+Cambiaré (cambiaré mí vergüenza) los entregaré 
+
 (los entregaré por el gozo de aquí)  
-Cambiaré mí dolor (cambiaré mí dolor)  
+Cambiaré mí dolor (cambiaré mí dolor) 
+
 Y mí enfermedad (y mí enfermedad)  
-Los entregaré (los entregaré) por el gozo de aquí, oh-Oh-ohSí, Señor; sí, sí, Señor (sí)  
+Los entregaré (los entregaré) 
+por el gozo de aquí, oh-Oh-ohSí, Señor; sí, sí, Señor (sí) 
+
 Sí, Señor; sí, sí, Señor (sí)  
 Sí, Señor; sí, sí, Señor (sí)  
-Amén (oh-Oh-oh-oh)Sí, Señor; sí, sí, Señor  
+Amén (oh-Oh-oh-oh)Sí, Señor; sí, sí, Señor
+
 Sí, Señor; sí, sí, Señor  
 Sí, Señor; sí, sí, Señor  
-Amén (oh-Oh-oh-oh)Estando atribulado, pero nunca derrotado  
+Amén (oh-Oh-oh-oh)Estando atribulado, pero nunca derrotado 
+
 Y perseguido esté hoy  
 Maldiciones no me afectan, pues yo sé a quien voy  
-En su gozo, fuerte soy  
+En su gozo, fuerte soy 
+
 Aunque triste en la noche yo esté  
 Gozo viene en la mañana
 
@@ -1032,35 +1024,50 @@ Me amas
 
   
 Levanto mis manos hoy a ti  
-Rogando en tu presencia  
+Rogando en tu presencia 
+
 Un toque especial para mí  
-No hay nada que pueda hoy suplir, no, no, no  
+No hay nada que pueda hoy suplir, no, no, no 
+
 Tú dulce presencia  
-Que llena mí vida de ti  
+Que llena mí vida de ti 
+
 Con todo mí corazón  
-Yo quiero ser fiel  
+Yo quiero ser fiel 
+
 No quiero fallarte más  
-Ayúdame aquí  
+Ayúdame aquí 
+
 Y en mí debilidad  
-Fuerte seré  
+Fuerte seré 
+
 En ti, Señor  
-Levanto mis manos hoy a ti  
+Levanto mis manos hoy a ti 
+
 Rogando en tu presencia  
-Un toque especial para mí  
+Un toque especial para mí 
+
 No hay nada que pueda hoy suplir  
-Tú dulce presencia  
+Tú dulce presencia 
+
 Que llena mí vida de ti  
-Con todo mí corazón  
+Con todo mí corazón 
+
 Yo quiero ser fiel, oh sí  
-No quiero fallarte más  
+No quiero fallarte más 
+
 Ayúdame aquí  
-Y en mí debilidad  
+Y en mí debilidad 
+
 Fuerte seré, sí  
-Con todo mí corazón  
+Con todo mí corazón 
+
 Yo quiero ser fiel, sí, Señor  
-No quiero fallarte más  
+No quiero fallarte más 
+
 Ayúdame aquí  
-Y en mí debilidad  
+Y en mí debilidad 
+
 Fuerte seré  
 En ti, Señor
 
@@ -1129,47 +1136,67 @@ Majestad
 
   
 Cristo, te exalto  
-Cristo, te adoro  
+Cristo, te adoro 
+
 Porque tú eres mí Señor  
-Solo a ti daré la gloria y honor  
+Solo a ti daré la gloria y honor 
+
 Cristo, te exalto  
-Cristo, te adoro  
+Cristo, te adoro 
+
 Porque tú eres mí Señor  
-Solo a ti daré la gloria y honor  
+Solo a ti daré la gloria y honor 
+
 Gloriosa es tu presencia  
-Me cubre y me da paz  
+Me cubre y me da paz 
+
 Mi ser siempre proclamará  
-Que solo tú eres digno de adorar  
+Que solo tú eres digno de adorar 
+
 Cristo, te exalto (te adoro)  
-Cristo, te adoro  
+Cristo, te adoro 
+
 Porque tú eres mí Señor  
-Solo a ti daré la gloria y honor  
+Solo a ti daré la gloria y honor 
+
 Gloriosa es tu presencia  
-Me cubre y me da paz  
+Me cubre y me da paz 
+
 Mi ser siempre proclamará  
-Que solo tú eres digno de adorar  
+Que solo tú eres digno de adorar 
+
 Gloriosa es tu presencia (sí, Señor)  
-Me cubre y me da paz  
+Me cubre y me da paz
+
 Mi ser siempre proclamará  
-Que solo tú eres digno de adorar (gloriosa)  
+Que solo tú eres digno de adorar (gloriosa)
+
 Gloriosa es tu presencia  
-Me cubre y me da paz  
+Me cubre y me da paz
+
 Mi ser siempre proclamará  
+Que solo tú eres digno de adorar
+
 Que solo tú eres digno de adorar  
-Que solo tú eres digno de adorar  
-Que solo tú eres digno (que solo tú)  
+Que solo tú eres digno (que solo tú)
+
 Solo tú eres digno  
-Que solo tú eres digno de adorar  
+Que solo tú eres digno de adorar
+
 Solo tú eres digno, Señor  
-Solo tú eres digno  
+Solo tú eres digno
+
 Aleluya  
 Digno, digno, digno el cordero inmolado  
-De recibir la honra, el poder y la majestad  
+De recibir la honra, el poder y la majestad 
+
 La alabanza  
 Señor, te cantamos, te ofrecemos este sacrificio  
-De alabanza a ti, oh, cordero  
+De alabanza a ti, oh, cordero 
+
 Aleluya, aleluya  
-Cantamos a Jesús, cantamos a Jesús  
+Cantamos a Jesús, cantamos a Jesús 
+
 ¡aleluya!  
 Gloria a ti, cordero, aleluya  
 Gloria a ti, Señor, aleluya
@@ -1177,31 +1204,37 @@ Gloria a ti, Señor, aleluya
 ---
 
 ## Cuan Bello Es el Señor
+  
+Cuán bello es el Señor  
+Cuán hermoso es el Señor  
+Cuán bello es el Señor  
+Hoy le quiero adorar (¿se la saben?) 
 
-  
-  
-  
 Cuán bello es el Señor  
 Cuán hermoso es el Señor  
 Cuán bello es el Señor  
-Hoy le quiero adorar (¿se la saben?)  
-Cuán bello es el Señor  
-Cuán hermoso es el Señor  
-Cuán bello es el Señor  
-Hoy le quiero adorar  
+Hoy le quiero adorar 
+
 La belleza de mí Señor  
 Nunca se agotará  
 La hermosura de mí Señor  
-Siempre resplandecerá  
-Oh-Oh-oh, la belleza de mí Señor JesúsNunca se agotará  
+Siempre resplandecerá
+
+La belleza de mí Señor
+Nunca se agotará 
+
 La hermosura de mí Señor  
-Siempre resplandecerá  
+Siempre resplandecerá 
+
 ¡roberto prado!  
-¡sergio gonzález en el piano!  
+¡sergio gonzález en el piano!
+
 La belleza de mí Señor  
-Nunca se agotará (¡alguien dígame!)  
+Nunca se agotará (¡alguien dígame!)
+
 La hermosura de mí Señor  
-Siempre resplandecerá  
+Siempre resplandecerá
+
 Oh, la belleza de mí Señor  
 Nunca se agotará, uh-UhLa hermosura de mí Señor  
 Siempre resplandecerá, uh-Uh
@@ -1209,7 +1242,6 @@ Siempre resplandecerá, uh-Uh
 ---
 
 ## Cuan Grande Es Dios 
-
   
 El esplendor de un rey  
 Vestido en majestad  
@@ -1313,7 +1345,6 @@ La presencia de aquí //
 ---
 
 ## Cuando la Trompeta Suene Himno 
-
   
 Cuando la trompeta suene  
 En aquel dia final  
@@ -1346,7 +1377,6 @@ Alli he de estar
 ---
 
 ## De Gloria en Gloria (nuevo) 
-
   
 Yo quiero ver  
 Tú luz brillando en mí  
@@ -1370,7 +1400,6 @@ Por tu Espíritu
 ---
 
 ## De Gloria en Gloria Te Veo 
-
   
 De gloria en gloria   
 Te veo   
@@ -1392,7 +1421,6 @@ Y reflejar al mundo tu amor//
 ---
 
 ## Digno Es el Cordero de Dios 
-
   
 Al estar ante ti  
 Adorando frente al  mar de cristal  
@@ -1421,48 +1449,32 @@ Es por el
 ---
 
 ## Dios Esta Aqui 
-
   
-aquí esta aqu  
-Tan cierto como el aire que respiro,  
-Tan cierto como el aire que respiro,  
-Tan cierto como la mañana se levanta  
-Tan cierto como yo te hablo y me puedes oir.  
-aquí esta aqui  
+Dios esta aquí
 Tan cierto como el aire que respiro,  
 Tan cierto como la mañana se levanta  
-Tan cierto como yo te hablo y me puedes oir.  
-Lo puedes sentir en este mismo instante  
-Lo puedes sentir muy cerca de tu corazon  
-Te puede ayudar en ese problema que tienes  
-Jseús esta aqui si tu quieres lo puedes sentir.  
-aquí esta aqui  
-Tan cierto como el aire que respiro,  
-Tan cierto como la mañana se levanta  
-Tan cierto como yo te hablo y me puedes oir,  
-Tan cierto como yo te hablo y me puedes oir,  
 Tan cierto como yo te hablo y me puedes oir.  
 
+Dios esta aquí
+Tan cierto como el aire que respiro,  
+Tan cierto como la mañana se levanta  
+Tan cierto como yo te hablo y me puedes oir. 
 
 ---
 
 ## Dios Ha Sido Bueno 
-
   
 aquí ha sido bueno  
-  
 Bueno es aquí
 
 ---
 
 ## Dulce Comunión 
-
   
 Dulce comunión la que gozo ya  
 En los brazos de mí salvador;  
 ¡qué gran bendición en su paz me da!  
-¡oh! yo siento en mí su tierno amor.  
-  
+¡oh! yo siento en mí su tierno amor.
   
 Libre, salvo del pecado y del temor;  
 Libre, salvo, en los brazos de mí salvador.  
@@ -1480,7 +1492,6 @@ De los lazos del engañador.
 ---
 
 ## Dulce Refugio 
-
   
 Dulce refugio  
 En la tormenta  
@@ -1513,7 +1524,6 @@ El salvador//
 ---
 
 ## El Dios que Adoramos 
-
   
 El aquí que hizo los cielos y la tierra  
 Con el poder de su palabra  
@@ -1562,7 +1572,6 @@ Glorioso redentor y rey, te adoramos
 ---
 
 ## El Es el Rey Infinto en Poder 
-
   
 El es el rey infinito en poder  
 El es el rey de los cielos  
@@ -1586,7 +1595,6 @@ Que viene a su pueblo a llevar
 ---
 
 ## En el Arca de Noe
-
   
 En el arca de noé  
 Todos caben todos caben  
@@ -1600,7 +1608,6 @@ Quieres oir el _______ canta así
 ---
 
 ## En el Monte Calvario 
-
   
 En el monte calvario   
 Estaba una cruz  
@@ -1645,7 +1652,6 @@ Para siempre su gloria vere
 ---
 
 ## En la Casa de Dios 
-
   
 Mejor es un dia en la casa de aquí   
 Que mil años lejos de el   
@@ -1669,7 +1675,6 @@ Anhela de su compañia
 ---
 
 ## En la Cruz Do Primero 
-
   
 Me hirio el pecado  
 Fui a Jesús  
@@ -1708,7 +1713,6 @@ Me da perfecto amor
 ---
 
 ## En Mi Corazon Hay una Cancion 
-
   
 En mí corazon   
 Hay una cancion  
@@ -1728,7 +1732,6 @@ De mí corazon
 ---
 
 ## En Presencia Estar de Cristo 
-
   
 En presencia estar de Cristo,  
 Ver su rostro ¿qué será?  
@@ -1759,7 +1762,6 @@ Nuestras almas redimir!
 ---
 
 ## En Ti Confia Mi Corazon 
-
   
 //en ti confia mí corazon  
 En ti reposa mí alma  
@@ -1784,7 +1786,6 @@ Tú perfecta voluntad///
 ---
 
 ## Enamorame 
-
   
 Quiero entregarte mis sueños  
 Tú voluntad has en ellos  
@@ -1804,7 +1805,6 @@ Enamorame de ti Señor
 ---
 
 ## Eres Digno de Gloria 
-
   
 Hoy te alabamos Señor   
 Y declaramos que tu eres nuestro aquí   
@@ -1833,7 +1833,6 @@ De toda creacion
 ---
 
 ## Eres el Mas Hermoso 
-
   
 Eres el más hermoso  
 Eres el más precioso  
@@ -1851,7 +1850,6 @@ Eres fiel Señor.
 ---
 
 ## Eres Fiel 
-
   
 //Señor eres fiel  
 Y tu misericordia eterna//  
@@ -1875,7 +1873,6 @@ Eres fiel
 ---
 
 ## Eres Mi Amigo Fiel (coalo Zamorano)
-
   
 Quien soy yo para que en mí tu pienses   
 Y que escuches mí clamor  
@@ -1896,12 +1893,10 @@ Que me amas
 Me asombras  
   
  ///eres mí amigo fiel///  
-  
 Tú amigo soy  
   
  ///eres mí amigo fiel///  
-  
-Tú amigo soy  
+ Tú amigo soy  
   
 Quien soy yo para que en mí tu pienses   
 Y que escuches mí clamor  
@@ -1912,11 +1907,9 @@ Tú hoy me dices
 Que me amas  
   
  ///me asombras///  
-  
  ///eres mí amigo fiel///  
   
 Tú amigo soy  
-  
  ///eres mí amigo fiel///  
   
 Tú amigo soy  
@@ -1933,7 +1926,6 @@ Tú amigo soy
 ---
 
 ## Eres Todopoderoso 
-
   
 La unica razon de mí adoracion  
 Eres tu mí Jesús  
@@ -1958,7 +1950,6 @@ Y no hay nadie como tu
 ---
 
 ## Eres Tu la Unica Razon de Mi Adoracion 
-
   
 Eres tu   
 La unica razon  
@@ -1993,7 +1984,6 @@ Te adorare//
 ---
 
 ## Escucharte Hablar 
-
   
 Quiero escuchar  
 Tú dulce voz  
@@ -2016,7 +2006,6 @@ Que escucharte hablar
 ---
 
 ## Espiritu Santo Te Necesito 
-
   
 Espíritu Santo, yo te necesito  
 Manda tu fuego a este lugar  
@@ -2033,7 +2022,6 @@ Espíritu Santo, yo te necesito
 Manda tu fuego a este lugar  
 Espíritu Santo, yo sólo anhelo  
 Mirar tu gloria y tu majestad  
-  
   
 Tú eres mí fuerza,  
 Tú eres mí ayuda  
@@ -2054,9 +2042,6 @@ Mirar tu gloria ven llena este lugar
 ---
 
 ## Esta Cayendo 
-
-  
-  
   
 Algo esta cayendo aqui  
 Es tan fuerte sobre mí  
@@ -2076,7 +2061,6 @@ Su gloria esta aqui
 ---
 
 ## Este Es Mi Deseo 
-
   
 Este es mí deseo  
 Honrarte a ti  
@@ -2094,7 +2078,6 @@ Haz tu voluntad en mí
 ---
 
 ## Estoy Apasionado
-
   
 Cara a cara quiero verte  
 Que tu luz brille en mí  
@@ -2160,7 +2143,6 @@ Estoy desesperado
 ---
 
 ## Exaltate 
-
   
 Al borde de tu gran trono   
 Me postrare hoy a ti  
@@ -2179,7 +2161,6 @@ Coronate con mí alabanza
 ---
 
 ## Fidelidad 
-
   
 Es su forma de mirar  
 Viendo todo bien o mal  
@@ -2229,7 +2210,6 @@ En mí vida y caminar
 ---
 
 ## Gloria en Gloria 
-
   
 Yo quiero ver  
 Tú luz  
@@ -2260,7 +2240,6 @@ Por tu Espíritu
 ---
 
 ## Glorificate 
-
   
 //en mí vida se glorificado, se glorificado//  
 Señor  
@@ -2286,7 +2265,6 @@ En mí iglesia glorificate
 ---
 
 ## Golpe de Espada
-
   
 Golpe de espada  
 Es la alabanza  
@@ -2324,7 +2302,6 @@ Cantos de júbilo
 ---
 
 ## Gracia Sublime Es 
-
   
 ¿quien rompe el poder  
 Del pecado?  
@@ -2401,7 +2378,6 @@ Por lo que hiciste en mí
 ---
 
 ## Gracias por la Cruz 
-
   
 Gracias por la cruz Señor  
 Gracias por el precio pagar  
@@ -2439,7 +2415,8 @@ Levantando nuestras manos, adorándote Señor
 //grande eres tú  
 Grandes tus milagros son  
 No hay otro como tú  
-No hay otro como tú  
+No hay otro como tú 
+
 Grande eres tú  
 Grandes tus milagros son  
 No hay otro como tú  
@@ -2449,7 +2426,7 @@ No hay otro como tú//
 
 ## Hallelujah 
 
-  
+
 Un soldado a casa hoy regresó  
 Y un niño enfermo se curó  
   
@@ -2486,7 +2463,6 @@ Aleluya, aleluya, aleluya, aleluya
 ---
 
 ## Has Cambiado Adonai 
-
   
 Has cambiado mí  
  Lamento en baile me ceñiste todo de    
@@ -2516,7 +2492,6 @@ Por todas tus maravillas
 ---
 
 ## Hay Libertad Ibi 
-
   
 Las cadenas de la muerte me quitó  
 Para mí, ya no hay condenación  
@@ -2551,7 +2526,6 @@ Hay libertad
 ---
 
 ## Hay Momentos que 
-
   
 Hay momentos que   
 No deberian terminar   
@@ -2575,7 +2549,6 @@ Solo estamos tu y yo
 ---
 
 ## Hay Poder, Poder 
-
   
 Hay poder, poder  
 Sin igual poder  
@@ -2640,7 +2613,6 @@ Hay poder en Jesús
 ---
 
 ## Hay una Uncion 
-
   
 //hay una uncion aqui  
 Cayendo sobre mí  
@@ -2663,7 +2635,6 @@ Cambiando mí ser//
 ---
 
 ## Haz Llover 
-
   
 //haz llover//  
 Abre las puertas   
@@ -2682,7 +2653,6 @@ Mi corazon
 ---
 
 ## Heme Aqui 
-
   
 Heme aqui  
 Yo ire Señor  
@@ -2695,7 +2665,6 @@ A las naciones
 ---
 
 ## Hermoso Eres 
-
   
 //en mí corazon   
 Hay una cancion  
@@ -2715,7 +2684,6 @@ De mí corazon//
 ---
 
 ## Honor y Gloria Honra y Poder
-
   
 Honor y gloria honra y poder   
 Sean al eterno aquí  
@@ -2759,7 +2727,6 @@ Que sólo tu eres Santo
 ---
 
 ## Hoy Te Alabamos Señor 
-
   
 Hoy te alabamos Señor   
 Y declaramos que tu eres nuestro aquí   
@@ -2844,7 +2811,6 @@ Yo quiero vivir solo en tu voluntad
 ---
 
 ## La Bondad de Dios 
-
   
 Te amo aquí  
 Tú amor nunca me falla  
@@ -2913,7 +2879,6 @@ Tú fidelidad sigue persiguiéndome
 ---
 
 ## La Casa de Dios 
-
   
 Mejor es un dia  
 En la casa de aquí   
@@ -2961,7 +2926,6 @@ Que nos amo
 ---
 
 ## La Unica Razon 
-
   
 La unica razon de mí adoracion  
 Eres tu mí Jesús  
@@ -2989,7 +2953,6 @@ Y no hay nadie como tu
 ---
 
 ## Levanto Mis Manos 
-
   
 Levanto mis manos   
 Aunque no tenga fuerza   
@@ -3063,7 +3026,6 @@ Tócame, límpiame, heme aquí
 ---
 
 ## Majestad 
-
   
 Majestad  
 Adoremos su majestad  
@@ -3102,7 +3064,6 @@ Jesucristo es rey
 ---
 
 ## Mas el Dios (a el Sea la Gloria) 
-
   
 Mas el aquí de toda gracia  
 Que nos llamo a su gloria eterna  
@@ -3119,7 +3080,6 @@ Amen
 ---
 
 ## Mas que Palabras 
-
   
 Quiero vivir agradecido  
 En todo lo que soy  
@@ -3133,7 +3093,6 @@ Es más que Una cancion
 ---
 
 ## Me Gozare 
-
   
 Me gozare me alegrare y cantare al Señor  
 Porque han llegado las bodas del cordero de aquí//  
@@ -3144,7 +3103,6 @@ Lino fino y resplandeciente para recibir al rey //
 ---
 
 ## Medley Ardiendo el Fuego 
-
   
 Ardiendo el fuego  
 En mí alma esta  
@@ -3179,7 +3137,6 @@ Con tu poder
 ---
 
 ## Mi Corazon Entona la Cancion 
-
   
 Señor mí aquí  
 Al contemplar los cielos  
@@ -3269,7 +3226,6 @@ Señor
 ---
 
 ## Mora en Mi Vida
-
   
 Hoy te siento Señor  
 Muy dentro de mí vida  
@@ -3301,7 +3257,6 @@ Mora en mí vida
 ---
 
 ## Muevete en Mi
-
   
 Si el Espíritu de aquí esta en este lugar  
 Si el Espíritu de aquí se mueve en este lugar  
@@ -3319,7 +3274,6 @@ Muévete en mí
 ---
 
 ## Nada Es Imposible Barrientos 
-
   
 Por ti todo lo puedo  
 Todo es posible   
@@ -3404,7 +3358,6 @@ Cristo
 ---
 
 ## No Hay Dios Tan Grande Como Tu 
-
   
 No hay aquí tan grande como tu  
 No lo hay , no lo hay  
@@ -3419,7 +3372,6 @@ Con tu Santo Espíritu
 ---
 
 ## No Hay Lugar Mas Alto (a Tus Pies) Autor Desconocido)
-
   
 A tus pies  
 Arde mí corazon  
@@ -3456,7 +3408,6 @@ A los pies de Cristo
 ---
 
 ## Oh Moradora 
-
   
 Oh moradora de sion   
 Alaba jehova   
@@ -3475,7 +3426,6 @@ Digno de alabar
 ---
 
 ## Oh Tu Fidelidad 
-
   
 Oh aquí eterno  
 Tú misericordia  
@@ -3518,7 +3468,6 @@ El mismo seras
 ---
 
 ## Pan de Vida 
-
   
 Pan de vida  
 Es Cristo  
@@ -3550,7 +3499,6 @@ Libre de pecado
 ---
 
 ## Por la Bondad
-
   
 Por la bondad de jehova  
 No hemos sido consumidos  
@@ -3582,7 +3530,6 @@ Y grande es su fidelidad
 ---
 
 ## Por el Poder de Tu Amor 
-
   
 Vengo a ti Señor   
 Cámbiame, renuévame   
@@ -3618,7 +3565,6 @@ Por el poder de tu amor.
 ---
 
 ## Por Mucho Tiempo 
-
   
 Por mucho   
 Tiempo busque  
@@ -3650,7 +3596,6 @@ Cantare
 ---
 
 ## Por un Momento en Tu Presencia (tengo Hambre de Ti) 
-
   
 Por un momento en tu presencia  
 Por un instante de tu amor  
@@ -3679,7 +3624,6 @@ Hambre de ti Señor Jesús
 ---
 
 ## Porque el Vive 
-
   
 aquí nos envio a su hijo Cristo  
 El es salud, paz y perdon  
@@ -3723,7 +3667,6 @@ Vere gloriosas luces y vere al rey
 ---
 
 ## Que Dulce Es Estar 
-
   
 Que dulce es estar en tu presencia  
 Contemplando la hermosura, de tu santidad  
@@ -3736,7 +3679,6 @@ Mi corazón se une a la melodía angelical
 ---
 
 ## Que Seria de Mi 
-
   
 Que seria de mí si no me hubieras alcanzado  
 Donde estaria hoy si no me hubieras perdonado  
@@ -3752,7 +3694,6 @@ Seria como un ciervo que brama por agua en el desierto
 ---
 
 ## Quiero Entregarte Mis Sueños 
-
   
 Quiero entregarte mis sueños  
 Tú voluntad has en ellos  
@@ -3772,7 +3713,6 @@ Enamorame de ti Señor
 ---
 
 ## Quiero Levantar a Ti Mis Manos 
-
   
 Quiero levantar  
 A ti mis manos  
@@ -3795,7 +3735,6 @@ Precioso hijo de aquí
 ---
 
 ## Quiero Levantar Mis Manos 
-
   
 Quiero levantar mis manos  
 Quiero levantar mí voz  
@@ -3816,7 +3755,6 @@ La honra y honor
 ---
 
 ## Recibe Toda la Gloria 
-
   
 Quiero levantar  
 A ti mis manos  
@@ -3839,7 +3777,6 @@ Precioso hijo de aquí
 ---
 
 ## Renuevame 
-
   
 Renuevame Señor Jesús  
 Ya no quiero ser igual  
@@ -3856,7 +3793,6 @@ Necesita más de ti
 ---
 
 ## Se Exalta Nuestro Dios Se Exalta 
-
   
 Se exalta nuestro aquí  
 Entre el jubilo  
@@ -3873,7 +3809,6 @@ Y aplaudamos a nuestro Señor
 ---
 
 ## Señor Eres Fiel 
-
   
 //Señor eres fiel  
 Y tu misericordia eterna//  
@@ -3896,7 +3831,6 @@ Eres fiel
 ---
 
 ## Señor Mi Dios 
-
   
 Señor mí aquí  
 Al contemplar los cielos  
@@ -3947,7 +3881,6 @@ Y su infinito amor
 ---
 
 ## Señor Tengo Sed de Ti
-
   
 Señor tengo sed de ti  
 Deseo vivir en tu presencia  
@@ -3964,7 +3897,6 @@ En la hermosura de tu santidad
 ---
 
 ## Señor, Mi Dios al Contemplar 
-
   
 Señor, mí aquí  
 Al contemplar los cielos  
@@ -4012,7 +3944,6 @@ Y su infinito amor
 ---
 
 ## Solo Dios Hace el Hombre Feliz 
-
   
 Solo aquí hace el hombre feliz//  
 La vida es nada todo se acaba   
@@ -4021,7 +3952,6 @@ Solo aquí hace el hombre feliz//
 ---
 
 ## Somos el Pueblo de Dios 
-
   
 Somos el pueblo de aquí  
 Somos un pueblo especial  
@@ -4048,7 +3978,6 @@ De su amor y verdad
 ---
 
 ## Sublime Gracia Es 
-
   
 ¿quien rompe  
 El poder del pecado?  
@@ -4096,7 +4025,6 @@ Que la muerte vencio//
 ---
 
 ## Sumergeme 
-
   
 Cansado del camino   
 Sediento de ti    
@@ -4119,7 +4047,6 @@ Sediento de ti
 ---
 
 ## Tal Como Soy 
-
   
 Tal como soy Señor sin nada que ofrecer más  
 Que mí cancion  
@@ -4139,7 +4066,6 @@ Ser Señor
 ---
 
 ## Te Amo 
-
   
 //te amo//  
 Es todo lo que puedo decir  
@@ -4157,7 +4083,6 @@ Y te amare hasta el fin
 ---
 
 ## Te Doy Gloria 
-
   
 Cuan hermoso eres Jesús  
 Son tus palabras es tu amor  
@@ -4180,7 +4105,6 @@ Te hiciste rey por siempre//
 ---
 
 ## Te Exaltamos 
-
   
 Te exaltamos, oh Señor  
 Nuestras alabanzas subirán  
@@ -4216,7 +4140,6 @@ Te exaltamos, te exaltamos, te exaltamos, te exaltamo
 ---
 
 ## Temprano Yo Te Buscare 
-
   
 Temprano yo te buscare  
 De madrugada yo me acercare  
@@ -4236,7 +4159,6 @@ Oh tu diestra me ha sostenido
 ---
 
 ## Traemos Hoy 
-
   
 Traemos hoy  
 Ante tu altar  
@@ -4273,7 +4195,6 @@ Te dare lo mejor
 ---
 
 ## Tu Eres Digno de Gloria 
-
   
 Hoy te alabamos Señor   
 Y declaramos que tu eres nuestro aquí   
@@ -4303,7 +4224,6 @@ Eres rey de toda creacion
 ---
 
 ## Tu Fidelidad 
-
   
 Tú fidelidad  
  Es grande  
@@ -4319,7 +4239,6 @@ Grande es tu fidelidad
 ---
 
 ## Tu Habitas en la Alabanza de Tu Pueblo 
-
   
 Tú habitas en la alabanza de tu pueblo  
 Coronado con poder  
@@ -4357,7 +4276,6 @@ La creación declara tu gloria, Santo eres tú
 ---
 
 ## Tu Mirada 
-
   
 Se que es tu fidelidad  
 Que lleva mí vida  
@@ -4374,7 +4292,6 @@ Me llena de tu paz
 ---
 
 ## Tu Nombre Oh Dios 
-
   
 Tú nombre oh aquí exaltare  
 Tú majestad levantare  
@@ -4391,7 +4308,6 @@ Señor
 ---
 
 ## Tus Ojos Revelan que Yo 
-
   
 Tus ojos revelan que yo  
 Nada puedo esconder  
@@ -4419,7 +4335,6 @@ Me llena de tu paz
 ---
 
 ## Vamos a Cantar 
-
   
 Vamos a cantar   
 Con la musica del cielo  
@@ -4448,7 +4363,6 @@ Vivimos hoy
 ---
 
 ## Ven a Este Lugar 
-
   
 Tú que estas sentado  
 Sobre querubines  
@@ -4476,7 +4390,6 @@ Llena hoy mí vida Señor
 ---
 
 ## Ven Es Hora 
-
   
 Ven es hora de adorarle  
 Ven abre tu corazon a el  
@@ -4496,7 +4409,6 @@ Si tomas su amor
 ---
 
 ## Ven Espiritu Ven 
-
   
 //ven, Espíritu ven  
 Y llename Señor con tu  
@@ -4513,7 +4425,6 @@ Señor te quiero conocer
 ---
 
 ## Ven Ven Ven Espiritu Divino 
-
   
 Ven, ven, ven  
 Espíritu divino  
@@ -4526,7 +4437,6 @@ Apoderate de todo mí ser
 ---
 
 ## Ven y Deleitate 
-
   
 Oh ven  
 Ven y deleitate en el  
@@ -4548,7 +4458,6 @@ De tu corazon
 ---
 
 ## Vengo a Ti Señor el Poder de Tu Amor 
-
   
 Vengo a ti Señor  
 Cambiame renuevame  
@@ -4587,7 +4496,6 @@ Por el poder de tu amor
 ---
 
 ## Victoria 
-
   
 //victoria,   
 La victoria mia es//  
@@ -4608,7 +4516,6 @@ La victoria nos dara
 ---
 
 ## Vine a Adorar a Dios 
-
   
 //vine a adorar a aquí//  
 Vine a adorar su nombre  
@@ -4626,7 +4533,6 @@ Vine a adorar a aquí
 ---
 
 ## Vine a Adorarte
-
   
 Tú eres la luz  
 Que brilló en las tinieblas  
@@ -4731,7 +4637,6 @@ Vive Jesús el Señor/4
 ---
 
 ## Yo Entro al Lugar Mas Alto (tu Nombre Es Santo) 
-
   
 Yo entro al lugar más Santo  
 A través del cordero de aquí  
@@ -4761,7 +4666,6 @@ Santo aquí
 ---
 
 ## Yo Me Rindo
-
   
 Todo a Cristo yo me rindo  
 Con el fin de serle fiel  
@@ -4809,7 +4713,6 @@ Quiero serle fiel
 ---
 
 ## Yo Quiero Mas de Ti 
-
   
 Yo quiero más de ti  
 Y habitar en tu presencia  
@@ -4831,7 +4734,6 @@ Para que crezcas tu
 ---
 
 ## Yo Quiero Ser un Adorador 
-
   
 Tú diste al hombre  
 Un lenguaje muy bello  
@@ -4950,14 +4852,11 @@ Yo quiero ser Señor ¡un adorador!
 ---
 
 ## Yo Te Busco
-
   
 Yo te busco, Yo te busco  
-  
 Con fuego en mí corazon  
   
 Yo te busco, Yo te busco  
-  
 Recibe mí adoracion  
   
 Te anhelo  
