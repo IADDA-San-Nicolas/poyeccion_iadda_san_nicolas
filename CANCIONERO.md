@@ -655,31 +655,39 @@ Cristo salva
 
   
 Hay un deseo en mí corazón de estar donde tu estas  
-Se que no hay mejor lugar quiero habitar en tu altar  
+Se que no hay mejor lugar quiero habitar en tu altar 
+
 He buscado en otras cosas el amor sin encontrar  
 Me doy cuenta que tu amor mí vida llenara...  
+
 Paciente y bondadoso es... (así es tu amor)  
-Todo lo espera y lo soporta... (así es tu amor)  
+Todo lo espera y lo soporta... (así es tu amor) 
+
 No tiene envidia ni rencor... (así es tu amor)  
 Tú amor nunca deja de ser... así es tu amor!  
+
 Me cuidas, me amas  
 Me cubres, me abrazas  
 Mejor que la vida es tu amor  
 Tan alto, sublime  
 Perfecto y eterno  
 Mejor que la vida es tu amor por mí...  
+
 Me cuidas, me amas  
 Me cubres, me abrazas  
 Mejor que la vida es tu amor  
 Tan alto, sublime  
 Perfecto y eterno  
 Mejor que la vida es tu amor por mí...  
+
 Paciente y bondadoso es... (así es tu amor)  
 Todo lo espera y lo soporta... (así es tu amor)  
+
 No tiene envidia ni rencor... (así es tu amor)  
 Tú amor nunca deja de ser... así es tu amor!  
+
 Me cuidas, me amas  
-Me cubres, me abrazas  
+Me cubres, me abrazas 
 Mejor que la vida es tu amor  
 Tan alto, sublime  
 Perfecto y eterno  
