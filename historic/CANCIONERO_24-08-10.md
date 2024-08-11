@@ -37,7 +37,6 @@
 * Cuando la Trompeta Suene Himno
 * De Gloria en Gloria (nuevo)
 * De Gloria en Gloria Te Veo
-* De Los Montes (Alabanza - v01)
 * Digno Es el Cordero de Dios
 * Dios Esta Aqui
 * Dios Ha Sido Bueno
@@ -1375,16 +1374,16 @@ Alli he de estar
 
 ---
 
-## De Gloria en Gloria (nuevo)
+## De Gloria en Gloria (nuevo) 
   
 Yo quiero ver  
 Tú luz brillando en mí  
-Atraves de mí
+Atraves de mí   
 Ser un altar  
 Que todos puedan ver  
 Que todos oigan  
   
-//tu eres vida
+//tu eres vida   
 La esperanza  
 Perfecta gracia que me ha rescatado//  
   
@@ -1393,58 +1392,31 @@ Cristo vive en mí
 Barro quiero ser en tus manos//  
   
 De gloria en gloria te veo oh aquí  
-De gloria en gloria transformado soy
+De gloria en gloria transformado soy   
 Por tu Espíritu
 
 ---
 
-## De Gloria en Gloria Te Veo
+## De Gloria en Gloria Te Veo 
   
-De gloria en gloria
-Te veo
-Cuanto más de conozco
+De gloria en gloria   
+Te veo   
+Cuanto más de conozco   
 Quiero saber más de ti  
   
 Mi aquí  
 Cuan buen alfarero  
 Quebrantame  
 Transformame  
-Moldeame a tu imagen
+Moldeame a tu imagen   
 Señor  
   
 //quiero ser más como tu  
 Ver la vida como tu  
-Saturarme de tu Espíritu
+Saturarme de tu Espíritu   
 Y reflejar al mundo tu amor//
 
 ---
-
-## De Los Montes (Alabanza - v01)
-
-Llenas nuestro hogar de danza
-De tu gozo la ciudad
-
-La injusticia tú quebrantas
-Si se humilla tu heredad.
-
-De los montes a los valles
-Ya se escucha, el clamor
-
-De los cielos a los pueblos
-Ya te cantan, con amor.
-
-Tu luz vence las tinieblas
-Al andar ante la cruz
-
-Llena tu gloria la tierra
-Como el mar en plenitud.
-
-Aleluya, aleluya
-Aleluya, aleluya
-
----
-
-
 
 ## Digno Es el Cordero de Dios 
   
