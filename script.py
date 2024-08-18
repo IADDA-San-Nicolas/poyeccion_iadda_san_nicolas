@@ -7,7 +7,7 @@ def convert_cancionero_to_json(input_md_path, output_json_path):
 
     # Inicializar la lista de canciones
     songs = []
-    song_id = 1
+    song_id = 0
     in_song = False
     current_song = {}
     lyrics_accumulator = []

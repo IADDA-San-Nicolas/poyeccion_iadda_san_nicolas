@@ -1,7 +1,9 @@
 # Cancionero
 
-****Índice****
+## Índice
 
+* Avisos mes agosto
+* Motivos de oración agosto
 * A Dios Sea la Gloria
 * A Ti el Alfa y la Omega
 * Abre Mis Ojos
@@ -13,7 +15,8 @@
 * Alaba a Dios
 * Aleluya Agnus Dei
 * Aleluya
-* Así Es Tu Amor
+* Algo está cayendo aquí (Adoración - v01)
+* Así Es Tu Amor (Alabanza v01)
 * Atraeme a Ti
 * Aunque Mis Ojos
 * Bendito Sea
@@ -56,12 +59,11 @@
 * Eres Digno de Gloria
 * Eres el Mas Hermoso
 * Eres Fiel
-* Eres Mi Amigo Fiel (coalo Zamorano)
+* Eres Mi Amigo Fiel
 * Eres Todopoderoso
 * Eres Tu la Unica Razon de Mi Adoracion
 * Escucharte Hablar
 * Espiritu Santo Te Necesito
-* Esta Cayendo
 * Este Es Mi Deseo
 * Estoy Apasionado
 * Exaltate
@@ -73,11 +75,11 @@
 * Gracias por la Cruz
 * Grande Eres Tu
 * Hallelujah
-* Has Cambiado Adonai
-* Hay Libertad (Alabanza - v01)
+* Has cambiado mí lamento en baile (Alabanza v01)
+* Hay Libertad (Alabanza v01)
 * Hay Momentos que
-* Hay Poder, Poder (Himnos de gloria y triunfo - v01)
-* Hay una Uncion
+* Hay Poder, Poder (Himnos de gloria y triunfo v01)
+* Hay una unción aquí (Adoración v01)
 * Haz Llover
 * Heme Aqui
 * Hermoso Eres
@@ -87,7 +89,7 @@
 * Jesucristo Basta
 * Jesus Eres Mi Buen Pastor
 * La Bondad de Dios
-* La Casa de Dios
+* La Casa de Dios (Alabanza v01)
 * La Única Razon (Alabanza v01)
 * Levanto Mis Manos
 * Llevame al Lugar Santisimo
@@ -103,14 +105,14 @@
 * Muevete en Mi
 * Nada Es Imposible Barrientos
 * No Hay Dios Tan Grande Como Tu
-* No Hay Lugar Mas Alto (Adoración - v01)
+* No Hay Lugar Mas Alto (Adoración v01)
 * Oh Moradora
 * Oh Tu Fidelidad
 * Pan de Vida
 * Por la Bondad
 * Por el Poder de Tu Amor
 * Por Mucho Tiempo
-* Por un Momento en Tu Presencia (tengo Hambre de Ti)
+* Por un Momento en Tu Presencia
 * Porque el Vive
 * Que Dulce Es Estar
 * Que Seria de Mi
@@ -156,6 +158,64 @@
 * Yo Quiero Mas de Ti
 * Yo Quiero Ser un Adorador
 * Yo Te Busco
+
+---
+
+## Avisos mes agosto
+
+Miércoles 21 Agosto.
+Culto Chillán, a las 19:30.
+Hogar Familia Jara-Ulloa.
+Dirige: Hno. Edra Jara.
+Palabra: Pr Claudio Torres.
+
+Jueves 22 de Agosto.
+Culto de oración a las 19:30.
+Dirige: Hna. María Pérez.
+Palabra: Hna. Adriana Valenzuela.
+
+Viernes 23 de Agosto.
+Reunión de Hermanas a las 17:30.
+
+Viernes 23 de Agosto.
+Reunión de Preadolescentes a las 17:30.
+
+Domingo 25 de Agosto.
+Culto Dominical
+Dirige: Hna. María Godoy.
+Predica: Pr. Claudio Torres.
+Data: Hna. Fernanda Sepulveda.
+
+Miércoles 28 Agosto.
+Culto Chillán, a las 19:30.
+Hogar Familia Torres-Sepúlveda.
+Dirige: Hna. Saby Sepúlveda.
+Palabra: Hna. Nadia.
+
+Jueves 29 de Agosto.
+Culto de oración a las 19:30.
+Dirige: -----.
+Palabra:: Christian Vidal.
+
+Viernes 30 de Agosto.
+Reunión de Hermanas a las 17:30
+
+Sábado 31 de Agosto.
+Actividad evangelística.
+Predica: Pr. Patricio Orellana.
+Data: Pr Esteban Ruiz.
+
+Domingo 1 de Septiembre.
+Actividad evangelística.
+Predica: Pr. Patricio Orellana.
+Data: -----.
+
+---
+
+## Motivos de oración agosto
+
+Motivos de oración.
+En proceso...
 
 ---
 
@@ -621,46 +681,65 @@ Cristo salva
 
 ---
 
-## Así Es Tu Amor
+## Algo está cayendo aquí (Adoración v01)
 
-Hay un deseo en mí corazón de estar donde tu estas
-Se que no hay mejor lugar quiero habitar en tu altar
+Algo está cayendo aquí
+Es tan fuerte sobre mí
 
-He buscado en otras cosas el amor sin encontrar
-Me doy cuenta que tu amor mí vida llenara...
+Mis manos levantaré
+Y su gloria tocaré
 
-Paciente y bondadoso es... (así es tu amor)
-Todo lo espera y lo soporta... (así es tu amor)
+Está cayendo
+Su gloria sobre mí
 
-No tiene envidia ni rencor... (así es tu amor)
-Tú amor nunca deja de ser... así es tu amor!
+Sanando heridas
+Levantando al caído
+Su gloria esta aquí
+
+Su gloria esta aquí
+
+---
+
+## Así Es Tu Amor (Alabanza v01)
+
+Hay un deseo en mi corazón
+de estar donde tú estás
+
+Sé que no hay mejor lugar,
+quiero habitar en tu altar
+
+He buscado en otras cosas
+el amor sin encontrar
+
+Me doy cuenta que tu amor
+Mi vida llenará
+
+Paciente y bondadoso es,
+¡Así es tu amor!
+
+Todo lo espera y lo soporta,
+¡Así es tu amor!
+
+No tiene envidia ni rencor,
+¡Así es tu amor!
+
+Tu amor nunca deja de ser
+¡Así es tu amor!
 
 Me cuidas, me amas
 Me cubres, me abrazas
-Mejor que la vida es tu amor
+
+Mejor que la vida
+Es tu amor
+
 Tan alto, sublime
 Perfecto y eterno
-Mejor que la vida es tu amor por mí...
 
-Me cuidas, me amas
-Me cubres, me abrazas
-Mejor que la vida es tu amor
-Tan alto, sublime
-Perfecto y eterno
-Mejor que la vida es tu amor por mí...
+Mejor que la vida
+Es tu amor por mí
 
-Paciente y bondadoso es... (así es tu amor)
-Todo lo espera y lo soporta... (así es tu amor)
-
-No tiene envidia ni rencor... (así es tu amor)
-Tú amor nunca deja de ser... así es tu amor!
-
-Me cuidas, me amas
-Me cubres, me abrazas
-Mejor que la vida es tu amor
-Tan alto, sublime
-Perfecto y eterno
-Mejor que la vida es tu amor por mí...
+Por mí ...
+Por mí ...
 
 ---
 
@@ -2049,25 +2128,6 @@ Mirar tu gloria ven llena este lugar
 
 ---
 
-## Esta Cayendo
-
-Algo esta cayendo aqui
-Es tan fuerte sobre mí
-
-Mis manos levantare
-Y su gloria tocare
-
-Esta cayendo
-Su gloria sobre mí
-
-Sanando heridas
-Levantando al caido
-Su gloria esta aqui
-
- //su gloria esta aqui//
-
----
-
 ## Este Es Mi Deseo
 
 Este es mí deseo
@@ -2468,32 +2528,29 @@ Aleluya, aleluya, aleluya, aleluya
 
 ---
 
-## Has Cambiado Adonai
+## Has cambiado mí lamento en baile (Alabanza - v01)
 
-Has cambiado mí
- Lamento en baile me ceñiste todo de
-Alegria
+Has cambiado mí Lamento en baile.
+Me ceñiste todo de Alegría.
 
-Por tanto a ti cantare
-//gloria mia//
-Y solo a ti danzare
-//gloria mia//
+Has cambiado mí Lamento en baile.
+Me ceñiste todo de Alegría.
 
-Por tanto a ti cantare
-//gloria mia//
+Por tanto, a ti cantare
+Gloria mía, gloria mía.
 
 Y solo a ti danzare
-//gloria mia//
+Gloria mía, gloria mía.
 
-//oh adonai//
-aquí del universo
-Señor de la creacion
+Oh Adonai, Oh Adonai,
+Dios del universo.
+Señor de la creación
 
-Los cielos cuentan tu
- Gloria tus hijos hoy te adoran
+Los cielos cuentan tu gloria
+Tus hijos hoy te adoran.
 
 Por todas tus maravillas
- Adonai
+Adonai.
 
 ---
 
@@ -2610,25 +2667,31 @@ en Jesús.
 
 ---
 
-## Hay una Uncion
+## Hay una unción aquí (Adoración v01)
 
-// hay una uncion aqui
+Hay una unción aquí
 Cayendo sobre mí
-Mudandome
-Cambiando mí ser //
 
-Mi Espíritu y mí alma
-Se estan llenando
-Con el poder
-De tu Espíritu Santo
+Llenándome.
+Cambiando mi ser
 
-Mi vida nunca más
-Sera igual
-
-//hay una uncion aqui
+Hay una unción aquí
 Cayendo sobre mí
-Mudandome
-Cambiando mí ser//
+
+Llenándome.
+Cambiando mi ser
+
+Mi espíritu y mi alma
+Se están llenando
+
+Con el poder de tu Espíritu Santo
+Mi vida nunca más Será igual
+
+Mi espíritu y mi alma
+Se están llenando
+
+Con el poder de tu Espíritu Santo
+Mi vida nunca más Será igual
 
 ---
 
@@ -2876,50 +2939,32 @@ Tú fidelidad sigue persiguiéndome
 
 ---
 
-## La Casa de Dios
+## La Casa de Dios (Alabanza v01)
 
-Mejor es un dia
-En la casa de aquí
-Que mil años lejos de el
+Mejor es un día
+en la casa de Dios.
+Que mil años lejos de Él
 
-Prefiero un rincon
-En la casa de aquí
-//que todo
-El palacio de un rey//
+Mejor es un día
+en la casa de Dios.
 
-Ven conmigo
-A la casa de aquí
-Celebraremos juntos
-Su amor
+Que todo el palacio de un rey
+Que todo el palacio de un rey
 
-Haremos fiesta
-En honor
-De aquel
-Que nos amo
+Ven conmigo a la Casa de Dios
+Celebraremos juntos su amor
 
-Estando aqui
-En la casa de aquí
-Alegraremos
-Su corazon
+Haremos fiesta en honor
+de Aquel Que nos amó
+
+Estando aquí en la casa de Dios
+Alegraremos su corazón
 
 Le brindaremos ofrendas
 De obediencia y amor
-En la casa de aquí
 
-Arde mí alma
-Arde de amor
-Por aquel que
-Me dio la vida
-
-Por eso le anhela
-Mi corazon
-//anhela de su compañia//
-
-Haremos fiesta en honor
-De aquel
-Que nos amo
-
-//en la casa de aquí//
+En la Casa de Dios
+En la Casa de Dios
 
 ---
 
