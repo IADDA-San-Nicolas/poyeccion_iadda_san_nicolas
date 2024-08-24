@@ -5268,10 +5268,10 @@ Yo quiero ser Señor ¡un adorador!
 ## Yo Te Busco (Adoración - v01)
 
 Yo te busco, Yo te busco
-Con fuego en mí corazon
+Con fuego en mí corazón
 
 Yo te busco, Yo te busco
-Recibe mí adoracion
+Recibe mí adoración
 
 Te anhelo
 Te necesito
@@ -5280,10 +5280,10 @@ Te amo
 Mas que a mí ser
 
 Yo te busco, Yo te busco
-Con fuego en mí corazon
+Con fuego en mí corazón
 
 Yo te busco, Yo te busco
-Recibe mí adoracion
+Recibe mí adoración
 
 Te anhelo
 Te necesito
