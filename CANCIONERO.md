@@ -32,9 +32,9 @@
 * Con Todo Mi Corazón
 * Creo en Ti
 * Cristo Puede Mover Montes
-* Cristo Te Exalto
+* Cristo Te Exalto (Adoración - v01)
 * Cuan Bello Es el Señor
-* Cuan Grande Es Dios
+* Cuan Grande Es Dios (Adoración - v01)
 * Cuan Grande Es el
 * Cuando el Pueblo del Señor Alaba a Dios
 * Cuando la Trompeta Suene Himno
@@ -71,7 +71,7 @@
 * Gloria en Gloria
 * Glorificate
 * Golpe de Espada
-* Gracia Sublime Es
+* Gracia Sublime Es (Adoración - v01)
 * Gracias por la Cruz
 * Grande Eres Tu
 * Hallelujah
@@ -106,6 +106,7 @@
 * Nada Es Imposible Barrientos
 * No Hay Dios Tan Grande Como Tu
 * No Hay Lugar Mas Alto (Adoración v01)
+* Nos Reunimos Aquí (Alabanza v01)
 * Oh Moradora
 * Oh Tu Fidelidad
 * Pan de Vida
@@ -136,28 +137,26 @@
 * Te Exaltamos
 * Temprano Yo Te Buscare
 * Todo a Cristo yo me Rindo (Himnos de gloria y triunfo - v01)
-* Traemos Hoy
-* Tu Eres Digno de Gloria
-* Tu Fidelidad
-* Tu Habitas en la Alabanza de Tu Pueblo
-* Tu Mirada
-* Tu Nombre Oh Dios
-* Tus Ojos Revelan que Yo
-* Vamos a Cantar
-* Ven a Este Lugar
-* Ven Es Hora
-* Ven Espiritu Ven
-* Ven Ven Ven Espiritu Divino
-* Ven y Deleitate
-* Vengo a Ti Señor el Poder de Tu Amor
-* Victoria
-* Vine a Adorar a Dios
-* Vine a Adorarte
-* Vive Jesus
-* Yo Entro al Lugar Mas Alto (tu Nombre Es Santo)
-* Yo Quiero Mas de Ti
-* Yo Quiero Ser un Adorador
-* Yo Te Busco
+* Traemos Hoy (Alabanza - v01)
+* Tu Eres Digno De Gloria (Alabanza - v01)
+* Tu Fidelidad (Adoración - v01)
+* Tu Habitas En La Alabanza De Tu Pueblo (Adoración - v01)
+* Tu Nombre Oh Dios (Alabanza - v01)
+* Tus Ojos Revelan Que Yo (Adoración - v01)
+* Vamos A Cantar (Alabanza - v01)
+* Ven A Este Lugar (Adoración - v01)
+* Ven Es Hora (Adoración - v01)
+* Ven Espiritu Ven (Adoración - v01)
+* Ven Ven Ven Espiritu Divino (Alabanza - v01)
+* Ven Y Deleitate (Alabanza - v01)
+* Victoria (Alabanza - v01)
+* Vine A Adorar A Dios (Adoración - v01)
+* Vine A Adorarte (Adoración - v01)
+* Vive Jesus (Alabanza - v01)
+* Yo Entro Al Lugar Mas Santo (Adoración - v01)
+* Yo Quiero Mas De Ti (Adoración - v01)
+* Yo Quiero Ser Un Adorador (Alabanza - v01)
+* Yo Te Busco (Adoración - v01)
 
 ---
 
@@ -1195,7 +1194,7 @@ Majestad
 
 ---
 
-## Cristo Te Exalto
+## Cristo Te Exalto (Adoración - v01)
 
 Cristo, te exalto
 Cristo, te adoro
@@ -1215,10 +1214,10 @@ Me cubre y me da paz
 Mi ser siempre proclamará
 Que solo tú eres digno de adorar
 
-Cristo, te exalto (te adoro)
+Cristo, te exalto
 Cristo, te adoro
 
-Porque tú eres mí Señor
+Porque Tú eres mí Señor
 Solo a ti daré la gloria y honor
 
 Gloriosa es tu presencia
@@ -1231,7 +1230,7 @@ Gloriosa es tu presencia (sí, Señor)
 Me cubre y me da paz
 
 Mi ser siempre proclamará
-Que solo tú eres digno de adorar (gloriosa)
+Que solo Tú eres digno de adorar (gloriosa)
 
 Gloriosa es tu presencia
 Me cubre y me da paz
@@ -1239,29 +1238,14 @@ Me cubre y me da paz
 Mi ser siempre proclamará
 Que solo tú eres digno de adorar
 
-Que solo tú eres digno de adorar
-Que solo tú eres digno (que solo tú)
+Que solo Tú eres digno de adorar
+Que solo Tú eres digno 
 
 Solo tú eres digno
 Que solo tú eres digno de adorar
 
-Solo tú eres digno, Señor
-Solo tú eres digno
-
-Aleluya
-Digno, digno, digno el cordero inmolado
-De recibir la honra, el poder y la majestad
-
-La alabanza
-Señor, te cantamos, te ofrecemos este sacrificio
-De alabanza a ti, oh, cordero
-
-Aleluya, aleluya
-Cantamos a Jesús, cantamos a Jesús
-
-¡aleluya!
-Gloria a ti, cordero, aleluya
-Gloria a ti, Señor, aleluya
+Solo tú eres digno,
+Solo tú eres digno de adorar
 
 ---
 
@@ -1303,34 +1287,58 @@ Siempre resplandecerá, uh-Uh
 
 ---
 
-## Cuan Grande Es Dios
+## Cuan Grande Es Dios (Adoración - v01)
 
 El esplendor de un rey
 Vestido en majestad
-//la tierra alegre esta//
+
+La tierra alegre está
+La tierra alegre está
 
 Cubierto esta de luz
-Vencio la oscuridad
-//y tiembla al oir su voz//
+Venció la oscuridad
 
-Cuan grande es aquí
-Cantemos hoy
-Cuan grande es aquí
+y tiembla a su voz
+y tiembla a su voz
+
+Cuan grande es Dios
+Cantaré cuan grande es Dios
+
 Y todos lo veran
-Cuan grande es aquí
+Cuan grande es Dios
 
-Permanece fiel
-Los tiempos son de el
-//principio y final//
+Cuan grande es Dios
+Cantaré cuan grande es Dios
 
-La trinidad es aquí
-Padre hijo y Espíritu
-//el cordero y el leon//
+Y todos lo veran
+Cuan grande es Dios
+
+Día a día el está
+El tiempo está en El
+
+Principio y el fin 
+Principio y el fin
+
+La trinidad en Dios
+El Padre, Hijo y Espíritu
+
+Cordero y el León
+Cordero y el León
+
+Cuan grande es Dios
+Cantaré cuan grande es Dios
+
+Y todos lo veran
+Cuan grande es Dios
+
+Cuan grande es Dios
+Cantaré cuan grande es Dios
+
+Y todos lo veran
+Cuan grande es Dios
 
 Su nombre sobre todo es
 Eres digno de alabar
-Y mí ser dira
-Cuan grande es aquí
 
 ---
 
@@ -2369,9 +2377,9 @@ Cantos de júbilo
 
 ---
 
-## Gracia Sublime Es
+## Gracia Sublime Es (Adoración - v01)
 
-¿quien rompe el poder
+¿Quien rompe el poder
 Del pecado?
 
 Su amor es fuerte
@@ -2408,7 +2416,7 @@ Nos adoptaste
 Como tus hijos
 
 El rey de gloria
-El rey de gloria
+El rey de majestad
 
 El que gobierna
 Con su justicia
@@ -2419,26 +2427,32 @@ Con su belleza
 El rey de gloria
 El rey de majestad
 
-Digno es el cordero de aquí
+Digno es el cordero de Dios
 Digno es el rey
-Que la muerte vencio
+Que la muerte venció
 
 Digno es el cordero de aquí
+Digno es el rey
+Que la muerte venció
+
+Digno es
+El cordero de Dios
+
 Digno es el rey
 Que la muerte vencio
 
 Digno es
-El cordero de aquí
-
-Digno es el rey
-Que la muerte vencio
-
-Digno es
-El cordero de aquí
+El cordero de Dios
 Digno digno digno
 
- //oh oh oh oh
-Oh oh oh oh//
+Gracia sublime es
+Perfecto es tu amor
+
+Tomaste mí lugar
+Cargaste tu mí cruz
+
+Tú vida diste ahi
+Ahora libre soy
 
 Jesús te adoro
 Por lo que hiciste en mí
@@ -3438,6 +3452,34 @@ A los pies de Cristo
 
 ---
 
+## Nos Reunimos Aquí (Alabanza - v01)
+
+Nos reunimos aquí
+para alabar al Señor
+
+Nos reunimos aquí 
+En comunión
+
+Algo nuevo acontecerá 
+Algo que Dios nos dará
+
+Nos reunimos aquí
+Para alabar al Señor
+
+Me hace bien cada vez que me 
+Encuentro y canto con el pueblo de Cristo
+
+Me hace bien cada vez que me
+Encuentro y canto con el pueblo de Cristo
+
+Que feliz que se ve cada hermano 
+Dando gloria a Dios y siempre alabando
+
+Me hace bien cada vez que me
+Encuentro y canto con el pueblo de Cristo
+
+---
+
 ## Oh Moradora
 
 Oh moradora de sion
@@ -4257,7 +4299,7 @@ Quiero serle fiel
 
 ---
 
-## Traemos Hoy
+## Traemos Hoy (Alabanza - v01)
 
 Traemos hoy
 Ante tu altar
@@ -4267,17 +4309,18 @@ Queremos darte
 Lo mejor de
 Nuestras vidas
 
-Te entregare mí amor entero
-Los sueños que logre alcanzar
+Te entregaré mi amor entero
+Los sueños que logré alcanzar
 
-Te dare lo mejor
-De mí vida
-Te dare lo mejor cada dia
+Te daré lo mejor
+De mi vida
+Te daré lo mejor cada día
 
-Sera mucho más
-Que una cancion
+Será mucho más
+Que una canción
+
 Mi obediencia
-Es mí mejor adoracion
+Es mi mejor adoración
 
 Traemos hoy ante tu altar
 Nuestras coronas
@@ -4288,85 +4331,160 @@ Lo mejor de nuestras vidas
 Daremos solo las primicias
 Pues tu mereces lo mejor
 
-///te dare lo mejor de mí///
-Te dare lo mejor
+Te daré lo mejor
+De mi vida
+Te daré lo mejor cada día
+
+Será mucho más
+Que una canción
+
+Mi obediencia
+Es mi mejor adoración
+
+Te daré lo mejor
+De mi vida
+Te daré lo mejor cada día
+
+Será mucho más
+Que una canción
+
+Mi obediencia
+Es mi mejor adoración
+
+Te daré lo mejor de mí
+Te daré lo mejor de mí
+Te daré lo mejor de mí
+
+Te daré lo mejor
 
 ---
 
-## Tu Eres Digno de Gloria
+## Tu Eres Digno De Gloria (Alabanza - v01)
 
 Hoy te alabamos Señor
-Y declaramos que tu eres nuestro aquí
-Tú eres aquí de amor
-Ya no somos
-Esclavos del temor
+Y declaramos que tu eres nuestro Dios
+
+Tú eres el Dios de amor
+Ya no somos esclavos del temor
 
 Hoy te adoramos Señor
-Y te cantamos
-Con nuestro corazon
+Y te cantamos con nuestro corazón
+
 Te damos todo el honor
 Sobre el cielo y la tierra
 Tú eres Señor
 
-//eres digno de gloria
+Tu eres digno de gloria
 Sobre toda la tierra
-Tú eres aquí
+Tú eres Dios
+
 Eres digno de recibir
-Toda adoracion
-Todo el honor sea a ti//
+Toda adoración
+Todo el honor sea a Tí
 
-Eres digno de gloria
+Tu eres digno de gloria
+Sobre toda la tierra
+Tú eres Dios
 
-Eres digno eres Santo
-Eres rey de toda creacion
+Eres digno de recibir
+Toda adoración
+Todo el honor sea a Tí
+
+Hoy te alabamos Señor
+Y declaramos que tu eres nuestro Dios
+
+Tú eres el Dios de amor
+Ya no somos esclavos del temor
+
+Hoy te adoramos Señor
+Y te cantamos con nuestro corazón
+
+Te damos todo el honor
+Sobre el cielo y la tierra
+Tú eres Señor
+
+Tu eres digno de gloria
+Sobre toda la tierra
+Tú eres Dios
+
+Eres digno de recibir
+Toda adoración
+Todo el honor sea a Tí
+
+Tu eres digno de gloria
+Sobre toda la tierra
+Tú eres Dios
+
+Eres digno de recibir
+Toda adoración
+Todo el honor sea a Tí
 
 ---
 
-## Tu Fidelidad
+## Tu Fidelidad (Adoración - v01)
 
 Tú fidelidad
- Es grande
+Es grande
+
 Tú fidelidad
 Incomparable es
 
-Nadie como tu
-Bendito aquí
+Nadie como Tú
+Bendito Dios
 Grande es tu fidelidad
 
-//grande es tu fidelidad//
+Tu fidelidad
+Es grande
+
+Tu fidelidad
+Incomparable es
+
+Nadie como Tú
+Bendito Dios
+Grande es tu fidelidad
+
+Grande es tu fidelidad
+Grande es tu fidelidad
 
 ---
 
-## Tu Habitas en la Alabanza de Tu Pueblo
+## Tu Habitas En La Alabanza De Tu Pueblo (Adoración - v01)
 
 Tú habitas en la alabanza de tu pueblo
 Coronado con poder
 
 Ángeles alrededor
-Cantan con nosotros alabanza
-Y gloria a ti Señor
+Cantan con nosotros 
 
-Santo es tu nombre oh aquí, Santo eres tú
+Alabanza y gloria a ti Señor
+
+Tú habitas en la alabanza de tu pueblo
+Coronado con poder
+
+Ángeles alrededor
+Cantan con nosotros 
+
+Alabanza y gloria a ti Señor
+
+Santo es tu nombre oh Dios, Santo eres tú
 La creación declara tu gloria, Santo eres tú
 
-Santo es tu nombre oh aquí, Santo eres tú
+Santo es tu nombre oh Dios, Santo eres tú
 La creación declara tu gloria, Santo eres tú
 
 Tú habitas en la alabanza de tu pueblo
 Coronado con poder
 
 Ángeles alrededor
-Cantan con nosotros alabanza
-Y gloria a ti Señor
+Cantan con nosotros 
 
-Santo es tu nombre oh aquí, Santo eres tú
-La creación declara tu gloria, Santo eres tú
-Santo es tu nombre oh aquí, Santo eres tú
+Alabanza y gloria a ti Señor
+
+Santo es tu nombre oh Dios, Santo eres tú
 La creación declara tu gloria, Santo eres tú
 
-Santo es tu nombre oh aquí, Santo eres tú
+Santo es tu nombre oh Dios, Santo eres tú
 La creación declara tu gloria, Santo eres tú
-Santo es tu nombre oh aquí, Santo eres tú
 
 La creación declara tu gloria, Santo eres tú
 La creación declara tu gloria, Santo eres tú
@@ -4374,69 +4492,99 @@ La creación declara tu gloria, Santo eres tú
 
 ---
 
-## Tu Mirada
+## Tu Nombre Oh Dios (Alabanza - v01)
 
-Se que es tu fidelidad
-Que lleva mí vida
-Mas alla de lo que
-Pueda imaginar
+Tú nombre oh Dios exaltaré
+Tú majestad levantaré
 
-Se que no puedo negar que
-Tú mirada puesta en mí
-Me llena de yu paz
+Por siempre te proclamaré
+Mi alabanza elevaré
 
-Que tu mirada puesta en mí
-Me llena de tu paz
-
----
-
-## Tu Nombre Oh Dios
-
-Tú nombre oh aquí exaltare
-Tú majestad levantare
-Y por siempre te proclamare
-Mi alabanza elevare
-
-Porque digno digno
-Eres tu
+Porque digno digno eres Tú
 A ti sea honor y poder
-Digno digno eres tu
-Recibe adoracion
+
+Digno digno eres Tú
+Recibe adoración
+Señor
+
+Tú nombre oh Dios exaltaré
+Tú majestad levantaré
+
+Por siempre te proclamaré
+Mi alabanza elevaré
+
+Porque digno digno eres Tú
+A ti sea honor y poder
+
+Digno digno eres Tú
+Recibe adoración
 Señor
 
 ---
 
-## Tus Ojos Revelan que Yo
+## Tus Ojos Revelan Que Yo (Adoración - v01)
 
 Tus ojos revelan que yo
 Nada puedo esconder
-Que no soy nada sin ti
+
+Que no soy nada sin Tí
 Oh, fiel Señor
 
 Todo lo sabes de mí
-Cuando miras el corazon
+Cuando miras el corazón
+
 Todo lo puedes ver
 Muy dentro de mí
 
-Llevas mí vida
+Llevas mi vida
 A una sola verdad
+
 Que cuando me miras
 Nada puedo ocultar
 
-Se que es tu fidelidad
-Que lleva mí vida más alla
+Sé que es tu fidelidad
+Que lleva mi vida más allá
 De lo que puedo imaginar
 
-Se que no puedo negar
+Sé que no puedo negar
+Que tu mirada puesta en mí
+Me llena de tu paz
+
+Tus ojos revelan que yo
+Nada puedo esconder
+
+Que no soy nada sin Tí
+Oh, fiel Señor
+
+Todo lo sabes de mí
+Cuando miras el corazón
+
+Todo lo puedes ver
+Muy dentro de mí
+
+Llevas mi vida
+A una sola verdad
+
+Que cuando me miras
+Nada puedo ocultar
+
+Sé que es tu fidelidad
+Que lleva mi vida más allá
+De lo que puedo imaginar
+
+Sé que no puedo negar
+Que tu mirada puesta en mí
+Me llena de tu paz
+
 Que tu mirada puesta en mí
 Me llena de tu paz
 
 ---
 
-## Vamos a Cantar
+## Vamos A Cantar (Alabanza - v01)
 
 Vamos a cantar
-Con la musica del cielo
+Con la música del cielo
 Vamos a cantar
 
 Alegres porque escuchas
@@ -4447,25 +4595,43 @@ Amamos todo de ti
 Cielo y tierra te adoran
 
 Los reinos se rinden
-Hijo de aquí tu eres por quien
-Tú eres por quien
+Hijo de Dios Tú eres por quién
+
+Tú eres por quién
 Vivimos hoy
 
 Eres quien nos liberta
 Eres la luz que guia
 
 Como fuego ardiente
-Hijo de aquí tu eres por quien
-Tú eres por quien
+Hijo de Dios tu eres por quién
+Tú eres por quién
 Vivimos hoy
+
+Vamos a cantar
+Con la música del cielo
+Vamos a cantar
+
+Alegres porque escuchas
+Cuando cantamos
+Para exaltar tu nombre
+
+Vamos a cantar
+Con la música del cielo
+Vamos a cantar
+
+Alegres porque escuchas
+Cuando cantamos
+Para exaltar tu nombre
 
 ---
 
-## Ven a Este Lugar
+## Ven A Este Lugar (Adoración - v01)
 
 Tú que estas sentado
 Sobre querubines
-Tú que estas en tu trono
+
+Tú que estas en el trono
 En medio de serafines
 
 Tú que eres aclamado
@@ -4474,6 +4640,7 @@ Ven a este lugar
 
 Tú que estas sentado
 Sobre un trono de gloria
+
 Tú que estas en el trono
 De la alabanza de tu pueblo
 
@@ -4483,315 +4650,567 @@ Ven a este lugar
 
 Ven a este lugar
 Ven a este lugar
+
+Ven a este lugar
+Llena hoy mí vida Señor
+
+Ven a este lugar
+Ven a este lugar
+
+Ven a este lugar
+Llena hoy mí vida Señor
+
+Tú que estas sentado
+Sobre querubines
+
+Tú que estas en el trono
+En medio de serafines
+
+Tú que eres aclamado
+Por ángeles
+Ven a este lugar
+
+Ven a este lugar
+Ven a este lugar
+
 Ven a este lugar
 Llena hoy mí vida Señor
 
 ---
 
-## Ven Es Hora
+## Ven Es Hora (Adoración - v01)
 
 Ven es hora de adorarle
-Ven abre tu corazon a el
+Ven abre tu corazón a Él
+
 Ven ante su trono estamos
-Ven ante la majestad de aquí
+Ven ante la majestad de Dios
 Ven
 
-Toda lengua confesara
-Que el es aquí
-Las rodillas se doblaran
+Ven es hora de adorarle
+Ven abre tu corazón a Él
+
+Ven ante su trono estamos
+Ven ante la majestad de Dios
+Ven
+
+Toda lengua confesará
+Que Él es Dios
+
+Las rodillas se doblarán
 Y un tesoro eterno
-Tendras en el
-Si tomas su amor
+
+Tendrás en Él
+Si escoges su amor
+
+Toda lengua confesará
+Que Él es Dios
+
+Las rodillas se doblarán
+Y un tesoro eterno
+
+Tendrás en Él
+Si escoges su amor
+
+Ven es hora de adorarle
+Ven abre tu corazón a Él
+
+Ven ante su trono estamos
+Ven ante la majestad de Dios
+Ven
+
+Toda lengua confesará
+Que Él es Dios
+
+Las rodillas se doblarán
+Y un tesoro eterno
+
+Tendrás en Él
+Si escoges su amor
+
+Toda lengua confesará
+Que Él es Dios
+
+Las rodillas se doblarán
+Y un tesoro eterno
+
+Tendrás en Él
+Si escoges su amor
 
 //el es rey//
 
+Toda lengua confesará
+Que Él es Dios
+
+Las rodillas se doblarán
+Y un tesoro eterno
+
+Tendrás en Él
+Si escoges su amor
+
 ---
 
-## Ven Espiritu Ven
+## Ven Espiritu Ven (Adoración - v01)
 
-//ven, Espíritu ven
-Y llename Señor con tu
-Preciosa uncion//
+Ven, Espíritu ven
+Y llename Señor 
+Con tu preciosa unción
 
-Purificame y lavame
-Renuevame restaurame
+Ven, Espíritu ven
+Y llename Señor 
+Con tu preciosa unción
+
+PurifÍcame y lávame
+Renuévame, restáurame
 Señor con tu poder
 
 Purificame y lavame
-Renuevamerestaurame
+Renuevame, restaurame
+Señor te quiero conocer
+
+Ven, Espíritu ven
+Y llename Señor 
+Con tu preciosa unción
+
+Ven, Espíritu ven
+Y llename Señor 
+Con tu preciosa unción
+
+PurifÍcame y lávame
+Renuévame, restáurame
+Señor con tu poder
+
+Purificame y lavame
+Renuevame, restaurame
+Señor te quiero conocer
+
 Señor te quiero conocer
 
 ---
 
-## Ven Ven Ven Espiritu Divino
+## Ven Ven Ven Espiritu Divino (Alabanza - v01)
 
 Ven, ven, ven
 Espíritu divino
-Ven, ven, ven
-Acercate a mí
 
-//apoderate//
-Apoderate de todo mí ser
+Ven, ven, ven
+Apoderate de mí
+
+Apoderate
+Apoderate
+
+Apoderate de todo mi ser
+
+Ven, ven, ven
+Espíritu divino
+
+Ven, ven, ven
+Apoderate de mí
+
+Apoderate
+Apoderate
+
+Apoderate de todo mi ser
 
 ---
 
-## Ven y Deleitate
-
+## Ven Y Deleitate (Alabanza - v01)
+ 
 Oh ven
-Ven y deleitate en el
-Señor
-Y el te concedera
-Las peticiones de tu
-Corazon
+Ven y deleitate en el Señor
 
-Confia solo en el
-Y el hara
-Espera solo en el y el te
-Dara
+Y Él te concederá
+Las peticiones de tu corazón
 
 Oh ven
 Ven y deleitate en el Señor
-Y el te concedera las peticines
-De tu corazon
+
+Y Él te concederá
+Las peticiones de tu corazón
+
+Confía solo en Él
+Y Él hará
+Espera solo en Él y Él hará
+
+Oh ven
+Ven y deleitate en el Señor
+
+Y Él te concederá
+Las peticiones de tu corazón
+
+Confía solo en Él
+Y Él hará
+Espera solo en Él y Él hará
+
+Oh ven
+Ven y deleitate en el Señor
+
+Y Él te concederá
+Las peticiones de tu corazón
+
+Las peticiones de tu corazón
 
 ---
 
-## Vengo a Ti Señor el Poder de Tu Amor
+## Victoria (Alabanza - v01)
 
-Vengo a ti Señor
-Cambiame renuevame
-Por la gracia que
-Encontre en ti
-
-Ahora se que las
-Debilidades
-Que hay en mí
-Se desvaneceran
-Por el poder de tu amor
-
-Cubreme
-Con tu amor rodeame
-Tomame
-Cerca quiero estar
-
-Y al esperar
-Nuevas fuerzas
-Yo tendre
-Y me levantare
-Como las aguilas
-Por el poder
-De tu amor
-
-Yo te quiero ver
-Cara a cara oh Señor
-Y conocer asi
-Mas de ti en mí
-
-Preparame Señor
-Para hacer tu voluntad
-Viviendo cada dia
-Por el poder de tu amor
-
----
-
-## Victoria
-
-//victoria,
-La victoria mia es//
-Si mantengo hoy mí paz
-El pelea la batalla
 Victoria,
-La victoria mia es
+La victoria mía es
 
-Podemos subir alla
+Victoria,
+La victoria mía es
+
+Si mantengo mi paz
+Él pelea la batalla
+
+Victoria,
+La victoria mía es
+
+Victoria,
+La victoria mía es
+
+Victoria,
+La victoria mía es
+
+Si mantengo mi paz
+Él pelea la batalla
+
+Victoria,
+La victoria mía es
+
+Podemos subir allá
 Y tomar la tierra
+
 Poseer de la montaña
 Hasta el mar
+
 Y aunque esta tierra
- Sea de gigantes
-Nuestro aquí
-La victoria nos dara
+Sea de gigantes
+
+Nuestro Dios
+La victoria nos dará
+
+Victoria,
+La victoria mía es
+
+Victoria,
+La victoria mía es
+
+Si mantengo mi paz
+Él pelea la batalla
+
+Victoria,
+La victoria mía es
+
+Sol detente en Gabaón
+Y tu Luna en Ajalón
+
+El Sol se paró cuando Josúe oró
+Porque Josúe obedeció
+
+Victoria,
+La victoria mía es
+
+Victoria,
+La victoria mía es
+
+Si mantengo mi paz
+Él pelea la batalla
+
+Victoria,
+La victoria mía es
+
+Victoria,
+La victoria mía es
+
+Victoria,
+La victoria mía es
+
+Si mantengo mi paz
+Él pelea la batalla
+
+Victoria,
+La victoria mía es
 
 ---
 
-## Vine a Adorar a Dios
+## Vine a Adorar a Dios (Adoración - v01)
 
-//vine a adorar a aquí//
+Vine a adorar a Dios
+Vine a adorar a Dios oh oh
+
 Vine a adorar su nombre
-Vine a adorar a aquí
+Vine a adorar a Dios
 
-El vino a mí vida
+Él vino a mi vida
 En un dia muy especial
-Cambio mí corazon
-Por un nuevo corazon
 
-Y esta es la razon
-Por la que digo que
-Vine a adorar a aquí
+Él vino y me tocó 
+Mi vida trasnformó
+
+Y esa es la razón
+Por la que canto yo
+
+Vine a adorar a Dios
+
+Vine a adorar a Dios
+Vine a adorar a Dios oh oh
+
+Vine a adorar su nombre
+Vine a adorar a Dios
+
+Él vino a mi vida
+En un dia muy especial
+
+Él vino y me tocó 
+Mi vida trasnformó
+
+Y esa es la razón
+Por la que canto yo
+
+Vine a adorar a Dios
+Vine a adorar a Dios
 
 ---
 
-## Vine a Adorarte
+## Vine a Adorarte (Adoración - v01)
 
 Tú eres la luz
 Que brilló en las tinieblas
-Abrió mis ojos, pude ver
-Mi corazón
 
+Abrió mis ojos, 
+Pude ver
+
+Mi corazón
 Adora tu hermosura
-Esperanza de vida eres tú
+
+Esperanza de vida 
+Eres tú
+
 Vine a adorarte
 Vine a postrarme
 
-Vine a decir que eres mí aquí
+Vine a decir que 
+Eres mí Dios
+
 Solo tú eres grande
 Solo tú eres digno
+
 Eres asombroso para mí
 
 Tú eres el rey
 Grandemente exaltado
+
 Glorioso por siempre, Señor
 Al mundo que creaste
 
 Humilde viniste
 Y pobre te hiciste por amor
-Vine a adorarte
-Vine a postrarme
-
-Vine a decir que eres mí aquí
-Solo tú eres grande
-Solo tú eres digno
-Eres asombroso para mí
 
 Vine a adorarte
 Vine a postrarme
-Vine a decir que eres mí aquí
+
+Vine a decir que 
+Eres mí Dios
+
 Solo tú eres grande
 Solo tú eres digno
 
 Eres asombroso para mí
+
+Vine a adorarte
+Vine a postrarme
+
+Vine a decir que 
+Eres mi Dios
+
+Solo tú eres grande
+Solo tú eres digno
+
+Eres asombroso para mí
+
 Nunca sabré
 Cuánto costó
-Ver mí maldad
-Sobre esa cruz
-Nunca sabré
-Cuánto costó
-Ver mí maldad
 
-Sobre esa cruz
-Nunca sabré
-Cuánto costó
 Ver mí maldad
 Sobre esa cruz
-Nunca sabré
-Cuánto costó
-Ver mí maldad
 
+Nunca sabré
+Cuánto costó
+
+Ver mí maldad
 Sobre esa cruz
+
+Nunca sabré
+Cuánto costó
+
+Ver mí maldad
+Sobre esa cruz
+
+Nunca sabré
+Cuánto costó
+
+Ver mí maldad
+Sobre esa cruz
+
 Vine a adorarte
 Vine a postrarme
-Vine a decir que eres mí aquí
+
+Vine a decir que 
+Eres mi Dios
+
 Solo tú eres grande
 Solo tú eres digno
 
 Eres asombroso para mí
+
 Vine a adorarte
 Vine a postrarme
-Vine a decir que eres mí aquí
+
+Vine a decir que 
+Eres mi Dios
+
 Solo tú eres grande
 Solo tú eres digno
 
 Eres asombroso para mí
-Oh-OhAsombroso
-De memoria
-Oh-OhAsombroso (tú eres grande)
-Poderoso (tú eres digno)
-Vine a adorarte
-
-Vine a postrarme
-Vine a decir que eres mí aquí
-Solo tú eres grande
-Solo tú eres digno
-
-Eres asombroso para mí
-¿por qué no levantas tus manos ahí donde estás?
-Señor, tú eres grande
-Asombroso, asombroso
 
 ---
 
-## Vive Jesus
+## Vive Jesus (Alabanza - v01)
 
-Vive Jesús el Señor/4
+Vive Jesús 
+El Señor oh oh
 
-Él vive, vive, él vive, vive, vive Jesús el Señor.
+Vive Jesús 
+El Señor
 
-/reina Jesús el Señor/4
+Vive Jesús 
+El Señor oh oh
 
-/él reina, reina, él reina, reina, reina Jesús el Señor/2
+Vive Jesús 
+El Señor
 
-/el Señor/2
+Él vive, Él vive, Él vive, vive, 
+Vive Jesús el Señor oh oh
+
+Él vive, Él vive, Él vive, vive, 
+Vive Jesús el Señor
+
+Reina Jesús el Señor oh oh
+Reina Jesús el Señor
+
+Reina Jesús el Señor oh oh
+Reina Jesús el Señor
+
+Él reina, Él reina, Él reina, reina, 
+Reina Jesús el Señor
+
+Reina Jesús el Señor
+Reina Jesús el Señor
 
 ---
 
-## Yo Entro al Lugar Mas Alto (tu Nombre Es Santo)
+## Yo Entro Al Lugar Mas Santo (Adoración - v01)
 
 Yo entro al lugar más Santo
-A través del cordero de aquí
+A través del cordero de Dios
+
 Y vengo tan solo a adorarte
 Yo entro a honrar al yo soy
-aquí, te adoro a ti
+
+Dios te adoro a Ti
 Te adoro a ti
-aquí, te adoro a ti
+
+Dios te adoro a ti
 Te adoro a ti
+
 Pues tu nombre es Santo
-Santo aquí
+Santo Dios
+
 Pues tu nombre es Santo
-Santo aquí
+Santo Dios
+
 Yo entro al lugar más Santo
-A través del cordero de aquí
+A través del cordero de Dios
+
 Y vengo tan solo a adorarte
 Yo entro a honrar al yo soy
-aquí, te adoro a ti
+
+Dios te adoro a Ti
 Te adoro a ti
-aquí, te adoro a ti
+
+Dios te adoro a ti
 Te adoro a ti
+
 Pues tu nombre es Santo
-Santo aquí
+Santo Dios
+
 Pues tu nombre es Santo
-Santo aquí
+Santo Dios
 
 ---
 
-## Yo Quiero Mas de Ti
+## Yo Quiero Mas De Ti (Adoración - v01)
 
-Yo quiero más de ti
+Yo quiero más de Ti
 Y habitar en tu presencia
+
 Menguar
-Para que crezcas tu
-Y cada dia ser
-Mas como tu
+Para que crezcas Tú
+
+Y cada dia seré
+Mas como Tú
+
+Yo quiero más de Ti
+Y habitar en tu presencia
+
+Menguar
+Para que crezcas Tú
+
+Y cada dia seré
+Mas como Tú
 
 Quebranta mí corazon
 Quebranta mí vida
+
 Te entrego
-Mi voluntad a ti
+Mi voluntad a Ti
 
 Todo lo que soy Señor
 Todo cuanto tengo es tuyo
+
 Yo quiero menguar
-Para que crezcas tu
+Para que crezcas Tú
+
+Quebranta mí corazon
+Quebranta mí vida
+
+Te entrego
+Mi voluntad a Ti
+
+Todo lo que soy Señor
+Todo cuanto tengo es tuyo
+
+Yo quiero menguar
+Para que crezcas Tú
+
+Yo quiero menguar
+Para que crezcas Tú
 
 ---
 
-## Yo Quiero Ser un Adorador
+## Yo Quiero Ser Un Adorador (Alabanza - v01)
 
 Tú diste al hombre
 Un lenguaje muy bello
-Tú nos diste la música para alabarte
+
+Tú nos diste la música 
+para alabarte
 
 Estoy agradecido
 Y quiero cantarte
+
 Estoy agradecido
 Y quiero adorarte
 
@@ -4801,16 +5220,17 @@ En tus planes estaba que yo te adorara
 Estoy agradecido y quiero cantarte
 Estoy agradecido y quiero adorarte
 
-Yo quiero ser un adorador, oh
+Yo quiero ser un adorador, oh oh
 Yo quiero ser un adorador
 
 Contemplar la hermosura
 De tu santidad
 Adorarte en Espíritu y en verdad
 
-Yo quiero ser Señor ¡un adorador!
+Yo quiero ser Señor oh oh
+¡Un adorador!
 
-Yo quiero ser un adorador, oh
+Yo quiero ser un adorador, oh oh
 Yo quiero ser un adorador
 
 Contemplar la hermosura
@@ -4825,12 +5245,6 @@ Mi gozo será contemplar tu santidad
 Con júbilo vendré a ti y te cantaré
 Con júbilo vendré a ti y te adoraré
 
-Tú me hiciste con un propósito
-En tus planes estaba que yo te adorara
-
-Estoy agradecido y quiero cantarte
-Estoy agradecido y quiero adorarte
-
 Yo quiero ser un adorador, oh
 Yo quiero ser un adorador
 
@@ -4839,70 +5253,31 @@ De tu santidad
 
 Adorarte en Espíritu y en verdad
 Yo quiero ser Señor ¡un adorador!
-Yo quiero ser un adorador, oh
-Yo quiero ser un adorador
-Contemplar la hermosura
-De tu santidad
 
-Adorarte en Espíritu y en verdad
-Yo quiero ser Señor ¡un adorador!tú diste al hombre
-Un lenguaje muy bello
-
-Tú nos diste la música para alabarte
-Estoy agradecido
-Y quiero cantarte
-Estoy agradecido
-Y quiero adorarte
-
-Tú me hiciste con un propósito
-En tus planes estaba que yo te adorara
-Estoy agradecido y quiero cantarte
-Estoy agradecido y quiero adorarte
-
-Yo quiero ser un adorador, oh
-Yo quiero ser un adorador
-Contemplar la hermosura
-De tu santidad
-
-Adorarte en Espíritu y en verdad
-Yo quiero ser Señor ¡un adorador!
-
-Yo quiero ser un adorador, oh
-Yo quiero ser un adorador
-Contemplar la hermosura
-De tu santidad
-Adorarte en Espíritu y en verdad
-
-Yo quiero ser Señor ¡un adorador!
-
-Mi gozo será habitar en tu presencia
-Mi gozo será contemplar tu santidad
-Con júbilo vendré a ti y te cantaré
-Con júbilo vendré a ti y te adoraré
-
-Tú me hiciste con un propósito
-En tus planes estaba que yo te adorara
-Estoy agradecido y quiero cantarte
-Estoy agradecido y quiero adorarte
-
-Yo quiero ser un adorador, oh
-Yo quiero ser un adorador
-Contemplar la hermosura
-De tu santidad
-
-Adorarte en Espíritu y en verdad
-Yo quiero ser Señor ¡un adorador!
 Yo quiero ser un adorador, oh
 Yo quiero ser un adorador
 
 Contemplar la hermosura
 De tu santidad
+
 Adorarte en Espíritu y en verdad
 Yo quiero ser Señor ¡un adorador!
 
 ---
 
-## Yo Te Busco
+## Yo Te Busco (Adoración - v01)
+
+Yo te busco, Yo te busco
+Con fuego en mí corazon
+
+Yo te busco, Yo te busco
+Recibe mí adoracion
+
+Te anhelo
+Te necesito
+
+Te amo
+Mas que a mí ser
 
 Yo te busco, Yo te busco
 Con fuego en mí corazon
