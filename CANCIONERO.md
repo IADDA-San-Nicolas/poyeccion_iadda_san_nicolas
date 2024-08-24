@@ -175,8 +175,8 @@ Palabra: Hno. Christian Vidal.
 
 Viernes 30 de Agosto.
 Reunión de Hermanas a las 17:30.
-Dirige: Hna. María Palavecino.
-Palabra: Christian Vidal.
+Dirige: Hna. Adriana Valenzuela.
+Palabra: Hna. Saura Venegas.
 
 Sábado 31 de Agosto.
 Actividad evangelística.
