@@ -162,29 +162,6 @@
 
 ## Avisos mes agosto
 
-Miércoles 21 Agosto.
-Culto Chillán, a las 19:30.
-Hogar Familia Jara-Ulloa.
-Dirige: Hno. Edra Jara.
-Palabra: Pr Claudio Torres.
-
-Jueves 22 de Agosto.
-Culto de oración a las 19:30.
-Dirige: Hna. María Pérez.
-Palabra: Hna. Adriana Valenzuela.
-
-Viernes 23 de Agosto.
-Reunión de Hermanas a las 17:30.
-
-Viernes 23 de Agosto.
-Reunión de Preadolescentes a las 17:30.
-
-Domingo 25 de Agosto.
-Culto Dominical
-Dirige: Hna. María Godoy.
-Predica: Pr. Claudio Torres.
-Data: Hna. Fernanda Sepulveda.
-
 Miércoles 28 Agosto.
 Culto Chillán, a las 19:30.
 Hogar Familia Torres-Sepúlveda.
@@ -193,21 +170,25 @@ Palabra: Hna. Nadia.
 
 Jueves 29 de Agosto.
 Culto de oración a las 19:30.
-Dirige: -----.
-Palabra:: Christian Vidal.
+Dirige: Hna. María Palavecino.
+Palabra: Hno. Christian Vidal.
 
 Viernes 30 de Agosto.
-Reunión de Hermanas a las 17:30
+Reunión de Hermanas a las 17:30.
+Dirige: Hna. María Palavecino.
+Palabra: Christian Vidal.
 
 Sábado 31 de Agosto.
 Actividad evangelística.
+Dirige: Pr. Claudio Torres.
 Predica: Pr. Patricio Orellana.
 Data: Pr Esteban Ruiz.
 
 Domingo 1 de Septiembre.
 Actividad evangelística.
+Dirige: Hna. Claudio Torres.
 Predica: Pr. Patricio Orellana.
-Data: -----.
+Data: Hna. Saura Venegas.
 
 ---
 
