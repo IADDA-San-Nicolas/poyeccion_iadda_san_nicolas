@@ -161,35 +161,94 @@
 
 ---
 
-## Avisos mes agosto
+## Avisos mes de Septiembre
 
-Miércoles 28 Agosto.
+Miércoles 03 de Septiembre.
 Culto Chillán, a las 19:30.
-Hogar Familia Torres-Sepúlveda.
-Dirige: Hna. Saby Sepúlveda.
-Palabra: Hna. Nadia.
+Hogar: Familia Flores Sepulveda.
+Dirige: Hno. Edra Jara.
+Palabra: Pr. Estaban Ruiz.
 
-Jueves 29 de Agosto.
-Culto de oración a las 19:30.
-Dirige: Hna. María Palavecino.
-Palabra: Hno. Christian Vidal.
+Jueves 05 de Septiembre.
+Culto de oración, a las 19:30.
+Dirige: Pr. Williams Verdejo.
+Palabra: Visita.
 
-Viernes 30 de Agosto.
+Viernes 06 de Septiembre.
 Reunión de Hermanas a las 17:30.
+Dirige: Hna. Marcia Fuentes.
+Palabra: Hna. Patricia Venegas.
+
+Domingo 08 de Septiembre.
+Culto dominical, a las 10:30.
+Dirige: Hno. Gabriel Lagos.
+Palabra: Pr. Carlos Ramirez.
+Cena del Señor.
+Preside Pr. Esteban Ruiz.
+
+Jueves 12 de Septiembre.
+Culto de oración, a las 19:30.
+Dirige: Hna. Elizabeth Jara.
+Palabra: Hno. Cristian Rubilar.
+
+Viernes 13 de Septiembre.
+Reunión de Hermanas a las 17:30.
+Dirige: Hna. Beatriz Concha.
+Palabra: Hna. Silvana Neira.
+
+Viernes 13 de Septiembre.
+Reunión de Preadolescentes
+A las 17:30. en la Iglesia.
+
+Sabado 14 de Septiembre.
+Activiada Especial.
+Hermanos de Chillán, a las 19:30.
+Lugar: San Ignacio.
+Dirige:Hna Norma Ulloa.
+Palabra: Pr. Williams Verdejo.
+
+Domingo 15 de Septiembre.
+Culto fiestas patrias a las 10:30.
 Dirige: Hna. Adriana Valenzuela.
+Palabra: Pr. Williams Verdejo.
+Data: Hna. Barbara Opazo.
+
+Miércoles 17 de Septiembre.
+Se suspende Culto Chillán.
+
+Viernes 20 de Septiembre.
+Se suspende reunión de de Hermanas.
+
+Domingo 22 de Septiembre.
+Actividad Especial a las 11:00.
+Celebración Fiestas Patrias.
+Anima: Hno. Cristian Rubilar.
+
+Miércoles 24 de Septiembre.
+Culto Chillán, a las 19:30.
+Hogar: Hna. Silvia Ulloa.
+Dirige: Pr. Claudio Torres.
+Palabra: Hna. Nadia Sepulveda.
+
+Jueves 26 de Septiembre.
+Culto de oración, a las 19:30.
+Dirige: Hna. María Pérez.
 Palabra: Hna. Saura Venegas.
 
-Sábado 31 de Agosto.
-Actividad evangelística.
-Dirige: Pr. Claudio Torres.
-Predica: Pr. Patricio Orellana.
-Data: Pr Esteban Ruiz.
+Viernes 27 de Septiembre.
+Reunión de Hermanas a las 17:30.
+Dirige: Hna. Fernanda Cea.
+Palabra: Hna. Adriana Valenzuela.
 
-Domingo 1 de Septiembre.
-Actividad evangelística.
-Dirige: Hna. Claudio Torres.
-Predica: Pr. Patricio Orellana.
-Data: Hna. Saura Venegas.
+Viernes 13 de Septiembre.
+Reunión de Preadolescentes
+A las 17:30. en la Iglesia.
+
+Domingo 29 de Septiembre.
+Culto dominical, a las 10:30.
+Dirige: Hna. María Godoy.
+Palabra: Hno. Claudio Torres.
+Data: Hno. Ramón Cabrera.
 
 ---
 
@@ -1221,7 +1280,7 @@ Mi ser siempre proclamará
 Que solo tú eres digno de adorar
 
 Que solo Tú eres digno de adorar
-Que solo Tú eres digno
+Que solo Tú eres digno 
 
 Solo tú eres digno
 Que solo tú eres digno de adorar
@@ -1298,7 +1357,7 @@ Cuan grande es Dios
 Día a día el está
 El tiempo está en El
 
-Principio y el fin
+Principio y el fin 
 Principio y el fin
 
 La trinidad en Dios
@@ -3444,22 +3503,22 @@ A los pies de Cristo
 Nos reunimos aquí
 para alabar al Señor
 
-Nos reunimos aquí
+Nos reunimos aquí 
 En comunión
 
-Algo nuevo acontecerá
+Algo nuevo acontecerá 
 Algo que Dios nos dará
 
 Nos reunimos aquí
 Para alabar al Señor
 
-Me hace bien cada vez que me
+Me hace bien cada vez que me 
 Encuentro y canto con el pueblo de Cristo
 
 Me hace bien cada vez que me
 Encuentro y canto con el pueblo de Cristo
 
-Que feliz que se ve cada hermano
+Que feliz que se ve cada hermano 
 Dando gloria a Dios y siempre alabando
 
 Me hace bien cada vez que me
@@ -4028,23 +4087,23 @@ Seguiré el brillo de tu gracia
 Porque sé que tú sigues siendo Dios
 Tú sigues siendo Dios
 
+¿De dónde vienen mi socorro? 
+Mi ayuda viene de Ti
+
+¿Quién sana corazones rotos?
+Mi ayuda viene de Ti 
+
 ¿De dónde vienen mi socorro?
 Mi ayuda viene de Ti
 
 ¿Quién sana corazones rotos?
-Mi ayuda viene de Ti
-
-¿De dónde vienen mi socorro?
-Mi ayuda viene de Ti
-
-¿Quién sana corazones rotos?
-Mi ayuda viene de Ti
+Mi ayuda viene de Ti 
 
 ¿De dónde viene mi esperanza?
-Mi ayuda viene de Ti
+Mi ayuda viene de Ti 
 
 ¿Quién da descanso para el alma?
-Mi ayuda viene de Ti
+Mi ayuda viene de Ti 
 
 Alzaré mis manos a los cielos
 Te veré obrando a mi favor
@@ -4499,7 +4558,7 @@ Tú habitas en la alabanza de tu pueblo
 Coronado con poder
 
 Ángeles alrededor
-Cantan con nosotros
+Cantan con nosotros 
 
 Alabanza y gloria a ti Señor
 
@@ -4507,7 +4566,7 @@ Tú habitas en la alabanza de tu pueblo
 Coronado con poder
 
 Ángeles alrededor
-Cantan con nosotros
+Cantan con nosotros 
 
 Alabanza y gloria a ti Señor
 
@@ -4521,7 +4580,7 @@ Tú habitas en la alabanza de tu pueblo
 Coronado con poder
 
 Ángeles alrededor
-Cantan con nosotros
+Cantan con nosotros 
 
 Alabanza y gloria a ti Señor
 
@@ -4798,11 +4857,11 @@ Si escoges su amor
 ## Ven Espiritu Ven (Adoración - v01)
 
 Ven, Espíritu ven
-Y llename Señor
+Y llename Señor 
 Con tu preciosa unción
 
 Ven, Espíritu ven
-Y llename Señor
+Y llename Señor 
 Con tu preciosa unción
 
 PurifÍcame y lávame
@@ -4814,11 +4873,11 @@ Renuevame, restaurame
 Señor te quiero conocer
 
 Ven, Espíritu ven
-Y llename Señor
+Y llename Señor 
 Con tu preciosa unción
 
 Ven, Espíritu ven
-Y llename Señor
+Y llename Señor 
 Con tu preciosa unción
 
 PurifÍcame y lávame
@@ -4860,7 +4919,7 @@ Apoderate de todo mi ser
 ---
 
 ## Ven Y Deleitate (Alabanza - v01)
-
+ 
 Oh ven
 Ven y deleitate en el Señor
 
@@ -4990,7 +5049,7 @@ Vine a adorar a Dios
 Él vino a mi vida
 En un dia muy especial
 
-Él vino y me tocó
+Él vino y me tocó 
 Mi vida trasnformó
 
 Y esa es la razón
@@ -5007,7 +5066,7 @@ Vine a adorar a Dios
 Él vino a mi vida
 En un dia muy especial
 
-Él vino y me tocó
+Él vino y me tocó 
 Mi vida trasnformó
 
 Y esa es la razón
@@ -5023,19 +5082,19 @@ Vine a adorar a Dios
 Tú eres la luz
 Que brilló en las tinieblas
 
-Abrió mis ojos,
+Abrió mis ojos, 
 Pude ver
 
 Mi corazón
 Adora tu hermosura
 
-Esperanza de vida
+Esperanza de vida 
 Eres tú
 
 Vine a adorarte
 Vine a postrarme
 
-Vine a decir que
+Vine a decir que 
 Eres mí Dios
 
 Solo tú eres grande
@@ -5055,7 +5114,7 @@ Y pobre te hiciste por amor
 Vine a adorarte
 Vine a postrarme
 
-Vine a decir que
+Vine a decir que 
 Eres mí Dios
 
 Solo tú eres grande
@@ -5066,7 +5125,7 @@ Eres asombroso para mí
 Vine a adorarte
 Vine a postrarme
 
-Vine a decir que
+Vine a decir que 
 Eres mi Dios
 
 Solo tú eres grande
@@ -5101,7 +5160,7 @@ Sobre esa cruz
 Vine a adorarte
 Vine a postrarme
 
-Vine a decir que
+Vine a decir que 
 Eres mi Dios
 
 Solo tú eres grande
@@ -5112,7 +5171,7 @@ Eres asombroso para mí
 Vine a adorarte
 Vine a postrarme
 
-Vine a decir que
+Vine a decir que 
 Eres mi Dios
 
 Solo tú eres grande
@@ -5124,16 +5183,22 @@ Eres asombroso para mí
 
 ## Vive Jesus (Alabanza - v01)
 
-Vive JesúsEl Señor oh oh
-Vive Jesús El Señor
+Vive Jesús 
+El Señor oh oh
 
-Vive Jesús El Señor oh oh
-Vive Jesús El Señor
+Vive Jesús 
+El Señor
 
-Él vive, Él vive, Él vive, vive,
+Vive Jesús 
+El Señor oh oh
+
+Vive Jesús 
+El Señor
+
+Él vive, Él vive, Él vive, vive, 
 Vive Jesús el Señor oh oh
 
-Él vive, Él vive, Él vive, vive,
+Él vive, Él vive, Él vive, vive, 
 Vive Jesús el Señor
 
 Reina Jesús el Señor oh oh
@@ -5142,7 +5207,7 @@ Reina Jesús el Señor
 Reina Jesús el Señor oh oh
 Reina Jesús el Señor
 
-Él reina, Él reina, Él reina, reina,
+Él reina, Él reina, Él reina, reina, 
 Reina Jesús el Señor
 
 Reina Jesús el Señor
@@ -5244,7 +5309,7 @@ Para que crezcas Tú
 Tú diste al hombre
 Un lenguaje muy bello
 
-Tú nos diste la música
+Tú nos diste la música 
 para alabarte
 
 Estoy agradecido
