@@ -46,7 +46,7 @@
 * Dios Ha Sido Bueno
 * Dulce Comunión
 * Dulce Refugio
-* El Dios que Adoramos
+* El Dios Que Adoramos (Alabanza - v01)
 * El Es el Rey Infinto en Poder
 * En el Arca de Noe
 * En el Monte Calvario
@@ -127,6 +127,7 @@
 * Señor Mi Dios
 * Señor Tengo Sed de Ti
 * Señor, Mi Dios al Contemplar
+* Socorro (Alabanza - v01)
 * Solo Dios Hace el Hombre Feliz
 * Somos el Pueblo de Dios
 * Sublime Gracia Es
@@ -1220,7 +1221,7 @@ Mi ser siempre proclamará
 Que solo tú eres digno de adorar
 
 Que solo Tú eres digno de adorar
-Que solo Tú eres digno 
+Que solo Tú eres digno
 
 Solo tú eres digno
 Que solo tú eres digno de adorar
@@ -1297,7 +1298,7 @@ Cuan grande es Dios
 Día a día el está
 El tiempo está en El
 
-Principio y el fin 
+Principio y el fin
 Principio y el fin
 
 La trinidad en Dios
@@ -1600,28 +1601,31 @@ El salvador//
 
 ---
 
-## El Dios que Adoramos
+## El Dios Que Adoramos (Alabanza - v01)
 
-El aquí que hizo los cielos y la tierra
+El Dios que hizo los cielos y la tierra
 Con el poder de su palabra
 Reina con autoridad
-El aquí que aún los vientos le obedecen
+
+El Dios que aún los vientos le obedecen
 Una palabra es suficiente
 Para los muertos levantar
 
 Nadie es como él
 Oh, gran yo soy
 
-Tú eres el aquí que adoramos
+Tú eres el Dios que adoramos
 Todopoderoso y soberano
 Grande en misericordia y poder para salvar
-Tú eres el aquí que adoramos
+
+Tú eres el Dios que adoramos
 Quien derrotó la muerte y el pecado
 Glorioso redentor y rey, te adoramos
 
-El aquí que descendió desde su trono
+El Dios que descendió desde su trono
 Para llevar sobre sus hombros
 Nuestra culpa y transgresión
+
 Jesús, exaltado sobre todo
 Nombre sobre todo nombre
 Solo en él hay salvación
@@ -1629,20 +1633,22 @@ Solo en él hay salvación
 Nadie es como él
 Oh, gran, yo soy
 
-Tú eres el aquí que adoramos
+Tú eres el Dios que adoramos
 Todopoderoso y soberano
 Grande en misericordia y poder para salvar
-Tú eres el aquí que adoramos
+
+Tú eres el Dios que adoramos
 Quien derrotó la muerte y el pecado
 Glorioso redentor y rey, te adoramos
 
 A él sea la gloria y el poder
 Todo es de él y para él
 
-Tú eres el aquí que adoramos
+Tú eres el Dios que adoramos
 Todopoderoso y soberano
 Grande en misericordia y poder para salvar
-Tú eres el aquí que adoramos
+
+Tú eres el Dios que adoramos
 Quien derrotó la muerte y el pecado
 Glorioso redentor y rey, te adoramos
 
@@ -3438,22 +3444,22 @@ A los pies de Cristo
 Nos reunimos aquí
 para alabar al Señor
 
-Nos reunimos aquí 
+Nos reunimos aquí
 En comunión
 
-Algo nuevo acontecerá 
+Algo nuevo acontecerá
 Algo que Dios nos dará
 
 Nos reunimos aquí
 Para alabar al Señor
 
-Me hace bien cada vez que me 
+Me hace bien cada vez que me
 Encuentro y canto con el pueblo de Cristo
 
 Me hace bien cada vez que me
 Encuentro y canto con el pueblo de Cristo
 
-Que feliz que se ve cada hermano 
+Que feliz que se ve cada hermano
 Dando gloria a Dios y siempre alabando
 
 Me hace bien cada vez que me
@@ -3994,6 +4000,64 @@ Y su infinito amor
 
 ---
 
+## Socorro (Alabanza - v01)
+
+De dónde viene mi socorro?
+Mi ayuda viene de Ti
+
+El cielo cuenta de tus obras, poesía escrita por Ti
+Estelas de misericordia, todas apuntan a Ti
+
+Si me encuentro perdido sé donde te puedo encontrar
+
+Alzaré mis ojos a los montes
+Te veré radiante como el sol
+
+Seguiré el brillo de tu gracia
+Porque sé que Tú sigues siendo Dios
+Tú sigues siendo Dios
+
+Si cuidas de todas las aves, sé que me cuidas a mí
+Ya nada puede separarme, porque dependo de Ti
+
+Si me encuentro perdido sé donde te puedo encontrar
+Alzaré mis ojos a los montes
+
+Te veré radiante como el sol
+Seguiré el brillo de tu gracia
+Porque sé que tú sigues siendo Dios
+Tú sigues siendo Dios
+
+¿De dónde vienen mi socorro?
+Mi ayuda viene de Ti
+
+¿Quién sana corazones rotos?
+Mi ayuda viene de Ti
+
+¿De dónde vienen mi socorro?
+Mi ayuda viene de Ti
+
+¿Quién sana corazones rotos?
+Mi ayuda viene de Ti
+
+¿De dónde viene mi esperanza?
+Mi ayuda viene de Ti
+
+¿Quién da descanso para el alma?
+Mi ayuda viene de Ti
+
+Alzaré mis manos a los cielos
+Te veré obrando a mi favor
+
+Seguiré tomado de tu mano
+Porque sé que tú sigues siendo Dios
+
+Tú sigues siendo Dios
+Tú sigues siendo Dios
+Si me encuentro perdido, sé dónde te puedo encontrar
+
+---
+
 ## Solo Dios Hace el Hombre Feliz
 
 Solo aquí hace el hombre feliz//
@@ -4435,7 +4499,7 @@ Tú habitas en la alabanza de tu pueblo
 Coronado con poder
 
 Ángeles alrededor
-Cantan con nosotros 
+Cantan con nosotros
 
 Alabanza y gloria a ti Señor
 
@@ -4443,7 +4507,7 @@ Tú habitas en la alabanza de tu pueblo
 Coronado con poder
 
 Ángeles alrededor
-Cantan con nosotros 
+Cantan con nosotros
 
 Alabanza y gloria a ti Señor
 
@@ -4457,7 +4521,7 @@ Tú habitas en la alabanza de tu pueblo
 Coronado con poder
 
 Ángeles alrededor
-Cantan con nosotros 
+Cantan con nosotros
 
 Alabanza y gloria a ti Señor
 
@@ -4734,11 +4798,11 @@ Si escoges su amor
 ## Ven Espiritu Ven (Adoración - v01)
 
 Ven, Espíritu ven
-Y llename Señor 
+Y llename Señor
 Con tu preciosa unción
 
 Ven, Espíritu ven
-Y llename Señor 
+Y llename Señor
 Con tu preciosa unción
 
 PurifÍcame y lávame
@@ -4750,11 +4814,11 @@ Renuevame, restaurame
 Señor te quiero conocer
 
 Ven, Espíritu ven
-Y llename Señor 
+Y llename Señor
 Con tu preciosa unción
 
 Ven, Espíritu ven
-Y llename Señor 
+Y llename Señor
 Con tu preciosa unción
 
 PurifÍcame y lávame
@@ -4796,7 +4860,7 @@ Apoderate de todo mi ser
 ---
 
 ## Ven Y Deleitate (Alabanza - v01)
- 
+
 Oh ven
 Ven y deleitate en el Señor
 
@@ -4926,7 +4990,7 @@ Vine a adorar a Dios
 Él vino a mi vida
 En un dia muy especial
 
-Él vino y me tocó 
+Él vino y me tocó
 Mi vida trasnformó
 
 Y esa es la razón
@@ -4943,7 +5007,7 @@ Vine a adorar a Dios
 Él vino a mi vida
 En un dia muy especial
 
-Él vino y me tocó 
+Él vino y me tocó
 Mi vida trasnformó
 
 Y esa es la razón
@@ -4959,19 +5023,19 @@ Vine a adorar a Dios
 Tú eres la luz
 Que brilló en las tinieblas
 
-Abrió mis ojos, 
+Abrió mis ojos,
 Pude ver
 
 Mi corazón
 Adora tu hermosura
 
-Esperanza de vida 
+Esperanza de vida
 Eres tú
 
 Vine a adorarte
 Vine a postrarme
 
-Vine a decir que 
+Vine a decir que
 Eres mí Dios
 
 Solo tú eres grande
@@ -4991,7 +5055,7 @@ Y pobre te hiciste por amor
 Vine a adorarte
 Vine a postrarme
 
-Vine a decir que 
+Vine a decir que
 Eres mí Dios
 
 Solo tú eres grande
@@ -5002,7 +5066,7 @@ Eres asombroso para mí
 Vine a adorarte
 Vine a postrarme
 
-Vine a decir que 
+Vine a decir que
 Eres mi Dios
 
 Solo tú eres grande
@@ -5037,7 +5101,7 @@ Sobre esa cruz
 Vine a adorarte
 Vine a postrarme
 
-Vine a decir que 
+Vine a decir que
 Eres mi Dios
 
 Solo tú eres grande
@@ -5048,7 +5112,7 @@ Eres asombroso para mí
 Vine a adorarte
 Vine a postrarme
 
-Vine a decir que 
+Vine a decir que
 Eres mi Dios
 
 Solo tú eres grande
@@ -5060,22 +5124,16 @@ Eres asombroso para mí
 
 ## Vive Jesus (Alabanza - v01)
 
-Vive Jesús 
-El Señor oh oh
+Vive JesúsEl Señor oh oh
+Vive Jesús El Señor
 
-Vive Jesús 
-El Señor
+Vive Jesús El Señor oh oh
+Vive Jesús El Señor
 
-Vive Jesús 
-El Señor oh oh
-
-Vive Jesús 
-El Señor
-
-Él vive, Él vive, Él vive, vive, 
+Él vive, Él vive, Él vive, vive,
 Vive Jesús el Señor oh oh
 
-Él vive, Él vive, Él vive, vive, 
+Él vive, Él vive, Él vive, vive,
 Vive Jesús el Señor
 
 Reina Jesús el Señor oh oh
@@ -5084,7 +5142,7 @@ Reina Jesús el Señor
 Reina Jesús el Señor oh oh
 Reina Jesús el Señor
 
-Él reina, Él reina, Él reina, reina, 
+Él reina, Él reina, Él reina, reina,
 Reina Jesús el Señor
 
 Reina Jesús el Señor
@@ -5186,7 +5244,7 @@ Para que crezcas Tú
 Tú diste al hombre
 Un lenguaje muy bello
 
-Tú nos diste la música 
+Tú nos diste la música
 para alabarte
 
 Estoy agradecido
