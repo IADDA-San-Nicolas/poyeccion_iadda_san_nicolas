@@ -68,6 +68,7 @@
 * Estoy Apasionado
 * Exaltate
 * Fidelidad
+* Fija tus Ojos en Cristo (Adoración - v01)
 * Gloria en Gloria
 * Glorificate
 * Golpe de Espada
@@ -128,7 +129,7 @@
 * Señor Tengo Sed de Ti
 * Señor, Mi Dios al Contemplar
 * Socorro (Alabanza - v01)
-* Solo Dios Hace el Hombre Feliz
+* Solo Dios Hace el Hombre Feliz (Alabanza - v01)
 * Somos el Pueblo de Dios
 * Sublime Gracia Es
 * Sumergeme
@@ -144,6 +145,7 @@
 * Tu Habitas En La Alabanza De Tu Pueblo (Adoración - v01)
 * Tu Nombre Oh Dios (Alabanza - v01)
 * Tus Ojos Revelan Que Yo (Adoración - v01)
+* Una Mirada de Fe (Alabanza - v01)
 * Vamos A Cantar (Alabanza - v01)
 * Ven A Este Lugar (Adoración - v01)
 * Ven Es Hora (Adoración - v01)
@@ -158,6 +160,7 @@
 * Yo Quiero Mas De Ti (Adoración - v01)
 * Yo Quiero Ser Un Adorador (Alabanza - v01)
 * Yo Te Busco (Adoración - v01)
+* Yo Tengo un Amigo que me Ama (Alabanza - v01)
 
 ---
 
@@ -2331,6 +2334,57 @@ En mí vida y caminar
 
 ---
 
+## Fija tus Ojos en Cristo (Adoración - v01)
+
+Oh alma cansada y turbada
+Sin luz en la senda andarás
+
+Al Salvador mira y vive
+Del mundo la luz es su faz
+
+Fija tus ojos en Cristo
+Tan lleno de gracia y amor
+
+Y lo terrenal sin valor será
+A la luz del glorioso Jesús
+
+De muerte a vida eterna
+Te llama el Salvador fiel
+
+En ti no domine el pecado
+Hay siempre victoria en Él
+
+Fija tus ojos en Cristo
+Tan lleno de gracia y amor
+
+Y lo terrenal sin valor será
+A la luz del glorioso Jesús
+
+Del glorioso Jesús
+Del glorioso Jesús
+Del glorioso Jesús
+
+Jamás faltará su promesa
+Él dijo: Contigo yo estoy
+
+Al mundo perdido ve pronto
+Y anuncia la salvación hoy
+
+Fija tus ojos en Cristo
+Tan lleno de gracia y amor
+
+Y lo terrenal sin valor será
+A la luz del glorioso Jesús
+Del glorioso Jesús
+
+Yo fijo mis ojos en Cristo
+Tan lleno de gracia y amor
+
+Ya lo terrenal no vale más
+A la luz del glorioso Jesús
+
+---
+
 ## Gloria en Gloria
 
 Yo quiero ver
@@ -3894,18 +3948,20 @@ Precioso hijo de aquí
 
 ---
 
-## Renuevame
+## Renuevame (Adoración - v01)
 
-Renuevame Señor Jesús
+Renuévame Señor Jesús
 Ya no quiero ser igual
-Renuevame Señor Jesús
-Pon en mí tu corazon
+
+Renuévame Señor Jesús
+Pon en mí tu corazón
 
 Porque todo lo que hay
 Dentro de mí
 Necesita ser cambiado Señor
+
 Porque todo lo que hay
-Dentro de mí corazon
+Dentro de mí corazón
 Necesita más de ti
 
 ---
@@ -4117,11 +4173,13 @@ Si me encuentro perdido, sé dónde te puedo encontrar
 
 ---
 
-## Solo Dios Hace el Hombre Feliz
+## Solo Dios Hace el Hombre Feliz (Alabanza - v01)
 
-Solo aquí hace el hombre feliz//
+Solo Dios hace el hombre feliz
+Solo Dios hace el hombre feliz
+
 La vida es nada todo se acaba
-Solo aquí hace el hombre feliz//
+Solo Dios hace el hombre feliz
 
 ---
 
@@ -4685,6 +4743,32 @@ Me llena de tu paz
 
 ---
 
+## Una Mirada de Fe (Alabanza - v01)
+
+Una mirada de fe,
+Una mirada de fe,
+Es la que puede salvar al pecador
+
+Una mirada de fe,
+Una mirada de fe,
+Es la que puede salvar al pecador
+
+Y si tu Vienes a cristo Jesús
+El te perdonara
+
+Porque una mirada de fe
+Es la que puede salvar al pecador
+
+Una mirada de amor,
+Una mirada de amor,
+Es la que puede salvar al pecador
+
+Una mirada de amor,
+Una mirada de amor,
+Es la que puede salvar al pecador
+
+---
+
 ## Vamos A Cantar (Alabanza - v01)
 
 Vamos a cantar
@@ -4900,9 +4984,7 @@ Espíritu divino
 Ven, ven, ven
 Apoderate de mí
 
-Apoderate
-Apoderate
-
+Apoderate, apoderate
 Apoderate de todo mi ser
 
 Ven, ven, ven
@@ -4911,9 +4993,7 @@ Espíritu divino
 Ven, ven, ven
 Apoderate de mí
 
-Apoderate
-Apoderate
-
+Apoderate, apoderate
 Apoderate de todo mi ser
 
 ---
@@ -5133,29 +5213,17 @@ Solo tú eres digno
 
 Eres asombroso para mí
 
-Nunca sabré
-Cuánto costó
+Nunca sabré cuánto costó
+Ver mí maldad Sobre esa cruz
 
-Ver mí maldad
-Sobre esa cruz
+Nunca sabré cuánto costó
+Ver mí maldad Sobre esa cruz
 
-Nunca sabré
-Cuánto costó
+Nunca sabré cuánto costó
+Ver mí maldad Sobre esa cruz
 
-Ver mí maldad
-Sobre esa cruz
-
-Nunca sabré
-Cuánto costó
-
-Ver mí maldad
-Sobre esa cruz
-
-Nunca sabré
-Cuánto costó
-
-Ver mí maldad
-Sobre esa cruz
+Nunca sabré cuánto costó
+Ver mí maldad sobre esa cruz
 
 Vine a adorarte
 Vine a postrarme
@@ -5183,17 +5251,11 @@ Eres asombroso para mí
 
 ## Vive Jesus (Alabanza - v01)
 
-Vive Jesús 
-El Señor oh oh
+Vive Jesús el Señor oh oh
+Vive Jesús el Señor
 
-Vive Jesús 
-El Señor
-
-Vive Jesús 
-El Señor oh oh
-
-Vive Jesús 
-El Señor
+Vive Jesús el Señor oh oh
+Vive Jesús el Señor
 
 Él vive, Él vive, Él vive, vive, 
 Vive Jesús el Señor oh oh
@@ -5260,20 +5322,14 @@ Santo Dios
 Yo quiero más de Ti
 Y habitar en tu presencia
 
-Menguar
-Para que crezcas Tú
-
-Y cada dia seré
-Mas como Tú
+Menguar para que crezcas Tú
+Y cada dia seré Mas como Tú
 
 Yo quiero más de Ti
 Y habitar en tu presencia
 
-Menguar
-Para que crezcas Tú
-
-Y cada dia seré
-Mas como Tú
+Menguar para que crezcas Tú
+Y cada dia seré mas como Tú
 
 Quebranta mí corazon
 Quebranta mí vida
@@ -5377,11 +5433,8 @@ Con fuego en mí corazón
 Yo te busco, Yo te busco
 Recibe mí adoración
 
-Te anhelo
-Te necesito
-
-Te amo
-Mas que a mí ser
+Te anhelo, Te necesito
+Te amo, Mas que a mí ser
 
 Yo te busco, Yo te busco
 Con fuego en mí corazón
@@ -5389,10 +5442,45 @@ Con fuego en mí corazón
 Yo te busco, Yo te busco
 Recibe mí adoración
 
-Te anhelo
-Te necesito
+Te anhelo, Te necesito
+Te amo, Mas que a mí ser
 
-Te amo
-Mas que a mí ser
+## Yo Tengo un Amigo que me Ama (Alabanza - v01)
+
+Yo tengo un amigo que me ama
+Me ama, me ama
+
+Yo tengo un amigo que me ama
+Su Nombre es Jesús.
+
+Que me ama, que me ama
+Que me ama, con inmenso amor
+
+Que me ama, que me ama
+Que me ama, con inmenso amor
+ 
+Tú tienes un amigo que te ama
+Te ama, te ama
+
+Tú tienes un amigo que te ama
+Su nombre es Jesús.
+
+Que te ama, que te ama
+Que te ama, con su inmenso amor
+
+Que te ama, que te ama
+Que te ama, con su inmenso amor
+
+Tenemos un amigo que nos ama,
+nos ama, nos ama
+
+Tenemos un amigo que nos ama,
+Su nombre es Jesús.
+
+Que nos ama, que nos ama,
+Que nos ama con su inmenso amor.
+
+Que nos ama, que nos ama,
+Que nos ama con su inmenso amor.
 
 ---
