@@ -187,7 +187,7 @@ Culto dominical, a las 10:30.
 Dirige: Hno. Gabriel Lagos.
 Palabra: Pr. Carlos Ramirez.
 Data: Hna. Silvana Neira.
-Cena del Señor.
+CENA DEL SEÑOR.
 Preside Pr. Esteban Ruiz.
 
 Jueves 12 de Septiembre.
