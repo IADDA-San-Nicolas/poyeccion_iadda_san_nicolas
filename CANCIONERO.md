@@ -77,6 +77,7 @@
 * Grande Eres Tu
 * Hallelujah
 * Has cambiado mí lamento en baile (Alabanza v01)
+* Hay Cosas Que (Alabanza v01)
 * Hay Libertad (Alabanza v01)
 * Hay Momentos que
 * Hay Poder, Poder (Himnos de gloria y triunfo v01)
@@ -2666,6 +2667,58 @@ Tus hijos hoy te adoran.
 
 Por todas tus maravillas
 Adonai.
+
+---
+
+## Hay Cosas que (Alabanza v01)
+
+Hay cosas que
+Yo no comprendo
+
+Lugares hay
+Donde yo no ire
+
+Pero si se
+Y es verdad
+
+Que mi Dios es real
+Porque lo siento en mi ser
+
+Oh mi Dios es real
+Real en mi ser
+
+Me a lavado
+Con su sangre Carmesí
+
+Su dulce amor
+Es para mí
+
+Oh mi Dios es real
+Porque lo siento en mi ser
+
+No alcanzo a comprender
+porque me amó
+
+Y me salvo 
+del mundo vil
+
+Pero si se
+Y es verdad
+
+Que mi Dios es real
+Porque lo siento en mi ser
+
+Oh mi Dios es real
+Real en mi ser
+
+Me a lavado
+Con su sangre Carmesí
+
+Su dulce amor
+Es para mí
+
+Oh mi Dios es real
+Porque lo siento en mi ser
 
 ---
 
