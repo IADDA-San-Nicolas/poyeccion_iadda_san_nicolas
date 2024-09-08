@@ -103,15 +103,15 @@
 * Medley Ardiendo el Fuego
 * Mi Corazon Entona la Cancion
 * Mi Cristo Mi Rey
-* Mora en Mi Vida
+* Mora en Mi Vida (Adoración v01)
 * Muevete en Mi
 * Nada Es Imposible Barrientos
 * No Hay Dios Tan Grande Como Tu
 * No Hay Lugar Mas Alto (Adoración v01)
 * Nos Reunimos Aquí (Alabanza v01)
-* Oh Moradora
+* Oh Moradora (Alabanza v01)
 * Oh Tu Fidelidad
-* Pan de Vida
+* Pan de Vida (Adoración v01)
 * Por la Bondad
 * Por el Poder de Tu Amor
 * Por Mucho Tiempo
@@ -167,29 +167,8 @@
 
 ## Avisos mes de Septiembre
 
-Miércoles 03 de Septiembre.
-Culto Chillán, a las 19:30.
-Hogar: Familia Flores Sepulveda.
-Dirige: Hno. Edra Jara.
-Palabra: Pr. Estaban Ruiz.
-
-Jueves 05 de Septiembre.
-Culto de oración, a las 19:30.
-Dirige: Pr. Williams Verdejo.
-Palabra: Visita.
-
-Viernes 06 de Septiembre.
-Reunión de Hermanas a las 17:30.
-Dirige: Hna. Marcia Fuentes.
-Palabra: Hna. Patricia Venegas.
-
-Domingo 08 de Septiembre.
-Culto dominical, a las 10:30.
-Dirige: Hno. Gabriel Lagos.
-Palabra: Pr. Carlos Ramirez.
-Data: Hna. Silvana Neira.
-CENA DEL SEÑOR.
-Preside Pr. Esteban Ruiz.
+Miércoles 11 de Septiembre.
+Se suspende Culto Chillán.
 
 Jueves 12 de Septiembre.
 Culto de oración, a las 19:30.
@@ -200,17 +179,6 @@ Viernes 13 de Septiembre.
 Reunión de Hermanas a las 17:30.
 Dirige: Hna. Beatriz Concha.
 Palabra: Hna. Silvana Neira.
-
-Viernes 13 de Septiembre.
-Reunión de Preadolescentes
-A las 17:30. en la Iglesia.
-
-Sabado 14 de Septiembre.
-Activiada Especial.
-Hermanos de Chillán, a las 19:30.
-Lugar: San Ignacio.
-Dirige:Hna Norma Ulloa.
-Palabra: Pr. Williams Verdejo.
 
 Domingo 15 de Septiembre.
 Culto fiestas patrias a las 10:30.
@@ -1285,7 +1253,7 @@ Mi ser siempre proclamará
 Que solo tú eres digno de adorar
 
 Que solo Tú eres digno de adorar
-Que solo Tú eres digno 
+Que solo Tú eres digno
 
 Solo tú eres digno
 Que solo tú eres digno de adorar
@@ -1350,19 +1318,19 @@ y tiembla a su voz
 Cuan grande es Dios
 Cantaré cuan grande es Dios
 
-Y todos lo veran
+Y todos lo verán
 Cuan grande es Dios
 
 Cuan grande es Dios
 Cantaré cuan grande es Dios
 
-Y todos lo veran
+Y todos lo verán
 Cuan grande es Dios
 
 Día a día el está
-El tiempo está en El
+El tiempo está en Él
 
-Principio y el fin 
+Principio y el fin
 Principio y el fin
 
 La trinidad en Dios
@@ -1374,17 +1342,19 @@ Cordero y el León
 Cuan grande es Dios
 Cantaré cuan grande es Dios
 
-Y todos lo veran
+Y todos lo verán
 Cuan grande es Dios
 
 Cuan grande es Dios
 Cantaré cuan grande es Dios
 
-Y todos lo veran
+Y todos lo verán
 Cuan grande es Dios
 
 Su nombre sobre todo es
 Eres digno de alabar
+Y mi ser dirá
+Cuan grande es Dios
 
 ---
 
@@ -2502,10 +2472,10 @@ El rey de majestad
 Gracia sublime es
 Perfecto es tu amor
 
-Tomaste mí lugar
-Cargaste tu mí cruz
+Tomaste mi lugar
+Cargaste tu mi cruz
 
-Tú vida diste ahi
+Tú vida diste ahí
 Ahora libre soy
 
 Jesús te adoro
@@ -2541,7 +2511,7 @@ Digno es
 El cordero de Dios
 
 Digno es el rey
-Que la muerte vencio
+Que la muerte venció
 
 Digno es
 El cordero de Dios
@@ -2550,10 +2520,10 @@ Digno digno digno
 Gracia sublime es
 Perfecto es tu amor
 
-Tomaste mí lugar
-Cargaste tu mí cruz
+Tomaste mi lugar
+Cargaste tu mi cruz
 
-Tú vida diste ahi
+Tú vida diste ahí
 Ahora libre soy
 
 Jesús te adoro
@@ -2646,17 +2616,39 @@ Aleluya, aleluya, aleluya, aleluya
 
 ## Has cambiado mí lamento en baile (Alabanza - v01)
 
-Has cambiado mí Lamento en baile.
-Me ceñiste todo de Alegría.
+Has cambiado mi lamento en baile
+Me ceñiste todo de alegría
 
-Has cambiado mí Lamento en baile.
-Me ceñiste todo de Alegría.
+Has cambiado mi lamento en baile
+Me ceñiste todo de alegría
 
-Por tanto, a ti cantare
+Por tanto, a ti cantaré
 Gloria mía, gloria mía.
 
-Y solo a ti danzare
+Y sólo a ti danzaré
 Gloria mía, gloria mía.
+
+Has cambiado mi lamento en baile
+Me ceñiste todo de alegría
+
+Has cambiado mi lamento en baile
+Me ceñiste todo de alegría
+
+Por tanto, a ti cantaré
+Gloria mía, gloria mía.
+
+Y sólo a ti danzaré
+Gloria mía, gloria mía.
+
+Oh Adonai, Oh Adonai,
+Dios del universo.
+Señor de la creación
+
+Los cielos cuentan tu gloria
+Tus hijos hoy te adoran.
+
+Por todas tus maravillas
+Adonai.
 
 Oh Adonai, Oh Adonai,
 Dios del universo.
@@ -2699,7 +2691,7 @@ Porque lo siento en mi ser
 No alcanzo a comprender
 porque me amó
 
-Y me salvo 
+Y me salvo
 del mundo vil
 
 Pero si se
@@ -3432,34 +3424,55 @@ Señor
 
 ---
 
-## Mora en Mi Vida
+## Mora en Mi Vida (Adoración - v01)
 
 Hoy te siento Señor
-Muy dentro de mí vida
-Y no puedo dejar de sentirte
+Muy dentro de mi vida
 
-Otra vez mientras tenga yo vida
-Porque grande es el poder que rebosa en mí corazón
+Y no puedo dejar
+De sentirte otra vez
+Mientras tenga yo vida
+
+Porque grande es el poder
+Que rebosa en mi corazón
+
 Y con el me haces ver
 Que no vuelva a caer
 Tú me cuidas Señor
 
-Grande precio pagaste en esa cruz por mí un día
-Con tu sangre lavaste con tus llagas curaste mis heridas
-Como he de pensar en quererte soltar si tú me guías
-Porque eres mí razón de vivir y es por eso que te quiero decir
-Mora en mí vida
+Grande precio pagaste
+En esa cruz por mí un día
 
-Reconozco Señor que tu amor garantiza paz y seguridad
-Que no podia hallar pues no te conocía
-Y a mí encuentro llegaste tú me cubriste en tu manto de amor
-Me compraste Señor con la sangre que hoy lavas mí corazón
+Con tu sangre lavaste
+Con tus llagas curaste mis heridas
 
-Grande precio pagaste en esa cruz por mí un día
-Con tu sangre lavaste con tus llagas curaste mí heridas
-Como he de pensar en quererte soltar si tú me guías
-Por que eres mí razón de vivir y es por eso que te quiero decir
-Mora en mí vida
+Como he de pensar en quererte
+Soltar si tú me guías
+
+Porque eres mi razón de vivir
+Y es por eso que te quiero decir
+Mora en mi vida
+
+Reconozco Señor que tu amor garantiza
+Paz y seguridad que no podia hallar
+Pues no te conocía
+
+Y a mí encuentro llegaste Tú
+Me cubriste en tu manto de amor
+Me compraste Señor con la sangre que hoy lavas mi corazón
+
+Grande precio pagaste
+En esa cruz por mí un día
+
+Con tu sangre lavaste
+Con tus llagas curaste mis heridas
+
+Como he de pensar en quererte
+Soltar si tú me guías
+
+Porque eres mi razón de vivir
+Y es por eso que te quiero decir
+Mora en mi vida
 
 ---
 
@@ -3611,22 +3624,22 @@ A los pies de Cristo
 Nos reunimos aquí
 para alabar al Señor
 
-Nos reunimos aquí 
+Nos reunimos aquí
 En comunión
 
-Algo nuevo acontecerá 
+Algo nuevo acontecerá
 Algo que Dios nos dará
 
 Nos reunimos aquí
 Para alabar al Señor
 
-Me hace bien cada vez que me 
+Me hace bien cada vez que me
 Encuentro y canto con el pueblo de Cristo
 
 Me hace bien cada vez que me
 Encuentro y canto con el pueblo de Cristo
 
-Que feliz que se ve cada hermano 
+Que feliz que se ve cada hermano
 Dando gloria a Dios y siempre alabando
 
 Me hace bien cada vez que me
@@ -3634,21 +3647,69 @@ Encuentro y canto con el pueblo de Cristo
 
 ---
 
-## Oh Moradora
+## Oh Moradora (Alabanza - v01)
 
-Oh moradora de sion
-Alaba jehova
-Grande son sus maravillas //
+Oh moradora de Sión
+Alaba Jehová
+Grande son sus maravillas
 
-Sobre los montes y collados a mí amado buscare
+Oh moradora de Sión
+Alaba Jehová
+Grande son sus maravillas
+
+Sobre los montes y collados
+A mí amado buscaré
 Grande es su hermosura
-Y al estar en su prescencia
-Gozoso danzare al Señor alabare
 
-Grande es jehova
+Y al estar en su prescencia
+Gozoso danzaré
+Al Señor alabaré
+
+Grande es Jehová
 Digno de alabar
-Grande es jehova
+
+Grande es Jehová
 Digno de alabar
+
+Digno de alabar
+Digno de alabar
+
+Tu eres grande Jehová
+Grande es Tu nombre
+
+Tu eres grande Jehová
+Grande es Tu nombre
+
+Oh moradora de Sión
+Alaba Jehová
+Grande son sus maravillas
+
+Oh moradora de Sión
+Alaba Jehová
+Grande son sus maravillas
+
+Sobre los montes y collados
+A mí amado buscaré
+Grande es su hermosura
+
+Y al estar en su prescencia
+Gozoso danzaré
+Al Señor alabaré
+
+Grande es Jehová
+Digno de alabar
+
+Grande es Jehová
+Digno de alabar
+
+Digno de alabar
+Digno de alabar
+
+Tu eres grande Jehová
+Grande es Tu nombre
+
+Tu eres grande Jehová
+Grande es Tu nombre
 
 ---
 
@@ -3694,34 +3755,49 @@ El mismo seras
 
 ---
 
-## Pan de Vida
+## Pan de Vida (Adoración - v01)
 
-Pan de vida
-Es Cristo
-La luz del mundo
-Es Jesús
+Cuando flaquea mi fe
+Y siento desfallecer
 
-Cordero de aquí
-Inmolado en la cruz
-Mi salvador y rey
+Cuando no puedo seguir
+Y faltan fuerzas en mí
 
-El gran maestro
-Es Cristo
-El buen pastor
-Es Jesús
+Puedo a la mesa venir
+Y puedo el pan compartir
 
-El hijo de aquí
-Y el gran yo soy
-El agua que sacia mí sed
+Es Jesús el pan de vida
+El maná de mi desierto
 
-//solo Cristo tiene palabras
-De vida eterna//
+Mi energia mi sustento
+Es Jesus el pan de vida
 
-Para el afligido
-Para el quebrantado
-Para todo aquel
-Que quiera ser
-Libre de pecado
+Mi necesidad primera
+Y sin ti yo nada fuera
+
+Porque Jesús
+Es Pan de vida eterna
+
+Cuando flaquea mi fe
+Y siento desfallecer
+
+Cuando no puedo seguir
+Y faltan fuerzas en mí
+
+Puedo a la mesa venir
+Y puedo el pan compartir
+
+Es Jesús el pan de vida
+El maná de mi desierto
+
+Mi energia mi sustento
+Es Jesus el pan de vida
+
+Mi necesidad primera
+Y sin ti yo nada fuera
+
+Porque Jesús
+Es Pan de vida eterna
 
 ---
 
@@ -4197,23 +4273,23 @@ Seguiré el brillo de tu gracia
 Porque sé que tú sigues siendo Dios
 Tú sigues siendo Dios
 
-¿De dónde vienen mi socorro? 
+¿De dónde vienen mi socorro?
 Mi ayuda viene de Ti
 
 ¿Quién sana corazones rotos?
-Mi ayuda viene de Ti 
+Mi ayuda viene de Ti
 
 ¿De dónde vienen mi socorro?
 Mi ayuda viene de Ti
 
 ¿Quién sana corazones rotos?
-Mi ayuda viene de Ti 
+Mi ayuda viene de Ti
 
 ¿De dónde viene mi esperanza?
-Mi ayuda viene de Ti 
+Mi ayuda viene de Ti
 
 ¿Quién da descanso para el alma?
-Mi ayuda viene de Ti 
+Mi ayuda viene de Ti
 
 Alzaré mis manos a los cielos
 Te veré obrando a mi favor
@@ -4670,7 +4746,7 @@ Tú habitas en la alabanza de tu pueblo
 Coronado con poder
 
 Ángeles alrededor
-Cantan con nosotros 
+Cantan con nosotros
 
 Alabanza y gloria a ti Señor
 
@@ -4678,7 +4754,7 @@ Tú habitas en la alabanza de tu pueblo
 Coronado con poder
 
 Ángeles alrededor
-Cantan con nosotros 
+Cantan con nosotros
 
 Alabanza y gloria a ti Señor
 
@@ -4692,7 +4768,7 @@ Tú habitas en la alabanza de tu pueblo
 Coronado con poder
 
 Ángeles alrededor
-Cantan con nosotros 
+Cantan con nosotros
 
 Alabanza y gloria a ti Señor
 
@@ -4995,11 +5071,11 @@ Si escoges su amor
 ## Ven Espiritu Ven (Adoración - v01)
 
 Ven, Espíritu ven
-Y llename Señor 
+Y llename Señor
 Con tu preciosa unción
 
 Ven, Espíritu ven
-Y llename Señor 
+Y llename Señor
 Con tu preciosa unción
 
 PurifÍcame y lávame
@@ -5011,11 +5087,11 @@ Renuevame, restaurame
 Señor te quiero conocer
 
 Ven, Espíritu ven
-Y llename Señor 
+Y llename Señor
 Con tu preciosa unción
 
 Ven, Espíritu ven
-Y llename Señor 
+Y llename Señor
 Con tu preciosa unción
 
 PurifÍcame y lávame
@@ -5053,7 +5129,7 @@ Apoderate de todo mi ser
 ---
 
 ## Ven Y Deleitate (Alabanza - v01)
- 
+
 Oh ven
 Ven y deleitate en el Señor
 
@@ -5183,7 +5259,7 @@ Vine a adorar a Dios
 Él vino a mi vida
 En un dia muy especial
 
-Él vino y me tocó 
+Él vino y me tocó
 Mi vida trasnformó
 
 Y esa es la razón
@@ -5200,7 +5276,7 @@ Vine a adorar a Dios
 Él vino a mi vida
 En un dia muy especial
 
-Él vino y me tocó 
+Él vino y me tocó
 Mi vida trasnformó
 
 Y esa es la razón
@@ -5216,19 +5292,19 @@ Vine a adorar a Dios
 Tú eres la luz
 Que brilló en las tinieblas
 
-Abrió mis ojos, 
+Abrió mis ojos,
 Pude ver
 
 Mi corazón
 Adora tu hermosura
 
-Esperanza de vida 
+Esperanza de vida
 Eres tú
 
 Vine a adorarte
 Vine a postrarme
 
-Vine a decir que 
+Vine a decir que
 Eres mí Dios
 
 Solo tú eres grande
@@ -5248,7 +5324,7 @@ Y pobre te hiciste por amor
 Vine a adorarte
 Vine a postrarme
 
-Vine a decir que 
+Vine a decir que
 Eres mí Dios
 
 Solo tú eres grande
@@ -5259,7 +5335,7 @@ Eres asombroso para mí
 Vine a adorarte
 Vine a postrarme
 
-Vine a decir que 
+Vine a decir que
 Eres mi Dios
 
 Solo tú eres grande
@@ -5282,7 +5358,7 @@ Ver mí maldad sobre esa cruz
 Vine a adorarte
 Vine a postrarme
 
-Vine a decir que 
+Vine a decir que
 Eres mi Dios
 
 Solo tú eres grande
@@ -5293,7 +5369,7 @@ Eres asombroso para mí
 Vine a adorarte
 Vine a postrarme
 
-Vine a decir que 
+Vine a decir que
 Eres mi Dios
 
 Solo tú eres grande
@@ -5311,10 +5387,10 @@ Vive Jesús el Señor
 Vive Jesús el Señor oh oh
 Vive Jesús el Señor
 
-Él vive, Él vive, Él vive, vive, 
+Él vive, Él vive, Él vive, vive,
 Vive Jesús el Señor oh oh
 
-Él vive, Él vive, Él vive, vive, 
+Él vive, Él vive, Él vive, vive,
 Vive Jesús el Señor
 
 Reina Jesús el Señor oh oh
@@ -5323,7 +5399,7 @@ Reina Jesús el Señor
 Reina Jesús el Señor oh oh
 Reina Jesús el Señor
 
-Él reina, Él reina, Él reina, reina, 
+Él reina, Él reina, Él reina, reina,
 Reina Jesús el Señor
 
 Reina Jesús el Señor
@@ -5419,7 +5495,7 @@ Para que crezcas Tú
 Tú diste al hombre
 Un lenguaje muy bello
 
-Tú nos diste la música 
+Tú nos diste la música
 para alabarte
 
 Estoy agradecido
@@ -5512,7 +5588,7 @@ Que me ama, con inmenso amor
 
 Que me ama, que me ama
 Que me ama, con inmenso amor
- 
+
 Tú tienes un amigo que te ama
 Te ama, te ama
 
