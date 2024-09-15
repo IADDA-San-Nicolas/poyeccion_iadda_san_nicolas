@@ -80,12 +80,12 @@
 * Hay Cosas Que (Alabanza v01)
 * Hay Libertad (Alabanza v01)
 * Hay Momentos que
-* Hay Poder, Poder (Himnos de gloria y triunfo v01)
-* Hay una unción aquí (Adoración v01)
+* Hay Poder, Poder (Himnos de gloria y triunfo - v01)
+* Hay una unción aquí (Adoración - v01)
 * Haz Llover
 * Heme Aqui
 * Hermoso Eres
-* Himno Nacional de Chile
+* Himno Nacional de Chile (Especial - v01)
 * Honor y Gloria Honra y Poder
 * Hoy He Venido Ante Ti
 * Hoy Te Alabamos Señor
@@ -2869,7 +2869,7 @@ De mí corazón
 
 ---
 
-## Himno Nacional de Chile
+## Himno Nacional de Chile (Especial - v01)
 
 Puro, Chile, 
 es tu cielo azulado,
