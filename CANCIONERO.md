@@ -85,6 +85,7 @@
 * Haz Llover
 * Heme Aqui
 * Hermoso Eres
+* Himno Nacional de Chile
 * Honor y Gloria Honra y Poder
 * Hoy He Venido Ante Ti
 * Hoy Te Alabamos Señor
@@ -138,7 +139,7 @@
 * Te Amo
 * Te Doy Gloria
 * Te Exaltamos
-* Temprano Yo Te Buscare
+* Temprano Yo Te Buscare (Adoración - v01)
 * Todo a Cristo yo me Rindo (Himnos de gloria y triunfo - v01)
 * Traemos Hoy (Alabanza - v01)
 * Tu Eres Digno De Gloria (Alabanza - v01)
@@ -167,35 +168,14 @@
 
 ## Avisos mes de Septiembre
 
-Miércoles 11 de Septiembre.
-Se suspende Culto Chillán.
-
-Jueves 12 de Septiembre.
-Culto de oración, a las 19:30.
-Dirige: Hna. Elizabeth Jara.
-Palabra: Hno. Cristian Rubilar.
-
-Viernes 13 de Septiembre.
-Reunión de Hermanas a las 17:30.
-Dirige: Hna. Beatriz Concha.
-Palabra: Hna. Silvana Neira.
-
-Domingo 15 de Septiembre.
-Culto fiestas patrias a las 10:30.
-Dirige: Hna. Adriana Valenzuela.
-Palabra: Pr. Williams Verdejo.
-Data: Hna. Barbara Opazo.
-
-Miércoles 17 de Septiembre.
-Se suspende Culto Chillán.
-
-Viernes 20 de Septiembre.
-Se suspende reunión de de Hermanas.
+Se suspende cultos en la semana.
 
 Domingo 22 de Septiembre.
 Actividad Especial a las 11:00.
 Celebración Fiestas Patrias.
 Anima: Hno. Cristian Rubilar.
+Será un compartir alimentos 
+Y juegos tradicionales
 
 Miércoles 24 de Septiembre.
 Culto Chillán, a las 19:30.
@@ -324,50 +304,32 @@ Yo quiero verte
 
 ## Abres Caminos
 
-Aqui estas
-Te vemos mover
+Aqui estas te vemos mover
+Te adorare te adorare
 
-Te adorare
-Te adorare
+Aqui estas obrando en mí
+Te adorare, te adorare
 
-Aqui estas
-Obrando en mí
+Aqui estas te vemos mover
+Te adorare, te adorare
 
-Te adorare
-Te adorare
+Aqui estas obrando en mí
+Te adorare, te adorare
 
-Aqui estas
-Te vemos mover
-
-Te adorare
-Te adorare
-
-Aqui estas
-Obrando en mí
-
-Te adorare
-Te adorare
-
-Milagroso
-Abres caminos
+Milagroso abres caminos
 
 Cumples promesas
 Luz en tinieblas
 
-Mi aquí
-Asi eres tu
-
-Milagroso
-Abres caminos
+Mi aquí asi eres tu
+Milagroso abres caminos
 
 Cumples promesas
 Luz en tinieblas
 
-Mi aquí
-Asi eres tu
+Mi aquí asi eres tu
 
-Aqui estas
-Tocando mí corazon
+Aqui estas, Tocando mí corazon
 
 Te adorare
 Te adorare
@@ -2907,6 +2869,68 @@ De mí corazón
 
 ---
 
+## Himno Nacional de Chile
+
+Puro, Chile, 
+es tu cielo azulado,
+
+puras brisas 
+te cruzan también,
+
+y tu campo de 
+flores bordado
+
+es la copia 
+feliz del Edén.
+
+Majestuosa es 
+la blanca montaña
+
+que te dio por 
+baluarte el Señor,
+
+que te dio por 
+baluarte el Señor,
+
+Y ese mar que 
+tranquilo te baña
+
+te promete futuro esplendor.
+
+Y ese mar que 
+tranquilo te baña
+
+te promete futuro esplendor.
+
+Dulce Patria, 
+recibe los votos
+
+Con que Chile 
+en tus aras juró
+
+Que o la tumba 
+serás de los libres
+
+O el asilo contra 
+la opresión
+
+Que o la tumba 
+serás de los libres
+
+O el asilo contra 
+la opresión
+
+Que o la tumba 
+serás de los libres
+
+O el asilo contra la opresión.
+
+O el asilo contra la opresión.
+
+O el asilo contra la opresión.
+
+---
+
 ## Honor y Gloria Honra y Poder
 
 Honor y gloria honra y poder
@@ -4517,22 +4541,27 @@ Te exaltamos, te exaltamos, te exaltamos, te exaltamo
 
 ---
 
-## Temprano Yo Te Buscare
+## Temprano Yo Te Buscare (Adoración - v01)
 
 Temprano yo te buscare
-De madrugada yo me acercare
-A ti
+de madrugada yo 
+me acercare a ti
 
-Mi alma te anhela y tiene sed para ver
-Tú gloria y tu poder
+mi alma te ahnela y tiene sed
+para ver tu gloria y tu poder
 
-Mi socorro a sido tu
-Y en la sombra de tus alas
-Yo me gozare
-Mi alma esta pegada a ti
+Mi socorro haz sido tu
 
-Porque tu diestra me ha sostenido
-Oh tu diestra me ha sostenido
+y en la sombra de tus alas
+yo me gozare
+
+mi alma esta apegada a ti
+
+porque tu diestra 
+me ha sostenido
+
+oh tu diestra 
+me ha sostenido
 
 ---
 
@@ -4654,13 +4683,16 @@ Te daré lo mejor
 ## Tu Eres Digno De Gloria (Alabanza - v01)
 
 Hoy te alabamos Señor
-Y declaramos que tu eres nuestro Dios
+Y declaramos que
+tu eres nuestro Dios
 
 Tú eres el Dios de amor
-Ya no somos esclavos del temor
+Ya no somos 
+esclavos del temor
 
 Hoy te adoramos Señor
-Y te cantamos con nuestro corazón
+Y te cantamos con
+nuestro corazón
 
 Te damos todo el honor
 Sobre el cielo y la tierra
@@ -4683,13 +4715,15 @@ Toda adoración
 Todo el honor sea a Tí
 
 Hoy te alabamos Señor
-Y declaramos que tu eres nuestro Dios
+Y declaramos que tu 
+eres nuestro Dios
 
 Tú eres el Dios de amor
 Ya no somos esclavos del temor
 
 Hoy te adoramos Señor
-Y te cantamos con nuestro corazón
+Y te cantamos con
+nuestro corazón
 
 Te damos todo el honor
 Sobre el cielo y la tierra
@@ -4742,7 +4776,8 @@ Grande es tu fidelidad
 
 ## Tu Habitas En La Alabanza De Tu Pueblo (Adoración - v01)
 
-Tú habitas en la alabanza de tu pueblo
+Tú habitas en la 
+alabanza de tu pueblo
 Coronado con poder
 
 Ángeles alrededor
@@ -4750,7 +4785,8 @@ Cantan con nosotros
 
 Alabanza y gloria a ti Señor
 
-Tú habitas en la alabanza de tu pueblo
+Tú habitas en la 
+alabanza de tu pueblo
 Coronado con poder
 
 Ángeles alrededor
@@ -4758,13 +4794,20 @@ Cantan con nosotros
 
 Alabanza y gloria a ti Señor
 
-Santo es tu nombre oh Dios, Santo eres tú
-La creación declara tu gloria, Santo eres tú
+Santo es tu nombre 
+oh Dios, Santo eres tú
 
-Santo es tu nombre oh Dios, Santo eres tú
-La creación declara tu gloria, Santo eres tú
+La creación declara 
+tu gloria, Santo eres tú
 
-Tú habitas en la alabanza de tu pueblo
+Santo es tu nombre 
+oh Dios, Santo eres tú
+
+La creación declara 
+tu gloria, Santo eres tú
+
+Tú habitas en la 
+alabanza de tu pueblo
 Coronado con poder
 
 Ángeles alrededor
@@ -4772,15 +4815,26 @@ Cantan con nosotros
 
 Alabanza y gloria a ti Señor
 
-Santo es tu nombre oh Dios, Santo eres tú
-La creación declara tu gloria, Santo eres tú
+Santo es tu nombre 
+oh Dios, Santo eres tú
 
-Santo es tu nombre oh Dios, Santo eres tú
-La creación declara tu gloria, Santo eres tú
+La creación declara 
+tu gloria, Santo eres tú
 
-La creación declara tu gloria, Santo eres tú
-La creación declara tu gloria, Santo eres tú
-La creación declara tu gloria, Santo eres tú
+Santo es tu nombre 
+oh Dios, Santo eres tú
+
+La creación declara 
+tu gloria, Santo eres tú
+
+La creación declara 
+tu gloria, Santo eres tú
+
+La creación declara 
+tu gloria, Santo eres tú
+
+La creación declara 
+tu gloria, Santo eres tú
 
 ---
 
