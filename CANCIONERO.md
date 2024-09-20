@@ -4,142 +4,160 @@
 
 * Avisos mes agosto
 * Motivos de oración agosto
-* A Dios Sea la Gloria
-* A Ti el Alfa y la Omega
-* Abre Mis Ojos
-* Abres Caminos
-* Al Estar Ante Ti
-* Al que Es Digno
-* Al que Esta Sentado en el Trono
-* Al Unico que Es Digno
-* Alaba a Dios
-* Aleluya Agnus Dei
-* Aleluya
+* A Dios Sea la Gloria (Adoración - v01)
+* A Ti el Alfa y la Omega (Adoración - v01)
+* Abre Mis Ojos (Alabanza - v01)
+* Abres Caminos (Adoración - v01)
+* Al Estar Ante Ti (Adoración - v01)
+* Al que Es Digno (Alabanza - v01)
+* Al que Está Sentado en el Trono (Adoración - v01)
+* Al Único que Es Digno (Adoración - v01)
+* Alaba a Dios (Alabanza - v01)
+* Aleluya Agnus Dei (Adoración - v01)
+* Aleluya (Adoración - v01)
 * Algo está cayendo aquí (Adoración - v01)
-* Así Es Tu Amor (Alabanza v01)
-* Atraeme a Ti
-* Aunque Mis Ojos
-* Bendito Sea
-* Bendito Sea el Señor
-* Bueno Es Alabar, Oh Señor
-* Bienvenido Espíritu Santo
-* Cambiaré Mis Tristezas
-* Cantare al Señor por Siempre
-* Cantare de Tu Amor
-* Celebrad
-* Con Mi Dios Yo Saltare los Muros
-* Con Mis Manos Levantadas
-* Con Todo Mi Corazón
-* Creo en Ti
-* Cristo Puede Mover Montes
+* Así Es Tu Amor (Alabanza - v01)
+* Atraeme a Ti (Adoración - v01)
+* Aunque Mis Ojos (Adoración - v01)
+* Bendito Sea Medley (Alabanza - v01)
+* Bendito Sea el Señor (Adoración - v01)
+* Bueno Es Alabar, Oh Señor (Alabanza - v01)
+* Bienvenido Espíritu Santo (Alabanza - v01)
+* Cambiaré Mis Tristezas (Alabanza - v01)
+* Cantare al Señor por Siempre (Alabanza - v01)
+* Cantare de Tu Amor (Adoración - v01)
+* Celebrad (Alabanza - v01)
+* Con Mi Dios Yo Saltaré los Muros (Alabanza - v01)
+* Con Mis Manos Levantadas (Adoración - v01)
+* Con Todo Mi Corazón (Adoración - v01)
+* Cristo Puede Mover Montes (Adoración - v01)
 * Cristo Te Exalto (Adoración - v01)
-* Cuan Bello Es el Señor
+* Cuan Bello Es el Señor (Adoración - v01)
 * Cuan Grande Es Dios (Adoración - v01)
-* Cuan Grande Es el
-* Cuando el Pueblo del Señor Alaba a Dios
-* Cuando la Trompeta Suene Himno
-* De Gloria en Gloria (nuevo)
-* De Gloria en Gloria Te Veo
+* Cuan Grande Es el (Adoración - v01)
+* Cuando el Pueblo del Señor Alaba a Dios (Alabanza - v01)
+* Cuando la Trompeta Suene Himno (Alabanza - v01)
+* De Gloria en Gloria Marcos Barrientos (Alabanza - v01)
+* De Gloria en Gloria Te Veo (Adoración - v01)
 * De Los Montes (Alabanza - v01)
-* Digno Es el Cordero de Dios
-* Dios Esta Aqui
-* Dios Ha Sido Bueno
-* Dulce Comunión
-* Dulce Refugio
+* Dios Esta Aquí (Adoración - v01)
+* Dios Ha Sido Bueno (Adoración - v01)
+* Donde está el Espiritú de Dios (Alabanza - v01)
+* Dulce Comunión (Alabanza - v01)
+* Dulce Refugio (Adoración - v01)
 * El Dios Que Adoramos (Alabanza - v01)
-* El Es el Rey Infinto en Poder
-* En el Arca de Noe
-* En el Monte Calvario
-* En la Casa de Dios
-* En la Cruz Do Primero
-* En Mi Corazon Hay una Cancion
-* En Presencia Estar de Cristo
-* En Ti Confia Mi Corazon
-* Enamorame
-* Eres Digno de Gloria
-* Eres el Mas Hermoso
-* Eres Fiel
-* Eres Mi Amigo Fiel
-* Eres Todopoderoso
-* Eres Tu la Unica Razon de Mi Adoracion
-* Escucharte Hablar
-* Espiritu Santo Te Necesito
-* Este Es Mi Deseo
-* Estoy Apasionado
-* Exaltate
-* Fidelidad
-* Fija tus Ojos en Cristo (Adoración - v01)
-* Gloria en Gloria
-* Glorificate
-* Golpe de Espada
+* El Es el Rey Infinto en Poder (Alabanza - v01)
+* En el Arca de Noé (Alabanza - v01)
+* En el Monte Calvario (Adoración - v01)
+* En la Casa de Dios (Alabanza - v01)
+* En la Cruz Do Primero (Adoración - v01)
+* En Mi Corazon Hay una Canción (Adoración - v01)
+* En Presencia Estar de Cristo (Adoración - v01)
+* En Ti Confía Mi Corazón (Adoración - v01)
+* Enamorame (Adoración - v01)
+* Envíame a Mí  (Adoración - v01)
+* Eres Digno de Gloria (Alabanza - v01)
+* Eres el Mas Hermoso (Adoración - v01)
+* Eres Fiel (Alabanza - v01)
+* Eres Mi Amigo Fiel (Alabanza - v01)
+* Eres Todopoderoso (Alabanza - v01)
+* Eres Tu la Unica Razon de Mi Adoracion (Alabanza - v01)
+* Escucharte Hablar (Adoración - v01)
+* Espiritu Santo Te Necesito (Adoración - v01)
+* Este Es Mi Deseo (Adoración - v01)
+* Estoy Apasionado (Adoración - v01)
+* Exaltate (Adoración - v01)
+* Fidelidad (Adoración - v01)
+* Firmes y adelante (Adoración - v01)
+* Glorificate (Adoración - v01)
+* Golpe de Espada (Alabanza - v01)
 * Gracia Sublime Es (Adoración - v01)
-* Gracias por la Cruz
-* Grande Eres Tu
-* Hallelujah
+* Gracias por la Cruz (Adoración - v01)
+* Grande Eres Tú (Adoración - v01)
+* Hallelujah (Adoración - v01)
 * Has cambiado mí lamento en baile (Alabanza v01)
-* Hay Cosas Que (Alabanza v01)
-* Hay Libertad (Alabanza v01)
-* Hay Momentos que
-* Hay Poder, Poder (Himnos de gloria y triunfo - v01)
-* Hay una unción aquí (Adoración - v01)
-* Haz Llover
-* Heme Aqui
-* Hermoso Eres
+* Hay Cosas Que (Alabanza - v01)
+* Hay Libertad (Alabanza - v01)
+* Hay Momentos que (Adoración - v01)
+* Hay Poder, Poder (Himnos de gloria y triunfo v01)
+* Hay una unción aquí (Adoración v01)
+* Haz Llover (Adoración - v01)
+* Heme Aquí (Adoración - v01)
 * Himno Nacional de Chile (Especial - v01)
-* Honor y Gloria Honra y Poder
-* Hoy He Venido Ante Ti
-* Hoy Te Alabamos Señor
-* Jesucristo Basta
-* Jesus Eres Mi Buen Pastor
-* La Bondad de Dios
-* La Casa de Dios (Alabanza v01)
+* Himno 1 - La Doxología: A Dios el Padre
+* Himno 2 - Lluvias de Gracia
+* Himno 4 - Dulce Comunión
+* Himno 7 - Todo a Cristo Yo me Rindo
+* Himno 8 - La Siembra
+* Himno 14 - ¡Oh Que amigo
+* Himno 15 - Firmes y Adelante
+* Himno 16. Cerca de Ti, Señor
+* Himno 18 - Grato es Decir la Historia
+* Himno 20 - Cuando Allá se Pase Lista
+* Himno 27 - Paz Paz Cuán Dulce Paz
+* Himno 30 - Hay Poder en Jesús
+* Himno 33 - Grande Gozo Hay en mi Alma
+* Himno 36 - Entera Consagración
+* Himno 39 - Santa Biblia
+* Himno 43 - A Jesucristo Ven Sin Tardar
+* Himno 44 - Ya Todo Dejé
+* Himno 45 - ¿Eres Limpio en la Sangre?
+* Himno 49 - En la Viña del Señor
+* Himno 50 - Te Loamos, Oh Dios
+* Himno 53 - En la Cruz
+* Himno 56 - ¡Oh!, yo Quiero Andar con Cristo
+* Himno 62 - Con Cristo Yo Iré
+* Himno 65 - A Solas con Jesús
+* Himno 68 - Libre Estoy
+* Himno 68 - Precioso es Jesús
+* Himno 74 - Dilo a Cristo
+* Himno 75 - Tuyo soy, Jesús
+* Himno 77 - Cuando Dios la Sangre Ve
+* Honor y Gloria Honra y Poder (Alabanza - v01)
+* Hoy He Venido Ante Ti (Adoración - v01)
+* Jesucristo Basta (Adoración - v01)
+* Jesus Eres Mi Buen Pastor (Adoración - v01)
+* La Bondad de Dios (Adoración - v01)
 * La Única Razon (Alabanza v01)
-* Levanto Mis Manos
-* Llevame al Lugar Santisimo
-* Majestad
-* Majestuoso, Poderoso
-* Mas el Dios (a el Sea la Gloria)
-* Mas que Palabras
-* Me Gozare
-* Medley Ardiendo el Fuego
-* Mi Corazon Entona la Cancion
-* Mi Cristo Mi Rey
+* Levanto Mis Manos (Adoración - v01)
+* Llevame al Lugar Santísimo (Adoración - v01)
+* Majestad (Adoración - v01)
+* Majestuoso, Poderoso (Adoración - v01)
+* Mas el Dios (A Él Sea la Gloria) (Alabanza - v01)
+* Mas que Palabras (Adoración - v01)
+* Me Gozaré (Alabanza - v01)
+* Medley Ardiendo el Fuego (Alabanza - v01)
+* Mi Cristo Mi Rey (Adoración - v01)
 * Mora en Mi Vida (Adoración v01)
-* Muevete en Mi
-* Nada Es Imposible Barrientos
-* No Hay Dios Tan Grande Como Tu
-* No Hay Lugar Mas Alto (Adoración v01)
-* Nos Reunimos Aquí (Alabanza v01)
-* Oh Moradora (Alabanza v01)
-* Oh Tu Fidelidad
-* Pan de Vida (Adoración v01)
-* Por la Bondad
-* Por el Poder de Tu Amor
-* Por Mucho Tiempo
-* Por un Momento en Tu Presencia
-* Porque el Vive
-* Que Dulce Es Estar
-* Que Seria de Mi
-* Quiero Entregarte Mis Sueños
-* Quiero Levantar a Ti Mis Manos
-* Quiero Levantar Mis Manos
-* Recibe Toda la Gloria
-* Renuevame
-* Se Exalta Nuestro Dios Se Exalta
-* Señor Eres Fiel
-* Señor Mi Dios
-* Señor Tengo Sed de Ti
-* Señor, Mi Dios al Contemplar
+* Muevete en Mi (Adoración - v01)
+* Nada Es Imposible Barrientos (Alabanza - v01)
+* No Hay Dios Tan Grande Como Tu (Alabanza - v01)
+* No Hay Lugar Mas Alto (Adoración - v01)
+* Nos Reunimos Aquí (Alabanza - v01)
+* Oh Moradora (Alabanza - v01)
+* Pan de Vida (Adoración - v01)
+* Por la Bondad (Adoración - v01)
+* Por el Poder de Tu Amor (Adoración - v01)
+* Por un Momento en Tu Presencia (Adoración - v01)
+* Porque Él Vive (Adoración - v01)
+* Que Dulce Es Estar (Adoración - v01)
+* Que Seria de Mí (Adoración - v01)
+* Quiero Entregarte Mis Sueños (Adoración - v01)
+* Quiero Levantar a Ti Mis Manos (Adoración - v01)
+* Quiero Levantar Mis Manos (Adoración - v01)
+* Recibe Toda la Gloria (Adoración - v01)
+* Renuevame (Adoración - v01)
+* Se Exalta Nuestro Dios Se Exalta (Alabanza - v01)
+* Señor Tengo Sed de Ti (Adoración - v01)
 * Socorro (Alabanza - v01)
 * Solo Dios Hace el Hombre Feliz (Alabanza - v01)
 * Somos el Pueblo de Dios
-* Sublime Gracia Es
-* Sumergeme
-* Tal Como Soy
-* Te Amo
-* Te Doy Gloria
-* Te Exaltamos
-* Temprano Yo Te Buscare (Adoración - v01)
+* Sumergeme (Adoración - v01)
+* Tal Como Soy (Adoración - v01)
+* Te Amo (Adoración - v01)
+* Te Doy Gloria (Alabanza - v01)
+* Te Exaltamos (Alabanza - v01)
+* Temprano Yo Te Buscaré (Adoración - v01)
 * Todo a Cristo yo me Rindo (Himnos de gloria y triunfo - v01)
 * Traemos Hoy (Alabanza - v01)
 * Tu Eres Digno De Gloria (Alabanza - v01)
@@ -168,14 +186,35 @@
 
 ## Avisos mes de Septiembre
 
-Se suspende cultos en la semana.
+Miércoles 11 de Septiembre.
+Se suspende Culto Chillán.
+
+Jueves 12 de Septiembre.
+Culto de oración, a las 19:30.
+Dirige: Hna. Elizabeth Jara.
+Palabra: Hno. Cristian Rubilar.
+
+Viernes 13 de Septiembre.
+Reunión de Hermanas a las 17:30.
+Dirige: Hna. Beatriz Concha.
+Palabra: Hna. Silvana Neira.
+
+Domingo 15 de Septiembre.
+Culto fiestas patrias a las 10:30.
+Dirige: Hna. Adriana Valenzuela.
+Palabra: Pr. Williams Verdejo.
+Data: Hna. Barbara Opazo.
+
+Miércoles 17 de Septiembre.
+Se suspende Culto Chillán.
+
+Viernes 20 de Septiembre.
+Se suspende reunión de de Hermanas.
 
 Domingo 22 de Septiembre.
 Actividad Especial a las 11:00.
 Celebración Fiestas Patrias.
 Anima: Hno. Cristian Rubilar.
-Será un compartir alimentos 
-Y juegos tradicionales
 
 Miércoles 24 de Septiembre.
 Culto Chillán, a las 19:30.
@@ -212,51 +251,51 @@ En proceso...
 
 ---
 
-## A Dios Sea la Gloria
+## A Dios Sea la Gloria (Adoración - v01)
 
-Como agradeceré
-Todas las cosas
-Que has hecho por mí
+Como podré agradecer
+Tanto amor que me has dado a mí
 
-Cosas inmerecidas
-Que diste
-Para mostrar
+Cosas tan maravillosas que no logro yo comprender
+Las voces de millones de ángeles
+No podrían expresar mi Gratitud
 
-Tú amor por mí
+Todo lo que soy y lo que espero ser
+Se lo debo todo a Él
 
-Ni las voces
-De un millón de ángeles
-Expresarán mí gratitud
+A Dios sea la gloria
+A Dios sea la gloria
 
-Lo que soy
-Y lo que anhelo ser
-Lo debo todo a ti
+A Dios sea la gloria
+Por lo que Él ha hecho en mí
 
-A aquí sea la gloria
-A aquí sea la gloria
+Con su sangre me ha lavado
+Su poder me ha transformado
 
-A aquí sea la gloria
-Por lo que hizo por mí
+A Dios sea la gloria
+Por lo que Él ha hecho en mí
 
-Con su sangre me ha limpiado
-Su poder me ha levantado
+Yo quisiera consagrar mi vida a Él
+Y ser agradecida con mi Señor
 
-A aquí sea la gloria
-Por lo que hizo por mí
+Y si algo de gloria recibo en mí
+Que toda sea la gloria a Dios
 
-Quiero vivir Señor
-Rendido siempre solo a ti
+A Dios sea la gloria
+A Dios sea la gloria
 
-Pongo a tus pies
-Lo que soy
-Porque diste todo Señor por mí
+A Dios sea la gloria
+Por lo que Él ha hecho en mí
 
-Sea la gloria y la honra
-Y el poder por siempre
+Con su sangre me ha lavado
+Su poder me ha transformado
+
+A Dios sea la gloria
+Por lo que Él ha hecho en mí
 
 ---
 
-## A Ti el Alfa y la Omega
+## A Ti el Alfa y la Omega (Adoración - v01)
 
 A ti, el Alfa y la Omega
 El principio y el fin
@@ -264,81 +303,118 @@ El principio y el fin
 Y el gran yo soy
 Me rindo
 
-A ti, el todopoderoso
-El que es y que sera
+A ti, el Todopoderoso
+El que es y que será
 
-Y el gran yo soy
+Y el gran Yo soy
 Me entrego
 
 Yo quiero que
-Gobiernes mí vida
+Gobiernes mi vida
 
-Me doy en sacrificio a ti
+Me doy en sacrificio a Tí
 
 Yo quiero que
-Ordenes mí caminar
+Ordenes mi caminar
+
+Y que siempre viva
+En tu voluntad
+
+A ti, el Alfa y la Omega
+El principio y el fin
+
+Y el gran yo soy
+Me rindo
+
+A ti, el Todopoderoso
+El que es y que será
+
+Y el gran Yo soy
+Me entrego
+
+Yo quiero que
+Gobiernes mi vida
+
+Me doy en sacrificio a Tí
+
+Yo quiero que
+Ordenes mi caminar
+
+Y que siempre viva
+En tu voluntad
 
 Y que siempre viva
 En tu voluntad
 
 ---
 
-## Abre Mis Ojos
+## Abre Mis Ojos (Alabanza - v01)
 
 Abre mis ojos oh Cristo
 Abre mis ojos Señor
-//yo quiero
-Verte//
 
-//y contemplar
-Tú santidad
-Y el resplandor de tu gloria
-Derrama tu amor y poder
+Yo quiero verte
+Yo quiero verte
+
+Abre mis ojos oh Cristo
+Abre mis ojos Señor
+
+Yo quiero verte
+Yo quiero verte
+
+Y contemplar Tu majestad
+Y el resplandor de Tu gloria
+
+Derrama de tu amor y poder
 Mientras cantamos
-Santo Santo//
+Santo Santo
 
-///Santo Santo Santo///
+Santo Santo Santo
+Santo Santo Santo
+
+Santo Santo Santo
+Yo quiero verte
+
+Abre mis ojos oh Cristo
+Abre mis ojos Señor
+
+Yo quiero verte
+Yo quiero verte
+
+Abre mis ojos oh Cristo
+Abre mis ojos Señor
+
+Yo quiero verte
+Yo quiero verte
+
+Y contemplar Tu majestad
+Y el resplandor de Tu gloria
+
+Derrama de tu amor y poder
+Mientras cantamos
+Santo Santo
+
+Santo Santo Santo
+Santo Santo Santo
+
+Santo Santo Santo
 Yo quiero verte
 
 ---
 
-## Abres Caminos
+## Abres Caminos (Adoración - v01)
 
-Aqui estas te vemos mover
-Te adorare te adorare
+Aquí estás
+Te vemos mover
 
-Aqui estas obrando en mí
-Te adorare, te adorare
+Te adoraré
+Te adoraré
 
-Aqui estas te vemos mover
-Te adorare, te adorare
+Aquí estás
+Obrando en mí
 
-Aqui estas obrando en mí
-Te adorare, te adorare
-
-Milagroso abres caminos
-
-Cumples promesas
-Luz en tinieblas
-
-Mi aquí asi eres tu
-Milagroso abres caminos
-
-Cumples promesas
-Luz en tinieblas
-
-Mi aquí asi eres tu
-
-Aqui estas, Tocando mí corazon
-
-Te adorare
-Te adorare
-
-Aqui estas
-Sanando mí corazon
-
-Te adorare
-Te adorare
+Te adoraré
+Te adoraré
 
 Milagroso
 Abres caminos
@@ -346,8 +422,8 @@ Abres caminos
 Cumples promesas
 Luz en tinieblas
 
-Mi aquí
-Asi eres tu
+Mi Dios
+Así eres Tú
 
 Milagroso
 Abres caminos
@@ -355,29 +431,20 @@ Abres caminos
 Cumples promesas
 Luz en tinieblas
 
-Mi aquí
-Asi eres tu
+Mi Dios
+Así eres Tú
 
-Aqui estas
-Tocando mí corazon
+Aquí estás
+Tocando mi corazon
 
-Te adorare
-Te adorare
+Te adoraré
+Te adoraré
 
-Aqui estas
-Sanando mí corazon
+Aquí estás
+Sanando mi corazon
 
-Te adorare
-Te adorare
-
-Milagroso
-Abres caminos
-
-Cumples promesas
-Luz en tinieblas
-
-Mi aquí
-Asi eres tu
+Te adoraré
+Te adoraré
 
 Milagroso
 Abres caminos
@@ -385,26 +452,47 @@ Abres caminos
 Cumples promesas
 Luz en tinieblas
 
-Mi aquí
-Asi eres tu
+Mi Dios
+Así eres Tú
+
+Milagroso
+Abres caminos
+
+Cumples promesas
+Luz en tinieblas
+
+Mi Dios
+Así eres Tú
+
+Así eres Tú
+Así eres Tú
+
+Así eres Tú
+Así eres Tú
 
 Aunque no pueda ver
-Estas obrando
-
-Siempre estas
-Siempre estas obrando
+Estás obrando
 
 Aunque no pueda ver
-Estas obrando
+Estás obrando
 
-Siempre estas
-Siempre estas obrando
+Siempre estás
+Siempre estás obrando
+
+Siempre estás
+Siempre estás obrando
 
 Aunque no pueda ver
-Estas obrando
+Estás obrando
 
-Siempre estas
-Siempre estas obrando
+Aunque no pueda ver
+Estás obrando
+
+Siempre estás
+Siempre estás obrando
+
+Siempre estás
+Siempre estás obrando
 
 Aunque no pueda ver
 Estas obrando
@@ -418,8 +506,8 @@ Abres caminos
 Cumples promesas
 Luz en tinieblas
 
-Mi aquí
-Asi eres tu
+Mi Dios
+Así eres Tú
 
 Milagroso
 Abres caminos
@@ -427,107 +515,164 @@ Abres caminos
 Cumples promesas
 Luz en tinieblas
 
-Mi aquí
-Asi eres tu
+Mi Dios
+Así eres Tú
 
-Milagroso
-Abres caminos
+Así eres Tú
+Así eres Tú
 
-Cumples promesas
-Luz en tinieblas
-
-Mi aquí
-Asi eres tu
-
-Milagroso
-Abres caminos
-
-Cumples promesas
-Luz en tinieblas
-
-Mi aquí
-Asi eres tu
-
-Asi eres tu
+Así eres Tú
 
 ---
 
-## Al Estar Ante Ti
+## Al Estar Ante Ti (Adoración - v01)
 
-Al estar ante ti
+Al estar ante Ti
 Adorando frente
-Almar de cristal
-Entre la multitud
-En asombro alli
-Me habre de postrar
+Al mar de cristal
 
-Y mí canto unire
+Entre la multitud
+En asombro allí
+Me habré de postrar
+
+Y mi canto uniré
 A millones
-Proclamandote rey
-Y mí voz oiras
+Proclamandote Rey
+
+Y mi voz oirás
 Entre las multitudes cantar
 
-Digno es el cordero de aquí
+Digno es el cordero de Dios
 El que fue inmolado en la cruz
-Digno de la honra y el poder
-La sabiduria suya es
 
-Y al que esta en el trono
+Digno de la honra y el poder
+La sabiduría suya es
+
+Y al que está en el trono
 Sea el honor
+
 Santo Santo Santo
 Es el Señor
 
 Reina por los siglos
 Con poder
+
 Todo lo que existe
-Es por el
+Es por Él
+
+Al estar ante Ti
+Adorando frente
+Al mar de cristal
+
+Entre la multitud
+En asombro allí
+Me habré de postrar
+
+Y mi canto uniré
+A millones
+Proclamandote Rey
+
+Y mi voz oirás
+Entre las multitudes cantar
+
+Digno es el cordero de Dios
+El que fue inmolado en la cruz
+
+Digno de la honra y el poder
+La sabiduría suya es
+
+Y al que está en el trono
+Sea el honor
+
+Santo Santo Santo
+Es el Señor
+
+Reina por los siglos
+Con poder
+
+Todo lo que existe
+Es por Él
 
 Digno de la honra y el poder
 La sabiduria suya es
 
 Todo lo que existe
-Es por el
+Es por Él
 
 ---
 
-## Al que Es Digno
+## Al que Es Digno (Alabanza - v01)
 
-//al que es digno
-De recibir la gloria
 Al que es digno
-De recibir honor//
+De recibir la gloria
+
+Al que es digno
+De recibir honor
+
+Al que es digno
+De recibir la gloria
+
+Al que es digno
+De recibir honor
 
 Levantemos nuestras manos
-Y adoremos a Jesús
+Y adoremos
+
+A Jesús
 Cordero de gloria
 
 Exaltemos
-Su incomparable
-Majestad
+Su incomparable Majestad
+
 Al que vive por siempre
-Al gran yo soy
+Al gran Yo soy
+A Jesús
+
+Al que es digno
+De recibir la gloria
+
+Al que es digno
+De recibir honor
+
+Al que es digno
+De recibir la gloria
+
+Al que es digno
+De recibir honor
+
+Levantemos nuestras manos
+Y adoremos
+
+A Jesús
+Cordero de gloria
+
+Exaltemos
+Su incomparable Majestad
+
+Al que vive por siempre
+Al gran Yo soy
 A Jesús
 
 ---
 
-## Al que Esta Sentado en el Trono
+## Al que Está Sentado en el Trono (Adoración - v01)
 
 Quiero conocerte
-Cada dia más a ti
+Cada día más a Tí
 
 Entrar en tu presencia
 Y adorar
 
 Revelanos
-Tú gloria
+Tu gloria
 
 Deseamos ir
-Mucho más en ti
+Mucho más en Tí
 
 Queremos tu
 Presencia Jesús
 
-Al que esta sentado
+Al que está sentado
 En el trono
 
 Al que vive
@@ -536,113 +681,277 @@ Para siempre y siempre
 Sea la gloria
 Sea la honra y el poder
 
+Sea la gloria
+Sea la honra y el poder
+
+Al que está sentado
+En el trono
+
+Al que vive
+Para siempre y siempre
+
+Sea la gloria
+Sea la honra y el poder
+
+Sea la gloria
+Sea la honra y el poder
+
+Quiero conocerte
+Cada día más a Tí
+
+Entrar en tu presencia
+Y adorar
+
+Revelanos
+Tu gloria
+
+Deseamos ir
+Mucho más en Tí
+
+Queremos tu
+Presencia Jesús
+
+Al que está sentado
+En el trono
+
+Al que vive
+Para siempre y siempre
+
+Sea la gloria
+Sea la honra y el poder
+
+Sea la gloria
+Sea la honra y el poder
+
+Al que está sentado
+En el trono
+
+Al que vive
+Para siempre y siempre
+
+Sea la gloria
+Sea la honra y el poder
+
+Sea la gloria
+Sea la honra y el poder
+
 Santo
 Santo
 
-Santo eres tu
+Santo eres Tú
 
 ---
 
-## Al Unico que Es Digno
+## Al Único que Es Digno (Adoración - v01)
 
-Al unico que es digno
+Al único que es digno
 De recibir
+
 Honra y gloria
 Fuerza y poder
 
-Al aquí y padre celestial
-Invisible pero real
-A el hoy ministramos
+Al Dios y padre eternal
+Invisible e inmortal
+
+A Él hoy ministramos
 Loor
 
 Te coronamos
 Señor y rey Jesús
+
 Te coronamos
 Señor y rey Jesús
+
 Adoramos tu nombre
 Nos rendimos a tus pies
-Consagramos todo nuestro ser a ti
+
+Consagramos todo nuestro ser a Tí
+
+Al único que es digno
+De recibir
+
+Honra y gloria
+Fuerza y poder
+
+Al Dios y padre eternal
+Invisible e inmortal
+
+A Él hoy ministramos
+Loor
+
+Te coronamos
+Señor y rey Jesús
+
+Te coronamos
+Señor y rey Jesús
+
+Adoramos tu nombre
+Nos rendimos a tus pies
+
+Consagramos todo nuestro ser a Tí
+Consagramos todo nuestro ser a Tí
 
 ---
 
-## Alaba a Dios
+## Alaba a Dios (Alabanza - v01)
 
-aquí no rechaza oracion
-Oracion es alimento
-Nunca vi un justo sin respuesta
+Dios no rechaza oración
+Oración es alimento
+
+Nunca ví un justo sin respuesta
 O quedar en sufrimiento
 
 Basta solamente esperar
-Lo que aquí ira a hacer
-Cuando el levanta sus manos
+Lo que Dios irá a hacer
+
+Cuando Él levanta sus manos
 Es hora de vencer
 
 Oh alaba
 Simplemente alaba
-Estas llorando alaba
-En la prueba alaba
-Estas sufriendo alaba
-No importa alaba
-Tú alabanza
-El escuchara
 
-aquí va al frente
+Estás llorando alaba
+En la prueba alaba
+
+Estás sufriendo alaba
+No importa alaba
+
+Tu alabanza
+Él escuchará
+
+Dios va al frente
 Abriendo camino
+
 Quebrando cadenas sacando espinas
 Manda a sus ángeles contigo a luchar
-El abre puertas
+
+Él abre puertas
 Nadie puede cerrar
 
-El trabaja
-Para los que confian
-Camina contigo
-De noche y de dia
-Levanta tus manos
-Tú victoria llego
-Comienza a cantar
+Él trabaja
+Para los que confían
 
-Y alaba a aquí, alaba a aquí,
-Alaba a aquí, alaba a aquí
+Camina contigo
+De noche y de día
+
+Levanta tus manos
+Tu victoria llegó
+
+Comienza a cantar
+Y alaba a Dios, alaba a Dios,
+Alaba a Dios, alaba a Dios
 
 La gente necesita entender
-Lo que aquí esta hablando
-Cuando el queda en silencio
-Es porque esta trabajando
+Lo que Dios está hablando
+
+Cuando Él se queda en silencio
+Es porque está trabajando
 
 Basta solamente esperar
-Lo que aquí ira a hacer
-Cuando el extiende sus manos
+Lo que Dios irá a hacer
+
+Cuando Él extiende sus manos
 Es hora de vencer
 
-//y alaba a aquí, alaba a aquí,
-Alaba a aquí,
-Alaba a aquí//
+Oh alaba
+Simplemente alaba
 
-//alaba a aquí, alaba a aquí,
-Alaba a aquí, alaba a aquí//
+Estás llorando alaba
+En la prueba alaba
+
+Estás sufriendo alaba
+No importa alaba
+
+Tu alabanza
+Él escuchará
+
+Dios va al frente
+Abriendo camino
+
+Quebrando cadenas sacando espinas
+Manda a sus ángeles contigo a luchar
+
+Él abre puertas
+Nadie puede cerrar
+
+Él trabaja
+Para los que confían
+
+Camina contigo
+De noche y de día
+
+Levanta tus manos
+Tu victoria llegó
+
+Comienza a cantar
+Y alaba a Dios, alaba a Dios,
+Alaba a Dios, alaba a Dios
+
+Alaba a Dios, alaba a Dios,
+Alaba a Dios, alaba a Dios
 
 ---
 
-## Aleluya Agnus Dei
+## Aleluya Agnus Dei (Adoración - v01)
 
-//aleluya aleluya
-Eres tu poderoso aquí//
-Aleluya aleluya
+Aleluya
+Aleluya
+Nuestro Dios poderoso es Rey
 
-Santo Santo
-Eres tu aquí, poderoso rey
-Digno eres tú,
+Aleluya
+Aleluya
+Nuestro Dios poderoso es Rey
 
-Cordero de aquí
-Tú eres Santo
-Santo Santo
-Amen
+Aleluya
+Aleluya
+Santo, Santo
+
+Eres tú, Dios, poderoso Rey
+Digno eres tú
+Cordero de Dios
+
+Tú eres santo, santo
+Eres tú, Dios, poderoso Rey
+
+Digno eres Tú
+Cordero de Dios
+Amén
+
+Aleluya
+Aleluya
+Nuestro Dios poderoso es Rey
+
+Aleluya
+Aleluya
+Nuestro Dios poderoso es Rey
+
+Aleluya
+Aleluya
+Santo, Santo
+
+Eres tú, Dios, poderoso Rey
+Digno eres tú
+Cordero de Dios
+
+Tú eres santo, santo
+Eres tú, Dios, poderoso Rey
+
+Digno eres Tú
+Cordero de Dios
+Amén
 
 ---
 
-## Aleluya
+## Aleluya (Adoración - v01)
 
-Aleluya, Aleluya, Aleluya
+Aleluya,
+Aleluya,
+Aleluya
+
+Aleluya
+Aleluya
+Aleluya
+Aleluya
 
 Cristo viene
 Cristo viene
@@ -653,10 +962,30 @@ Cristo salva
 Cristo salva
 Cristo salva
 Cristo salva
+
+Aleluya
+Aleluya
+Aleluya
+Aleluya
 
 ---
 
 ## Algo está cayendo aquí (Adoración v01)
+
+Algo está cayendo aquí
+Es tan fuerte sobre mí
+
+Mis manos levantaré
+Y su gloria tocaré
+
+Está cayendo
+Su gloria sobre mí
+
+Sanando heridas
+Levantando al caído
+Su gloria esta aquí
+
+Su gloria esta aquí
 
 Algo está cayendo aquí
 Es tan fuerte sobre mí
@@ -678,13 +1007,52 @@ Su gloria esta aquí
 ## Así Es Tu Amor (Alabanza v01)
 
 Hay un deseo en mi corazón
-de estar donde tú estás
+De estar donde Tú estás
 
 Sé que no hay mejor lugar,
-quiero habitar en tu altar
+Quiero habitar en Tu altar
 
 He buscado en otras cosas
-el amor sin encontrar
+El amor sin encontrar
+
+Me doy cuenta que tu amor
+Mi vida llenará
+
+Paciente y bondadoso es,
+¡Así es tu amor!
+
+Todo lo espera y lo soporta,
+¡Así es tu amor!
+
+No tiene envidia ni rencor,
+¡Así es tu amor!
+
+Tu amor nunca deja de ser
+¡Así es tu amor!
+
+Me cuidas, me amas
+Me cubres, me abrazas
+
+Mejor que la vida
+Es tu amor
+
+Tan alto, sublime
+Perfecto y eterno
+
+Mejor que la vida
+Es tu amor por mí
+
+Por mí ...
+Por mí ...
+
+Hay un deseo en mi corazón
+De estar donde Tú estás
+
+Sé que no hay mejor lugar,
+Quiero habitar en Tu altar
+
+He buscado en otras cosas
+El amor sin encontrar
 
 Me doy cuenta que tu amor
 Mi vida llenará
@@ -718,154 +1086,287 @@ Por mí ...
 
 ---
 
-## Atraeme a Ti
+## Atraeme a Ti (Adoración - v01)
 
-Atraeme a ti
+Atraeme a Tí
 No me dejes ir
 
-Me rindo todo
+Lo rindo todo
 Una vez más
 
 A cambio
 De tu amistad
 
-Yo te anhelo a ti
-Solamente a ti
+Yo te anhelo a Tí
+Solamente a Tí
 
 Pues nadie más
 En tu lugar
 
-Me abrazara
+Me abrazará
 Con tanto amor
 
-Guiame Señor
-De regreso a ti
+Guíame Señor
+De regreso a Tí
 
-Te anhelo a ti
+Te anhelo a Tí
 Señor te necesito
 
-Te anhelo a ti
-Dime que cerca estas
+Te anhelo a Tí
+Dime que cerca estás
 
-Atraeme a ti
+Atraeme a Tí
 No me dejes ir
 
-Me rindo todo
+Lo rindo todo
 Una vez más
 
 A cambio
 De tu amistad
 
-Yo te anhelo a ti
-Solamente a ti
+Yo te anhelo a Tí
+Solamente a Tí
 
 Pues nadie más
 En tu lugar
 
-Me abrazara
+Me abrazará
 Con tanto amor
 
-Guiame Señor
-De regreso a ti
+Guíame Señor
+De regreso a Tí
 
-Te anhelo a ti
+Te anhelo a Tí
 Señor te necesito
 
-Te anhelo a ti
-Dime que cerca estas
+Te anhelo a Tí
+Dime que cerca estás
 
-Dime que cerca estas
+Dime que cerca estás
+Dime que cerca estás
 
 ---
 
-## Aunque Mis Ojos
+## Aunque Mis Ojos (Adoración - v01)
 
 Aunque mis ojos
 No te puedan ver
+
 Te puedo sentir
-Se que estas aqui
+Se que estás aquí
 
 Aunque mis manos
 No pueden tocar
-Tú rostro Señor
-Se que estas aqui
 
-Mi corazon puede
+Tu rostro Señor
+Se que estás aquí
+
+Mi corazón puede
 Sentir tu presencia
-Tú estas aqui
-Tú estas aqui
+
+Tú estás aquí
+Tú estas aquí
 
 Puedo sentir tu majestad
-Tú estas aqui
-Tú estas aqui
+Tú estas aquí
+Tú estas aquí
 
-Mi corazon puede
+Mi corazón puede
 Mirar tu hermosura
-Tú estas aqui
-Tú estas aqui
+
+Tú estás aquí
+Tú estás aquí
 
 Puedo sentir
-Tú gran amor
-Tú estas aqui
-Tú estas aqui
+Tu gran amor
 
-//tu estas aqui//
+Tú estás aquí
+Tú estás aquí
+
+Aunque mis ojos
+No te puedan ver
+
+Te puedo sentir
+Se que estás aquí
+
+Aunque mis manos
+No pueden tocar
+
+Tu rostro Señor
+Se que estás aquí
+
+Mi corazón puede
+Sentir tu presencia
+
+Tú estás aquí
+Tú estas aquí
+
+Puedo sentir tu majestad
+Tú estas aquí
+Tú estas aquí
+
+Mi corazón puede
+Mirar tu hermosura
+
+Tú estás aquí
+Tú estás aquí
+
+Puedo sentir
+Tu gran amor
+
+Tú estás aquí
+Tú estás aquí
+
+Tú estás aquí
+Tú estás aquí
 
 ---
 
-## Bendito Sea
+## Bendito Sea Medley (Alabanza - v01)
 
-Bendito sea jehova la roca
+Bendito sea Jehová la roca
 Por toda la eternidad
 
 Mi escondedero
-Y mí refugio
-Eres tu bendito jehova
+Y mi refugio
 
-En tu palabra esperare
-Y mí confianza en ti pondre
+Eres tu bendito Jehová
+
+En tu palabra esperaré
+Y mi confianza en Tí pondré
 
 Oh gloria
 Oh aleluya
-Amen
+
+Amen, Amén
+Amén, Amén
+
+Oh Señor quiero que ardas en mi ser
+Como la zarza quiero arder por tu poder
+
+En nuevas lenguas quiero hablar como señal
+Estoy ardiendo con el fuego celestial
+
+Quiero alabarte y adorarte solo a Tí
+Como se adora en Espíritu y Verdad
+
+Oh Señor quiero que ardas en mi ser
+Como la zarza quiero arder por tu poder
+
+Solo Dios hace al hombre feliz
+Sólo Dios hace al hombre feliz
+
+La vida es nada
+Todo se acaba
+
+Sólo Dios hace al hombre feliz
+
+Vamos orando hasta que baje el poder
+Vamos orando hasta que baje el poder
+
+Oh gloria a Dios
+Oh gloria a Dios
+
+Vamos orando hasta que baje el poder
+
+Hermanos vamos a pedir
+El fuego de Dios
+
+Hermanos vamos a pedir
+El fuego de Dios
+
+Yo siento el fuego
+Que me está quemando
+
+Es el Espírtiu Santo
+Que me esta llenando
+
+Yo siento el fuego
+Que me está quemando
+
+Es el Espírtiu Santo
+Que me esta llenando
+
+Fuego, fuego
+Fuego del cielo queremos
+
+Fuego, fuego
+Fuego del cielo queremos
 
 ---
 
-## Bendito Sea el Señor
+## Bendito Sea el Señor (Adoración - v01)
 
 Padre del cielo te adoramos
 Alzamos hoy tu nombre en alto
+
 Que tu reino se establezca en la alabanza
 De tu pueblo que declara tu poder
-Bendito sea el Señor
 
-Bendito sea el Señor aquí poderoso
-Quien fue, quien es y quien vendrá
-Bendito sea el Señor aquí poderoso
-Por siempre reinara
+Bendito sea el Señor Dios poderoso
+Quién fue, quién es y quién vendrá
+
+Bendito sea el Señor Dios poderoso
+Por siempre reinará
+
+Padre del cielo te adoramos
+Alzamos hoy tu nombre en alto
+
+Que tu reino se establezca en la alabanza
+De tu pueblo que declara tu poder
+
+Bendito sea el Señor Dios poderoso
+Quién fue, quién es y quién vendrá
+
+Bendito sea el Señor Dios poderoso
+Por siempre reinará
+
+Por siempre reinará
+Por siempre reinará
 
 ---
 
-## Bueno Es Alabar, Oh Señor
+## Bueno Es Alabar, Oh Señor (Alabanza - v01)
 
 Bueno es alabar oh Señor
-Tú nombre
+Tu nombre
+
 Darte gloria honra y honor
 Por siempre
-Buenos es alabarte Jesús
+
+Bueno es alabarte Jesús
 Y gozarme en tu poder
 
-Porque grande eres tu
+Porque grande eres Tú
 Grandes son tus obras
-Porque grande eres tu
+
+Porque grande eres Tú
 Grande es tu amor
+
+Grande es tu gloria
+
+Bueno es alabar oh Señor
+Tu nombre
+
+Darte gloria honra y honor
+Por siempre
+
+Bueno es alabarte Jesús
+Y gozarme en tu poder
+
+Porque grande eres Tú
+Grandes son tus obras
+
+Porque grande eres Tú
+Grande es tu amor
+
 Grande es tu gloria
 
 Bueno es alabarte Señor
 
 ---
 
-## Bienvenido Espíritu Santo
+## Bienvenido Espíritu Santo (Alabanza - v01)
 
 Espíritu Santo bienvenido
 A este lugar
@@ -889,14 +1390,14 @@ De gracia y amor
 
 Bienvenido a este lugar
 
-Bienvenido Espíritu de aquí
-Damos gloria solo a ti Señor
+Bienvenido Espíritu de Dios
+Damos gloria sólo a tí Señor
 
-Bienvenido Espíritu de aquí
+Bienvenido Espíritu de Dios
 Hoy rendimos coronas a tus pies
 
-Bienvenido Espíritu de aquí
-Damos gloria solo a ti Señor
+Bienvenido Espíritu de Dios
+Damos gloria sólo a ti Señor
 
 Bienvenido Espíritu de aquí
 Hoy rendimos coronas a tus pies
@@ -912,250 +1413,355 @@ De gracia y amor
 
 Bienvenido a este lugar
 
-Bienvenido Espíritu de aquí
-Damos gloria solo a ti Señor
+Bienvenido Espíritu de Dios
+Damos gloria sólo a tí Señor
 
-Bienvenido Espíritu de aquí
+Bienvenido Espíritu de Dios
 Hoy rendimos coronas a tus pies
 
-Bienvenido Espíritu de aquí
-Damos gloria solo a ti Señor
+Bienvenido Espíritu de Dios
+Damos gloria sólo a ti Señor
 
 Bienvenido Espíritu de aquí
 Hoy rendimos coronas a tus pies
 
 ---
 
-## Cambiaré Mis Tristezas
+## Cambiaré Mis Tristezas (Alabanza - v01)
 
-Cambiaré mí tristeza
-Cambiaré mí vergüenza
+Cambiaré mi tristeza
+Cambiaré mi vergüenza
 
-Los entregaré por el gozo de aquí
-Cambiaré mí dolor Y mí enfermedad
+Los entregaré por el gozo de Dios
+Cambiaré mi dolor Y mi enfermedad
 
-Los entregaré por el gozo de aquí (oh-Oh-oh-oh)
-Cambiaré (cambiaré mí vergüenza) los entregaré
-
-(los entregaré por el gozo de aquí)
-Cambiaré mí dolor (cambiaré mí dolor)
-
-Y mí enfermedad (y mí enfermedad)
-Los entregaré (los entregaré)
-por el gozo de aquí, oh-Oh-ohSí, Señor; sí, sí, Señor (sí)
-
-Sí, Señor; sí, sí, Señor (sí)
-Sí, Señor; sí, sí, Señor (sí)
-Amén (oh-Oh-oh-oh)Sí, Señor; sí, sí, Señor
+Los entregaré por el gozo de Dios
 
 Sí, Señor; sí, sí, Señor
 Sí, Señor; sí, sí, Señor
-Amén (oh-Oh-oh-oh)Estando atribulado, pero nunca derrotado
 
+Sí, Señor; sí, sí, Señor
+Amén (oh-Oh-oh-oh)
+
+Sí, Señor; sí, sí, Señor
+Sí, Señor; sí, sí, Señor
+
+Sí, Señor; sí, sí, Señor
+Amén (oh-Oh-oh-oh)
+
+Estando atribulado, pero nunca derrotado
 Y perseguido esté hoy
+
 Maldiciones no me afectan, pues yo sé a quien voy
 En su gozo, fuerte soy
 
 Aunque triste en la noche yo esté
 Gozo viene en la mañana
 
+Cambiaré mi tristeza
+Cambiaré mi vergüenza
+
+Los entregaré por el gozo de Dios
+Cambiaré mi dolor Y mi enfermedad
+
+Los entregaré por el gozo de Dios
+
+Sí, Señor; sí, sí, Señor
+Sí, Señor; sí, sí, Señor
+
+Sí, Señor; sí, sí, Señor
+Amén (oh-Oh-oh-oh)
+
 ---
 
-## Cantare al Señor por Siempre
+## Cantaré al Señor por Siempre (Alabanza - v01)
 
-//cantare al Señor por siempre
-Su diestra es todo poder//
+Cantaré al Señor por siempre
+Su diestra es todo poder
 
-//echo a la mar quien los perseguia
-Jinete y caballo echo a la mar//
+Cantaré al Señor por siempre
+Su diestra es todo poder
 
-Echo a la mar los carros del faraon
-Oh oh oh je je
+Echó a la mar quién los perseguía
+Jinete y caballo echó a la mar
+
+Echó a la mar quién los perseguía
+Jinete y caballo echó a la mar
+
+Echó a la mar los carros del faraón
+Oh oh oh Eh Eh
 Lara lara lala lala
 
-//mí padre es aquí y yo le exalto
-Mi padre es aquí y le exaltare//
-Echo a la mar los carros del faraon
+Mi padre es Dios y yo le exalto
+Mi padre es Dios y le exaltaré
+
+Mi padre es Dios y yo le exalto
+Mi padre es Dios y le exaltaré
+
+Echó a la mar los carros del Faraón
+Oh oh oh Eh Eh
+Lara lara lala lala
+
+Lara lara lala lala
 
 ---
 
-## Cantare de Tu Amor
+## Cantare de Tu Amor (Adoración - v01)
 
-Sobre montañas y el mar
-Tú rio corre para amar
-Y al abrir mí corazon
-El salvador libre me hara
+Por mucho tiempo busqué
+Una razón de vivir
 
-Estoy feliz en la verdad
-A ti mis manos alzare
-Por eso siempre cantare
-De cuando viniste a mí
+En medio de mil preguntas
+Tu amor me respondió
 
-//cantare de tu amor por siempre//
+Ahora veo la luz
+Y ya no tengo temor
 
-Estamos danzando
-Dicen que es locura
-Pero cuando el mundo
-Vea tu luz
-Danzara tambien
-Como danzamos hoy
+Tu reino vino a mi vida
+Y ahora vivo para Tí
+
+Cantaré de tu amor
+Rendiré mi corazón ante Tí
+
+Tú serás mi pasión
+Y mis pasos se guiarán por tu voz
+
+Mi Jesús y mi Rey
+De tu gran amor cantaré
+
+Por mucho tiempo busqué
+Una razón de vivir
+
+En medio de mil preguntas
+Tu amor me respondió
+
+Ahora veo la luz
+Y ya no tengo temor
+
+Tu reino vino a mi vida
+Y ahora vivo para Tí
+
+Cantaré de tu amor
+Rendiré mi corazón ante Tí
+
+Tú serás mi pasión
+Y mis pasos se guiarán por tu voz
+
+Mi Jesús y mi Rey
+De tu gran amor cantaré
+
+Cantaré de tu amor
+Rendiré mi corazón ante Tí
+
+Tú serás mi pasión
+Y mis pasos se guiarán por tu voz
+
+Mi Jesús y mi Rey
+De tu gran amor cantaré
+
+Señor
 
 ---
 
-## Celebrad
+## Celebrad (Alabanza - v01)
 
-//celebrad a Cristo celebrad//
-//resucito//
-Y el vive para siempre
+Celebrad a Cristo, celebrad
+Celebrad a Cristo, celebrad
 
-//resucito//
-//vamos a celebrar//
-Resucito el Señor
+Celebrad a Cristo, celebrad
+Celebrad a Cristo, celebrad
+
+Resucitó
+Resucitó
+Y Él vive para siempre
+
+Resucitó
+Resucitó
+Vamos a celebrar
+
+Vamos a celebrar
+Vamos a celebrar
+
+Resucitó el Señor
+
+Celebrad a Cristo, celebrad
+Celebrad a Cristo, celebrad
+
+Celebrad a Cristo, celebrad
+Celebrad a Cristo, celebrad
+
+Resucitó
+Resucitó
+Y Él vive para siempre
+
+Resucitó
+Resucitó
+Vamos a celebrar
+
+Vamos a celebrar
+Vamos a celebrar
+
+Resucitó el Señor
 
 ---
 
-## Con Mi Dios Yo Saltare los Muros
+## Con Mi Dios Yo Saltaré los Muros (Alabanza - v01)
 
-//con mí aquí
-Yo saltare los muros
-Con mí aquí
-Ejercitos derribare//
+Con mi Dios
+Yo saltaré los muros
 
-El adiestra mis manos para la batalla
+Con mi Dios
+Ejércitos derribaré
+
+Con mi Dios
+Yo saltaré los muros
+
+Con mi Dios
+Ejércitos derribaré
+
+Él adiestra mis manos para la batalla
 Puedo tomar con mis manos el arco de bronce
 
-El es escudo
- La roca mia
-El es la fuerza de mí salvacion
-Mi alto refugio y mí fortaleza
-El es mí libertador
+Él es escudo
+La roca mía
 
-//con mí aquí yo saltare los muros
-Con mí aquí ejercitos derribare//
+Él es la fuerza de mi salvación
+Mi alto refugio y mi fortaleza
+Él es mi libertador
 
-//el es mí libertador//
+Con mi Dios
+Yo saltaré los muros
+
+Con mi Dios
+Ejércitos derribaré
+
+Con mi Dios
+Yo saltaré los muros
+
+Con mi Dios
+Ejércitos derribaré
+
+Él adiestra mis manos para la batalla
+Puedo tomar con mis manos el arco de bronce
+
+Él es escudo
+La roca mía
+
+Él es la fuerza de mi salvación
+Mi alto refugio y mi fortaleza
+Él es mi libertador
+
+Él es mi libertador
 
 ---
 
-## Con Mis Manos Levantadas
+## Con Mis Manos Levantadas (Adoración - v01)
 
 Con mis manos levantadas
 Hacia el cielo
+
 Me presento
 Ante ti
-Hoy mí Señor
+Hoy mi Señor
 
-Para recibir de ti
+Para recibir de Tí
 La fuerza y el poder
-Para vivir junto a ti
+Para vivir junto a Tí
 
-Llenas hoy mí corazon
+Llenas hoy mi corazon
 Con tu presencia
+
 Llenas de alegria
-Y paz todo mí ser
+Y paz todo mi ser
 
 En cualquier necesidad
-Tú me responderas
+Tú me responderás
+
+Porque me amas
+Me amas
+
+Llenas hoy mi corazon
+Con tu presencia
+
+Llenas de alegria
+Y paz todo mi ser
+
+En cualquier necesidad
+Tú me responderás
+
 Porque me amas
 Me amas
 
 ---
 
-## Con Todo Mi Corazón
+## Con Todo Mi Corazón (Adoración - v01)
 
-Levanto mis manos hoy a ti
-Rogando en tu presencia
-
-Un toque especial para mí
-No hay nada que pueda hoy suplir, no, no, no
-
-Tú dulce presencia
-Que llena mí vida de ti
-
-Con todo mí corazón
-Yo quiero ser fiel
-
-No quiero fallarte más
-Ayúdame aquí
-
-Y en mí debilidad
-Fuerte seré
-
-En ti, Señor
-Levanto mis manos hoy a ti
-
+Levanto mis manos hoy a Tí
 Rogando en tu presencia
 Un toque especial para mí
 
 No hay nada que pueda hoy suplir
-Tú dulce presencia
+Tu dulce presencia
+Que llena mi vida de Tí
 
-Que llena mí vida de ti
-Con todo mí corazón
+Con todo mi corazón
+Yo quiero ser fiel
 
-Yo quiero ser fiel, oh sí
 No quiero fallarte más
+Ayúdame Dios
 
-Ayúdame aquí
-Y en mí debilidad
+Y en mi debilidad
+Fuerte seré
+En ti, Señor
 
-Fuerte seré, sí
-Con todo mí corazón
+Levanto mis manos hoy a Tí
+Rogando en tu presencia
+Un toque especial para mí
 
-Yo quiero ser fiel, sí, Señor
+No hay nada que pueda hoy suplir
+Tu dulce presencia
+Que llena mi vida de Tí
+
+Con todo mi corazón
+Yo quiero ser fiel,
+
 No quiero fallarte más
+Ayúdame Dios
 
-Ayúdame aquí
-Y en mí debilidad
+Y en mi debilidad
+Fuerte seré,
 
+Con todo mí corazón
+Yo quiero ser fiel,
+
+No quiero fallarte más
+Ayúdame Dios
+
+Y en mi debilidad
 Fuerte seré
 En ti, Señor
 
 ---
 
-## Creo en Ti
+## Cristo Puede Mover Montes (Adoración - v01)
 
-Ahora se lo que es mejor
-Amarte más y más Señor
+Todos necesitan amor que nunca falla
+Tu gracia y compasión
 
-En ti pongo toda mí fe
-Siempre en aquí confiare
+Todos necesitan perdón y esperanza
+De un Dios que salva
 
-//creo en ti//
-Creo en ti
-El hijo de aquí
-
-Me has dado la vida
-Nadie puede salvar
-Solo Jesús
-
-Siempre, siempre
-Siempre te alabare
-
----
-
-## Cristo Puede Mover Montes
-
-Todos necesitan amor
-Que nunca falla
-Tú gracia
-Y compasion
-
-Todosnecesitan
-Perdon y esperanza
-De un aquí que salva
-
-Cristo puede
-Mover montes
-Solo aquí puede salvar
-Mi aquí puede salvar
+Cristo puede mover montes
+Solo Dios puede salvar
+Mi Dios puede salvar
 
 Por siempre
-Autor de salvacion
-Jesús la muerte vencio
-El la muerte vencio
+Autor de salvación
 
-Aun con mis temores
+Jesús la muerte venció
+Él la muerte venció
+
+Aún con mis temores
 Se que me aceptas
 Una y otra vez
 
@@ -1163,10 +1769,25 @@ Mi vida entera ofrezco
 Para seguir tus pasos
 A ti me rindo
 
-En la tierra tu luz brillara
-Cantamos
-Por la gloria de tu
-Majestad
+Cristo puede mover montes
+Solo Dios puede salvar
+Mi Dios puede salvar
+
+Por siempre
+Autor de salvación
+
+Jesús la muerte venció
+Él la muerte venció
+
+Cristo puede mover montes
+Solo Dios puede salvar
+Mi Dios puede salvar
+
+Por siempre
+Autor de salvación
+
+Jesús la muerte venció
+Él la muerte venció
 
 ---
 
@@ -1175,95 +1796,91 @@ Majestad
 Cristo, te exalto
 Cristo, te adoro
 
-Porque tú eres mí Señor
-Solo a ti daré la gloria y honor
+Porque Tú eres mi Señor
+Sólo a Tí daré la gloria y honor
 
 Cristo, te exalto
 Cristo, te adoro
 
-Porque tú eres mí Señor
-Solo a ti daré la gloria y honor
+Porque Tú eres mi Señor
+Sólo a Tí daré la gloria y honor
 
 Gloriosa es tu presencia
 Me cubre y me da paz
 
 Mi ser siempre proclamará
-Que solo tú eres digno de adorar
-
-Cristo, te exalto
-Cristo, te adoro
-
-Porque Tú eres mí Señor
-Solo a ti daré la gloria y honor
-
-Gloriosa es tu presencia
-Me cubre y me da paz
-
-Mi ser siempre proclamará
-Que solo tú eres digno de adorar
-
-Gloriosa es tu presencia (sí, Señor)
-Me cubre y me da paz
-
-Mi ser siempre proclamará
-Que solo Tú eres digno de adorar (gloriosa)
-
-Gloriosa es tu presencia
-Me cubre y me da paz
-
-Mi ser siempre proclamará
-Que solo tú eres digno de adorar
-
 Que solo Tú eres digno de adorar
-Que solo Tú eres digno
 
-Solo tú eres digno
-Que solo tú eres digno de adorar
+Gloriosa es tu presencia
+Me cubre y me da paz
 
-Solo tú eres digno,
-Solo tú eres digno de adorar
+Mi ser siempre proclamará
+Que solo Tú eres digno de adorar
+
+Cristo, te exalto
+Cristo, te adoro
+
+Porque Tú eres mi Señor
+Sólo a Tí daré la gloria y honor
+
+Gloriosa es tu presencia
+Me cubre y me da paz
+
+Mi ser siempre proclamará
+Que solo Tú eres digno de adorar
+
+Gloriosa es Tu presencia (sí, Señor)
+Me cubre y me da paz
+
+Mi ser siempre proclamará
+Que sólo Tú eres digno,
+Que sólo Tú eres digno
+
+Que sólo Tú eres digno de adorar
 
 ---
 
-## Cuan Bello Es el Señor
+## Cuan Bello Es el Señor (Adoración - v01)
 
 Cuán bello es el Señor
 Cuán hermoso es el Señor
-Cuán bello es el Señor
-Hoy le quiero adorar (¿se la saben?)
 
-Cuán bello es el Señor
-Cuán hermoso es el Señor
 Cuán bello es el Señor
 Hoy le quiero adorar
 
-La belleza de mí Señor
+Cuán bello es el Señor
+Cuán hermoso es el Señor
+
+Cuán bello es el Señor
+Hoy le quiero adorar
+
+La belleza de mi Señor
 Nunca se agotará
-La hermosura de mí Señor
+
+La hermosura de mi Señor
 Siempre resplandecerá
 
-La belleza de mí Señor
+La belleza de mi Señor
 Nunca se agotará
 
-La hermosura de mí Señor
+La hermosura de mi Señor
 Siempre resplandecerá
 
-¡roberto prado!
-¡sergio gonzález en el piano!
+Cuán bello es el Señor
+Cuán hermoso es el Señor
 
-La belleza de mí Señor
-Nunca se agotará (¡alguien dígame!)
+Cuán bello es el Señor
+Hoy le quiero adorar
 
-La hermosura de mí Señor
+La belleza de mi Señor
+Nunca se agotará
+
+La hermosura de mi Señor
 Siempre resplandecerá
-
-Oh, la belleza de mí Señor
-Nunca se agotará, uh-UhLa hermosura de mí Señor
-Siempre resplandecerá, uh-Uh
 
 ---
 
-## Cuan Grande Es Dios (Adoración - v01)
+## Cuan Grande Es Dios (Adoración v01)
 
 El esplendor de un rey
 Vestido en majestad
@@ -1274,8 +1891,8 @@ La tierra alegre está
 Cubierto esta de luz
 Venció la oscuridad
 
-y tiembla a su voz
-y tiembla a su voz
+Y tiembla a su voz
+Y tiembla a su voz
 
 Cuan grande es Dios
 Cantaré cuan grande es Dios
@@ -1315,31 +1932,37 @@ Cuan grande es Dios
 
 Su nombre sobre todo es
 Eres digno de alabar
+
 Y mi ser dirá
 Cuan grande es Dios
 
 ---
 
-## Cuan Grande Es el
+## Cuan Grande Es el (Adoración - v01)
 
-Señor mí aquí
+Señor mi Dios
 Al contemplar los cielos
 
 El firmamento
 Y las estrellas mil
 
-Al oir tu voz
+Al oír Tu voz
 En los potentes truenos
 
 Y el brillar
 El sol en su cenit
 
-(coro)
- Mi corazon entona
-La cancion
+Mi corazón entona
+La canción
 
-Cuan grande es el
-Cuan grande es el
+Cuan grande es Él
+Cuan grande es Él
+
+Mi corazón entona
+La canción
+
+Cuan grande es Él
+Cuan grande es Él
 
 Al recorrer los montes
 Y los valles
@@ -1351,6 +1974,18 @@ Al escuchar el canto
 De las aves y el murmurar
 Del claro manantial
 
+Mi corazón entona
+La canción
+
+Cuan grande es Él
+Cuan grande es Él
+
+Mi corazón entona
+La canción
+
+Cuan grande es Él
+Cuan grande es Él
+
 Cuando recuerdo
 Del amor divino
 
@@ -1360,8 +1995,20 @@ Al salvador envio
 Aquel Jesús
 Que por salvarme vino
 
-Y en una cruz sufrio
-Por mí y murio
+Y en una cruz sufrió
+Por mí y murió
+
+Mi corazón entona
+La canción
+
+Cuan grande es Él
+Cuan grande es Él
+
+Mi corazón entona
+La canción
+
+Cuan grande es Él
+Cuan grande es Él
 
 Cuando el Señor
 Me llame a su presencia
@@ -1369,100 +2016,213 @@ Me llame a su presencia
 Al dulce hogar
 Al cielo de esplendor
 
-Le adorare
+Le adoraré
 Cantando la grandeza
 
 De su poder
 Y su infinito amor
 
+Mi corazón entona
+La canción
+
+Cuan grande es Él
+Cuan grande es Él
+
+Mi corazón entona
+La canción
+
+Cuan grande es Él
+Cuan grande es Él
+
 ---
 
-## Cuando el Pueblo del Señor Alaba a Dios
+## Cuando el Pueblo del Señor Alaba a Dios (Alabanza - v01)
 
-//cuando el pueblo del Señor alaba a aquí
-Suceden cosas maravillosas//
+Cuando el pueblo del Señor alaba a Dios
+Suceden cosas, suceden cosas maravillosas
 
-//hay sanidad, liberacion
-Se siente la presencia Señor //
+Cuando el pueblo del Señor alaba a Dios
+Suceden cosas, suceden cosas maravillosas
 
-//y aqui se siente
-La presencia de aquí //
+Hay sanidad, liberación
+Se siente la presencia Señor
+
+Hay sanidad, liberación
+Se siente la presencia Señor
+
+Y aquí se siente
+La presencia de Dios
+
+Y aquí se siente
+La presencia de Dios
 
 ---
 
-## Cuando la Trompeta Suene Himno
+## Cuando la Trompeta Suene Himno (Alabanza - v01)
 
 Cuando la trompeta suene
-En aquel dia final
+En aquel día final
 Y que el alba eterna rompa en claridad
+
 Cuando las naciones salvas
 A su patria lleguen ya
-Y que sea pasada lista
-Alli he de estar
+Y que sea pasada lista allí he de estar
 
-/// cuando alla se pase lista///
- A mí nombre yo feliz respondere
+Cuando allá se pase lista
+Cuando allá se pase lista
+Cuando allá se pase lista
 
-En aquel dia sin nieblas
-En que muerte ya no habra
-Y su gloria el salvador impartira
+A mi nombre yo feliz responderé
+
+En aquel día sin nieblas
+En que muerte ya no habrá
+Y su gloria el salvador impartirá
+
 Cuando los llamados entren
 A su celestial hogar
-Y que sea pasada lista
-Alli he de estar
+Y que sea pasada lista allí he de estar
+
+Cuando allá se pase lista
+Cuando allá se pase lista
+Cuando allá se pase lista
+
+A mi nombre yo feliz responderé
 
 Trabajemos por el maestro
 Desde el alba al vislumbrar
-Siempre hablemos de su amor
-Y fiel bondad
-Cuando todo aqui fenezca
+Siempre hablemos de su amor y fiel bondad
+
+Cuando todo aquí fenezca
 Y nuestra obra cese ya
-Y que sea pasada lista
-Alli he de estar
+Y que sea pasada lista allí he de estar
+
+Cuando allá se pase lista
+Cuando allá se pase lista
+Cuando allá se pase lista
+
+A mi nombre yo feliz responderé
 
 ---
 
-## De Gloria en Gloria (nuevo)
+## De Gloria en Gloria Marcos Barrientos (Alabanza - v01)
 
 Yo quiero ver
 Tú luz brillando en mí
+
 Atraves de mí
 Ser un altar
+
 Que todos puedan ver
-Que todos oigan
+Que todos oigan que
 
-//tu eres vida
+Tú eres vida
 La esperanza
-Perfecta gracia que me ha rescatado//
 
-//ya no vivo yo
+Perfecta gracia que
+Me ha rescatado
+
+Tú eres vida
+La esperanza
+
+Perfecta gracia que
+Me ha rescatado
+
+Ya no vivo yo
 Cristo vive en mí
-Barro quiero ser en tus manos//
+Barro quiero ser en tus manos
 
-De gloria en gloria te veo oh aquí
+Ya no vivo yo
+Cristo vive en mí
+Barro quiero ser en tus manos
+
+De gloria en gloria te veo oh Dios
+De gloria en gloria transformado soy
+Por tu Espíritu
+
+Yo quiero ver
+Tú luz brillando en mí
+
+Atraves de mí
+Ser un altar
+
+Que todos puedan ver
+Que todos oigan que
+
+Tú eres vida
+La esperanza
+
+Perfecta gracia que
+Me ha rescatado
+
+Tú eres vida
+La esperanza
+
+Perfecta gracia que
+Me ha rescatado
+
+Ya no vivo yo
+Cristo vive en mí
+Barro quiero ser en tus manos
+
+Ya no vivo yo
+Cristo vive en mí
+Barro quiero ser en tus manos
+
+De gloria en gloria te veo oh Dios
 De gloria en gloria transformado soy
 Por tu Espíritu
 
 ---
 
-## De Gloria en Gloria Te Veo
+## De Gloria en Gloria Te Veo (Adoración - v01)
 
 De gloria en gloria
 Te veo
-Cuanto más de conozco
-Quiero saber más de ti
 
-Mi aquí
+Cuanto más Te conozco
+Quiero saber más de Tí
+
+Mi Dios
 Cuan buen alfarero
-Quebrantame
-Transformame
+
+Quebrántame
+Transfórmame
+
 Moldeame a tu imagen
 Señor
 
-//quiero ser más como tu
-Ver la vida como tu
+Quiero ser más como Tú
+Ver la vida como Tú
+
 Saturarme de tu Espíritu
-Y reflejar al mundo tu amor//
+Y reflejar al mundo Tu amor
+
+De gloria en gloria
+Te veo
+
+Cuanto más Te conozco
+Quiero saber más de Tí
+
+Mi Dios
+Cuan buen alfarero
+
+Quebrántame
+Transfórmame
+
+Moldeame a tu imagen
+Señor
+
+Quiero ser más como Tú
+Ver la vida como Tú
+
+Saturarme de tu Espíritu
+Y reflejar al mundo Tu amor
+
+Quiero ser más como Tú
+Ver la vida como Tú
+
+Saturarme de tu Espíritu
+Y reflejar al mundo Tu amor
 
 ---
 
@@ -1471,8 +2231,8 @@ Y reflejar al mundo tu amor//
 Llenas nuestro hogar de danza
 De tu gozo la ciudad
 
-La injusticia tú quebrantas
-Si se humilla tu heredad.
+La injusticia Tú quebrantas
+Si se humilla Tu heredad.
 
 De los montes a los valles
 Ya se escucha, el clamor
@@ -1486,12 +2246,18 @@ Al andar ante la cruz
 Llena tu gloria la tierra
 Como el mar en plenitud.
 
+De los montes a los valles
+Ya se escucha, el clamor
+
+De los cielos a los pueblos
+Ya te cantan, con amor.
+
 Aleluya, aleluya
 Aleluya, aleluya
 
 ---
 
-## Digno Es el Cordero de Dios
+## Digno Es el Cordero de Dios (Adoración - v01)
 
 Al estar ante ti
 Adorando frente almar de cristal
@@ -1519,81 +2285,163 @@ Es por el
 
 ---
 
-## Dios Esta Aqui
+## Dios Esta Aqui (Adoración - v01)
 
 Dios esta aquí
 Tan cierto como el aire que respiro,
+
 Tan cierto como la mañana se levanta
-Tan cierto como yo te hablo y me puedes oir.
+Tan cierto como yo te hablo y me puedes oír.
 
 Dios esta aquí
 Tan cierto como el aire que respiro,
+
 Tan cierto como la mañana se levanta
 Tan cierto como yo te hablo y me puedes oir.
 
+No fijeís los ojos, en nadie mas que en Él
+No fijeís los ojos, en nadie mas que en Él
+
+No fijeis los ojos en nadie más
+No fijeis los ojos en nadie más
+No fijeis los ojos en nadie más que en Él
+
+No adoreis a nadie, a nadie mas que a Él
+No adoreis a nadie, a nadie mas que a Él
+
+No adoreis a nadie, a nadie más
+No adoreis a nadie, a nadie más
+No adoreis a nadie, a nadie mas que a Él
+
+Porque sólo Él nos sostendrá
+Porque sólo Él nos sostendrá
+
+No fijeis los ojos en nadie más
+No adores a nadie, a nadie más
+Porque sólo Él nos sostendrá
+
 ---
 
-## Dios Ha Sido Bueno
+## Dios Ha Sido Bueno (Adoración - v01)
 
-aquí ha sido bueno
-Bueno es aquí
+Dios ha sido bueno
+Dios ha sido bueno
+Dios ha sido bueno
+
+Bueno es Dios
+
+Dios ha sido bueno
+Dios ha sido bueno
+Dios ha sido bueno
+
+Bueno es Dios
 
 ---
 
-## Dulce Comunión
+## Dulce Comunión (Alabanza - v01)
 
 Dulce comunión la que gozo ya
-En los brazos de mí salvador;
+En los brazos de mi Salvador;
 
-¡qué gran bendición en su paz me da!
-¡oh! yo siento en mí su tierno amor.
+¡Qué gran bendición en su paz me da!
+¡Oh! yo siento en mí su tierno amor.
 
 Libre, salvo del pecado y del temor;
-Libre, salvo, en los brazos de mí salvador.
+Libre, salvo, en los brazos de mi Salvador.
 
 ¡Cuán dulce es vivir, cuán dulce es gozar!
-En los brazos de mí salvador;
+En los brazos de mi Salvador;
 
-Allí quiero ir y con él morar
+Allí quiero ir y con Él morar
 Siendo objeto de su tierno amor.
 
-No hay que temer, ni que desconfiar,
-En los brazos de mí salvador;
+Libre, salvo del pecado y del temor;
+Libre, salvo, en los brazos de mi Salvador.
 
-Por su gran poder él me guardará
+No hay que temer, ni que desconfiar,
+En los brazos de mi Salvador;
+
+Por su gran poder Él me guardará
 De los lazos del engañador.
+
+Libre, salvo del pecado y del temor;
+Libre, salvo, en los brazos de mi Salvador.
 
 ---
 
-## Dulce Refugio
+## Donde está el Espíritu de Dios (Alabanza - v01)
+
+Donde está el Espíritu de Dios
+Hay libertad, hay libertad
+
+Donde está el Espíritu de Dios
+Allí siempre hay libertad.
+
+Libertad, libertad
+Libertad, libertad
+
+Donde está el Espíritu de Dios
+Allí siempre hay libertad.
+
+Lleno de poder lleno de gloria y alabanza
+Lleno de poder lleno de gloria y alabanza
+Lleno de poder lleno de gloria y alabanza
+
+Que somos templo del Espíritu de Dios
+
+Donde está el Espíritu de Dios
+Hay libertad, hay libertad
+
+Donde está el Espíritu de Dios
+Allí siempre hay libertad.
+
+Libertad, libertad
+Libertad, libertad
+
+Donde está el Espíritu de Dios
+Allí siempre hay libertad.
+
+Lleno de poder lleno de gloria y alabanza
+Lleno de poder lleno de gloria y alabanza
+Lleno de poder lleno de gloria y alabanza
+
+Que somos templo del Espíritu de Dios
+
+Donde está el Espíritu de Dios
+Hay libertad, hay libertad
+
+Donde está el Espíritu de Dios
+Allí siempre hay libertad.
+
+## Dulce Refugio (Adoración - v01)
 
 Dulce refugio
 En la tormenta
-Es Jesucristo el salvador
+Es Jesucristo el Salvador
 
 El me alienta y alimenta
 Con su palabra y su amor
 
-Vengo a reposar en el
-El es mí amigo fiel
+Vengo a reposar en Él
+El es mi amigo fiel
 
 Una poderosa
-Y fresca uncion
-Llenara mí corazon
+Y fresca unción
+Llenará mí corazón
 
-//vengo a reposar en el
-El es mí amigo fiel,
+Vengo a reposar en Él
+El es mi amigo fiel,
+
 Una poderosa
-Y fresca uncion
-Llenara mí corazon//
+Y fresca unción
+Llenará mi corazón
 
 Dulce refugio
 En la tormenta
-Es Jesucristo
-El salvador
+Es Jesucristo el Salvador
 
-//es Jesucristo
-El salvador//
+Es Jesucristo
+El Salvador
 
 ---
 
@@ -1607,8 +2455,8 @@ El Dios que aún los vientos le obedecen
 Una palabra es suficiente
 Para los muertos levantar
 
-Nadie es como él
-Oh, gran yo soy
+Nadie es como Él
+Oh, gran Yo Soy
 
 Tú eres el Dios que adoramos
 Todopoderoso y soberano
@@ -1624,10 +2472,10 @@ Nuestra culpa y transgresión
 
 Jesús, exaltado sobre todo
 Nombre sobre todo nombre
-Solo en él hay salvación
+Sólo en Él hay salvación
 
-Nadie es como él
-Oh, gran, yo soy
+Nadie es como Él
+Oh, gran, Yo Soy
 
 Tú eres el Dios que adoramos
 Todopoderoso y soberano
@@ -1638,7 +2486,10 @@ Quien derrotó la muerte y el pecado
 Glorioso redentor y rey, te adoramos
 
 A él sea la gloria y el poder
-Todo es de él y para él
+Todo es de Él y para Él
+
+A él sea la gloria y el poder
+Todo es de Él y para Él
 
 Tú eres el Dios que adoramos
 Todopoderoso y soberano
@@ -1650,296 +2501,593 @@ Glorioso redentor y rey, te adoramos
 
 ---
 
-## El Es el Rey Infinto en Poder
+## El Es el Rey Infinto en Poder (Alabanza - v01)
 
 El es el rey infinito en poder
 El es el rey de los cielos
+
 Mi vida rindo a sus pies
-El es rey sobre mí corazon
+El es rey sobre mi corazón
 
-El es el rey lo confiesa mí ser
+El es el rey lo confiesa mi ser
 El es el rey de los siglos
-Sere para el siervo fiel
-Pues mí vida compro con su amor
 
-//el es el rey//
-Él es el rey de mí vida
-//el es el rey//
+Seré para el siervo fiel
+Pues mi vida compró con su amor
+
+Él es el rey
+Él es el rey
+Él es el rey de mi vida
+
+Él es el rey
+Él es el rey
 Reina con autoridad
+
 Su reino eterno es
 Su trono el cielo es
-El es el rey
+
+Él es el rey
+Que viene a su pueblo a llevar
+
+Él es el rey
+Él es el rey
+Él es el rey de mi vida
+
+Él es el rey
+Él es el rey
+Reina con autoridad
+
+Su reino eterno es
+Su trono el cielo es
+
+Él es el rey
+Que viene a su pueblo a llevar
+
+Él es el rey
 Que viene a su pueblo a llevar
 
 ---
 
-## En el Arca de Noe
+## En el Arca de Noe (Alabanza - v01)
 
-En el arca de noé
+En el arca de Noé
 Todos caben todos caben
 
-En el arca de noé
-Todos caben y tu tambien
+En el arca de Noé
+Todos caben y tú también
 
-Quieres oir como canta el _____
+Quieres oír como canta el _____
 Quieres oir el _______ canta así
 
 ---
 
-## En el Monte Calvario
+## En el Monte Calvario (Adoración - v01)
 
 En el monte calvario
 Estaba una cruz
 Emblema de afrenta y dolor
 
 Mas yo amo esa cruz
-Do murio mí Jesús
+Do murió mí Jesús
 Por salvar al más vil pecador
 
 Oh yo siempre
-Amare esa cruz
-En sus triunfos
-Mi gloria sera
+Amaré esa cruz
 
-Y algun dia en vez
+En sus triunfos
+Mi gloria será
+
+Y algún día en vez
 De una cruz
-Mi corona Jesús me dara
+Mi corona Jesús me dará
 
 Y aunque el mundo
 Desprecie la cruz de Jesús
-Para mí tiene suma atraccion
+Para mí tiene suma atracción
 
 Pues en ella llevo
-El cordero de aquí
-De mí alma la condenacion
+El cordero de Dios
+De mí alma la condenación
 
 En la cruz de Jesús
-Do su sangre vertio
+Do su sangre vertió
 Hermosura contemplo sin par
 
-Pues en ella triunfante a la muerte vencio
-Y mí ser puede santificar
+Pues en ella triunfante a la muerte venció
+Y mi ser puede santificar
 
-Yo sere siempre fiel
+Oh yo siempre
+Amaré esa cruz
+
+En sus triunfos
+Mi gloria será
+
+Y algún día en vez
+De una cruz
+Mi corona Jesús me dará
+
+Yo seré siempre fiel
 A la cruz de Jesús
-Sus desprecios con el llevare
+Sus desprecios con Él llevaré
 
-Y algun dia feliz
+Y algún día feliz
 Con los santos en luz
-Para siempre su gloria vere
+Para siempre su gloria veré
+
+Oh yo siempre
+Amaré esa cruz
+
+En sus triunfos
+Mi gloria será
+
+Y algún día en vez
+De una cruz
+Mi corona Jesús me dará
+Mi corona Jesús me dará
 
 ---
 
-## En la Casa de Dios
+## En la Casa de Dios (Alabanza - v01)
 
-Mejor es un dia en la casa de aquí
-Que mil años lejos de el
-Prefiero un rincon en la casa de aquí
+Mejor es un día en la casa de Dios
+Que mil años lejos de Él
+
+Prefiero un rincón en la casa de Dios
+Que todo el palacio de un rey
 Que todo el palacio de un rey
 
-Ven conmigo a la casa de aquí
+Ven conmigo a la casa de Dios
 Celebraremos juntos su amor
-Haremos fiesta en honor de aquel que nos amo
+Haremos fiesta en honor de Aquel que nos amó
 
-Estando aqui en la casa de aquí
-Alegraremos su corazon
+Estando aquí en la casa de Dios
+Alegraremos su corazón
+
 Le brindaremos ofrendas de obediencia y amor
-En la casa de aquí
+En la casa de Dios
 
-Arde mí alma arde de amor
-Por aquel que me dio la vida
-Por eso le anhela mí corazon
+Arde mi alma, arde de amor
+Por Aquel que me dió la vida
+
+Por eso le anhela mi corazón
 Anhela de su compañia
+Anhela de su compañia
+
+Ven conmigo a la casa de Dios
+Celebraremos juntos su amor
+Haremos fiesta en honor de Aquel que nos amó
+
+Estando aquí en la casa de Dios
+Alegraremos su corazón
+
+Le brindaremos ofrendas de obediencia y amor
+En la casa de Dios
+
+En la casa de Dios
+En la casa de Dios
 
 ---
 
-## En la Cruz Do Primero
+## En la Cruz Do Primero (Adoración - v01)
 
-Me hirio el pecado
+Me hirió el pecado,
 Fui a Jesús
 Mostrele mí dolor
-Perdido errante vi su luz
+
+Perdido errante ví su luz
 Bendijome en su amor
 
 En la cruz, en la cruz
-Do primero vi la luz
-Y las manchas
-De mí alma yo lave
+Do primero ví la luz
 
-Fue alli por fe
-Do vi a Jesús
+Y las manchas
+De mi alma yo lavé
+
+Fue allí por fé
+Do ví a Jesús
+
 Y siempre feliz
-Con el sere
+Con Él seré
 
 Sobre una cruz
 Mi buen Señor
-Su sangre derramo
-Por este pobre pecador
-A quien asi salvo
+Su sangre derramó
 
-Vencio a la muerte
+Por este pobre pecador
+A quién así salvó
+
+En la cruz, en la cruz
+Do primero ví la luz
+
+Y las manchas
+De mi alma yo lavé
+
+Fue allí por fé
+Do ví a Jesús
+
+Y siempre feliz
+Con Él seré
+
+Venció a la muerte
 Con poder
-Y al cielo se exalto
-Confiar en el es mí placer
+Y al cielo se exaltó
+
+Confiar en Él es mí placer
 Morir no temo yo
 
-Aunque el se fue
+En la cruz, en la cruz
+Do primero ví la luz
+
+Y las manchas
+De mi alma yo lavé
+
+Fue allí por fé
+Do ví a Jesús
+
+Y siempre feliz
+Con Él seré
+
+Aunque Él se fue
 Solo no estoy
 Mando al consolador
+
 Divino Espíritu que hoy
 Me da perfecto amor
 
+En la cruz, en la cruz
+Do primero ví la luz
+
+Y las manchas
+De mi alma yo lavé
+
+Fue allí por fé
+Do ví a Jesús
+
+Y siempre feliz
+Con Él seré
+
+Fue allí por fé
+Do ví a Jesús
+
+Y siempre feliz
+Con Él seré
+
 ---
 
-## En Mi Corazon Hay una Cancion
+## En Mi Corazon Hay una Cancion (Adoración - v01)
 
-En mí corazon
-Hay una cancion
-Que demuestra mí pasion
-Para mí rey y mí Señor
-Para aquel que me amo
+En mi corazón
+Hay una canción
+Que demuestra mí pasión
+
+Para mi Rey y mI Señor
+Para Aquel que me amó
 
 Hermoso eres
 Mi Señor
-Hermoso eres
+
+Hermoso eres Tú
 Amado mio
-Tú eres la fuente
-De mí vida
-Y el anhelo
-De mí corazon
+
+Tú eres la fuente de mi vida
+Y el anhelo de mi corazón
+
+Hermoso eres
+Mi Señor
+
+Hermoso eres Tú
+Amado mio
+
+Tú eres la fuente de mi vida
+Y el anhelo de mi corazón
+
+En mi corazón
+Hay una canción
+Que demuestra mí pasión
+
+Para mi Rey y mI Señor
+Para Aquel que me amó
+
+Hermoso eres
+Mi Señor
+
+Hermoso eres Tú
+Amado mio
+
+Tú eres la fuente de mi vida
+Y el anhelo de mi corazón
+Y el anhelo de mi corazón
 
 ---
 
-## En Presencia Estar de Cristo
+## En Presencia Estar de Cristo (Adoración - v01)
 
 En presencia estar de Cristo,
 Ver su rostro ¿qué será?
+
 Cuando al fin en pleno gozo,
 Mi alma le contemplará.
 
-Coro:
 Cara a cara espero verle,
 Más allá del cielo azul;
+
 Cara a cara en plena gloria,
-Yo veré al Señor Jesús.
+He de ver a mi Jesús.
 
 Sólo tras oscuro velo
 Hoy le puedo aquí mirar,
+
 Mas ya pronto viene el día
 Que su gloria ha de mostrar.
 
-¡cuánto gozo habrá con Cristo
+Cara a cara espero verle,
+Más allá del cielo azul;
+
+Cara a cara en plena gloria,
+He de ver a mi Jesús.
+
+¡Cuánto gozo habrá con Cristo
 Cuando no haya más dolor,
+
 Cuando cesen los peligros
 Y ya estemos en su amor!
+
+Cara a cara espero verle,
+Más allá del cielo azul;
+
+Cara a cara en plena gloria,
+He de ver a mi Jesús.
 
 Cara a cara, ¡cuán glorioso
 Ha de ser así vivir!
 ¡ver el rostro de quién quiso,
 Nuestras almas redimir!
 
+Cara a cara espero verle,
+Más allá del cielo azul;
+
+Cara a cara en plena gloria,
+He de ver a mi Jesús.
+
 ---
 
-## En Ti Confia Mi Corazon
+## En Ti Confia Mi Corazon (Adoración - v01)
 
-//en ti confia mí corazon
-En ti reposa mí alma
-Mi ser descansa en ti
-Puedo ser feliz//
+En Tí confía mi corazón
+En Tí reposa mi alma
 
-Porque se que estas obrando
-Tú perfecta voluntad
-En mí vida estas obrando
-Tú perfecta voluntad
-
-En ti confia mí corazon
-En ti reposa mí alma
-Mi ser descansa en ti
+Mi ser descansa en Tí
 Puedo ser feliz
 
-///porque se que estas obrando
+En Tí confía mi corazón
+En Tí reposa mi alma
+
+Mi ser descansa en Tí
+Puedo ser feliz
+
+Porque sé que estás obrando
 Tú perfecta voluntad
-En mí vida estas obrando
-Tú perfecta voluntad///
+
+En mi vida estás obrando
+Tu perfecta voluntad
+
+En Tí confía mi corazón
+En Tí reposa mi alma
+
+Mi ser descansa en Tí
+Puedo ser feliz
+
+Porque sé que estás obrando
+Tú perfecta voluntad
+
+En mi vida estás obrando
+Tu perfecta voluntad
+
+Porque sé que estás obrando
+Tú perfecta voluntad
+
+En mi vida estás obrando
+Tu perfecta voluntad
 
 ---
 
-## Enamorame
+## Enamorame (Adoración - v01)
 
 Quiero entregarte mis sueños
-Tú voluntad has en ellos
-Mi corazon te lo entrego
-Enamorame de ti
+Tu voluntad haz en ellos
+
+Mi corazón te lo entrego
+Enamorame de Tí
 
 Quiero aprender a escucharte
 Quiero saber que es amarte
-De tu verdad yo saciarme
-Enamorame de ti Señor
+
+De Tu verdad yo saciarme
+Enamorame de Tí Señor
 
 Que tu presencia me inunde
 Haz de mí un odre nuevo
-Cambiame renuevame
-Enamorame de ti Señor
+
+Cámbiame, renuévame
+Enamorame de Tí Señor
+
+Quiero entregarte mis sueños
+Tu voluntad haz en ellos
+
+Mi corazón te lo entrego
+Enamorame de Tí
+
+Quiero aprender a escucharte
+Quiero saber que es amarte
+
+De Tu verdad yo saciarme
+Enamorame de Tí Señor
+
+Que tu presencia me inunde
+Haz de mí un odre nuevo
+
+Cámbiame, renuévame
+Enamorame de Tí Señor
 
 ---
 
-## Eres Digno de Gloria
+## Envíame a Mí  (Adoración - v01)
+
+La mies es mucha, hay gran necesidad
+Y pocos obreros al campo van
+
+Hoy muchos se pierden, viven sin dirección
+Vagan como ovejas sin pastor
+
+Heme aquí, envíame a mí
+Yo iré por aquellos que vagan sin Tí
+
+Heme aquí, envíame a mí
+Yo iré por aquellos que vagan sin Tí
+
+Envíame a mí
+Yo iré
+
+La mies es mucha, hay gran necesidad
+Y pocos obreros al campo van
+
+Hoy muchos se pierden, viven sin dirección
+Vagan como ovejas sin pastor
+
+Heme aquí, envíame a mí
+Yo iré por aquellos que vagan sin Tí
+
+Heme aquí, envíame a mí
+Yo iré por aquellos que vagan sin Tí
+
+Envíame a mí
+Yo iré
+
+---
+
+## Eres Digno de Gloria (Alabanza - v01)
 
 Hoy te alabamos Señor
-Y declaramos que tu eres nuestro aquí
-Tú eres el aquí de amor
+Y declaramos que tu eres nuestro Dios
+
+Tu eres el Dios de amor
 Ya no somos
 Esclavos del temor
 
 Hoy te adoramos Señor
-Y te cantamos
-De nuestro corazon
+Y te cantamos con nuestro corazon
+
 Te damos todo el honor
-Sobre el cielo y la tierra tu eres Señor
+Sobre el cielo y la tierra Tú eres Señor
 
 Eres digno de gloria
-Sobre toda la tierra tu eres aquí
-Eres digno de recibir toda adoracion
-Todo el honor sea a ti
+Sobre toda la tierra Tú eres Dios
+
+Eres digno de recibir toda adoración
+Todo el honor sea a Tí
 
 Eres digno de gloria
 
-Eres digno
-Eres Santo
-Eres rey
-De toda creacion
+Hoy te alabamos Señor
+Y declaramos que tu eres nuestro Dios
+
+Tu eres el Dios de amor
+Ya no somos
+Esclavos del temor
+
+Hoy te adoramos Señor
+Y te cantamos con nuestro corazon
+
+Te damos todo el honor
+Sobre el cielo y la tierra Tú eres Señor
+
+Eres digno de gloria
+Sobre toda la tierra Tú eres Dios
+
+Eres digno de recibir toda adoración
+Todo el honor sea a Tí
+
+Eres digno de gloria
+
+Eres digno, Eres Santo
+Eres rey de toda creación
+
+Eres digno, Eres Santo
+Eres rey de toda creación
+
+Eres digno, Eres Santo
+Eres rey de toda creación
+
+Eres digno de gloria
+Sobre toda la tierra Tú eres Dios
+
+Eres digno de recibir toda adoración
+Todo el honor sea a Tí
 
 ---
 
-## Eres el Mas Hermoso
+## Eres el Mas Hermoso (Adoración - v01)
 
 Eres el más hermoso
 Eres el más precioso
 Palabras faltarían para decir
-Que tú eres el grande
-Que tu Señor eres incomparable
-La razón por la que vivo es por ti.
 
-//toda mí vida está en ti
-Todos mis sueños están en ti
+Que Tú eres el grande
+Que Tú eres incomparable
+La razón por la que vivo es por Tí.
+
+Toda mi vida está en Tí
+Todos mis sueños están en Tí
+
 Todo lo que soy y lo que espero ser
-Está en la presencia de Jesús//
+Está en la presencia de Jesús
+
+Toda mi vida está en Tí
+Todos mis sueños están en Tí
+
+Todo lo que soy y lo que espero ser
+Está en la presencia de Jesús
+
 Eres fiel Señor.
 
 ---
 
-## Eres Fiel
+## Eres Fiel (Alabanza - v01)
 
-//Señor eres fiel
-Y tu misericordia eterna//
+Señor eres fiel
+Y tu misericordia eterna
+
+Señor eres fiel
+Y tu misericordia eterna
 
 Gente de toda
-Lengua y nacion
-De generacion
-A generacion
+Lengua y nación
+
+De generación
+A generación
 
 Te adoramos hoy
-//aleluya//
+Aleluya, Aleluya
+
+Te adoramos hoy
+Eres Señor
+Eres fiel
+
+Señor eres fiel
+Y tu misericordia eterna
+
+Señor eres fiel
+Y tu misericordia eterna
+
+Gente de toda
+Lengua y nación
+
+De generación
+A generación
+
+Te adoramos hoy
+Aleluya, Aleluya
+
 Te adoramos hoy
 Eres Señor
 Eres fiel
@@ -1949,21 +3097,33 @@ Siempre fiel
 Siempre fiel
 Eres fiel
 
+Eres fiel
+Siempre fiel
+Siempre fiel
+Eres fiel
+
+Señor eres fiel
+Y tu misericordia eterna
+
+Gente de toda
+Lengua y nación
+
+De generación
+A generación
+
+Te adoramos hoy
+Aleluya, Aleluya
+
+Te adoramos hoy
+Eres Señor
+Eres fiel
+
 ---
 
-## Eres Mi Amigo Fiel (coalo Zamorano)
+## Eres Mi Amigo Fiel Coalo Zamorano (Alabanza - v01)
 
-Quien soy yo para que en mí tu pienses
-Y que escuches mí clamor
-
-Es verdad lo que
-Tú hoy me dices
-
-Que me amas
-Me asombras
-
-Quien soy yo para que en mí tu pienses
-Y que escuches mí clamor
+Quien soy yo para que en mí Tú pienses
+Y que escuches mi clamor
 
 Es verdad lo que
 Tú hoy me dices
@@ -1971,138 +3131,219 @@ Tú hoy me dices
 Que me amas
 Me asombras
 
- ///eres mí amigo fiel///
-Tú amigo soy
+Quien soy yo para que en mí Tú pienses
+Y que escuches mi clamor
 
- ///eres mí amigo fiel///
- Tú amigo soy
+Es verdad lo que
+Tú hoy me dices
 
-Quien soy yo para que en mí tu pienses
-Y que escuches mí clamor
+Que me amas
+Me asombras
+
+Eres mi amigo fiel
+Eres mi amigo fiel
+Eres mi amigo fiel
+Tu amigo soy
+
+Eres mi amigo fiel
+Eres mi amigo fiel
+Eres mi amigo fiel
+Tu amigo soy
+
+Quien soy yo para que en mí Tú pienses
+Y que escuches mi clamor
 
 Es verdad lo que
 Tú hoy me dices
 
 Que me amas
 
- ///me asombras///
- ///eres mí amigo fiel///
+Me asombras
+Me asombras
+Me asombras
 
-Tú amigo soy
- ///eres mí amigo fiel///
+Eres mi amigo fiel
+Eres mi amigo fiel
+Eres mi amigo fiel
+Tu amigo soy
 
-Tú amigo soy
+Eres mi amigo fiel
+Eres mi amigo fiel
+Eres mi amigo fiel
+Tu amigo soy
 
 Majestuoso
 Poderoso
-Tú amigo soy
+Tu amigo soy
 
-///eres mí amigo fiel///
-Tú amigo soy
+Majestuoso
+Poderoso
+Tu amigo soy
 
-Tú amigo soy
+Eres mi amigo fiel
+Eres mi amigo fiel
+Eres mi amigo fiel
+Tu amigo soy
 
----
-
-## Eres Todopoderoso
-
-La unica razon de mí adoracion
-Eres tu mí Jesús
-El unico motivo para vivir
-Eres tu mí Señor
-
-Mi unica verdad esta en ti
-Eres mí luz y mí salvacion
-Mi unico amor eres tu Señor
-Y por siempre te alabare
-
-Eres todopoderoso
-Eres grande y majestuoso
-Eres fuerte invencible
-Y por siempre te alabare
-
-Eres todopoderoso
-Eres grande y majestuoso
-Eres fuerte invencible
-Y no hay nadie como tu
+Eres mi amigo fiel
+Eres mi amigo fiel
+Eres mi amigo fiel
+Tu amigo soy
 
 ---
 
-## Eres Tu la Unica Razon de Mi Adoracion
+## Eres Todopoderoso (Alabanza - v01)
 
-Eres tu
-La unica razon
-De mí adoracion
-Oh Jesús
+La única razón de mi adoración
+Eres Tú mi Jesús
 
-Eres tu
+El único motivo para vivir
+Eres Tú mi Señor
+
+Mi única verdad está en Tí
+Eres mi luz y mi salvación
+
+Mi único amor eres Tú Señor
+Y por siempre te alabaré
+
+Eres todopoderoso
+Eres grande y majestuoso
+
+Eres fuerte invencible
+Y no hay nadie como Tú
+
+Eres todopoderoso
+Eres grande y majestuoso
+
+Eres fuerte invencible
+Y no hay nadie como Tú
+
+---
+
+## Eres Tú la Única Razón de Mi Adoración (Alabanza - v01)
+
+Eres Tú
+La única razón
+De mi adoración Oh Jesús
+
+Eres Tú
 La esperanza que
-Anhele tener
-Oh Jesús
+Anhele tener Oh Jesús
 
-Confie en ti
+Confie en Tí
 Me has ayudado
-Tú salvacion
+
+Tú salvación
 Me has regalado
 
 Hoy hay gozo
-En mí corazon
-Con mí canto
-Te alabare
+En mí corazón
 
-//te alabare
- Te glorificare
-Te alabare
-Mi buen Jesús//
+Con mi canto
+Te alabaré
 
-//en todo tiempo
-Te alabare
+Te alabaré
+Te glorificaré
+
+Te alabaré
+Mi buen Jesús
+
+Te alabaré
+Te glorificaré
+
+Te alabaré
+Mi buen Jesús
+
 En todo tiempo
-Te adorare//
+Te alabaré
+En todo tiempo
+Te adoraré
+
+Te alabaré
+Te glorificaré
+
+Te alabaré
+Mi buen Jesús
+
+Te alabaré
+Te glorificaré
+
+Te alabaré
+Mi buen Jesús
 
 ---
 
-## Escucharte Hablar
+## Escucharte Hablar (Adoración - v01)
 
 Quiero escuchar
-Tú dulce voz
+Tu dulce voz
+
 Rompiendo el silencio
-En mí ser
+En mi ser
 
-Se que me haria estremecer
-Me haria llorar o reir
-Y caeria rendido ante ti
+Sé que me haría estremecer
+Me haría llorar o reir
+Y caería rendido ante Tí
 
-Y no podria estar ante ti
+Y no podria estar ante Tí
 Escuchandote hablar
 Sin llorar como un niño
 
-Y pasaria el tiempo asi
+Y pasaria el tiempo así
 Sin querer nada más
-Nada más
-Que escucharte hablar
+Nada más que escucharte hablar
+
+Quiero escuchar
+Tu dulce voz
+
+Rompiendo el silencio
+En mi ser
+
+Sé que me haría estremecer
+Me haría llorar o reir
+Y caería rendido ante Tí
+
+Y no podria estar ante Tí
+Escuchandote hablar
+Sin llorar como un niño
+
+Y pasaria el tiempo así
+Sin querer nada más
+Nada más que escucharte hablar
+
+Y no podria estar ante Tí
+Escuchandote hablar
+Sin llorar como un niño
+
+Y pasaria el tiempo así
+Sin querer nada más
+Nada más que escucharte hablar
 
 ---
 
-## Espiritu Santo Te Necesito
+## Espíritu Santo Te Necesito (Adoración - v01)
 
 Espíritu Santo, yo te necesito
 Manda tu fuego a este lugar
+
 Espíritu Santo, yo sólo anhelo
 Mirar tu gloria y tu majestad
 
 Tú eres mí fuerza,
 Tú eres mí ayuda
+
 Espíritu Santo,
 Ven a este lugar
 
 Espíritu Santo, yo te necesito
 Manda tu fuego a este lugar
+
 Espíritu Santo, yo sólo anhelo
 Mirar tu gloria y tu majestad
 
 Tú eres mí fuerza,
 Tú eres mí ayuda
+
 Espíritu Santo,
 Ven a este lugar
 
@@ -2111,32 +3352,61 @@ Tú eres mí ayuda
 Espíritu Santo,
 Ven a este lugar
 
-Espíritu Santo, yo te necesito
-Manda tu fuego a este lugar
+---
 
-Espíritu Santo, yo sólo anhelo
-Mirar tu gloria ven llena este lugar
+## Este Es Mi Deseo (Adoración - v01)
+
+Este es mi deseo,
+Honrarte a Tí
+
+Con todo mi ser
+Te adoro a Tí
+
+Con todas mis fuerzas
+Te alabaré,
+Mi adoración eres Tú.
+
+Hoy te rindo mi ser,
+Te doy mi corazon
+Yo vivo para Tí
+
+En cada palpitar mientras haya aliento en mí,
+Dios haz tu obra en mí
+
+Hoy te rindo mi ser,
+Te doy mi corazón
+Yo vivo para Tí
+
+En cada palpitar mientras haya aliento en mí,
+Dios haz tu obra en mí
+
+Este es mi deseo,
+Honrarte a Tí
+
+Con todo mi ser
+Te adoro a Tí
+
+Con todas mis fuerzas
+Te alabaré,
+Mi adoración eres Tú.
+
+Hoy te rindo mi ser,
+Te doy mi corazon
+Yo vivo para Tí
+
+En cada palpitar mientras haya aliento en mí,
+Dios haz tu obra en mí
+
+Hoy te rindo mi ser,
+Te doy mi corazón
+Yo vivo para Tí
+
+En cada palpitar mientras haya aliento en mí,
+Dios haz tu obra en mí
 
 ---
 
-## Este Es Mi Deseo
-
-Este es mí deseo
-Honrarte a ti
-Desde mí corazon te adoro a ti
-Con todo lo que hay en mí
-Te alabare
-Todo lo que adoro esta en ti
-
-Señor mí alma te doy y mí corazon
-Yo vivo solo por ti
-Cada paso que doy
-Cada momento Señor
-Haz tu voluntad en mí
-
----
-
-## Estoy Apasionado
+## Estoy Apasionado (Adoración - v01)
 
 Cara a cara quiero verte
 Que tu luz brille en mí
@@ -2144,114 +3414,121 @@ Que tu luz brille en mí
 Que tu gloria se derrame
 Como fuego arda en mí
 
-Pues de ti dependo hoy
+Pues de Tí dependo hoy
 Sin tu amor yo muero
-
-Estoy apasionado
-Estoy desesperado
-
- //por tu presencia//
-
-Estoy apasionado
-Estoy desesperado
-
- //por tu presencia//
-
-Cara a cara quiero verte
-Que tu luz brille en mí
-
-Que tu gloria se derrame
-Como fuego arda en mí
-
-Pues de ti dependo hoy
-Sin tu amor yo muero
-
-Estoy apasionado
-Estoy desesperado
-
- //por tu presencia//
-
-Estoy apasionado
-Estoy desesperado
-
- //por tu presencia//
-
-Pues de ti dependo hoy
-
-Sin tu amor yo muero
-
-Estoy apasionado
-Estoy desesperado
-
- //por tu presencia//
 
 Estoy apasionado
 Estoy desesperado
 
 Por tu presencia
+Por tu presencia
 
-Pues de ti dependo hoy
+Estoy apasionado
+Estoy desesperado
 
+Por tu presencia
+Por tu presencia
+
+Cara a cara quiero verte
+Que tu luz brille en mí
+
+Que tu gloria se derrame
+Como fuego arda en mí
+
+Pues de Tí dependo hoy
 Sin tu amor yo muero
 
 Estoy apasionado
 Estoy desesperado
 
- //por tu presencia//
+Por tu presencia
+Por tu presencia
+
+Estoy apasionado
+Estoy desesperado
+
+Por tu presencia
+Por tu presencia
+
+Por tu presencia
 
 ---
 
-## Exaltate
+## Exaltate (Adoración - v01)
 
 Al borde de tu gran trono
-Me postrare hoy a ti
+Me postrare hoy a Tí
 
 Tú reinas sobre principados
-Sentado a la diestra de aquí
+Sentado a la diestra de Dios
 
 Exaltate oh
 Gran cordero
+Tú vives hoy y vivirás
 
-Tú vives hoy y viviras
-Coronate con mí alabanza
+Coronate con mi alabanza
+Tu nombre es el Vencedor
 
-//tu nombre es el vencedor//
+Exaltate oh
+Gran cordero
+Tú vives hoy y vivirás
+
+Coronate con mi alabanza
+Tu nombre es el Vencedor
+
+Al borde de tu gran trono
+Me postrare hoy a Tí
+
+Tú reinas sobre principados
+Sentado a la diestra de Dios
+
+Exaltate oh
+Gran cordero
+Tú vives hoy y vivirás
+
+Coronate con mi alabanza
+Tu nombre es el Vencedor
+
+Tu nombre es el Vencedor
+Tu nombre es el Vencedor
 
 ---
 
-## Fidelidad
+## Fidelidad (Adoración - v01)
 
 Es su forma de mirar
 Viendo todo bien o mal
 
-Aun asi el cubre mí pesar
+Aún así el cubre mi pesar
 Por probar su fidelidad
 
 Es la forma en que provee
-Toda mí necesidad
+Toda mi necesidad
 
 Hasta su vida derramar
 Por probar su fidelidad
 
-Fidelidad su fidelidad
+Fidelidad, su fidelidad
 Tan profunda tan real
 
-En mí vida y caminar
+En mi vida y caminar
 Me basta su fidelidad
 
 Es su forma de cuidar
-Cada paso en mí andar
+Cada paso en mi andar
 
-No importando a donde llevara
+No importando a donde llevará
 Por probar su fidelidad
 
-Fidelidad su fidelidad
+Fidelidad, su fidelidad
 Tan profunda tan real
 
-En mí vida y caminar
- //me basta su fidelidad//
+En mi vida y caminar
+Me basta su fidelidad
+Me basta su fidelidad
 
- //oh tu fidelidad//
+Oh tu fidelidad
+Oh tu fidelidad
 Cada momento la veo en mí
 
 Nada me falta
@@ -2260,153 +3537,154 @@ Pues todo provees
 Grande Señor
 Es tu fidelidad
 
-Fidelidad su fidelidad
+Fidelidad, su fidelidad
 Tan profunda tan real
 
-En mí vida y caminar
- //me basta tu fidelidad//
+En mi vida y caminar
+Me basta su fidelidad
+Me basta su fidelidad
 
 ---
 
-## Fija tus Ojos en Cristo (Adoración - v01)
+## Firmes y adelante (Adoración - v01)
 
-Oh alma cansada y turbada
-Sin luz en la senda andarás
+Firmes y adelante, huestes de la fe
+Sin temor alguno, que Jesús nos ve
 
-Al Salvador mira y vive
-Del mundo la luz es su faz
+Jefe soberano, Cristo al frente va
+Y la regia enseña, tremolando está
 
-Fija tus ojos en Cristo
-Tan lleno de gracia y amor
+Firmes y adelante, huestes de la fe
+Sin temor alguno, que Jesús nos ve
 
-Y lo terrenal sin valor será
-A la luz del glorioso Jesús
+Al sagrado nombre de nuestro Adalid
+Tiembla el enemigo y huye de la lid
 
-De muerte a vida eterna
-Te llama el Salvador fiel
+Nuestra es la victoria, dad a Dios loor
+Y óigalo el averno, lleno de pavor
 
-En ti no domine el pecado
-Hay siempre victoria en Él
+Firmes y adelante, huestes de la fe
+Sin temor alguno, que Jesús nos ve
 
-Fija tus ojos en Cristo
-Tan lleno de gracia y amor
+Muévase potente la Iglesia de Dios
+De los ya gloriosos marchamos en pos
 
-Y lo terrenal sin valor será
-A la luz del glorioso Jesús
+Somos solo un cuerpo y uno es el Señor
+Una es la esperanza y uno nuestro amor
 
-Del glorioso Jesús
-Del glorioso Jesús
-Del glorioso Jesús
+Firmes y adelante, huestes de la fe
+Sin temor alguno, que Jesús nos ve
 
-Jamás faltará su promesa
-Él dijo: Contigo yo estoy
+Tronos y coronas pueden perecer
+De Jesús la Iglesia constante ha de ser
 
-Al mundo perdido ve pronto
-Y anuncia la salvación hoy
+Nada en contra suya prevalecerá
+Porque la promesa nunca faltará
 
-Fija tus ojos en Cristo
-Tan lleno de gracia y amor
-
-Y lo terrenal sin valor será
-A la luz del glorioso Jesús
-Del glorioso Jesús
-
-Yo fijo mis ojos en Cristo
-Tan lleno de gracia y amor
-
-Ya lo terrenal no vale más
-A la luz del glorioso Jesús
+Firmes y adelante, huestes de la fe
+Sin temor alguno, que Jesús nos ve
 
 ---
 
-## Gloria en Gloria
+## Glorificate (Adoración - v01)
 
-Yo quiero ver
-Tú luz
-Brillando en mí
-A traves de mí
+En mi vida,
+Se glorificado, se glorificado
 
-Ser un altar
-Que todos puedan ver
-Que todos oigan
-
-Tú eres vida
-La esperanza
-Perfecta gracia que
-Me ha rescatado
-
-Ya no vivo yo
-Cristo vive en mí
-Barro quiero ser
-En tus manos
-
-De gloria en gloria
-Te veo oh aquí
-
-De gloria en gloria
-Transformado soy
-Por tu Espíritu
-
----
-
-## Glorificate
-
-//en mí vida se glorificado, se glorificado//
+En mi vida,
+Se glorificado, se glorificado
 Señor
 
 Glorificate, glorificate
 
-En mí vida glorificate
+En mi vida glorificate
 
-//en mí casa se glorificado, se glorificado//
+En mi casa
+Se glorificado, se glorificado
+
+En mi casa
+Se glorificado, se glorificado
 Señor
 
 Glorificate, glorificate
 
-En mí casa glorificate
+En mi casa glorificate
 
-//en la iglesia se glorificado, se glorificado//
+En la iglesia,
+Se glorificado, se glorificado
+
+En la iglesia,
+Se glorificado, se glorificado
 Señor
 
 Glorificate, glorificate
 
-En mí iglesia glorificate
+En la iglesia glorificate
+
+Glorificate, glorificate
+
+En la iglesia glorificate
 
 ---
 
-## Golpe de Espada
+## Golpe de Espada (Alabanza - v01)
 
 Golpe de espada
 Es la alabanza
+
 Golpe de guerra
-Que sale de aquí
+Que sale de Dios
 
 Cantos de gloria
 Traen la victoria
+
 En la batalla del
-Pueblo de aquí
+Pueblo de Dios
 
-Coro:
 Y cada golpe
-De la espada de aquí,
-Es con pandero,
-Con trompeta y tambor (x2)
+De la espada de Dios
 
-Será con cantos de júbilo
+Es con pandero,
+Con trompeta y tambor
+
+Y cada golpe
+De la espada de Dios
+
+Es con pandero,
+Con trompeta y tambor
+
+Serán los cantos de júbilo
 Cantos de júbilo
-Será con cantos de júbilo
+Serán los cantos de júbilo
 Cantos de júbilo
 
 Golpe de espada
 Es la alabanza
+
 Golpe de guerra
-Que sale de aquí
+Que sale de Dios
 
-(repetir coro x2)
+Cantos de gloria
+Traen la victoria
 
-Será con cantos de júbilo
+En la batalla del
+Pueblo de Dios
+
+Y cada golpe
+De la espada de Dios
+
+Es con pandero,
+Con trompeta y tambor
+
+Y cada golpe
+De la espada de Dios
+
+Es con pandero,
+Con trompeta y tambor
+
+Serán los cantos de júbilo
 Cantos de júbilo
-Será con cantos de júbilo
+Serán los cantos de júbilo
 Cantos de júbilo
 
 ---
@@ -2428,8 +3706,8 @@ Con su estruendo
 Y nos asombra
 Con maravillas
 
-El rey de gloria
-El rey de majestad
+El Rey de gloria
+El Rey de majestad
 
 Gracia sublime es
 Perfecto es tu amor
@@ -2458,8 +3736,8 @@ Con su justicia
 Y resplandece
 Con su belleza
 
-El rey de gloria
-El rey de majestad
+El Rey de gloria
+El Rey de majestad
 
 Digno es el cordero de Dios
 Digno es el rey
@@ -2493,53 +3771,99 @@ Por lo que hiciste en mí
 
 ---
 
-## Gracias por la Cruz
+## Gracias por la Cruz (Adoración - v01)
 
-Gracias por la cruz Señor
-Gracias por el precio pagar
-Mi pecado y dolor
-Tú amor quito
-Dando vida eternal
+Gracias por la cruz, oh Dios
+El precio que pagaste por mí
 
-Gracias por tu amor Señor
-Por las manos que heri
-Pues tu rio me limpio
-Y siento al fin
-Tú perdon y salvacion
+Llevando mi pecado allí
+Sublime amor
+Tu gracia me salvó
 
-Digno eres Señor
-En tu trono estas
-Coronado con poder
-Reinas en majestad
+Gracias por tu amor, oh Dios
+Tus manos clavadas por mí
 
-Cristo hijo de aquí
-Exaltado rey
-Moriste en la cruz
-En mí lugar
-//digno eres Señor//
+Me has lavado, oh Señor
+Conozco hoy tu abrazo y tu perdón
+
+Digno es el Señor
+En su trono está
+
+Hoy te coronamos Rey
+Y reinas con poder
+
+Altísimo Señor
+Jesús hijo de Dios
+
+El amado del cielo en la cruz murió
+Digno es el Señor, digno es el Señor
+
+Gracias por la cruz, oh Dios
+El precio que pagaste por mí
+
+Llevando mi pecado allí
+Sublime amor
+
+Tu gracia me salvó
+Gracias por tu amor, oh Dios
+
+Tus manos clavadas por mí
+Me has lavado, oh Señor
+Conozco hoy tu abrazo y tu perdón
+
+Digno es el Señor
+En su trono está
+
+Hoy te coronamos Rey
+Y reinas con poder
+
+Altísimo Señor
+Jesús hijo de Dios
+
+El amado del cielo en la cruz murió
+Digno es el Señor, digno es el Señor
+
+Digno es el Señor, digno es el Señor
 
 ---
 
-## Grande Eres Tu
+## Grande Eres Tu (Adoración - v01)
 
 Queremos darte gloria y alabanza
 Levantando nuestras manos, exaltándote Señor
+
 Queremos darte gloria y alabanza
 Levantando nuestras manos, adorándote Señor
 
-//grande eres tú
+Grande eres Tú
 Grandes tus milagros son
-No hay otro como tú
-No hay otro como tú
+No hay otro como Tú
+No hay otro como Tú
 
-Grande eres tú
+Grande eres Tú
 Grandes tus milagros son
-No hay otro como tú
-No hay otro como tú//
+No hay otro como Tú
+No hay otro como Tú
+
+Queremos darte gloria y alabanza
+Levantando nuestras manos, exaltándote Señor
+
+Queremos darte gloria y alabanza
+Levantando nuestras manos, adorándote Señor
+
+Grande eres Tú
+Grandes tus milagros son
+No hay otro como Tú
+No hay otro como Tú
+
+Grande eres Tú
+Grandes tus milagros son
+No hay otro como Tú
+No hay otro como Tú
 
 ---
 
-## Hallelujah
+## Hallelujah (Adoración - v01)
 
 Un soldado a casa hoy regresó
 Y un niño enfermo se curó
@@ -2551,8 +3875,8 @@ Por causa de una buena acción
 Y hoy nadie lo repudia, aleluya
 
 Aleluya, aleluya, aleluya, aleluya
-Un ateo que consiguió creer
 
+Un ateo que consiguió creer
 Y un hambriento hoy tiene de comer
 Y hoy donaron a una iglesia una fortuna
 
@@ -2564,10 +3888,9 @@ Aleluya, aleluya, aleluya, aleluya
 
 Por que la norma sea el amor
 Y no gobierne la corrupción
-
 Sino lo bueno y lo mejor del alma pura
-Porque aquí nos proteja de un mal final
 
+Porque aquí nos proteja de un mal final
 Porque un día podamos escarmentar
 Con que acaben con tanta furia, aleluya
 
@@ -2576,7 +3899,7 @@ Aleluya, aleluya, aleluya, aleluya
 
 ---
 
-## Has cambiado mí lamento en baile (Alabanza - v01)
+## Has cambiado mi lamento en baile (Alabanza - v01)
 
 Has cambiado mi lamento en baile
 Me ceñiste todo de alegría
@@ -2584,10 +3907,10 @@ Me ceñiste todo de alegría
 Has cambiado mi lamento en baile
 Me ceñiste todo de alegría
 
-Por tanto, a ti cantaré
+Por tanto, a Tí cantaré
 Gloria mía, gloria mía.
 
-Y sólo a ti danzaré
+Y sólo a Tí danzaré
 Gloria mía, gloria mía.
 
 Has cambiado mi lamento en baile
@@ -2596,10 +3919,10 @@ Me ceñiste todo de alegría
 Has cambiado mi lamento en baile
 Me ceñiste todo de alegría
 
-Por tanto, a ti cantaré
+Por tanto, a Tí cantaré
 Gloria mía, gloria mía.
 
-Y sólo a ti danzaré
+Y sólo a Tí danzaré
 Gloria mía, gloria mía.
 
 Oh Adonai, Oh Adonai,
@@ -2620,7 +3943,8 @@ Los cielos cuentan tu gloria
 Tus hijos hoy te adoran.
 
 Por todas tus maravillas
-Adonai.
+Adonai
+Adonai
 
 ---
 
@@ -2630,9 +3954,9 @@ Hay cosas que
 Yo no comprendo
 
 Lugares hay
-Donde yo no ire
+Do yo no ire
 
-Pero si se
+Pero si sé
 Y es verdad
 
 Que mi Dios es real
@@ -2641,8 +3965,8 @@ Porque lo siento en mi ser
 Oh mi Dios es real
 Real en mi ser
 
-Me a lavado
-Con su sangre Carmesí
+Me ha lavado
+Con su sangre carmesí
 
 Su dulce amor
 Es para mí
@@ -2651,12 +3975,12 @@ Oh mi Dios es real
 Porque lo siento en mi ser
 
 No alcanzo a comprender
-porque me amó
+porque Él me amó
 
-Y me salvo
+Y me sacó
 del mundo vil
 
-Pero si se
+Pero si sé
 Y es verdad
 
 Que mi Dios es real
@@ -2665,8 +3989,8 @@ Porque lo siento en mi ser
 Oh mi Dios es real
 Real en mi ser
 
-Me a lavado
-Con su sangre Carmesí
+Me ha lavado
+Con su sangre carmesí
 
 Su dulce amor
 Es para mí
@@ -2686,7 +4010,7 @@ Siendo esclavo del pecado me libró
 En la cruz compró mí redención
 Y libertad, libertad
 
-Rompió mis cadenas, me dio vida nueva
+Rompió mis cadenas, me dió vida nueva
 Y al fondo del mar echó mí maldad
 
 Lavó mis pecados, y me ha perdonado
@@ -2700,41 +4024,74 @@ El poder de su evangelio me salvó
 Y no me avergüenzo del Señor
 Mi libertad, libertad
 
-Rompió mis cadenas, me dio vida nueva
+Rompió mis cadenas, me dió vida nueva
 Y al fondo del mar echó mí maldad
 
 Lavó mis pecados, y me ha perdonado
 Solo en el nombre de Jesús hay libertad
 
-Al que el hijo, hace libre,
-es libre en verdad
+Al que el Hijo, hace libre,
+Es libre en verdad
 
 Al que el hijo, hace libre,
-es libre en verdad
+Es libre en verdad
 
+Rompió mis cadenas, me dió vida nueva
+Y al fondo del mar echó mí maldad
+
+Lavó mis pecados, y me ha perdonado
+Solo en el nombre de Jesús hay libertad
+Hay libertad
 Hay libertad
 
 ---
 
-## Hay Momentos que
+## Hay Momentos que (Adoración - v01)
 
 Hay momentos que
-No deberian terminar
+No deberían terminar
+
 Hay segundos que
-Tendrian que ser eternidad
+Tendrían que ser eternidad
 
 Cuando tu Espíritu Señor
-Se toca con el mio
-Y mí corazon estalla
-En adoracion
+Se toca con el mío
 
-Te amo mí Señor
+Y mi corazón estalla
+En adoración
+
+Te amo mi Señor
 Se acaban las palabras
-Solo me queda mí alma
+
+Solo me queda mi alma
 Para cantarte
 
-Te adoro mí Señor
+Te adoro mi Señor
 No hay nada alrededor
+Solo estamos tu y yo
+Solo estamos tu y yo
+
+Hay momentos que
+No deberían terminar
+
+Hay segundos que
+Tendrían que ser eternidad
+
+Cuando tu Espíritu Señor
+Se toca con el mío
+
+Y mi corazón estalla
+En adoración
+
+Te amo mi Señor
+Se acaban las palabras
+
+Solo me queda mi alma
+Para cantarte
+
+Te adoro mi Señor
+No hay nada alrededor
+Solo estamos tu y yo
 Solo estamos tu y yo
 
 ---
@@ -2757,7 +4114,7 @@ En Jesús, Quien murió
 
 Hay poder, poder
 Sin igual, poder
-En la sangre que él vertió
+En la sangre que Él vertió
 
 Quieres ser libre
 De orgullo y pasión
@@ -2775,7 +4132,7 @@ En Jesús, Quien murió
 
 Hay poder, poder
 Sin igual, poder
-En la sangre que él vertió
+En la sangre que Él vertió
 
 ¿Quieres servir a
 tu Rey y Señor?
@@ -2787,9 +4144,18 @@ podrás en su amor
 Tan solo hay poder
 en Jesús.
 
+Hay poder, poder
+Sin igual poder
+En Jesús, Quien murió
+
+Hay poder, poder
+Sin igual, poder
+En la sangre que Él vertió
+En la sangre que Él vertió
+
 ---
 
-## Hay una unción aquí (Adoración v01)
+## Hay una unción aquí (Adoración - v01)
 
 Hay una unción aquí
 Cayendo sobre mí
@@ -2807,7 +4173,31 @@ Mi espíritu y mi alma
 Se están llenando
 
 Con el poder de tu Espíritu Santo
+Mi vida nunca más será igual
+
+Mi espíritu y mi alma
+Se están llenando
+
+Con el poder de tu Espíritu Santo
 Mi vida nunca más Será igual
+
+Hay una unción aquí
+Cayendo sobre mí
+
+Llenándome.
+Cambiando mi ser
+
+Hay una unción aquí
+Cayendo sobre mí
+
+Llenándome.
+Cambiando mi ser
+
+Mi espíritu y mi alma
+Se están llenando
+
+Con el poder de tu Espíritu Santo
+Mi vida nunca más será igual
 
 Mi espíritu y mi alma
 Se están llenando
@@ -2817,196 +4207,1046 @@ Mi vida nunca más Será igual
 
 ---
 
-## Haz Llover
+## Haz Llover (Adoración - v01)
 
-// haz llover //
-Abre las puertas
-Del cielo
+Yo veo una pequeña nube
+Del tamaño de una mano
+Y esta es la señal, de que tu lluvia va a caer
+
+Yo veo una pequeña nube
+Del tamaño de una mano
+Y esta es la señal, de que tu lluvia va a caer
 
 Haz llover
-Señor Jesús
-Derrama lluvia
-En este lugar
+Haz llover
+Abre las puertas del cielo
 
-Ven con tu rio
-Señor Jesús
-A inundar
-Mi corazon
+Haz llover
+Haz llover
+Abre las puertas del cielo
+
+Yo veo una pequeña nube
+Del tamaño de una mano de un hombre
+Y esta es la señal, de que tu lluvia va a caer
+
+Yo veo una pequeña nube
+Del tamaño de una mano de un hombre
+Y esta es la señal, de que tu lluvia va a caer
+
+Haz llover
+Haz llover
+Abre las puertas del cielo
+
+Haz llover
+Haz llover
+Abre las puertas del cielo, mi Dios
+
+Haz llover, Señor Jesús
+Derrama lluvia en este lugar
+Ven con tu río, Señor Jesús
+A inundar mi corazón
+
+Haz llover, Señor Jesús
+Derrama lluvia en este lugar
+Ven con tu río, Señor Jesús
+A inundar mi corazón
+
+Haz llover
+Haz llover
+
+Haz llover
+Abre las puertas del cielo
+
+Haz llover
+Haz llover
+Abre las puertas del cielo
 
 ---
 
-## Heme Aqui
+## Heme Aqui (Adoración - v01)
 
-Heme aqui
-Yo ire Señor
+Heme aquí
+Yo iré Señor
+
+Heme aquí
+Yo iré Señor
 
 Enviame a mí
 Que dispuesto estoy
-Llevare tu gloria
+
+Llevaré tu gloria
 A las naciones
-
----
-
-## Hermoso Eres
-
-En mí corazón
-Hay una canción
-
-Que demuestra mí pasión
-Para mí rey y mí Señor
-
-Para aquel que me amo
-
-Hermoso eres Mi Señor
-Hermoso eres tu
-Amado mío
-
-Tú eres la fuente
-De mí vida
-
-Y el anhelo
-De mí corazón
 
 ---
 
 ## Himno Nacional de Chile (Especial - v01)
 
-Puro, Chile, 
-es tu cielo azulado,
+Puro, Chile, es tu cielo azulado,
+Puras brisas te cruzan también,
 
-puras brisas 
-te cruzan también,
+y tu campo de flores bordado
+Es la copia feliz del Edén.
 
-y tu campo de 
-flores bordado
+Majestuosa es la blanca montaña
 
-es la copia 
-feliz del Edén.
+Que te dio por baluarte el Señor,
+que te dio por baluarte el Señor,
 
-Majestuosa es 
-la blanca montaña
+Y ese mar que tranquilo te baña
+Te promete futuro esplendor.
 
-que te dio por 
-baluarte el Señor,
+Te promete futuro esplendor.
 
-que te dio por 
-baluarte el Señor,
+Dulce Patria, recibe los votos
+Con que Chile en tus aras juró
 
-Y ese mar que 
-tranquilo te baña
+Que o la tumba serás de los libres
 
-te promete futuro esplendor.
+O el asilo contra la opresión
+Que o la tumba serás de los libres
 
-Y ese mar que 
-tranquilo te baña
-
-te promete futuro esplendor.
-
-Dulce Patria, 
-recibe los votos
-
-Con que Chile 
-en tus aras juró
-
-Que o la tumba 
-serás de los libres
-
-O el asilo contra 
-la opresión
-
-Que o la tumba 
-serás de los libres
-
-O el asilo contra 
-la opresión
-
-Que o la tumba 
-serás de los libres
+O el asilo contra la opresión
+Que o la tumba serás de los libres
 
 O el asilo contra la opresión.
-
 O el asilo contra la opresión.
-
 O el asilo contra la opresión.
 
 ---
 
-## Honor y Gloria Honra y Poder
+## Himno 1 - La Doxología: A Dios el Padre
+
+A Dios, el Padre celestial,
+Al Hijo, nuestro Redentor,
+Y al eternal Consolador,
+Unidos todo alabad Amén.
+
+---
+
+## Himno 2 - Lluvias de Gracia
+
+Dios nos ha dado promesa:
+Lluvias de gracia enviaré,
+Dones que os den fortaleza;
+Gran bendición os daré.
+
+CORO:
+Lluvias de gracia,
+Lluvias pedimos, Señor,
+Mándanos lluvias copiosas,
+Lluvias del Consolador.
+
+Cristo nos dio la promesa
+Del Santo Consolador,
+Dándonos paz y pureza,
+Para su gloria y honor.
+
+¡Oh Dios, a todo creyente
+Muestra tu amor y poder!
+Tú eres de gracia la fuente,
+Llena de paz nuestro ser
+
+Obra en tus siervos piadosos
+Celo, virtud y valor,
+Dándonos dones preciosos,
+Dones del Consolador.
+
+---
+
+## Himno 4 - Dulce Comunión
+
+Dulce comunión la que gozo ya
+En los brazos de mi Salvador.
+¡Qué gran bendición en su paz me da!
+¡Oh!, yo siento en mí su tierno amor.
+
+CORO:
+Libre, salvo,
+del pecado y del temor,
+Libre, salvo,
+en los brazos de mi Salvador.
+
+Cuán dulce es vivir, cuán dulce es gozar!
+En los brazos de mi Salvador,
+Allí quiero ir y con él morar,
+Siendo objeto de su tierno amor.
+
+No hay que temer, ni que desconfiar
+En los brazos de mi Salvador;
+Por su gran poder él me guardará
+De los lazos del engañador.
+
+---
+
+## Himno 7 - Todo a Cristo Yo me Rindo
+
+Todo a Cristo yo me rindo,
+Con el fin de serie fiel;
+Para siempre quiero amarle,
+Y agradarle sólo a él.
+
+CORO:
+Yo me rindo a él,
+Yo me rindo a él;
+Todo a Cristo yo me entrego,
+Quiero serIe fiel.
+
+Todo a Cristo yo me rindo,
+A sus pies postrado estoy;
+Los placeres he dejado,
+Y le sigo desde hoy.
+
+Todo a Cristo yo me rindo,
+Si, de todo corazón;
+Yo le entrego alma y cuerpo,
+Busco hoy su santa unción.
+
+Todo a Cristo he rendido,
+Siento el fuego de su amor;
+¡Oh, qué gozo hay en mi alma!
+¡Gloria, gloria a mi Señor!
+
+---
+
+## Himno 8 - La Siembra
+
+Sembraré la simiente preciosa
+Del glorioso evangelio de amor:
+Sembraré, sembraré mientras viva,
+Dejaré el resultado al Señor.
+
+CORO:
+Sembraré, sembraré,
+Mientras viva, simiente de amor.
+Segaré, segaré,
+Al hallarme en la casa de Dios.
+
+Sembraré en corazones sensibles
+La doctrina del Dios de perdón;
+Sembraré, sembraré, mientras viva,
+Dejaré el resultado al Señor.
+
+Sembraré en corazones de mármol
+La bendita palabra de Dios;
+Sembraré, sembraré mientras viva,
+Dejaré el resultado al Señor.
+
+---
+
+## Himno 14 - ¡Oh Que amigo
+
+¡Oh qué Amigo nos es Cristo!
+El llevo nuestro dolor,
+Y nos manda que llevemos
+Todo a Dios en oración.
+
+¿Vive el hombre desprovisto
+De paz, gozo y santo amor?
+Esto es porque no llevamos
+Todo a Dios en oración.
+
+¿Vives débil y cargado
+De cuidados y temor?
+A Jesús, refugio eterno,
+Dile todo en oración.
+
+¿Te desprecian tus amigos?
+Cuéntaselo en oración:
+En sus brazos de amor tierno
+Paz tendrá tu corazón.
+
+Jesucristo es nuestro Amigo,
+De esto pruebas él nos dio
+Al sufrir el cruel castigo,
+Que el culpable mereció;
+
+Y su pueblo redimido,
+Hallará seguridad,
+Fiando en este Amigo eterno,
+Y esperando en su bondad.
+
+---
+
+## Himno 15 - Firmes y Adelante
+
+Firmes y adelante, huestes de la fe,
+Sin temor alguno, que Jesús nos ve.
+Jefe soberano, Cristo al frente va,
+Y la regia enseña tremolando está.
+
+CORO:
+Firmes y adelante, huestes de la fe,
+Sin temor alguno, que Jesús nos ve.
+
+Al sagrado nombre de nuestro Adalid,
+Tiembla el enemigo, y huye de la lid.
+Nuestra es la victoria, dad a Dios loor,
+Y óigalo el averno lleno de pavor.
+
+Muévase potente la Iglesia de Dios,
+De los ya gloriosos marchamos en pos;
+Somos sólo un cuerpo, y uno es el Señor,
+Una la esperanza, y uno nuestro amor.
+
+Tronos y coronas pueden perecer;
+De Jesús la Iglesia fiel habrá de ser:
+Nada en contra suya prevalecerá.
+Porque la promesa nunca faltara.
+
+---
+
+## Himno 16. Cerca de Ti, Señor
+
+Cerca de ti, Señor,
+Quiero morar:
+Tu grande, tierno amor,
+Quiero gozar.
+
+Llena mi pobre ser,
+Limpia mi corazón,
+Hazme tu rostro ver
+En comunión.
+
+Pasos inciertos doy,
+El sol se va;
+Más si contigo estoy,
+No temo ya.
+
+Himnos de gratitud
+Ferviente cantaré,
+Y fiel a ti, Jesús,
+Siempre seré.
+
+Día feliz veré
+Creyendo en ti,
+En que yo habitaré,
+Cerca de ti.
+
+Mi voz alabará
+Tu dulce nombre allí,
+Y mi alma gozará
+Cerca de ti.
+
+---
+
+## Himno 18 - Grato es Decir la Historia
+
+Grato es decir la historia
+Del celestial favor;
+De Cristo y de su gloria,
+De Cristo y de su amor;
+
+Me agrada referirla,
+Pues sé que es la verdad,
+Y nada satisface
+Cual ella, mi ansiedad.
+
+CORO:
+¡Cuán bella es esa historia!
+Mi tema allá en la gloria
+Será la antigua historia
+De Cristo y de su amor.
+
+Grato es decir la historia
+Que brilla cual fanal,
+Y en glorias y portentos
+No reconoce igual;
+
+Me agrada referirla,
+Pues me hace mucho bien,
+Por eso a ti deseo
+Decírtela también.
+
+Grato es decir la historia
+Que antigua, sin vejez,
+Parece al repetirla
+Más dulce cada vez;
+
+Me agrada referirla,
+Pues hay quien nunca oyó
+Que para hacerle salvo
+El buen .Jesús murió.
+
+---
+
+## Himno 20 - Cuando Allá se Pase Lista
+
+Cuando la trompeta suene
+En aquel día final,
+Y que el alba eterna rompa en claridad;
+
+Cuando las naciones salvas
+A su patria lleguen ya,
+Y que sea pasada lista, allí he de estar.
+
+CORO:
+Cuando allá se pase lista,
+Cuando allá se pase lista,
+Cuando allá se pase lista:
+A mi nombre yo feliz responderé.
+
+En aquel día sin nieblas,
+En qué muerte ya no habrá,
+Y su gloria el Salvador impartirá;
+
+Cuando los llamados entren
+A su celestial hogar.
+Y que sea pasada lista, allí he de estar.
+
+Trabajemos por el Maestro,
+Desde el alba al vislumbrar;
+Siempre hablemos de su amor y fiel bondad
+
+Cuando todo aquí fenezca
+Y nuestra obra cese ya,
+Y que sea pasada lista, allí he de estar.
+
+---
+
+## Himno 27 - Paz Paz Cuán Dulce Paz
+
+En el seno de mi alma una dulce quietud
+Se difunde embargando mi ser:
+Una calma infinita que sólo podrán
+Los amados de Dios comprender.
+
+CORO:
+¡Paz! ¡Paz! ¡cuán dulce paz!
+Es aquella que el Padre me da;
+Yo le ruego que inunde por siempre mi ser,
+En sus ondas de amor celestial.
+
+¡Qué tesoro yo tengo en la paz que me dio!
+Y en el fondo del alma ha de estar;
+Tan segura que nadie quitarla podrá,
+Mientras miro los años pasar.
+
+Esta paz inefable consuelo me da,
+Descansando tan sólo en Jesús;
+Y ningunos peligros mi vida tendrá,
+Si me siento inundado en su luz.
+
+Sin cesar yo medito en aquella ciudad,
+Do al Autor de la paz he de ver,
+Y en que el himno más dulce que allí he de cantar,
+Al estar con Jesús ha de ser:
+
+Alma triste que en rudo conflicto te ves,
+Sola y débil tu senda al seguir;
+Haz de Cristo el Amigo que fiel siempre es,
+Y su paz tú podrás recibir.
+
+---
+
+## Himno 30 - Hay Poder en Jesús
+
+¿Quieres ser salvo de toda maldad?
+Tan sólo hay poder en mi Jesús;
+¿Quieres vivir y gozar santidad?
+Tan sólo hay poder en Jesús.
+
+CORO:
+Hay poder, poder sin igual poder,
+En Jesús, quien murió;
+Hay poder, poder sin igual poder,
+En la sangre que él vertió.
+
+¿Quieres ser libre de orgullo y pasión?
+Tan sólo hay poder en mi Jesús;
+¿Quieres vencer toda cruel tentación?
+Tan sólo hay poder en Jesús.
+
+¿Quieres servir a tu Rey y Señor?
+Tan sólo hay poder en mi Jesús;
+Ven, y ser salvo podrás en su amor,
+Tan sólo hay poder en Jesús.
+
+---
+
+## Himno 36 - Entera Consagración
+
+Que mi vida entera esté
+Consagrada a ti, Señor;
+Que a mis manos pueda guiar
+El impulso de tu amor.
+
+CORO:
+Lávame en tu sangre, Salvador,
+Límpiame de toda mi maldad;
+Traigo a ti mi vida, para ser, Señor,
+¡Tuya por la eternidad!
+
+Que mis pies tan solo en pos
+De lo santo puedan ir,
+Y que a ti, Señor, mi voz
+Se complazca en bendecir.
+
+Que mi tiempo todo esté
+Consagrado a tu loor,
+Que mis labios al hablar
+Hablen solo de tu amor.
+
+Toma, ¡oh Dios!, mi voluntad,
+Y hazla tuya, nada más;
+Toma, sí, mi corazón
+Por tu trono lo tendrás.
+
+---
+
+## Himno 39 - Santa Biblia
+
+¡Santa Biblia! para mí,
+Eres un tesoro aquí;
+Tú contienes con verdad
+
+La divina voluntad;
+Tú me dices lo que soy,
+De quién vine y a quién voy.
+
+Tú reprendes mi dudar;
+Tú me exhortas sin cesar;
+Eres faro que a mi pie,
+
+Va guiando por la fe,
+A las fuentes del amor
+Del bendito Salvador.
+
+Eres infalible voz
+Del Espíritu de Dios,
+Que vigor al alma da
+
+Cuando en aflicción está;
+Tú me enseñas a triunfar,
+De la muerte y el pecar.
+
+Por tu santa letra sé
+Que con Cristo reinaré
+Yo que tan indigno soy,
+
+Por tu luz al cielo voy;
+¡Santa Biblia para mí,
+Eres un tesoro aquí!
+
+---
+
+## Himno 43 - A Jesucristo Ven Sin Tardar
+
+A Jesucristo ven sin tardar,
+Que entre nosotros hoy él esté,
+Y te convida con dulce afán,
+Tierno diciendo: «Ven»
+
+CORO:
+¡Oh!, cuán grata nuestra reunión,
+Cuando allá, Señor, en tu mansión,
+Contigo estemos en comunión,
+Gozando eterno bien.
+
+Piensa que él sólo puede colmar
+Tu triste pecho de gozo y paz;
+Y porque anhela tu bienestar
+Vuelve a decirte: «Ven»
+
+Su voz escucha sin vacilar,
+Y grato acepta lo que hoy te da.
+Tal vez mañana no habrá lugar
+No te detengas, ven.
+
+---
+
+## Himno 44 - Ya Todo Dejé
+
+Tan triste y tan lejos de Dios me sentí
+Y sin el perdón de Jesús,
+Mas cuando su voz amorosa oí
+Que dijo: «Oh, ven a la luz»
+
+CORO:
+Ya todo dejé para andar en la luz
+No moro en tinieblas ya más
+Ya todo dejé por seguir a Jesús
+Y vivo en la luz de su faz.
+
+¡Qué amigo tan dulce es el tierno Jesús
+Tan lleno de paz y de amor,
+De todo este mundo es la fúlgida luz
+El nombre del buen Salvador.
+
+De mi alma el anhelo por siempre será
+Más cerca vivir de la cruz,
+Do santo poder y pureza me da,
+La sangre de Cristo Jesús.
+
+¡Oh!, ven a Jesús, infeliz pecador,
+No vagues a ciegas ya más;
+Sí, ven a Jesús, nuestro gran Salvador,
+Pues en él salvación hallarás.
+
+---
+
+## Himno 45 - ¿Eres Limpio en la Sangre?
+
+¿Has hallado en Cristo plena salvación,
+Por la sangre que Cristo vertió?
+Toda mancha lava de tu corazón:
+¿Eres limpio en la sangre eficaz?
+
+CORO:
+¿Eres limpio en la sangre,
+En la sangre de Cristo Jesús?
+¿Es tu corazón más blanco que la nieve?
+¿Eres limpio en la sangre eficaz?
+
+¿Vives siempre al lado de tu Salvador
+Por la sangre que él derramó?
+¿Del pecado eres siempre vencedor?
+¿Eres limpio en la sangre eficaz?
+
+¿Tendrás ropa blanca al venir Jesús?
+¿Eres limpio en la fuente de amor?
+¿Estás listo para la mansión de luz?
+¿Eres limpio en la sangre eficaz?
+
+Cristo ofrece hoy pureza y poder,
+¡Oh, acude a la cruz del Señor!
+Él la fuente es que limpiará tu ser,
+¡Oh, acude a su sangre eficaz!
+
+---
+
+## Himno 49 - En la Viña del Señor
+
+Yo quiero trabajar por el Señor,
+Confiando en su palabra y en su amor:
+Quiero yo cantar y orar,
+Y ocupado siempre estar
+En la viña del Señor.
+
+CORO:
+Trabajar y orar
+En la viña, en la viña del Señor;
+Sí, mi anhelo es orar.
+Y ocupado siempre estar,
+En la viña del Señor.
+
+Yo quiero cada día trabajar,
+Y esclavos del pecado libertar:
+Conducirlos a Jesús,
+Nuestro guía, nuestra luz, etc.
+
+Yo quiero ser obrero de valor,
+Confiando en el poder del Salvador:
+El que quiera trabajar,
+Hallará también lugar, etc.
+
+---
+
+## Himno 50 - Te Loamos, Oh Dios
+
+Te loamos, oh Dios,
+Con unánime voz,
+Que en Cristo tu hijo
+Nos diste perdón.
+
+CORO:
+¡Aleluya! Te alabamos,
+¡Cuán grande es tu amor!
+¡Aleluya! Te adoramos,
+Bendito Señor.
+
+Te loamos, Jesús,
+Quien tu trono de luz
+Has dejado por darnos
+Salud en la cruz.
+
+Te damos loor,
+Santo Consolador,
+Que nos llenas de gozo
+Y santo valor.
+
+Unidos load
+A la gran Trinidad,
+Que es la fuente de gracia,
+Virtud y verdad.
+
+---
+
+## Himno 53 - En la Cruz
+
+Me hirió el pecado, fui a Jesús,
+Mostréle mi dolor;
+Perdido, errante, vi su luz,
+Bendíjome en su amor.
+
+CORO:
+En la cruz, en la cruz,
+Do primero vi la luz,
+Y las manchas de mi alma yo lavé:
+Fue Allí por fe do vi a Jesús,
+Y siempre feliz con él seré.
+
+Sobre una cruz, mi buen Señor,
+Su sangre derramó,
+Por este pobre pecador
+A quien así salvó.
+
+Venció la muerte con poder,
+Y al cielo se exaltó;
+Confiar en él es mi placer,
+Morir no temo yo.
+
+Aunque él se fue solo no estoy:
+Mandó al Consolador,
+Divino Espíritu, que hoy
+Me da perfecto amor.
+
+---
+
+## Himno 56 - ¡Oh!, yo Quiero Andar con Cristo
+
+¡Oh!, yo quiero andar con Cristo.
+Quiero oír su tierna voz,
+Meditar en su palabra,
+Siempre andar de él en pos
+
+Consagrar a él mi vida,
+Cumplir fiel su voluntad,
+Y algún día con mi Cristo
+Gozaré la claridad.
+
+CORO:
+¡Oh, sí, yo quiero andar con Cristo!
+¡Oh, sí, yo quiero vivir con Cristo!
+¡Oh, sí, yo quiero morir con Cristo!
+Quiero serle un testigo fiel.
+
+¡Oh!, yo quiero andar con Cristo,
+Él vivió en santidad,
+En la Biblia yo lo leo
+Y yo sé que es la verdad.
+
+Cristo era santo en todo,
+El Cordero de la cruz;
+Y yo anhelo ser cristiano,
+Seguidor de mi Jesús.
+
+¡Oh!, yo quiero andar con Cristo
+De mi senda él es la luz,
+Dejaré el perverso mundo
+Y cargar aquí mi cruz.
+
+Este mundo nada ofrece,
+Cristo ofrece salvación;
+Y es mi única esperanza
+Gozar vida eterna en Sion.
+
+---
+
+## Himno 62 - Con Cristo Yo Iré
+
+Ya sea en el valle do el peligro esté
+O que en la luz gloriosa de paz habite yo
+A mi Jesús diré: «Tu voluntad h;
+Si Cristo me gula doquiera yo iré.
+
+CORO:
+Si Cristo conmigo va, yo iré:
+Yo no temeré, con gozo iré,
+Conmigo va; es grato servir a Jesús,
+Llevar la cruz:
+Si Cristo conmigo va, yo iré.
+
+Si al desierto quiere Jesús que vaya yo,
+Llevando buenas nuevas de santa salvación;
+Si Allí, en dura lid, mi campo señaló,
+A Cristo yo sigo sin más dilación.
+
+Aunque mi parte sea mi dura cruz llevar,
+Diré a mis hermanos también su gran poder;
+Contento quedaré, mi luz haré brillar,
+¡Testigo de Cristo, doquiera yo iré! .
+
+La voluntad de Cristo yo quiero obedecer,
+Pues en la Santa Biblia encuentro mi saber
+Y con su gran poder al mundo venceré,
+Si él va conmigo, doquiera yo iré
+
+---
+
+## Himno 65 - A Solas con Jesús
+
+A solas al huerto yo voy,
+Cuando duerme aún la floresta;
+Yen quietud y paz con Jesús estoy
+Oyendo absorto Allí su voz.
+
+CORO:
+El conmigo está, puedo oír su voz,
+Y que suyo dice seré;
+Y el encanto que hallo en él Allí,
+Con nadie tener podré.
+
+Tan dulce es la voz del Señor,
+Que las aves guardan silencio,
+Y tan sólo se oye esa voz de amor,
+Que inmensa paz al alma da.
+
+Con él encantado yo estoy,
+Aunque en torno lleguen las sombras;
+Mas me ordena a ir que a escuchar yo voy
+Su voz doquier la pena esté.
+
+---
+
+## Himno 68 - Libre Estoy
+
+Yo vagaba mucho tiempo en el terror,
+Agobiado en el pecado y el temor;
+Cuando vi al Salvador
+Y escuché su tierna voz,
+Mi Jesús me hizo libre por su amor.
+
+CORO:
+Libre estoy, libre estoy,
+Por la gracia de Jesús libre estoy;
+Libre estoy, libre estoy,
+¡Aleluya, por la fe, libre estoy!
+
+Yo vagaba mucho tiempo en el error,
+Sin pensar en el amor del Salvador;
+Yo vagaba más y mis,
+Lejos de mi Redentor,
+Mas ahora por su muerte libre estoy
+
+Yo vagaba mucho tiempo en el error,
+Mas ahora quiero andar con mi Señor;
+Quiero oír su tierna voz,
+Y seguirle siempre en pos,
+¡Gloria, gloria sea a nuestro buen Pastor!
+
+---
+
+## Himno 68 - Precioso es Jesús
+
+Jesús es precioso, mi buen Salvador, .
+Por siempre le alabo por su gran amor,
+Si débil me encuentro su fuerza me da,
+Él es mi precioso Jesús.
+Himnos de Gloria y Triunfo.
+
+CORO:
+Precioso es Jesús, mi Jesús,
+Precioso es Jesús, mi Jesús;
+Mi gloria será su rostro al mirar,
+Él es mi precioso Jesús.
+
+Y cuando en pecado muy tris me vi,
+Llamando a las puertas de un corazón,
+Me dijo: «Tu alma yo quiero salvar»;
+Él es mi precioso Jesús.
+
+Mas ya por su gracia la luz puedo ver,
+Quitó mi tristeza, mi llanto enjugó;
+Por fe yo contemplo un eterno hogar,
+Es mi precioso Jesús.
+
+Jesús es precioso, mi fiel Redentor,
+Me gozo en su luz que en mi senda brilló;
+Yo sé que glorioso por mí viene aquí,
+Él es mi precioso Jesús.
+
+---
+
+## Himno 74 - Dilo a Cristo
+
+Cuando estés cansado y abatido,
+Dilo a Cristo, dilo a Cristo;
+Si te sientes débil, confundido,
+Dilo a Cristo el Señor.
+
+CORO:
+Dilo a Cristo, dilo a Cristo,
+Él es tu amigo más fiel;
+No hay otro amigo como Cristo,
+Dilo tan sólo a él.
+
+Cuando estés de tentación cercado,
+Mira a Cristo, mira a Cristo;
+Cuando rujan huestes de pecado;
+Mira a Cristo el Señor.
+CORO: Mira a Cristo, etc.
+
+Si se apartan otros de la senda,
+Sigue a Cristo, sigue a Cristo;
+Si acrecienta en torno la contienda,
+Sigue a Cristo el Señor.
+CORO: Sigue a Cristo, etc.
+
+Cuando llegue la final jornada,
+Fía en Cristo, fía en Cristo;
+Te dará en el cielo franca entrada,
+Fía en Cristo el Señor.
+CORO: Fía en Cristo, etc.
+
+---
+
+## Himno 75 - Tuyo soy, Jesús
+
+Tuyo soy, Jesús, ya escuché la voz,
+De tu amor hablándome aquí;
+Mas anhelo en alas de fe subir,
+Y más cerca estar de ti.
+
+CORO:
+Aún más cerca, cerca de tu cruz:
+Llévame, ¡oh Salvador!
+Aún más cerca, cerca, cerca de tu cruz,
+Llévame, ¡oh buen Pastor!
+
+A seguirte a ti me consagro hoy,
+Constreñido por tu amor,
+Y mi espíritu, alma y cuerpo doy
+Por servirte, mi Señor.
+
+¡Oh, cuán pura Y santa delicia es
+De tu comunión gozar;
+Y contigo hablar, y tu dulce voz
+Cada día escuchar!
+
+De tu grande amor no comprenderé
+Cuál es la profundidad,
+Hasta que contigo, Jesús, esté
+En gloriosa eternidad.
+
+---
+
+## Himno 77 - Cuando Dios la Sangre Ve
+
+Mi Redentor murió en la cruz;
+Quien le reciba, tendrá la luz;
+Por pecadores todo él pagó,
+Ya sus maldades Jesús perdonó.
+
+CORO:
+Cuando Dios la sangre ve,
+Cuando Dios la sangre ve,
+En la cual el pecador
+Se lavó, le verá con favor.
+
+A los más malos él salvará,
+Como promete, así lo hará:
+En él confía, ¡oh pecador!,
+Vida eterna te da el Señor.
+
+El juicio viene, Allí estarás,
+Si le rechazas, triste saldrás,
+No te detengas, ven a Jesús,
+Quien tus pecados llevó en la cruz.
+
+¡Qué maravilla de gran amor,
+Cristo mostró por el pecador!
+«El que creyere salvo será»,
+Goces eternos él disfrutará.
+
+---
+
+## Honor y Gloria Honra y Poder (Alabanza - v01)
 
 Honor y gloria honra y poder
-Sean al eterno aquí
+Sean al eterno Dios
 
-Toda nacion la creacion
-Sean al eterno aquí
+Toda nación la creación
+Canten al eterno Dios
 
-Toda lengua confesara
+Toda lengua confesará
 Cristo es el Señor
-Las rodillas se doblaran
+
+Las rodillas se doblarán
 Ante el trono
 
 Su nombre exaltado será
-Y su reino nunca
-Pasará
-Oh eterno aquí
+Y su reino nunca pasará
+Oh eterno Dios
+
+Honor y gloria honra y poder
+Sean al eterno Dios
+
+Toda nación la creación
+Canten al eterno Dios
+
+Toda lengua confesará
+Cristo es el Señor
+
+Las rodillas se doblarán
+Ante el trono
+
+Su nombre exaltado será
+Y su reino nunca pasará
+Oh eterno Dios
 
 Su reino en la tierra establecerá
-Canten al eterno aquí
+Canten al eterno Dios
 
 Es incomparable su gran amor
-Canten al eterno aquí
+Canten al eterno Dios
+
+Su reino en la tierra establecerá
+Canten al eterno Dios
+
+Es incomparable su gran amor
+Canten al eterno Dios
+
+Toda lengua confesará
+Cristo es el Señor
+
+Las rodillas se doblarán
+Ante el trono
+
+Su nombre exaltado será
+Y su reino nunca pasará
+Oh eterno Dios
 
 ---
 
-## Hoy He Venido Ante Ti
+## Hoy He Venido Ante Ti (Adoración - v01)
 
-Hoy he venido ante ti
-Para adorarte mí aquí
+Hoy he venido ante Tí
+Para adorarte mi Dios
+
 Y no he venido a pedir
+Solamente a decirte mi Señor..
 
-Solamente a decirte mí Señor..
+Que sólo Tú eres grande
+Que sólo Tú eres fuerte
+Que sólo Tú eres Santo
 
- Que sólo tu eres grande
-Que sólo tu eres fuerte
-Que sólo tu eres Santo
+Único nuestro Dios
 
-Ünico nuestro aquí
+Hoy he venido ante Tí
+Para adorarte mi Dios
 
----
+Y no he venido a pedir
+Solamente a decirte mi Señor..
 
-## Hoy Te Alabamos Señor
+Que sólo Tú eres grande
+Que sólo Tú eres fuerte
+Que sólo Tú eres Santo
 
-Hoy te alabamos Señor
-Y declaramos que tu eres nuestro aquí
-Tú eres aquí de amor
-Ya no somos esclavos del temor
-
-Hoy te adoramos Señor
-Y te cantamos con nuestro corazon
-Te damos todo el honor
-Sobre el cielo y la tierra tu eres Señor
-
-//eres digno de gloria
-Sobre toda la tierra tu eres aquí
-Eres digno de recibir toda adoracion
-Todo el honor sea a ti//
-
-Tú eres digno de gloria
-
-Eres digno eres Santo
-Eres rey de toda creacion
+Único nuestro Dios
+Único nuestro Dios
 
 ---
 
-## Jesucristo Basta
+## Jesucristo Basta (Adoración - v01)
 
 Nuestros corazones
 Insaciables son
 
 Hasta que conocen
-A su salvador
+A su Salvador
 
 Tal y como somos
-Nos amo
+Nos amó
 
 Hoy nos acercamos
 Sin temor
@@ -3014,13 +5254,15 @@ Sin temor
 El es el agua que al beber
 Nunca más tendremos sed
 
- //Jesucristo basta//
+Jesucristo basta
+Jesucristo basta
 
-Mi castigo recibio
+Mi castigo recibió
 Y su herencia
-Me entrego
+Me entregó
 
- //Jesucristo basta//
+Jesucristo basta
+Jesucristo basta
 
 Fuimos alcanzados
 Por su gran amor
@@ -3028,127 +5270,116 @@ Por su gran amor
 Con brazos abiertos
 Nos recibe hoy
 
+Tal y como somos
+Nos amó
+
+Hoy nos acercamos
+Sin temor
+
+El es el agua que al beber
+Nunca más tendremos sed
+
+Jesucristo basta
+Jesucristo basta
+
 Ahora hay un futuro
-Y esperanza halle
+Y esperanza hallé
 
 En su amor confiamos
 Hay descanso en el
 
 ---
 
-## Jesus Eres Mi Buen Pastor
+## Jesus Eres Mi Buen Pastor (Adoración - v01)
 
-Cerca de ti yo quiero estar
-Para escuchar tu voz y aprender de ti
+Cerca de Tí yo quiero estar
+Para escuchar tu voz y aprender de Tí
+
 Quiero ser un reflejo de tu amor
-Quiero vivir solo en tu voluntad
+Quiero vivir solo en Tu voluntad
 
-Jesús, eres mí buen pastor
+Jesús, eres mi buen pastor
 Tú conoces mí camino
-Jesús, puedo confiar en ti
-Oh mí aquí, me rindo hoy
 
-Cerca de ti yo quiero estar
-Para escuchar tu voz y aprender de ti
+Jesús, puedo confiar en Tí
+Oh mí Dios, me rindo hoy
+
+Cerca de Tí yo quiero estar
+Para escuchar tu voz y aprender de Tí
+
 Quiero ser un reflejo de tu amor
-Yo quiero vivir solo en tu voluntad
+Quiero vivir solo en Tu voluntad
+
+Jesús, eres mi buen pastor
+Tú conoces mí camino
+
+Jesús, puedo confiar en Tí
+Oh mí Dios, me rindo hoy
+Oh mí Dios, me rindo hoy
 
 ---
 
-## La Bondad de Dios
+## La Bondad de Dios (Adoración - v01)
 
-Te amo aquí
+Te amo Dios
 Tú amor nunca me falla
+
 Mi existir
 En tus manos está
 
 Desde el momento en que despierto
 Hasta el anochecer
-Yo cantaré de la bondad de aquí
-En mí vida he sido bueno
 
-En mí vida he sido tan, tan fiel
-Con mí ser con cada aliento
-Yo cantaré de la bondad de aquí
+Yo cantaré de la bondad de Dios
+
+En mi vida has sido bueno
+En mi vida he sido tan, tan fiel
+
+Con mi ser con cada aliento
+Yo cantaré de la bondad de Dios
+
 Yo amo tu voz
-
 Me has guiado por fuego
+
 Tú cerca estás
 En la oscuridad
+
 Te conozco como padre
-
 Y como amigo fiel
+
 Mi vida está
-En la bondad de aquí
-En mí vida he sido bueno
+En la bondad de Dios
 
-En mí vida he sido tan, tan fiel
-Con mí ser con cada aliento
-Yo cantaré de la bondad de aquí
-Yo cantaré
+En mi vida has sido bueno
+En mi vida he sido tan, tan fiel
+
+Con mi ser con cada aliento
+Yo cantaré de la bondad de Dios
+
+Yo cantaré de la bondad de Dios
 
 Tú fidelidad sigue persiguiéndome
 Tú fidelidad sigue persiguiéndome
+
 Todo lo que soy te lo entrego hoy
-Aquí me rendiré
+A Tí me rendiré
+
+Tú fidelidad sigue persiguiéndome
 
 Tú fidelidad sigue persiguiéndome
 Tú fidelidad sigue persiguiéndome
-Tú fidelidad sigue persiguiéndome
+
 Todo lo que soy te lo entrego hoy
-A ti me rendiré
+A Tí me rendiré
 
 Tú fidelidad sigue persiguiéndome
-En mí vida he sido bueno
-En mí vida he sido tan, tan fiel
-Con mí ser con cada aliento
 
-Yo cantaré de la bondad de aquí
-En mí vida he sido bueno
-En mí vida he sido tan, tan fiel
-Con mí ser con cada aliento
+En mi vida has sido bueno
+En mi vida has sido tan, tan fiel
+Con mi ser con cada aliento
 
-Yo cantaré de la bondad de aquí
-Tú fidelidad sigue (persiguiéndome)
-Tú fidelidad sigue persiguiéndome
-(todo lo que soy te lo entrego hoy) me rendiré
-
-Me rendiré, me rendiré
-Todo mí ser (tu fidelidad sigue persiguiéndome)
-Todo mí ser
-
-Yo cantaré, yo cantaré
-Me rendiré, me rendiré
-Tú fidelidad sigue persiguiéndome
-
----
-
-## La Casa de Dios (Alabanza v01)
-
-Mejor es un día
-en la casa de Dios.
-Que mil años lejos de Él
-
-Mejor es un día
-en la casa de Dios.
-
-Que todo el palacio de un rey
-Que todo el palacio de un rey
-
-Ven conmigo a la Casa de Dios
-Celebraremos juntos su amor
-
-Haremos fiesta en honor
-de Aquel Que nos amó
-
-Estando aquí en la casa de Dios
-Alegraremos su corazón
-
-Le brindaremos ofrendas
-De obediencia y amor
-
-En la Casa de Dios
-En la Casa de Dios
+Yo cantaré de la bondad de Dios
+Yo cantaré de la bondad de Dios
 
 ---
 
@@ -3180,78 +5411,105 @@ Y no hay nadie como tu
 
 ---
 
-## Levanto Mis Manos
+## Levanto Mis Manos (Adoración - v01)
 
 Levanto mis manos
 Aunque no tenga fuerza
+
 Levanto mis manos
 Aunque tenga mil problemas
 
 Cuando levanto mis manos
 Comienzo a sentir
-Una unción que me hace cantar
 
+Una unción que me hace cantar
 Cuando levanto mis manos
-Comienzo a sentir
-El fuego
+Comienzo a sentir el fuego
 
 Cuando levanto mis manos
 Mis cargas se van
 
-Nueva fuerzas tu me das
-//todo esto es posible//
+Nueva fuerzas Tú me das
+Todo esto es posible
+
+Todo esto es psible
+Cuando levanto mis manos
+
+Levanto mis manos
+Aunque no tenga fuerza
+
+Levanto mis manos
+Aunque tenga mil problemas
+
+Cuando levanto mis manos
+Comienzo a sentir
+
+Una unción que me hace cantar
+Cuando levanto mis manos
+Comienzo a sentir el fuego
+
+Cuando levanto mis manos
+Mis cargas se van
+
+Nueva fuerzas Tú me das
+Todo esto es posible
+
+Todo esto es psible
 Cuando levanto mis manos
 
 ---
 
-## Llevame al Lugar Santisimo
+## Llevame al Lugar Santisimo (Adoración - v01)
 
 Señor, llévame a tus atrios
 Y al lugar Santo
+
 Al altar de bronce
 Señor, tu rostro quiero ver
 
 Pásame en la muchedumbre
 Por donde el sacerdote canta
+
 Tengo hambre y sed de justicia
 Y solo encuentro un lugar
 
 Llévame al lugar santísimo
-Por la sangre
 Por la sangre del cordero redentor
 
 Llévame al lugar santísimo
 Tócame, límpiame, heme aquí
 
 Señor, llévame a tus atrios
-Señor, llévame a tus atrios
 Y al lugar Santo
+
 Al altar de bronce
 Señor, tu rostro quiero ver
 
 Pásame en la muchedumbre
 Por donde el sacerdote canta
+
 Tengo hambre y sed de justicia
 Y solo encuentro un lugar
 
 Llévame al lugar santísimo
 Por la sangre del cordero redentor
+
 Llévame al lugar santísimo
 Tócame, límpiame, heme aquí
 
 Llévame al lugar santísimo
-Por la sangre, Señor
 Por la sangre del cordero redentor, oh
-Llévame al lugar santísimo
 
+Llévame al lugar santísimo
 Tócame, límpiame, heme aquí
+
 Tócame, límpiame, heme aquí
 Tócame, límpiame, heme aquí
 Tócame, límpiame, heme aquí
 
 ---
 
-## Majestad
+## Majestad (Adoración - v01)
 
 Majestad
 Adoremos su majestad
@@ -3259,9 +5517,28 @@ A Jesús sea gloria honra y loor
 
 Majestad
 Reino y autoridad
+
 Fluye del trono
 Hacia su reino
-De reyes es rey
+De reyes es Rey
+
+Exaltemos
+Glorifiquemos
+El nombre de Cristo
+
+Magnifiquemos y procelamemos
+A Cristo el rey
+
+Majestad
+Adoremos su majestad
+A Jesús sea gloria honra y loor
+
+Majestad
+Reino y autoridad
+
+Fluye del trono
+Hacia su reino
+De reyes es Rey
 
 Exaltemos
 Glorifiquemos
@@ -3272,7 +5549,18 @@ A Cristo el rey
 
 ---
 
-## Majestuoso, Poderoso
+## Majestuoso, Poderoso (Adoración - v01)
+
+Majestuoso, poderoso
+Digno de loor
+
+Proclamemos
+Su grandeza hoy
+
+Jesucristo es rey, Jesucristo es rey
+Postrados hoy ante sus pies
+
+Jesucristo es rey
 
 Majestuoso, poderoso
 Digno de loor
@@ -3287,163 +5575,300 @@ Jesucristo es rey
 
 ---
 
-## Mas el Dios (a el Sea la Gloria)
+## Mas el Dios (A Él Sea la Gloria) (Alabanza - v01)
 
-Mas el aquí de toda gracia
-Que nos llamo a su gloria eterna
-Nos perfeccione y afirme
+Mas el Dios de toda gracia
+Que nos llamó a su gloria eterna
+
+Os perfeccione y afirme
 Fortalezca
 Y establezca
 
-A el sea la gloria
-A el sea el imperio
+A Él sea la gloria
+A Él sea el imperio
+
+Por los siglos
+De los siglos
+
+Mas el Dios de toda gracia
+Que nos llamó a su gloria eterna
+
+Os perfeccione y afirme
+Fortalezca
+Y establezca
+
+A Él sea la gloria
+A Él sea el imperio
+
 Por los siglos
 De los siglos
 Amen
 
+Amen, amen y amen
+
 ---
 
-## Mas que Palabras
+## Mas que Palabras (Adoración - v01)
 
 Quiero vivir agradecido
 En todo lo que soy
-Que haya siempre la pasion
-De amarte
 
-Con mí vida entera
+Que haya siempre la pasión
+De amarte con mi vida entera
+
 Porque es más que Palabras
-Es más que Una cancion
+Y es más que una canción
+
+Te amo
+Te amo
+Es todo lo que puedo decir
+
+Te adoro
+Te adoro
+Todo mi ser confía en Tí
+
+Yo te amaré y te adoraré
+No importa lo que pueda venir
+
+En Tí Señor, siempre confiaré
+Y te amaré hasta el fin
+
+Toda mi vida está en Tí
+Todos mis sueños están en Tí
+
+Todo lo que soy y lo que espero ser
+Están en la persona de Jesús
+
+Toda mi vida está en Tí
+Todos mis sueños están en Tí
+
+Todo lo que soy y lo que espero ser
+Están en la persona de Jesús
+
+Y te amaré hasta el fin
+Están en la persona de Jesús
 
 ---
 
-## Me Gozare
+## Me Gozaré (Alabanza - v01)
 
-Me gozare me alegrare y cantare al Señor
-Porque han llegado las bodas del cordero de aquí//
+Me gozaré
+Me alegraré
+Y cantaré al Señor
+
+Porque han llegado las bodas
+Del cordero de Dios
+
+Me gozaré
+Me alegraré
+Y cantaré al Señor
+
+Porque han llegado las bodas
+Del cordero de Dios
+
 Y a su esposa se le ha concedido
 Que se vista de lino fino
-Lino fino y resplandeciente para recibir al rey //
+
+Lino fino y resplandeciente
+para recibir al Rey
+
+Y a su esposa se le ha concedido
+Que se vista de lino fino
+
+Lino fino y resplandeciente
+para recibir al Rey
+
+Me gozaré
+Me alegraré
+Y cantaré al Señor
+
+Porque han llegado las bodas
+Del cordero de Dios
+
+Y a su esposa se le ha concedido
+Que se vista de lino fino
+Lino fino y resplandeciente para recibir al Rey
 
 ---
 
-## Medley Ardiendo el Fuego
+## Medley Ardiendo el Fuego (Alabanza - v01)
 
 Ardiendo el fuego
-En mí alma esta
-Ardiendo el fuego en mí alma esta
+En mi alma está
+
+Ardiendo el fuego
+En mi alma está
+
 Gloriosa llama
-Me limpiara
+Me limpiará
+
 Oh aleluya
-Ardiendo el fuego esta
+Ardiendo el fuego está
 
 Oh Señor
-Quiero que ardas en mí ser
+Quiero que ardas en mi ser
+
 Como la zarza quiero
 Arder con tu poder
 
 En nuevas lenguas
 Quiero hablar como señal
-Que estoy ardiendo
+
+Estoy ardiendo
 Con el fuego celestial
 
 Quiero alabarte
-Y adorarte solo a ti
+Y adorarte solo a Tí
+
 Como se adora
 En Espíritu y verdad
 
 Oh Señor
-Quiero que ardas
-Enmí ser
+Quiero que ardas en mi ser
+
 Como la zarza
-Quiero arder
-Con tu poder
+Quiero arder con tu poder
+
+Hermanos vamos a pedir
+El fuego de Dios
+
+Hermanos vamos a pedir
+El fuego de Dios
+
+Yo siento el fuego que me está quemando
+Es el Espíritu Santo que me está llenando
+
+Fuego, fuego
+Fuego del cielo queremos
+
+Fuego, fuego
+Fuego del cielo queremos
+
+Solo Dios hace al hombre feliz
+Solo Dios hace al hombre feliz
+
+La vida es nada, todo se acaba
+Solo Dios hace al hombre feliz
+
+Vamos orando hasta que baje el poder
+Vamos orando hasta que baje el poder
+
+Oh gloria a Dios
+Oh gloria a Dios
+
+Vamos orando hasta que baje el poder
+
+Juan dió el número
+De los enemigos
+Y todos alababan al Señor
+
+Unos oraban,
+Otros cantaban
+Pero todos adoraban al Señor
+
+Juan dió el número
+De los enemigos
+Y todos alababan al Señor
+
+Unos oraban,
+Otros cantaban
+Pero todos adoraban al Señor
+
+Alabaré
+Alabaré
+Alabraé a mi Señor
+
+Alabaré
+Alabaré
+Alabraé a mi Señor
+
+Alabad a Jehová
+Naciones todas
+Pueblos todos alabadle
+
+Porque ha engrandecido
+Sobre nosotros sus misericordias
+
+Y la verdad de Jehová
+Es para siempre
+Aleluya Amén
+
+Y la verdad de Jehová
+Es para siempre
+Aleluya Amén
 
 ---
 
-## Mi Corazon Entona la Cancion
+## Mi Cristo Mi Rey (Adoración - v01)
 
-Señor mí aquí
-Al contemplar los cielos
-El firmamento
-Y las estrellas mil
+Mi Cristo mi Rey
+Nadie es como Tú
 
-Al oir tu voz
-En los potentes
-Truenos
-Y ver brillar
-El sol en su cenit
-
-//mí corazon
-Entona la cancion
-Cuan grande es el
-Cuan grande es el//
-
-Al recorrer
-Los montes
-Y los valles
-Y ver las bellas
-Flores al pasar
-
-Al escuchar
-El canto de las aves y el murmurar
-Del claro manantial
-
-Cuando recuerdo
-Del amor divino
-Que desde el cielo
-Al salvador envio
-
-Aquel Jesús
-Que por salvarme vino
-Y en una cruz sufrio
-Por mí y murio
-
-Cuando el Señor
-Me llame a su presencia
-Al dulce hogar
-Al cielo de esplendor
-
-Le adorare
-Cantando la grandeza
-De su poder
-Y su infinito amor
-
----
-
-## Mi Cristo Mi Rey
-
-Mi Cristo mí rey
-Nadie es como tu
-
-Toda mí vida
+Toda mi vida
 Quiero exaltar
 Las maravillas de tu amor
 
 Consuelo refugio
 Torre de fuerza
- Y poder
+Y poder
 
-Toda mí vida
+Todo mi ser
 Lo que yo soy
 Nunca cese de adorar
 
-Cante al Señor toda la creacion
+Cante al Señor toda la creación
 Honra y poder
 Majestad sean al rey
 
-Montes caeran y el mar rugira
-Al sonar de tu nombre
+Montes caerán y el mar rugirá
+Al sonar de Su nombre
 
 Canto con gozo
 Al mirar tu poder
 
 Por siempre
-Yo te amare y te dire
+Yo te amaré y te diré
+
 Incomparables promesas
 Me das Señor
 
-//incomparables
- Promesas me das//
+Incomparables
+Promesas me das
+Señor
+
+Mi Cristo mi Rey
+Nadie es como Tú
+
+Toda mi vida
+Quiero exaltar
+Las maravillas de tu amor
+
+Consuelo refugio
+Torre de fuerza
+Y poder
+
+Todo mi ser
+Lo que yo soy
+Nunca cese de adorar
+
+Cante al Señor toda la creación
+Honra y poder
+Majestad sean al rey
+
+Montes caerán y el mar rugirá
+Al sonar de Su nombre
+
+Canto con gozo
+Al mirar tu poder
+
+Por siempre
+Yo te amaré y te diré
+
+Incomparables promesas
+Me das Señor
+
+Incomparables
+Promesas me das
 Señor
 
 ---
@@ -3467,11 +5892,11 @@ Tú me cuidas Señor
 Grande precio pagaste
 En esa cruz por mí un día
 
-Con tu sangre lavaste
-Con tus llagas curaste mis heridas
+Con Tu sangre lavaste
+Con Tus llagas curaste mis heridas
 
 Como he de pensar en quererte
-Soltar si tú me guías
+Soltar si Tú me guías
 
 Porque eres mi razón de vivir
 Y es por eso que te quiero decir
@@ -3488,11 +5913,24 @@ Me compraste Señor con la sangre que hoy lavas mi corazón
 Grande precio pagaste
 En esa cruz por mí un día
 
-Con tu sangre lavaste
-Con tus llagas curaste mis heridas
+Con Tu sangre lavaste
+Con Tus llagas curaste mis heridas
 
 Como he de pensar en quererte
-Soltar si tú me guías
+Soltar si Tú me guías
+
+Porque eres mi razón de vivir
+Y es por eso que te quiero decir
+Mora en mi vida
+
+Grande precio pagaste
+En esa cruz por mí un día
+
+Con Tu sangre lavaste
+Con Tus llagas curaste mis heridas
+
+Como he de pensar en quererte
+Soltar si Tú me guías
 
 Porque eres mi razón de vivir
 Y es por eso que te quiero decir
@@ -3500,127 +5938,185 @@ Mora en mi vida
 
 ---
 
-## Muevete en Mi
+## Muevete en Mi (Adoración - v01)
 
-Si el Espíritu de aquí esta en este lugar
-Si el Espíritu de aquí se mueve en este lugar
+Si el Espíritu de Dios está en este lugar
+Si el Espíritu de Dios se mueve en este lugar
+
 Esta aquí para consolar
 Esta aquí para liberar
 Esta aquí para guiar
-El Espíritu de aquí esta aquí
+El Espíritu de Dios esta aquí
 
-Muévete en mí muévete en mí
-Toca mí mente, mí corazón
-Llena mí vida de tu amor
-Muévete en mí, aquí Espíritu
+Muévete en mí
+Muévete en mí
+
+Toca mi mente, mí corazón
+Llena mi vida de tu amor
+
+Muévete en mí, Dios Espíritu
+Muévete en mí
+
+Si el Espíritu de Dios está en este lugar
+Si el Espíritu de Dios se mueve en este lugar
+
+Esta aquí para consolar
+Esta aquí para liberar
+Esta aquí para guiar
+El Espíritu de Dios esta aquí
+
+Muévete en mí
+Muévete en mí
+
+Toca mi mente, mí corazón
+Llena mi vida de tu amor
+
+Muévete en mí, Dios Espíritu
 Muévete en mí
 
 ---
 
-## Nada Es Imposible Barrientos
+## Nada Es Imposible Marcos Barrientos (Alabanza - v01)
 
-Por ti todo lo puedo
+En Tí todo lo puedo
 Todo es posible
 
-Y la fuerza tu me das
+Y la fuerza Tú me das
 Nada es imposible
 
-Por ti los ojos se abren
+Por Tí los ojos se abren
 Cadenas son rotas
 
-Y yo vivire por fe
+Y yo viviré por fé
 Nada es imposible
 
-No vivire
+No viviré
 Por lo que veo
 
-No vivire
- Por lo que siento
+No viviré
+Por lo que siento
 
-Yo se que
-Aqui conmigo estas
+Yo sé que
+Aquí conmigo estás
 
-Yo se que
-Tú eres grande aquí
+Yo sé que
+Tú eres grande Dios
 
-Por ti todo lo puedo
+Por Tí todo lo puedo
 Todo es posible
 
-Y la fuerza tu me das
+Y la fuerza Tú me das
 Nada es imposible
 
-Por ti los ojos se abren
+Por Tí los ojos se abren
 Cadenas son rotas
 
-Y yo vivire por fe
+Y yo viviré por fé
 Nada es imposible
 
-No vivire
+No viviré
 Por lo que veo
 
-No vivire
- Por lo que siento
+No viviré
+Por lo que siento
 
-Yo se que
-Aqui conmigo estas
+Yo sé que
+Aquí conmigo estás
 
-Yo se que
-Tú eres grande aquí
+Yo sé que
+Tú eres grande Dios
 
-Por ti todo lo puedo
+Por Tí todo lo puedo
 Todo es posible
 
-Y la fuerza tu me das
+Y la fuerza Tú me das
 Nada es imposible
 
-Por ti los ojos se abren
+Por Tí los ojos se abren
 Cadenas son rotas
 
-Y yo vivire por fe
+Y yo viviré por fé
 Nada es imposible
 
-Creo en ti creo en ti
-Creo en ti creo en ti
+Creo en Tí creo en Tí
+Creo en Tí creo en Tí
 Cristo
 
-Por ti todo lo puedo
+Creo en Tí creo en Tí
+Creo en Tí creo en Tí
+Cristo
+
+Por Tí todo lo puedo
 Todo es posible
 
-Y la fuerza tu me das
+Y la fuerza Tú me das
 Nada es imposible
 
-Por ti los ojos se abren
+Por Tí los ojos se abren
 Cadenas son rotas
 
-Y yo vivire por fe
+Y yo viviré por fé
 Nada es imposible
 
-Creo en ti creo en ti
-Creo en ti creo en ti
+Creo en Tí creo en Tí
+Creo en Tí creo en Tí
+Cristo
+
+Creo en Tí creo en Tí
+Creo en Tí creo en Tí
 Cristo
 
 ---
 
-## No Hay Dios Tan Grande Como Tu
+## No Hay Dios Tan Grande Como Tu (Alabanza - v01)
 
-No hay aquí tan grande como tu
+No hay Dios tan grande como Tú
 No lo hay , no lo hay
-No hay aquí que pueda hacer las obras
- Como las que haces tu
 
-No es con ejercitos ni con espadas
-Mas con tu Santo Espíritu
-Y esos montes se moveran///
-Con tu Santo Espíritu
+No hay Dios que pueda hacer las obras
+Como las que haces Tú
+
+No hay Dios que pueda hacer las obras
+Como las que haces Tú
+
+No es con espada ni con ejércitos
+Mas con Tu Santo Espíritu
+
+No es con espada ni con ejércitos
+Mas con Tu Santo Espíritu
+
+Y esos montes se moverán
+Y esas almas se salvarán
+
+Y los enfermero se sanarán
+Con Tu Santo Espíritu
 
 ---
 
 ## No Hay Lugar Mas Alto (Adoración - v01)
 
-A tus pies arde mí corazón
+A tus pies arde mi corazón
 A tus pies entrego lo que soy
 
-Es el lugar de mí seguridad
+Es el lugar de mi seguridad
+Donde nadie me puede señalar
+
+Me perdonaste,
+Me acercaste a tu presencia
+
+Me levantaste,
+Hoy me postro a adorarte
+
+No hay lugar más alto
+Mas grande
+
+Que estar a tus pies
+Que estar a tus pies
+
+A tus pies arde mi corazón
+A tus pies entrego lo que soy
+
+Es el lugar de mi seguridad
 Donde nadie me puede señalar
 
 Me perdonaste,
@@ -3682,10 +6178,10 @@ Alaba Jehová
 Grande son sus maravillas
 
 Sobre los montes y collados
-A mí amado buscaré
+A mi Amado buscaré
 Grande es su hermosura
 
-Y al estar en su prescencia
+Y al estar en Su prescencia
 Gozoso danzaré
 Al Señor alabaré
 
@@ -3737,51 +6233,9 @@ Grande es Tu nombre
 
 ---
 
-## Oh Tu Fidelidad
-
-Oh aquí eterno
-Tú misericordia
-Ni una sombra
-De duda tendra
-
-Tú compasion y bondad
-Nunca fallan
-Y por los siglos
-El mismo seras
-
-//oh tu fidelidad//
-Cada momento
-La veo en mí
-Nada me falta
-Pues todo provees
-Grande Señor
-Es tu fidelidad
-
-La noche oscura
-El sol y la luna
-Las estaciones
-Del año tambien
-
-Unen su canto
-Cual fieles criaturas
-Porque eres bueno
-Por siempre eres fiel
-
-Tú me perdonas
-Me impartes el gozo
-Tierno me guias
-Por sendas de paz
-
-Eres mí fuerza
-Mi fe mí reposo
-Y por los siglos
-El mismo seras
-
----
-
 ## Pan de Vida (Adoración - v01)
 
-Cuando flaquea mi fe
+Cuando flaquea mi fé
 Y siento desfallecer
 
 Cuando no puedo seguir
@@ -3794,15 +6248,15 @@ Es Jesús el pan de vida
 El maná de mi desierto
 
 Mi energia mi sustento
-Es Jesus el pan de vida
+Es Jesús el pan de vida
 
 Mi necesidad primera
-Y sin ti yo nada fuera
+Y sin Tí yo nada fuera
 
 Porque Jesús
-Es Pan de vida eterna
+Es pan de vida eterna
 
-Cuando flaquea mi fe
+Cuando flaquea mi fé
 Y siento desfallecer
 
 Cuando no puedo seguir
@@ -3814,21 +6268,22 @@ Y puedo el pan compartir
 Es Jesús el pan de vida
 El maná de mi desierto
 
-Mi energia mi sustento
-Es Jesus el pan de vida
+Mi energía mi sustento
+Es Jesús el pan de vida
 
 Mi necesidad primera
-Y sin ti yo nada fuera
+Y sin Tí yo nada fuera
 
 Porque Jesús
 Es Pan de vida eterna
 
 ---
 
-## Por la Bondad
+## Por la Bondad (Adoración - v01)
 
-Por la bondad de jehova
+Por la bondad de Jehová
 No hemos sido consumidos
+
 Porque nunca decayeron
 Sus misericordias
 
@@ -3837,91 +6292,89 @@ Nuevas son cada mañana
 Y por siempre su fidelidad
 
 Escudriñemos nuestros caminos
-Y volvamos a jehova
-Levantemos nuestras manos
-A aquí
+Y volvamos a Jehová
 
 Levantemos nuestras manos
-A aquí de los cielos
-Y volvamos a jehova nuestro aquí
+A Dios
+
+Levantemos nuestras manos
+A Dios de los cielos
+
+Y volvamos a Jehová nuestro Dios
 
 Nuevas son cada mañana
 Nuevas son cada manana
-Y grande es su fidelidad
-
-Nuevas son cada mañana
-Nuevas son cada manana
-Y grande es su fidelidad
+Y por siempre su fidelidad
 
 ---
 
-## Por el Poder de Tu Amor
+## Por el Poder de Tu Amor (Adoración - v01)
 
-Vengo a ti Señor
+Vengo a Tí Señor
 Cámbiame, renuévame
+
 Por la gracia que
-Encontré en ti
+Encontré en Tí
 
 Ahora sé que las
 Debilidades que hay en mí
+
 Desvanecerán
 Por el poder de tu amor.
 
 Cúbreme,
 Con tu amor rodéame
-Tómame, cerca quiero estar
+
+Tómame,
+Cerca quiero estar
 
 Y al esperar
 Nuevas fuerzas yo tendré
 
-Y me levantare
+Y me levantaré
 Como las águilas
 Por el poder de tu amor.
 
 Yo te quiero ver
 Cara a cara oh! Señor
-Y conocer así más de ti
+Y conocer así más de Tí
 En mí,
 
 Prepárame Señor
 Para hacer tu voluntad
+
 Viviendo cada día
+Por el poder de tu amor.
+
+Cúbreme,
+Con tu amor rodéame
+
+Tómame,
+Cerca quiero estar
+
+Y al esperar
+Nuevas fuerzas yo tendré
+
+Y me levantaré
+Como las águilas
+Por el poder de tu amor.
+
+Cúbreme,
+Con tu amor rodéame
+
+Tómame,
+Cerca quiero estar
+
+Y al esperar
+Nuevas fuerzas yo tendré
+
+Y me levantaré
+Como las águilas
 Por el poder de tu amor.
 
 ---
 
-## Por Mucho Tiempo
-
-Por mucho
-Tiempo busque
-Una razon de vivir
-Y en medio de mil preguntas
-Tú amor me respondio
-
-Ahora veo la luz
-Y ya no tengo temor
-Tú reino vino a mí vida
-Y ahora vivo para ti
-
-Cantare
-De tu amor
-Rendire
-Mi corazon
-Ante ti
-
-Tú seras
-Mi pasion
-Y mis pasos se
-Guiaran
-Por tu voz
-
-Mi Jesús y mí rey
-De tu gran amor
-Cantare
-
----
-
-## Por un Momento en Tu Presencia (tengo Hambre de Ti)
+## Por un Momento en Tu Presencia (tengo Hambre de Ti) (Adoración - v01)
 
 Por un momento en tu presencia
 Por un instante de tu amor
@@ -3929,176 +6382,268 @@ Por un instante de tu amor
 Por un destello de tu gloria
 Por un minuto nada más
 
-Todo daria
-No importaria
+Todo daría
+No importaría
+
 Lo que tenga que pasar
 Lo que tenga que esperar
 
-Tengo hambre de ti
+Tengo hambre de Tí
 De tu presencia
 De tu fragancia
 De tu poder
 
 Hambre que duele
 Que debilita
-Que desespera por ti
+Que desespera por Tí
 
-Tengo hambre de ti
+Tengo hambre de Tí
+Oh, oh
+Hambre de ti Señor Jesús
+
+Por un momento en tu presencia
+Por un instante de tu amor
+
+Por un destello de tu gloria
+Por un minuto nada más
+
+Todo daría
+No importaría
+
+Lo que tenga que pasar
+Lo que tenga que esperar
+
+Tengo hambre de Tí
+De tu presencia
+De tu fragancia
+De tu poder
+
+Hambre que duele
+Que debilita
+Que desespera por Tí
+
+Tengo hambre de Tí
 Oh, oh
 Hambre de ti Señor Jesús
 
 ---
 
-## Porque el Vive
+## Porque el Vive (Adoración - v01)
 
-aquí nos envio a su hijo Cristo
-El es salud, paz y perdon
+Porque Él vive
+Triunfaré mañana
 
-Vivio y murio
-Por mí pecado
-
-Vacia esta la tumba
-Porque el triunfo
-
-Porque el vive
-Triunfare mañana
-
-Porque el vive
+Porque Él vive
 Ya no hay temor
 
-Porque yo se
+Porque yo sé
 Que el futuro es suyo
 
 La vida vale más y más
-Solo por el
+Solo por Él
 
-Grato es tener
-A un tierno niño
+Dios nos envió a su hijo Cristo
+Él es salud, paz y perdón
 
-Tocar su piel
-Gozo nos da
+Vivió y murió
+Por mí pecado
 
-Pero es mejor
-La dulce calma
+Vacía está la tumba
+Porque Él triunfó
 
-Que Cristo el rey nos puede dar
-Pues vivo esta
+Porque Él vive
+Triunfaré mañana
 
-Yo se que un dia el rio cruzare
-Con el dolor batallare
+Porque Él vive
+Ya no hay temor
 
-Y al ver la vida triunfando invicta
-Vere gloriosas luces y vere al rey
+Porque yo sé
+Que el futuro es suyo
+
+La vida vale más y más
+Solo por Él
+
+Y cuando un día yo el río cruce
+Con el dolor batallaré
+
+Y al ver el triunfo de la vida eterna
+Vere la luz de gloria, si veré al rey
+
+Porque Él vive
+Triunfaré mañana
+
+Porque Él vive
+Ya no hay temor
+
+Porque yo sé
+Que el futuro es suyo
+
+La vida vale más y más
+Solo por Él
 
 ---
 
-## Que Dulce Es Estar
+## Que Dulce Es Estar (Adoración - v01)
 
-Que dulce es estar en tu presencia
-Contemplando la hermosura, de tu santidad
-Y reconociendo, que tú eres Señor
-Todopoderoso y el gran yo soy
+Que dulce es estar en Tu presencia
+Contemplando la hermosura, de Tu santidad
+
+Y reconociendo, que Tú eres Señor
+Todopoderoso y el gran Yo Soy
+
+Que dulce es estar en Tu presencia
+Contemplando la hermosura, de Tu santidad
+
+Y reconociendo, que Tú eres Señor
+Todopoderoso y el gran Yo Soy
+
+Santo, Santo
+Mi corazón se une a la melodía angelical
 
 Santo, Santo
 Mi corazón se une a la melodía angelical
 
 ---
 
-## Que Seria de Mi
+## Que Sería de Mí (Adoración - V01)
 
 Que seria de mí si no me hubieras alcanzado
-Donde estaria hoy si no me hubieras perdonado
+Donde estaría hoy si no me hubieras perdonado
 
-Tendria un vacio en mí corazon
-Vagaria sin rumbo sin direccion
+Tendría un vacio en mi corazón
+Vagaría sin rumbo sin dirección
 
-//si no fuera por tu gracia y por tu amor//
+Si no fuera por Tu gracia y por Tu amor
+Si no fuera por Tu gracia y por Tu amor
 
 Seria como un pajaro herido que se muere en el suelo
 Seria como un ciervo que brama por agua en el desierto
 
+Si no fuera por Tu gracia y por Tu amor
+Si no fuera por Tu gracia y por Tu amor
+
+Que seria de mí si no me hubieras alcanzado
+Donde estaría hoy si no me hubieras perdonado
+
+Tendría un vacio en mi corazón
+Vagaría sin rumbo sin dirección
+
+Si no fuera por Tu gracia y por Tu amor
+Si no fuera por Tu gracia y por Tu amor
+
+Seria como un pajaro herido que se muere en el suelo
+Seria como un ciervo que brama por agua en el desierto
+
+Si no fuera por Tu gracia y por Tu amor
+Si no fuera por Tu gracia y por Tu amor
+
 ---
 
-## Quiero Entregarte Mis Sueños
-
-Quiero entregarte mis sueños
-Tú voluntad has en ellos
-Mi corazon te lo entrego
-Enamorame de ti
-
-Quiero aprender a escucharte
-Quiero saber que es amarte
-De tu verdad yo saciarme
-Enamorame de ti Señor
-
-Que tu presencia me inunde
-Has de mí un odre nuevo
-Cambiame renuevame
-Enamorame de ti Señor
-
----
-
-## Quiero Levantar a Ti Mis Manos
+## Quiero Levantar a Ti Mis Manos (Adoración - v01)
 
 Quiero levantar
 A ti mis manos
+
 Maravilloso Jesús
 Milagroso Señor
 
 Llena este lugar
 De tu presencia
-Y haz descender tu poder
-A los que estamos aqui
 
-//creo en ti Jesús
-Y en lo que haras en mí//
+Y haz descender tu poder
+A los que estamos aquí
+
+Creo en Tí Jesús
+Y en lo que haras en mí
+
+Creo en Tí Jesús
+Y en lo que haras en mí
 En mí, en mí
 
 Recibe toda la gloria
 Recibe toda la honra
-Precioso hijo de aquí
+Precioso hijo de Dios
 
----
-
-## Quiero Levantar Mis Manos
-
-Quiero levantar mis manos
-Quiero levantar mí voz
-Ofreciendo a ti mí vida
-En santidad y amor
-
-Padre solo a ti
-Te ofrezco
-Mi vida y mí corazon
-Y me postro en tu presencia
-En adoracion
-
-Hijo de aquí
-Recibe hoy
-Toda la gloria
-La honra y honor
-
----
-
-## Recibe Toda la Gloria
+Recibe toda la gloria
+Recibe toda la honra
+Precioso hijo de Dios
 
 Quiero levantar
 A ti mis manos
+
 Maravilloso Jesús
 Milagroso Señor
 
 Llena este lugar
 De tu presencia
-Y haz descender tu poder
-A los que estamos aqui
 
-//creo en ti Jesús
-Y en lo que haras en mí//
-En mí en mí
+Y haz descender tu poder
+A los que estamos aquí
+
+Creo en Tí Jesús
+Y en lo que haras en mí
+
+Creo en Tí Jesús
+Y en lo que haras en mí
+En mí, en mí
 
 Recibe toda la gloria
 Recibe toda la honra
-Precioso hijo de aquí
+Precioso hijo de Dios
+
+Recibe toda la gloria
+Recibe toda la honra
+Precioso hijo de Dios
+
+---
+
+## Quiero Levantar Mis Manos (Adoración - v01)
+
+Quiero levantar mis manos
+Quiero levantar mí voz
+
+Ofreciendo a Tí mi vida
+En santidad y amor
+
+Padre solo a Tí
+Te ofrezco
+
+Mi vida y mi corazón
+Y me postro en tu presencia
+En adoración
+
+Hijo de Dios
+Recibe hoy
+Toda la gloria
+La honra y honor
+
+Hijo de Dios
+Recibe hoy
+Toda la gloria
+La honra y honor
+
+Quiero levantar mis manos
+Quiero levantar mí voz
+
+Ofreciendo a Tí mi vida
+En santidad y amor
+
+Padre solo a Tí
+Te ofrezco
+
+Mi vida y mi corazón
+Y me postro en tu presencia
+En adoración
+
+Hijo de Dios
+Recibe hoy
+Toda la gloria
+La honra y honor
+
+Hijo de Dios
+Recibe hoy
+Toda la gloria
+La honra y honor
 
 ---
 
@@ -4108,7 +6653,7 @@ Renuévame Señor Jesús
 Ya no quiero ser igual
 
 Renuévame Señor Jesús
-Pon en mí tu corazón
+Pon en mí Tu corazón
 
 Porque todo lo que hay
 Dentro de mí
@@ -4116,156 +6661,91 @@ Necesita ser cambiado Señor
 
 Porque todo lo que hay
 Dentro de mí corazón
-Necesita más de ti
+Necesita más de Tí
+
+Renuévame Señor Jesús
+Ya no quiero ser igual
+
+Renuévame Señor Jesús
+Pon en mí Tu corazón
+
+Porque todo lo que hay
+Dentro de mí
+Necesita ser cambiado Señor
+
+Porque todo lo que hay
+Dentro de mí corazón
+Necesita más de Tí
 
 ---
 
-## Se Exalta Nuestro Dios Se Exalta
+## Se Exalta Nuestro Dios Se Exalta (Alabanza - v01)
 
-Se exalta nuestro aquí
-Entre el jubilo
-Se exalta nuestro aquí
+Se exalta nuestro Dios
+Entre el júbilo
+
+Se exalta nuestro Dios
 Al sonar de la trompeta
+
 Se exalta nuestro entre el jubilo
-//con jubilo gritad a el//
+Con júbilo gritad a Él
+Con júbilo gritad a Él
 
 Con trompetas hay que celebrar
 Y aplaudamos a nuestro Señor
 
-//se exalta nuestro aquí//
+Se exalta nuestro Dios
+Se exalta nuestro Dios
+Se exalta nuestro Dios
+Oh sí
+
+Mi ser alaba al Señor
+Y se goza mi espíritu en Dios
+
+Pues sus obras son
+Poderosas
+
+Con su Espíritu Él me guiará
+Bondadoso has sido mi Señor
+Grande es el Señor
+
+Grande es el Señor
+Grande es el Señor
+Grande es el Señor
 
 ---
 
-## Señor Eres Fiel
+## Señor Tengo Sed de Ti (Adoración - v01)
 
-//Señor eres fiel
-Y tu misericordia eterna//
-
-Gente de toda
-Lengua y nacion
-De generacion
-A generacion
-
-Te adoramos hoy
-//aleluya//
-Te adoramos hoy
-Eres Señor eres fiel
-
-Eres fiel
-Siempre fiel
-Siempre fiel
-Eres fiel
-
----
-
-## Señor Mi Dios
-
-Señor mí aquí
-Al contemplar los cielos
-El firmamento
-Y las estrellas mil
-
-Al oir tu voz
-En los potenetes truenos
-Y el brillar
-El sol en su cenit
-
-//mí corazon entona
-La cancion
-Cuan grande es el
-Cuan grande es el//
-
-Al recorrer los montes
-Y los valles
-Y ver las bellas
-Flores al pasar
-
-Al escuchar el canto
-De las aves y el murmurar
-Del claro manantial
-
-Cuando recuerdo
-Del amor divino
-Que desde el cielo
-Al salvador envio
-
-Aquel Jesús
-Que por salvarme vino
-
-Y en una cruz sufrio
-Por mí y murio
-
-Cuando el Señor
-Me llame a su presencia
-
-Al dulce hogar
-Al cielo de esplendor
-
-Le adorare
-Cantando la grandeza
-De su poder
-Y su infinito amor
-
----
-
-## Señor Tengo Sed de Ti
-
-Señor tengo sed de ti
+Señor tengo sed de Tí
 Deseo vivir en tu presencia
+
 Mi alma esperará
 Ayudame padre
-Ayudame padre
-Para vivir en tu santidad
 
-Te adoraré poderoso aquí
+Ayudame padre
+Para vivir en Tu santidad
+
+Te adoraré poderoso Dios
 En la hermosura de tu santidad
 
----
+Te adoraré poderoso Dios
+En la hermosura de tu santidad
 
-## Señor, Mi Dios al Contemplar
+Señor tengo sed de Tí
+Deseo vivir en tu presencia
 
-Señor, mí aquí
-Al contemplar los cielos
-El firmamento
-Y las estrellas mil
+Mi alma esperará
+Ayudame padre
 
-Al oir tu voz
-En los potentes truenos
-Y ver brillar
-El sol en su cenit
+Ayudame padre
+Para vivir en Tu santidad
 
-//mí corazon
-Entona la cancion
-Cuan grande es el
-Cuan grande es el //
+Te adoraré poderoso Dios
+En la hermosura de tu santidad
 
-Al recorrer los montes
-Y los valles
-Y ver las bellas
-Flores al pasar
-
-Al escuchar el canto
-De las aves y el murmurar
-Del claro manantial
-
-Cuando recuerdo
-Del amor divino
-Que desde el cielo
-Al salvador envio
-
-Aquel Jesús
-Que por salvarme vino
-Y en una cruz sufrio
-Por mí y murio
-
-Cuando el Señor
-Me llame a su presencia
-Al dulce hogar
-Al cielo de esplendor
-
-Le adorare cantando
-La grandeza de su poder
-Y su infinito amor
+Te adoraré poderoso Dios
+En la hermosura de tu santidad
 
 ---
 
@@ -4337,27 +6817,57 @@ Solo Dios hace el hombre feliz
 
 ---
 
-## Somos el Pueblo de Dios
+## Somos el Pueblo de Dios (Alabanza - v01)
 
-Somos el pueblo de aquí
+Somos el pueblo de Dios
 Somos un pueblo especial
-Llamados para anunciar
-Las virtudes de aquel
-Que nos llamo a su luz
 
-Somos el pueblo de aquí
-Su sangre nos redimio
-Y su Espíritu dio
+Llamados para anunciar
+Las virtudes de Aquel
+Que nos llamó a su luz
+
+Somos el pueblo de Dios
+Su sangre nos redimió
+
+Y su Espíritu dió
 Para darnos poder
-Y ser testigos de el
+Y ser testigos de Él
 
 Y llevaremos su gloria
-A cada pueblo y nacion
+A cada pueblo y nación
+
 Trayendoles esperanza
-Y nuevas de salvacion
+Y nuevas de salvación
 
 Y su amor nos impulsa
 No nos podemos callar
+
+Anunciaremos al mundo
+De su amor y verdad
+
+Somos el pueblo de Dios
+Somos un pueblo especial
+
+Llamados para anunciar
+Las virtudes de Aquel
+Que nos llamó a su luz
+
+Somos el pueblo de Dios
+Su sangre nos redimió
+
+Y su Espíritu dió
+Para darnos poder
+Y ser testigos de Él
+
+Y llevaremos su gloria
+A cada pueblo y nación
+
+Trayendoles esperanza
+Y nuevas de salvación
+
+Y su amor nos impulsa
+No nos podemos callar
+
 Anunciaremos al mundo
 De su amor y verdad
 
@@ -4372,196 +6882,299 @@ Su nombre es Jesús
 Yo le amo, si
 
 Cuanto le adoro,
-A El me rindo.
+A Él me rindo.
+
+Su nombre es Jesús
+Yo le amo, si
+
+Cuanto le adoro,
+A Él me rindo.
+
+Su nombre es Jesús
+Yo le amo, si
+
+Su nombre es Jesús
+Su nombre es Jesús
+Su nombre es Jesús
+
+Yo le amo, si
+
+Cuanto le adoro,
+A Él me rindo.
+
+Su nombre es Jesús
+Yo le amo, si
+
+Cuanto le adoro,
+A Él me rindo.
 
 Su nombre es Jesús
 Yo le amo, si
 
 ---
 
-## Sublime Gracia Es
-
-¿quien rompe
-El poder del pecado?
-Su amor es fuerte
-Y poderoso
-El rey de gloria
-El rey de majestad
-
-Conmueve al mundo
-Con su estruendo
-Y nos asombra
-Con maravillas
-El rey de gloria
-El rey de majestad
-
-Gracia sublime es
-Perfecto es tu amor
-Tomaste mí lugar
-Cargaste tu mí cruz
-
-Tú vida diste ahi
-Ahora libre soy
-Jesús te adoro
-Por lo que hiciste en mí
-
-Pusiste en orden
-Todo el caos
-Nos adoptaste
-Como tus hijos
-El rey de gloria
-El rey de majestad
-
-El que gobierna
-Con su justicia
-Y resplandece
-Con su belleza
-El rey de gloria
-El rey de majestad
-
-//digno es
-El cordero de aquí
-Digno es el rey
-Que la muerte vencio//
-
----
-
-## Sumergeme
+## Sumergeme (Adoración - v01)
 
 Cansado del camino
-Sediento de ti
+Sediento de Tí
+
 Un desierto he cruzado
 Sin fuerzas he quedado
-Vengo a ti
+Vengo a Tí
 
 Luche como un soldado
-Y a veces sufri
+Y a veces sufrí
+
 Y aunque la lucha he ganado
 Mi armadura he desgastado
-Vengo a ti
+Vengo a Tí
 
 Sumergeme
 En el rio de tu Espíritu
+
 Necesito refrescar
-Este seco corazon
-Sediento de ti
+Este seco corazón
+Sediento de Tí
+
+Sumergeme
+En el rio de tu Espíritu
+
+Necesito refrescar
+Este seco corazón
+Sediento de Tí
+
+Cansado del camino
+Sediento de Tí
+
+Un desierto he cruzado
+Sin fuerzas he quedado
+Vengo a Tí
+
+Luche como un soldado
+Y a veces sufrí
+
+Y aunque la lucha he ganado
+Mi armadura he desgastado
+Vengo a Tí
+
+Sumergeme
+En el rio de tu Espíritu
+
+Necesito refrescar
+Este seco corazón
+Sediento de Tí
+
+Sumergeme
+En el rio de tu Espíritu
+
+Necesito refrescar
+Este seco corazón
+Sediento de Tí
 
 ---
 
-## Tal Como Soy
+## Tal Como Soy (Adoración - v01)
 
-Tal como soy Señor sin nada que ofrecer más
-Que mí cancion
+Tal como soy Señor, sin nada que ofrecer más
+Que mi canción
 
-No tengo más que darte pues todo es tuyo Señor
+No tengo más que darte,
+Pues todo es tuyo Señor
 
 Tal como soy Señor sin nada que entregar
-Mas que el corazon
+Mas que el corazón
 
-Me rindo todo a ti tomame Señor tal como soy
+Me rindo todo a Tí,
+Tómame Señor tal como soy
 
-Aceptame como ofrenda de amor
-Como un sacrificio agradable
-En tu honor grato perfume yo quiero
+Áceptame como ofrenda de amor
+Como un sacrificio agradable en tu honor
+
+Grato perfume yo quiero
+Ser Señor
+
+Áceptame como ofrenda de amor
+Como un sacrificio agradable en tu honor
+
+Grato perfume yo quiero
+Ser Señor
+
+Tal como soy Señor, sin nada que ofrecer más
+Que mi canción
+
+No tengo más que darte,
+Pues todo es tuyo Señor
+
+Tal como soy Señor sin nada que entregar
+Mas que el corazón
+
+Me rindo todo a Tí,
+Tómame Señor tal como soy
+
+Áceptame como ofrenda de amor
+Como un sacrificio agradable en tu honor
+
+Grato perfume yo quiero
+Ser Señor
+
+Áceptame como ofrenda de amor
+Como un sacrificio agradable en tu honor
+
+Grato perfume yo quiero
+Ser Señor
+
+Grato perfume yo quiero
 Ser Señor
 
 ---
 
-## Te Amo
+## Te Amo (Adoración - v01)
 
-//te amo//
+Te amo
+Te amo
 Es todo lo que puedo decir
 
-//te adoro//
-Todo mí ser confia en ti
+Te adoro
+Te adoro
+Todo mí ser confia en Tí
 
-Yo te amare y te adorare
+Yo te amaré y te adoraré
 No importa lo que pueda venir
 
-En ti Señor
-Siempre confiare
-Y te amare hasta el fin
+En Tí Señor
+Siempre confiaré
+Y te amaré hasta el fin
 
 ---
 
-## Te Doy Gloria
+## Te Doy Gloria (Alabanza - v01)
 
 Cuan hermoso eres Jesús
 Son tus palabras es tu amor
+
 Cuan glorioso eres Jesús
 Es tu poder fue tu cruz
 
-La que me salvo
-Me rescato
-Un momento ahi
-Nos dio libertad
+La que me salvó
+Me rescató
 
-//te doy gloria gloria
+Un momento ahí
+Nos dió libertad
+
 Te doy gloria gloria
 Te doy gloria gloria
-A ti Jesús//
+Te doy gloria gloria
+A ti Jesús
 
-//con una corona de espinos
-Te hiciste rey por siempre//
+Te doy gloria gloria
+Te doy gloria gloria
+Te doy gloria gloria
+A ti Jesús
+
+Con una corona de espinos
+Te hiciste Rey por siempre
+
+Con una corona de espinos
+Te hiciste Rey por siempre
+
+Con una corona de espinos
+Te hiciste Rey por siempre
+
+Con una corona de espinos
+Te hiciste Rey por siempre
+
+Te doy gloria gloria
+Te doy gloria gloria
+Te doy gloria gloria
+A ti Jesús
+
+Te doy gloria gloria
+Te doy gloria gloria
+Te doy gloria gloria
+A ti Jesús
 
 ---
 
-## Te Exaltamos
+## Te Exaltamos (Alabanza - v01)
 
-Te exaltamos, oh Señor
+Te exaltamos sobre un trono
+De alabanza, te exaltamos, Oh Señor
+
 Nuestras alabanzas subirán
 Delante de tu trono, oh Señor
+
 Olor fragante a ti Señor
-
 Honor y alabanza por siempre daré
-Al que está sentado sobre el trono de mí aquí
-Te exaltamos sobre un trono de alabanza
-Te exaltamos, oh Señor
+
+Al que está sentado
+Sobre el trono de mi Dios
+
+Te exaltamos sobre un trono
+De alabanza, te exaltamos, oh Señor
 
 Nuestras alabanzas subirán
 Delante de tu trono, oh Señor
+
 Olor fragante a ti Señor,
 Honor y alabanza por siempre daré
 
-Al que está sentado sobre el trono de mí aquí
+Al que está sentado
+Sobre el trono de mi Dios
+
 Majestuosamente reinas sin igual
+Tú eres poderoso Dios
 
-Tú eres poderoso aquí
-Te proclamare, te exaltare
-Tú eres el rey sobre mí corazón
+Te proclamaré, te exaltaré
+Tú eres el Rey sobre mi corazón
+
 Te exaltamos sobre un trono de alabanza
 Te exaltamos, oh Señor
 
 Nuestras alabanzas subirán
 Delante de tu trono, oh Señor
+
 Olor fragante a ti Señor,
-Honor y alabanza por siempre dareh
-Al que está sentado sobre el trono de mí aquí
-Te exaltamos, te exaltamos, te exaltamos, te exaltamo
+Honor y alabanza por siempre dare
+
+Al que está sentado
+Sobre el trono de mi Dios
+
+Te proclamaré, te exaltaré
+Tú eres el Rey sobre mi corazón
 
 ---
 
 ## Temprano Yo Te Buscare (Adoración - v01)
 
-Temprano yo te buscare
-de madrugada yo 
-me acercare a ti
+Temprano yo te buscaré
+De madrugada yo me acercaré
+A Tí
 
-mi alma te ahnela y tiene sed
-para ver tu gloria y tu poder
+Mi alma te anhela y tiene sed para ver
+Tú gloria y tu poder
 
-Mi socorro haz sido tu
+Mi socorro a sido Tú
+Y en la sombra de tus alas
+Yo me gozaré
 
-y en la sombra de tus alas
-yo me gozare
+Mi alma esta pegada a Tí
+Porque tu diestra me ha sostenido
+Oh tu diestra me ha sostenido
 
-mi alma esta apegada a ti
+Temprano yo te buscaré
+De madrugada yo me acercaré
+A Tí
 
-porque tu diestra 
-me ha sostenido
+Mi alma te anhela y tiene sed para ver
+Tú gloria y tu poder
 
-oh tu diestra 
-me ha sostenido
+Mi socorro a sido Tú
+Y en la sombra de tus alas
+Yo me gozaré
+
+Mi alma esta pegada a Tí
+Porque tu diestra me ha sostenido
+Oh tu diestra me ha sostenido
 
 ---
 
@@ -4683,16 +7296,13 @@ Te daré lo mejor
 ## Tu Eres Digno De Gloria (Alabanza - v01)
 
 Hoy te alabamos Señor
-Y declaramos que
-tu eres nuestro Dios
+Y declaramos que tu eres nuestro Dios
 
 Tú eres el Dios de amor
-Ya no somos 
-esclavos del temor
+Ya no somos esclavos del temor
 
 Hoy te adoramos Señor
-Y te cantamos con
-nuestro corazón
+Y te cantamos con nuestro corazón
 
 Te damos todo el honor
 Sobre el cielo y la tierra
@@ -4715,15 +7325,13 @@ Toda adoración
 Todo el honor sea a Tí
 
 Hoy te alabamos Señor
-Y declaramos que tu 
-eres nuestro Dios
+Y declaramos que tu eres nuestro Dios
 
 Tú eres el Dios de amor
 Ya no somos esclavos del temor
 
 Hoy te adoramos Señor
-Y te cantamos con
-nuestro corazón
+Y te cantamos con nuestro corazón
 
 Te damos todo el honor
 Sobre el cielo y la tierra
@@ -4776,8 +7384,7 @@ Grande es tu fidelidad
 
 ## Tu Habitas En La Alabanza De Tu Pueblo (Adoración - v01)
 
-Tú habitas en la 
-alabanza de tu pueblo
+Tú habitas en la alabanza de tu pueblo
 Coronado con poder
 
 Ángeles alrededor
@@ -4785,8 +7392,7 @@ Cantan con nosotros
 
 Alabanza y gloria a ti Señor
 
-Tú habitas en la 
-alabanza de tu pueblo
+Tú habitas en la alabanza de tu pueblo
 Coronado con poder
 
 Ángeles alrededor
@@ -4794,20 +7400,13 @@ Cantan con nosotros
 
 Alabanza y gloria a ti Señor
 
-Santo es tu nombre 
-oh Dios, Santo eres tú
+Santo es tu nombre oh Dios, Santo eres tú
+La creación declara tu gloria, Santo eres tú
 
-La creación declara 
-tu gloria, Santo eres tú
+Santo es tu nombre oh Dios, Santo eres tú
+La creación declara tu gloria, Santo eres tú
 
-Santo es tu nombre 
-oh Dios, Santo eres tú
-
-La creación declara 
-tu gloria, Santo eres tú
-
-Tú habitas en la 
-alabanza de tu pueblo
+Tú habitas en la alabanza de tu pueblo
 Coronado con poder
 
 Ángeles alrededor
@@ -4815,26 +7414,15 @@ Cantan con nosotros
 
 Alabanza y gloria a ti Señor
 
-Santo es tu nombre 
-oh Dios, Santo eres tú
+Santo es tu nombre oh Dios, Santo eres tú
+La creación declara tu gloria, Santo eres tú
 
-La creación declara 
-tu gloria, Santo eres tú
+Santo es tu nombre oh Dios, Santo eres tú
+La creación declara tu gloria, Santo eres tú
 
-Santo es tu nombre 
-oh Dios, Santo eres tú
-
-La creación declara 
-tu gloria, Santo eres tú
-
-La creación declara 
-tu gloria, Santo eres tú
-
-La creación declara 
-tu gloria, Santo eres tú
-
-La creación declara 
-tu gloria, Santo eres tú
+La creación declara tu gloria, Santo eres tú
+La creación declara tu gloria, Santo eres tú
+La creación declara tu gloria, Santo eres tú
 
 ---
 
