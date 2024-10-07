@@ -1941,6 +1941,19 @@ Eres digno de alabar
 Y mi ser dirá
 Cuan grande es Dios
 
+Mi corazón entona la canción
+Cuán grande es Él, cuan grande es Él
+
+Mi corazón entona la canción
+Cuan grande es Él, cuan grande es Él
+
+Señor, mi Dios
+Al contemplar los cielos
+El firmamento y las estrellas mil
+
+Al oír Tu voz en los potentes truenos
+Y ver brillar el Sol en su cenit
+
 ---
 
 ## Cuan Grande Es el (Adoración - v01)
