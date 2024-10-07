@@ -1,8 +1,12 @@
-Esteban Ruiz
-Saura Venegas
-Barbara Opazo
-Fernanda Sepúlveda
-Claudia 
-Silvana Neira
-Ramón Cabrera
+Crear una tabla en Markdown titulada "Calendario de Proyección del Data en la Iglesia" una sika vez, que abarque desde el Domingo 13 de octubre de 2024 hasta el Domingo 24 de noviembre de 2024.
+La tabla debe incluir dos columnas: Colunna 1: Día Fecha y Colunna 2: Nombre. Día, siempre indicar "Domingo". 
+En Fecha, utilizar el formato DD-MM-AAAA y asegurarse de que todas las fechas correspondan a domingos. 
+En la columna Nombre, agregar "Hno." o "Hna." antes de cada nombre según corresponda. Respetar las asignaciones de nombres y fechas proporcionadas para garantizar la precisión del calendario.
 
+Esteban Ruiz (13-10-2024)
+Saura Venegas
+Barbara Opazo (20-10-2024) 
+Fernanda Sepúlveda (27-10-2024)
+Claudia 
+Silvana Neira (04-11-2024)
+Ramón Cabrera
