@@ -172,6 +172,7 @@
 * Nada Es Imposible Barrientos (Alabanza - v01)
 * No Hay Dios Tan Grande Como Tu (Alabanza - v01)
 * No Hay Lugar Mas Alto (Adoración - v01)
+* No hay problemas que Dios (Adoración - v01)
 * Nos Reunimos Aquí (Alabanza - v01)
 * Oh Moradora (Alabanza - v01)
 * Pan de Vida (Adoración - v01)
@@ -186,6 +187,7 @@
 * Quiero Levantar Mis Manos (Adoración - v01)
 * Recibe Toda la Gloria (Adoración - v01)
 * Renuevame (Adoración - v01)
+* Regocijaos (Alabanza - v01)
 * Se Exalta Nuestro Dios Se Exalta (Alabanza - v01)
 * Señor Tengo Sed de Ti (Adoración - v01)
 * Socorro (Alabanza - v01)
@@ -7349,6 +7351,34 @@ A los pies de Cristo
 
 ---
 
+## No hay problemas que Dios (Adoración - v01)
+
+No hay problemas que Dios
+No los resuelva
+
+No hay montañas que El
+Mover no pueda
+
+Tormentas oscuras no habrá
+Dios trae la calma
+
+Hondos pesares no habrán
+Dios te conforta
+
+Si Él todas mis cargas llevo
+Sobre sus hombros
+
+Yo se mi hermano que Él 
+Te sostendrá
+
+Si Él todas mis cargas llevo
+Sobre sus hombros
+
+Yo se mi hermano que Él 
+Te sostendrá
+
+---
+
 ## Nos Reunimos Aquí (Alabanza - v01)
 
 Nos reunimos aquí
@@ -7858,6 +7888,38 @@ La honra y honor
 ---
 
 ## Renuevame (Adoración - v01)
+
+Renuévame Señor Jesús
+Ya no quiero ser igual
+
+Renuévame Señor Jesús
+Pon en mí Tu corazón
+
+Porque todo lo que hay
+Dentro de mí
+Necesita ser cambiado Señor
+
+Porque todo lo que hay
+Dentro de mí corazón
+Necesita más de Tí
+
+Renuévame Señor Jesús
+Ya no quiero ser igual
+
+Renuévame Señor Jesús
+Pon en mí Tu corazón
+
+Porque todo lo que hay
+Dentro de mí
+Necesita ser cambiado Señor
+
+Porque todo lo que hay
+Dentro de mí corazón
+Necesita más de Tí
+
+---
+
+## Regocijaos (Alabanza - v01)
 
 Renuévame Señor Jesús
 Ya no quiero ser igual
