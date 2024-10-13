@@ -7921,33 +7921,69 @@ Necesita más de Tí
 
 ## Regocijaos (Alabanza - v01)
 
-Renuévame Señor Jesús
-Ya no quiero ser igual
+Regocijaos, regocijaos
+Regocijaos todos 
+los hijos del Señor
 
-Renuévame Señor Jesús
-Pon en mí Tu corazón
+Regocijaos, regocijaos
+Regocijaos, regocijaos
 
-Porque todo lo que hay
-Dentro de mí
-Necesita ser cambiado Señor
+Regocijaos todos 
+los hijos del Señor
 
-Porque todo lo que hay
-Dentro de mí corazón
-Necesita más de Tí
+Aplaudid, aplaudid
+Aplaudid todos los
+hijos del Señor
 
-Renuévame Señor Jesús
-Ya no quiero ser igual
+Aplaudid, aplaudid
+Aplaudid, aplaudid
 
-Renuévame Señor Jesús
-Pon en mí Tu corazón
+Aplaudid todos 
+los hijos del Señor
 
-Porque todo lo que hay
-Dentro de mí
-Necesita ser cambiado Señor
+Con los pies, con los pies
+Con los pies todos 
+los hijos del Señor
 
-Porque todo lo que hay
-Dentro de mí corazón
-Necesita más de Tí
+Con los pies, con los pies
+Con los pies, con los pies
+
+Con los pies todos 
+los hijos del Señor
+
+A saltar, a saltar
+A saltar todos 
+los hijos del Señor
+
+A saltar, a saltar
+A saltar, a saltar
+
+A saltar todos
+los hijos del Señor
+
+Pero que lindo se ve
+El pueblo que alaba a Dios
+
+Pero que lindo se ve
+El pueblo que alaba a Dios
+
+Así, Así, Así
+Así se alaba a Dios
+
+Así, Así, Así
+Así se alaba a Dios
+
+Con mucha alegría y gozo
+Con mucha alegría y gozo
+Con mucha alegría y gozo
+
+Así se alaba a Dios
+
+Batiendo las manos todos
+Batiendo las manos todos
+Batiendo las manos todos
+
+Así se alaba a Dios
 
 ---
 
