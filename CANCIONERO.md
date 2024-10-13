@@ -227,27 +227,27 @@
 
 ## Avisos mes de Septiembre
 
-Martes 08 de Octubre.
+Martes 15 de Octubre.
 Estudio Bíblico 20:00 hrs.
 
-Miércoles 09 de Octubre.
+Miércoles 16 de Octubre.
 Culto Chillán, a las 19:30 hrs.
-Hogar: Hna. Blanquita.
-Dirige: Pr. Claudio Torres.
-Palabra: Hna. Norma Ulloa.
+Hogar: Familia Flores Sepúlveda.
+Dirige: Hno. Jonathan Flores.
+Palabra: Pr. Esteban Ruiz.
 
-Jueves 10 de Octubre.
+Jueves 17 de Octubre.
 Culto de oración, a las 20:00.
-Dirige: Hno. Maria Palvecino.
-Palabra: Hno. Guillermo Luengo.
+Dirige: Hno. María Perez.
+Palabra: Pr. Esteban Ruiz.
 
-Viernes 11 de Octubre.
+Viernes 18 de Octubre.
 Reunión de Hermanas a las 17:30.
 
-Domingo 13 de Octubre.
+Domingo 20 de Octubre.
 Culto Dominical 10:30.
-Dirige: Hna. Cristian Rubilar.
-Palabra: Pr. Carlos Ramirez.
+Dirige: Hna. MarÍa Godoy.
+Palabra: Pr. Claudio Torres.
 
 ---
 
