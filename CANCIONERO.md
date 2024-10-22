@@ -165,7 +165,7 @@
 * Mas el Dios (A Él Sea la Gloria) (Alabanza - v01)
 * Mas que Palabras (Adoración - v01)
 * Me Gozaré (Alabanza - v01)
-* Medley Ardiendo el Fuego (Alabanza - v01)
+* Medley Alabaré, Alabaré (Alabanza - v01)
 * Mi Cristo Mi Rey (Adoración - v01)
 * Mora en Mi Vida (Adoración v01)
 * Muevete en Mi (Adoración - v01)
@@ -225,29 +225,27 @@
 
 ---
 
-## Avisos mes de Septiembre
+## Avisos del mes
 
-Martes 15 de Octubre.
+Martes 22 de Octubre.
 Estudio Bíblico 20:00 hrs.
 
-Miércoles 16 de Octubre.
+Miércoles 23 de Octubre.
 Culto Chillán, a las 19:30 hrs.
-Hogar: Familia Flores Sepúlveda.
-Dirige: Hno. Jonathan Flores.
-Palabra: Pr. Esteban Ruiz.
+Hogar: Hna. Sandrita.
+Dirige: Hna. Fernanda Sepúlveda.
+Palabra: Hna. Nadia Sepúlveda.
 
-Jueves 17 de Octubre.
+Jueves 24 de Octubre.
 Culto de oración, a las 20:00.
-Dirige: Hno. María Perez.
-Palabra: Pr. Esteban Ruiz.
+Dirige: Hna. Beatriz Concha.
+Palabra: Hno. Christian Vidal.
 
-Viernes 18 de Octubre.
+Viernes 25 de Octubre.
 Reunión de Hermanas a las 17:30.
 
-Domingo 20 de Octubre.
-Culto Dominical 10:30.
-Dirige: Hna. MarÍa Godoy.
-Palabra: Pr. Claudio Torres.
+Domingo 27 de Octubre.
+Culto especial 10:30.
 
 ---
 
@@ -6903,103 +6901,28 @@ Lino fino y resplandeciente para recibir al Rey
 
 ---
 
-## Medley Ardiendo el Fuego (Alabanza - v01)
+## Medley Alabaré, Alabaré (Alabanza - v01)
 
-Ardiendo el fuego
-En mi alma está
+Alabaré, alabaré, alabaré, alabaré,
+Alabaré a mi Señor.
 
-Ardiendo el fuego
-En mi alma está
+Alabaré, alabaré, alabaré, alabaré,
+Alabaré a mi Señor.
 
-Gloriosa llama
-Me limpiará
-
-Oh aleluya
-Ardiendo el fuego está
-
-Oh Señor
-Quiero que ardas en mi ser
-
-Como la zarza quiero
-Arder con tu poder
-
-En nuevas lenguas
-Quiero hablar como señal
-
-Estoy ardiendo
-Con el fuego celestial
-
-Quiero alabarte
-Y adorarte solo a Tí
-
-Como se adora
-En Espíritu y verdad
-
-Oh Señor
-Quiero que ardas en mi ser
-
-Como la zarza
-Quiero arder con tu poder
-
-Hermanos vamos a pedir
-El fuego de Dios
-
-Hermanos vamos a pedir
-El fuego de Dios
-
-Yo siento el fuego que me está quemando
-Es el Espíritu Santo que me está llenando
-
-Fuego, fuego
-Fuego del cielo queremos
-
-Fuego, fuego
-Fuego del cielo queremos
-
-Solo Dios hace al hombre feliz
-Solo Dios hace al hombre feliz
-
-La vida es nada, todo se acaba
-Solo Dios hace al hombre feliz
-
-Vamos orando hasta que baje el poder
-Vamos orando hasta que baje el poder
-
-Oh gloria a Dios
-Oh gloria a Dios
-
-Vamos orando hasta que baje el poder
-
-Juan dió el número
-De los enemigos
+Juan vió el número
+De los redimidos
 Y todos alababan al Señor
 
 Unos oraban,
 Otros cantaban
-Pero todos adoraban al Señor
-
-Juan dió el número
-De los enemigos
-Y todos alababan al Señor
-
-Unos oraban,
-Otros cantaban
-Pero todos adoraban al Señor
-
-Alabaré
-Alabaré
-Alabraé a mi Señor
-
-Alabaré
-Alabaré
-Alabraé a mi Señor
+Y todos adoraban al Señor
 
 Alabad a Jehová
 Naciones todas
 Pueblos todos alabadle
 
 Porque ha engrandecido
-Sobre nosotros sus misericordias
+Sobre vosotros sus misericordias
 
 Y la verdad de Jehová
 Es para siempre
@@ -7008,6 +6931,22 @@ Aleluya Amén
 Y la verdad de Jehová
 Es para siempre
 Aleluya Amén
+
+Yo quiero cantar,
+cantar, cantar.
+
+Yo quiero gritar,
+gritar gritar.
+
+Yo quiero cantar,
+yo quiero gritar
+Gloria a Dios.
+
+Y cuando estemos allá con El
+En su presencia yo cantare
+
+Yo quiero cantar,
+yo quiero gritar Gloria Dios
 
 ---
 
