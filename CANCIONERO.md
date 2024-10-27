@@ -13,6 +13,7 @@
 * Al que Está Sentado en el Trono (Adoración - v01)
 * Al Único que Es Digno (Adoración - v01)
 * Alaba a Dios (Alabanza - v01)
+* Alabaré, alabaré (Alabanza - v01)
 * Aleluya Agnus Dei (Adoración - v01)
 * Aleluya (Adoración - v01)
 * Algo está cayendo aquí (Adoración - v01)
@@ -160,11 +161,13 @@
 * La Única Razon (Alabanza v01)
 * Levanto Mis Manos (Adoración - v01)
 * Llevame al Lugar Santísimo (Adoración - v01)
+* Los hijos de Sion (Alabanza v01)
 * Majestad (Adoración - v01)
 * Majestuoso, Poderoso (Adoración - v01)
 * Mas el Dios (A Él Sea la Gloria) (Alabanza - v01)
 * Mas que Palabras (Adoración - v01)
 * Me Gozaré (Alabanza - v01)
+* Me gozare en Tu Presencia Jehová (Alabanza - v01)
 * Medley Alabaré, Alabaré (Alabanza - v01)
 * Mi Cristo Mi Rey (Adoración - v01)
 * Mora en Mi Vida (Adoración v01)
@@ -194,8 +197,8 @@
 * Solo Dios Hace el Hombre Feliz (Alabanza - v01)
 * Somos el Pueblo de Dios
 * Sumergeme (Adoración - v01)
+* Te Alabarán Oh Jehová (Alabanza - v01)
 * Tal Como Soy (Adoración - v01)
-* Te Amo (Adoración - v01)
 * Te Doy Gloria (Alabanza - v01)
 * Te Exaltamos (Alabanza - v01)
 * Temprano Yo Te Buscaré (Adoración - v01)
@@ -206,7 +209,9 @@
 * Tu Habitas En La Alabanza De Tu Pueblo (Adoración - v01)
 * Tu Nombre Oh Dios (Alabanza - v01)
 * Tus Ojos Revelan Que Yo (Adoración - v01)
+* Un palacio tengo (Alabanza - v01)
 * Una Mirada de Fe (Alabanza - v01)
+* Vamos a Alabar a Jehová (Alabanza - v01)
 * Vamos A Cantar (Alabanza - v01)
 * Ven A Este Lugar (Adoración - v01)
 * Ven Es Hora (Adoración - v01)
@@ -227,25 +232,26 @@
 
 ## Avisos del mes
 
-Martes 22 de Octubre.
+Martes 29 de Octubre.
 Estudio Bíblico 20:00 hrs.
 
-Miércoles 23 de Octubre.
+Miércoles 30 de Octubre.
 Culto Chillán, a las 19:30 hrs.
-Hogar: Hna. Sandrita.
-Dirige: Hna. Fernanda Sepúlveda.
-Palabra: Hna. Nadia Sepúlveda.
-
-Jueves 24 de Octubre.
-Culto de oración, a las 20:00.
-Dirige: Hna. Beatriz Concha.
+Hogar: Hna. Nadia Sepúlveda.
+Dirige: Hno. Julio Opazo.
 Palabra: Hno. Christian Vidal.
+
+Jueves 31 de Octubre.
+Actividad Especial.
+Día Iglesia Evangélica.
 
 Viernes 25 de Octubre.
 Reunión de Hermanas a las 17:30.
 
-Domingo 27 de Octubre.
-Culto especial 10:30.
+Domingo 03 de Noviembre
+Culto Dominical 10:30.
+Cena del Señor
+Precide Pr. Williams Verdejo
 
 ---
 
@@ -894,6 +900,28 @@ Alaba a Dios, alaba a Dios
 
 Alaba a Dios, alaba a Dios,
 Alaba a Dios, alaba a Dios
+
+---
+
+## Alabaré, alabaré (Alabanza - v01)
+
+Alabaré, alabaré, alabaré, alabaré,
+Alabaré a mi Señor.
+
+Alabaré, alabaré, alabaré, alabaré,
+Alabaré a mi Señor.
+
+Juan vió el número
+De los redimidos
+Y todos alababan al Señor
+
+Unos oraban,
+Otros cantaban
+Y todos adoraban al Señor
+
+Alabad a Jehová
+Naciones todas
+Pueblos todos alabadle
 
 ---
 
@@ -6719,6 +6747,24 @@ Tócame, límpiame, heme aquí
 
 ---
 
+## Los hijos de Sion (Alabanza v01)
+
+Los hijos de Sion,
+se gozan en su Rey
+
+Alaban su nombre
+con danzas
+
+Con panderos y arpas,
+cantan alabanzas
+
+Cantan alabanzas a él
+
+Aleluya, aleluya, aleluya, amén
+Aleluya, aleluya, aleluya, amén
+
+---
+
 ## Majestad (Adoración - v01)
 
 Majestad
@@ -6898,6 +6944,44 @@ Del cordero de Dios
 Y a su esposa se le ha concedido
 Que se vista de lino fino
 Lino fino y resplandeciente para recibir al Rey
+
+---
+
+## Me gozare en Tu Presencia Jehová (Alabanza - v01)
+
+Me gozare en
+tu presencia Jehová
+
+Con todas mis fuerzas
+gritare ¡Hey
+
+Me gozare en
+tu presencia Jehová
+
+Con todas mis
+fuerzas gritare
+
+Ante ti con gozo, palmeare
+Con alegre danza, celebrare
+Saltare y me gozare
+
+Me gozare en
+tu presencia Jehová
+
+Con todas mis fuerzas
+gritare ¡Hey
+
+Me gozare en
+tu presencia Jehová
+
+Con todas mis
+fuerzas gritare
+
+Ante ti con gozo, palmeare
+Con alegre danza, celebrare
+Saltare y me gozare
+
+¡Me gozare!
 
 ---
 
@@ -7307,13 +7391,13 @@ Dios te conforta
 Si Él todas mis cargas llevo
 Sobre sus hombros
 
-Yo se mi hermano que Él 
+Yo se mi hermano que Él
 Te sostendrá
 
 Si Él todas mis cargas llevo
 Sobre sus hombros
 
-Yo se mi hermano que Él 
+Yo se mi hermano que Él
 Te sostendrá
 
 ---
@@ -7861,13 +7945,13 @@ Necesita más de Tí
 ## Regocijaos (Alabanza - v01)
 
 Regocijaos, regocijaos
-Regocijaos todos 
+Regocijaos todos
 los hijos del Señor
 
 Regocijaos, regocijaos
 Regocijaos, regocijaos
 
-Regocijaos todos 
+Regocijaos todos
 los hijos del Señor
 
 Aplaudid, aplaudid
@@ -7877,21 +7961,21 @@ hijos del Señor
 Aplaudid, aplaudid
 Aplaudid, aplaudid
 
-Aplaudid todos 
+Aplaudid todos
 los hijos del Señor
 
 Con los pies, con los pies
-Con los pies todos 
+Con los pies todos
 los hijos del Señor
 
 Con los pies, con los pies
 Con los pies, con los pies
 
-Con los pies todos 
+Con los pies todos
 los hijos del Señor
 
 A saltar, a saltar
-A saltar todos 
+A saltar todos
 los hijos del Señor
 
 A saltar, a saltar
@@ -8217,6 +8301,31 @@ En el rio de tu Espíritu
 Necesito refrescar
 Este seco corazón
 Sediento de Tí
+
+---
+
+## Te Alabarán Oh Jehová (Alabanza - v01)
+
+Te Alabarán Oh
+Jehová Todos los Reyes
+
+Todos los reyes de la Tierra
+
+Porque han oído
+los dichos de tu boca
+
+Y cantarán de los
+caminos de Jehová
+
+Porque la Gloria
+de Jehová es Grande
+
+Porque Jehová
+es Excelso en sus caminos
+
+Porque Jehová
+atiende al humilde
+Mas mira de lejos al altivo
 
 ---
 
@@ -8762,6 +8871,40 @@ Me llena de tu paz
 
 ---
 
+## Un palacio tengo (Alabanza - v01)
+
+Un palacio tengo
+mas lindo que el sol
+
+Un palacio tengo
+mas lindo que el sol
+
+Un palacio tengo
+mas lindo que el sol
+En el más allá.
+
+Bendito Cristo
+contigo estaré
+
+Bendito Cristo
+contigo estaré
+
+Bendito Cristo
+contigo estaré
+En el más allá.
+
+Si tu quieres ir
+al cielo ven a Jesús
+
+Si tu quieres ir
+al cielo ven a Jesús
+
+Si tu quieres ir
+al cielo ven a Jesús
+Ven sin tardar
+
+---
+
 ## Una Mirada de Fe (Alabanza - v01)
 
 Una mirada de fe,
@@ -8785,6 +8928,40 @@ Es la que puede salvar al pecador
 Una mirada de amor,
 Una mirada de amor,
 Es la que puede salvar al pecador
+
+---
+
+## Vamos a alabar a Jehová (Alabanza - v01)
+
+Vamos a alabar a Jehová
+con panderos y arpas
+
+vamos a alabar a Jehová
+con panderos y arpas
+
+Aquí en tierra se canta
+y en el cielo se oye
+
+Aquí en tierra se canta
+y en el cielo se oye
+
+Así, Así,
+Así se alaba a Dios
+
+Así, Así,
+Así se alaba a Dios
+
+con mucha alegría y gozo
+con mucha alegría y gozo
+
+con mucha alegría y gozo
+así se alaba a Dios
+
+Batiendo las manos todos
+batiendo las manos todos
+
+batiendo las manos todos
+así se alaba a Dios
 
 ---
 
