@@ -8,6 +8,7 @@
 * A Ti el Alfa y la Omega (Adoración - v01)
 * Abre Mis Ojos (Alabanza - v01)
 * Abres Caminos (Adoración - v01)
+* Aquí Estoy (Adoración - v01)
 * Al Estar Ante Ti (Adoración - v01)
 * Al que Es Digno (Alabanza - v01)
 * Al que Está Sentado en el Trono (Adoración - v01)
@@ -140,18 +141,43 @@
 * Himno 156 - El Cuidara de Mí
 * Himno 160 - Hay un Mundo Feliz más Allá
 * Himno 161 - Pecador, Ven al Dulce Jesús
-* Himno 166 - Pecador, Ven al Dulce Jesús
+* Himno 166 - Cristo, El Rey de Gloria
 * Himno 167 - Santo Espíritu, Desciende
 * Himno 168 - Cara a Cara
 * Himno 179 - Trabajad, Trabajad
 * Himno 182 - Gloria a ti, Jesús Divino
 * Himno 183 - Canta, oh buen cristiano
-* Himno 184 - En Jesús, mi Señor
+* Himno 184 - En Jesús, mi Señor (+)
 * Himno 185 - Oh Bondad tan Infinita
 * Himno 188 - Bellas Palabras de Vida
 * Himno 194 - Gloria a la Trinidad
 * Himno 197 - Oh Jóvenes Venid
 * Himno 200 - Nítido Rayo por Cristo
+* Himno 201 - La Lucha Sigue
+* Himno 203 - Los Niños, Joyas de Cristo
+* Himno 204 - Cristo me Ama
+* Himno 206 - Venid, Pastorcillos
+* Himno 207 - Suenen Dulces Himnos
+* Himno 208 - Lugar Para Cristo
+* Himno 209 - Oh Gloria Inenarrable
+* Himno 210 - Los Heraldos Celestiales
+* Himno 211 - Gloria a Dios en las Alturas
+* Himno 212 - Noche de Paz, Noche de Amor
+* Himno 217 - Santa Cena
+* Himno 239 - Cristo Acoge al Pecador
+* Himno 244 - Adoradle
+* Himno 245 - Cuando Estemos en Gloria
+* Himno 256 - Tentado, No Cedas
+* Himno 259 - Guarda el Contacto
+* Himno 262 - El que ha de Venir, Vendrá
+* Himno 271 - A La Lucha
+* Himno 275 - Por La Sangre
+* Himno 276 - Voy a ver a Cristo el Rey
+* Himno 283 - No Veremos
+* Himno 289 - Mi Rey y Mi Amigo
+* Himno 294 - Hay un Canto Nuevo en Mi Ser
+* Himno 295 - Jesús Pronto Volverá
+* Himno 296 - Comprado con Sangre por Cristo
 * Himno 297 - Oh, sí, Quiero Verle
 * Honor y Gloria Honra y Poder (Alabanza - v01)
 * Hoy He Venido Ante Ti (Adoración - v01)
@@ -232,26 +258,35 @@
 
 ## Avisos del mes
 
-Martes 29 de Octubre.
+Martes 5 de Noviembre.
 Estudio Bíblico 20:00 hrs.
 
-Miércoles 30 de Octubre.
+Miércoles 6 de Noviembre.
 Culto Chillán, a las 19:30 hrs.
-Hogar: Hna. Nadia Sepúlveda.
-Dirige: Hno. Julio Opazo.
-Palabra: Hno. Christian Vidal.
 
-Jueves 31 de Octubre.
-Actividad Especial.
-Día Iglesia Evangélica.
+Jueves 7 de Noviembre.
+Culto de Oración.
+Dirige: Maria Palavecino.
+Palabra: Cristian Rubilar.
 
-Viernes 25 de Octubre.
+Viernes 8 de Noviembre.
 Reunión de Hermanas a las 17:30.
 
-Domingo 03 de Noviembre
+Viernes 8 de Noviembre.
+Reunión de Preadolescentes a las 17:30.
+
+Sabado 9 de Noviembre.
+Llamado a día de Oración y Ayuno.
+16:00  Nos reunimos en la Iglesia.
+
+Sabado 9 de Noviembre.
+Reunión de Iglesia a las 17:30 horas.
+(Después de la jornada
+de Oración y Ayuno)
+
+Domingo 10 de Noviembre.
 Culto Dominical 10:30.
-Cena del Señor
-Precide Pr. Williams Verdejo
+Predicación: Pr. Claudio Torres.
 
 ---
 
@@ -533,6 +568,63 @@ Así eres Tú
 Así eres Tú
 
 Así eres Tú
+
+---
+
+## Aquí Estoy (Adoración - v01)
+
+Aquí estoy
+Te ofrezco todo lo que soy
+
+Aquí estoy
+Un sacrificio quiero ser
+
+Toma mi ser
+Mi vida entrego a Ti
+
+Porque Tú eres mi Dios
+Eres digno de adoración
+
+Una ofrenda de amor seré
+Para Ti
+
+Porque Tú eres mi Dios
+Eres digno de adoración
+
+Una ofrenda de amor seré
+Para Ti
+
+Aquí estoy
+Te ofrezco todo lo que soy
+
+Aquí estoy
+Un sacrificio quiero ser
+
+Toma mi ser
+Mi vida entrego a Ti
+
+Porque Tú eres mi Dios
+Eres digno de adoración
+
+Una ofrenda de amor seré
+Para Ti
+
+Porque Tú eres mi Dios
+Eres digno de adoración
+
+Una ofrenda de amor seré
+Para Ti
+
+Oh, para Ti
+Sí, Señor
+Sí, mi Dios
+Ohhh ohhh
+
+Frente a Ti estamos, Rey
+Te ofrecemos sacrificio, Rey
+
+Mi ser, mi alma, mi cuerpo, mi Señor
+Delante de Ti me postraré
 
 ---
 
@@ -6360,6 +6452,912 @@ Una mansión en el cielo
 Fue Cristo a preparar,
 Que el niño tierno y amante
 En ella pueda entrar.
+
+---
+
+## Himno 201 - La Lucha Sigue
+
+Luchando estáis; aún suena la trompeta hoy
+Llamando a los soldados a la lid;
+A Jesucristo con valor decid: «Yo voy»
+Y él os dirá: «Venid, oh si, venid!».
+
+CORO:
+La lucha sigue, oh cristianos,
+Y brazo a brazo lucharéis;
+En Jesucristo seguid confiando
+Y por la fe en él venceréis:
+
+La lucha sigue, oh cristianos,
+Sed fieles y en Jesús confiad;
+La lucha siempre seguid, hermanos,
+Y la victoria esperad.
+
+Luchando estáis, soldados del Señor Jesús,
+Luchando estáis en contra de Satán;
+Es Jesucristo nuestra fortaleza y luz,
+Y él también es nuestro Capitán.
+
+Luchando estáis: confiados en Jesús marchad,
+Haciendo huir al enemigo vil:
+Y Jesucristo nuestro Jefe, amante y fiel,
+Sostén será de todos en la lid.
+
+---
+
+## Himno 203 - Los Niños, Joyas de Cristo
+
+Los niños son de Cristo,
+él es su Salvador:
+Son Joyas muy preciosas,
+comprólas con su amor.
+
+CORO:
+Joyas, Joyas, joyas,
+joyas del Salvador,
+Estén en esta tierra
+cual luz y dulce amor,
+
+Los niños son tesoros,
+pues que del cielo son;
+Luz refulgente esparcen
+en horas de aflicción,
+
+Los niños son estrellas
+de grata claridad:
+Quiere Jesús que anuncien
+al mundo su verdad.
+
+Los niños son de Cristo,
+por ellos él vendrá
+Y con él para siempre
+dichosos vivirán.
+
+---
+
+## Himno 204 - Cristo me Ama
+
+Cristo me ama, bien lo sé;
+Su palabra me hace ver
+Que los niños son de Aquel,
+Quien es nuestro amigo fiel
+
+CORO:
+Cristo me ama,
+Cristo me ama;
+Cristo me ama,
+la Biblia dice así.
+
+Cristo me ama, pues murió,
+Y el cielo me abrió;
+El mis culpas quitaré
+Y la entrada me daré.
+
+Cristo me ama –es verdad–
+Y me cuida en su bondad:
+Cuando muera, si soy fiel,
+Viviré allá con él.
+
+---
+
+## Himno 206 - Venid, Pastorcillos
+
+Venid, pastorcillos, venid a adorar
+Al Rey de los cielos que nace en Judá:
+Sin ricas ofrendas podemos llegar.
+Que el niño prefiere la fe y la bondad.
+
+Un rústico techo abrigo le da,
+Por cuna un pesebre, por templo un portal;
+En lecho de pajas incógnito está
+Quien quiso a los astros su gloria prestar.
+
+Hermoso lucero le vino a anunciar
+Y magos de Oriente buscándole van;
+Delante se postran del Rey de Judá,
+De incienso, oro y mirra tributo le dan.
+
+---
+
+## Himno 207 - Suenen Dulces Himnos
+
+¡Suenen dulces himnos, gratos al Señor.
+Y óiganse en concierto universal!
+Desde el alto cielo baja el Salvador
+Para beneficio del mortal.
+
+CORO:
+¡Gloria!, ¡gloria sea a nuestro Dios!
+¡Gloria, sí, cantemos a una voz!
+Y el cantar de gloria que se oyó en Belén
+Sea nuestro cántico también.
+
+Montes y collados fluyan leche y miel.
+Y abundancia esparzan y solaz;
+Gócense los pueblos, gócese Israel;
+Que a la tierra viene ya la paz.
+
+Salte de alegría, lleno el corazón
+La abatida y pobre humanidad;
+Dios se compadece viendo su aflicción
+Y le muestra buena voluntad.
+
+Lata en nuestros pechos noble gratitud
+Hacia quien nos brinda redención
+Y a Jesús el Cristo que nos da salud,
+Tributemos nuestra adoración.
+
+---
+
+## Himno 208 - Lugar Para Cristo
+
+Tú dejaste tu trono y corona por mí
+Al venir a Belén a nacer
+Mas a ti no fue dado el entrar al mesón
+Y en pesebre te hicieron nacer.
+
+CORO:
+Ven a mi corazón, ¡oh Cristo!,
+Pues en él hay lugar para ti;
+Ven a mi corazón, ¡oh Cristo!, ven,
+Pues en él hay lugar para ti.
+
+Alabanzas celestes los ángeles dan
+En que rinden al Verbo loor;
+Mas humilde viniste a la tierra, Señor,
+A dar Vida al más vil pecador.
+
+Siempre pueden las zorras sus cuevas tener
+Y las aves sus nidos también
+Mas el Hijo del hombre no tuvo un lugar
+En el cual reclinara su sien.
+
+Tú viniste, Señor, con tu gran bendición
+Para dar libertad y salud;
+Mas con odio y desprecio te hicieron morir,
+Aunque vieron tu amor y virtud.
+
+Alabanzas sublimes los cielos darán
+Cuando vengas glorioso de allí;
+Y tu voz entre nubes dirá: «Ven a mí»,
+Que hay lugar junto a mí para ti
+
+---
+
+## Himno 208 - Oh Gloria Inenarrable
+
+¡Oh gloria inenarrable!
+¡Prodigio sin segundo!
+¡Dios mismo viene al mundo
+Naciendo de mujer!
+
+Y vemos en sus brazos,
+Al seno recogido,
+Cual niño desvalido,
+De cielo y tierra al Rey
+
+¡Venid, gentes y pueblos!
+¡Venid con afán santo!
+No os cause mudo espanto
+La densa lobreguez;
+
+Pues brotan de esta noche
+Divinas claridades
+Que todas las edades
+Verán resplandecer.
+
+Venid, que ya al vagido
+Del Niño dulce y tierno
+Se estremeció el infierno,
+Se conturbó Luzbel;
+
+Y coros celestiales,
+Cantando el nacimiento,
+Con jubiloso acento,
+Nos llaman a Belén.
+
+Mas no en suntuoso alcázar
+Busquéis al regio Infante,
+Bajo artesón brillante
+Ni espléndido dosel;
+
+¡Su cuna es un establo
+Que azota el cierzo frio,
+Cuajándose el rocío
+Sobre su nívea tez!
+
+Así al humilde y pobre
+Levanta y beatifica;
+Así al orgullo indica
+Su ciega insensatez;
+
+Así rebaja el precio
+De las mundanas glorias;
+Sus dichas ilusorias,
+Su efímero oropel.
+
+---
+
+## Himno 209 - Oh Gloria Inenarrable
+
+¡Oh gloria inenarrable!
+¡Prodigio sin segundo!
+¡Dios mismo viene al mundo
+Naciendo de mujer!
+
+Y vemos en sus brazos,
+Al seno recogido,
+Cual niño desvalido,
+De cielo y tierra al Rey.
+
+¡Venid, gentes y pueblos!
+¡Venid con afán santo!
+No os cause mudo espanto
+La densa lobreguez;
+
+Pues brotan de esta noche
+Divinas claridades
+Que todas las edades
+Verán resplandecer.
+
+Venid, que ya al vagido
+Del Niño dulce y tierno
+Se estremeció el infierno,
+Se conturbó Luzbel;
+
+Y coros celestiales,
+Cantando el nacimiento,
+Con jubiloso acento,
+Nos llaman a Belén.
+
+Mas no en suntuoso alcázar
+Busquéis al regio Infante,
+Bajo artesón brillante
+Ni espléndido dosel;
+
+¡Su cuna es un establo
+Que azota el cierzo frio,
+Cuajándose el rocío
+Sobre su nívea tez!
+
+Así al humilde y pobre
+Levanta y beatifica;
+Así al orgullo indica
+Su ciega insensatez;
+
+Así rebaja el precio
+De las mundanas glorias;
+Sus dichas ilusorias,
+Su efímero oropel.
+
+---
+
+## Himno 210 - Los Heraldos Celestiales
+
+Los heraldos celestiales
+Cantan con sonora voz:
+¡Gloria al Rey recién nacido,
+Que del cielo descendió!
+
+Paz, misericordia plena,
+Franca reconciliación
+Entre Dios tan agraviado
+Y el mortal que le ofendió.
+
+La Divinidad sublime
+En la carne se veló;
+Ved a Dios morando en carne
+Y adorad al Hombre-Dios:
+
+Emmanuel, Dios con nosotros,
+A la tierra descendió;
+Y hecho hombre, con los hombres
+Tiene ya su habitación.
+
+¡Salve!, Príncipe glorioso
+De la paz y del perdón;
+Salve a ti que de justicia
+Eres el divino Sol;
+
+Luz y vida resplandecen
+A tu grata aparición,
+Y en tus blancas alas traes
+La salud al pecador.
+
+Nace manso, despojado
+De su gloria y esplendor,
+Porque no muramos todos
+En fatal condenación:
+
+Nace, si, para que el hombre
+Tenga en él resurrección;
+Nace para que renazca
+A la vida el pecador.
+
+---
+
+## Himno 211 - ¡Gloria a Dios en las Alturas
+
+¡Gloria a Dios en las alturas,
+Que mostró su gran amor!
+Dando a humanas criaturas
+Un potente Salvador.
+
+Con los himnos de los santos
+Hagan coro nuestros cantos
+De alabanza y gratitud
+
+Por la divinal salud,
+Y digamos a una voz:
+¡En los cielos gloria a Dios!
+
+¡Gloria a Dios! la tierra cante
+Al gozar de su bondad,
+Pues le brinda paz constante
+En su buena voluntad.
+
+Toda tribu y lenguas todas
+Al Excelso eleven odas
+Por el Rey Emmanuel
+
+Que les vino de Israel:
+Y prorrumpan a una voz:
+¡En los cielos gloria a Dios!
+
+¡Gloria a Dios! la Iglesia entona,
+Rota al ver su esclavitud,
+Por Jesús, que es su corona,
+Su Cabeza y plenitud.
+
+Vigilante siempre vive
+Y a la lucha se apercibe
+Mientras llega su solaz
+
+En la gloria y plena paz;
+Donde exclama a una voz:
+¡En los cielos gloria a Dios!
+
+---
+
+## Himno 212 - Noche de Paz, Noche de Amor
+
+¡Noche de paz, noche de amor!
+Todo duerme en derredor,
+Entre los astros que esparcen su luz:
+
+Bella anunciando al niñito Jesús:
+Brilla la estrella de paz.
+Brilla la estrella de paz.
+
+¡Noche de paz, noche de amor!
+Oye humilde el fiel pastor
+Coros celestes que anuncian salud,
+
+Gracias y glorias en gran plenitud
+Por nuestro buen Redentor.
+Por nuestro buen Redentor.
+
+¡Noche de paz, noche de amor!
+Ved qué bello resplandor
+Luce en el rostro del niño Jesús;
+
+En el pesebre, del mundo la luz:
+Astro de eterno fulgor.
+Astro de eterno fulgor.
+
+---
+
+## Himno 217 - La Santa Cena
+
+Santa Cena, para mí
+Eres memorial aquí;
+Tú me enseñas con verdad
+El misterio de bondad;
+Me recuerdas de la cruz,
+Del Cordero, mi Jesús.
+
+Tú elevas nuestro ser
+Al angélico placer;
+Tipificas con señal
+La crucifixión pascual.
+Comulguemos al tomar
+De Jesús y su penar.
+
+Participe el corazón
+De tu conmemoración;
+Nos recuerdas el partir
+De Jesús y su venir;
+Eres tú nuestra señal
+De su pacto divinal.
+
+Como sello del amor
+Del divino Redentor,
+Volveremos a tomar,
+Y con Cristo disfrutar,
+De la cena del Señor,
+Prenda fiel del Viador.
+
+---
+
+## Himno 239 - Cristo Acoge al Pecador
+
+Al que en busca de la luz
+Vague ciego y con temor,
+Lo recibe el buen Jesús
+En los brazos de su amor.
+
+CORO:
+Volveremos a cantar,
+Cristo acoge al pecador;
+Claro hacedlo resonar,
+Cristo acoge al pecador.
+
+A sus pies descansarás;
+Ejercita en él tu fe;
+De tus males sanarás:
+A Jesús, tu amigo, vé.
+
+Hazlo, porque así dirás:
+«Ya no me condenaré;
+Ya la ley no pide más;
+La cumplió Jesús, lo sé.»
+
+Acogerte prometió,
+Date prisa en acudir,
+Necesitas, como yo,
+Vida, que él te hará vivir
+
+---
+
+## Himno 244 - Adoradle
+
+Dad al Padre toda gloria,
+Dad al Hijo todo honor;
+Y al Espíritu divino
+Alabanzas de loor.
+
+CORO:
+Adoradle, adoradle,
+Adorad al Salvador;
+Tributadle toda gloria,
+Pueblo suyo por su grande amor
+
+Adoradle, ¡oh iglesia!,
+Por Jesús tu Redentor;
+Rescatada por su gracia,
+Libre por su grande amor.
+
+Entonadle un canto nuevo,
+Huestes libres del Señor;
+Tierra, cielos, mar y luna,
+Gloria dan al trino Dios.
+
+2º Coro:
+Yo te adoro, yo te adoro,
+Yo te adoro, buen Jesús;
+Yo te adoro reverente,
+¡Oh Cordero santo de mi Dios!
+
+---
+
+## Himno 245 - Cuando Estemos en Gloria
+
+Cantad del amor de Cristo,
+Ensalzad al Redentor;
+Tributadle, santos todos,
+Grande gloria y loor.
+
+CORO:
+Cuando estemos en gloria,
+En presencia de nuestro Redentor t
+¡A una voz la historia
+Diremos del gran Vencedor!
+
+La victoria es segura
+A las huestes del Señor;
+¡Oh, pelead con la mirada
+Puesta en nuestro Protector!
+
+El pendón alzad, ¡cristianos!,
+De la cruz, y caminad,
+De triunfo en triunfo
+Siempre firmes avanzad.
+
+Adelante en la lucha.
+¡Oh soldados de la fe!
+Nuestro el triunfo, ¡oh, escuchad!
+Los clamores: ¡Viva el Rey!
+
+---
+
+## Himno 256 - Tentado No Cedas
+
+Tentado no cedas; ceder es pecar;
+Mejor y más noble es luchar y triunfar;
+¡Valor!, pues, cristiano, domina tu mal;
+Dios puede librarte de asalto mortal.
+
+CORO:
+En Jesús, pues, confía;
+En sus brazos tú alma
+Hallará dulce calma,
+Él te hará vencedor
+
+Evita el pecado, procura agradar
+A Dios, a quien debes por siempre ensalzar;
+No manches tus labios, impúdica voz
+Preserva tu vida, de ofensas a Dios.
+
+Amante, benigno y enérgico sé;
+En Cristo, tu amigo, pon toda tu fe
+Veraz sea tu dicho, de Dios es tu ser;
+Corona te espera, y vas a vencer
+
+---
+
+## Himno 259 - Guarda el Contacto
+
+¿Quieres sobre el mundo ser un vencedor?
+¿Quieres tú cantar aún cuando hay dolor?
+¿Quieres ser alegre cual fiel luchador?
+Guarda el contacto con el Salvador.
+
+CORO:
+Guarda el contacto con el Salvador,
+Luego las tinieblas no te cubrirán;
+Por la senda alegre tú caminarás,
+A causa del contacto con el Salvador.
+
+En el mundo hay muchos, tristes en pecar,
+Cuyos corazones lloran de pesar;
+Dales el mensaje, no hay que callar,
+Con Dios el contacto debes de guardar.
+
+¿Quieres tú con Dios la comunión tener?
+¿Y su gloria siempre en ti permanecer?
+¿Que el mundo a Cristo pueda en ti hoy ver?
+Guarda el contacto con el Supremo Ser.
+
+Deja que el Espíritu implante en ti
+La humildad de Cristo y su santo amor;
+Ora siempre y vela, que Jesús vendrá;
+Guarda el contacto con el Salvador.
+
+---
+
+## Himno 262 - El que ha de Venir, Vendrá
+
+Al rayar el alba tal vez venga Cristo
+Con aclamación y con voz de arcángel;
+Levanta los muertos, transforma los vivos,
+A los suyos él viene a llevar.
+
+CORO:
+¿Hasta cuándo? Señor Jesús,
+¿Hasta cuándo vendrás?
+Cristo viene, aleluya, aleluya, amén;
+Aleluya, amén.
+
+Quizás el vendrá cuando el día fenezca,
+Quizás en la noche su gloria aparezca;
+¡Valor, pues!, ¡hermanos!, y estemos de espera,
+A los suyos él viene a llevar.
+
+Su magnificencia y gloria veremos,
+El mundo, el pecado, hermanos, dejemos,
+Así, con gran gozo, le recibiremos
+Cuando Cristo nos viene a llevar.
+
+CORO:
+El que ha de venir vendrá,
+Y no tardará.
+Viene presto, aleluya, aleluya, amén;
+Aleluya, amén.
+
+---
+
+## Himno 271 - A La Lucha
+
+Ya las huestes se
+aprestan para la batalla,
+Es Jesús el capitán que
+a todos nos guiará,
+
+Y con él a la cabeza no
+hay que vacilar,
+De seguro al triunfo
+nos llevará.
+
+CORO:
+Yo quiero estar con Cristo
+en lo rudo de la lid,
+Yo quiero siempre listo,
+valiente, combatir
+
+Hasta que en gloria pueda verle,
+mi carrera al terminar;
+Y vida eterna con él gozar.
+
+Las legiones de Jesús,
+de triunfo en triunfo avanzan,
+¿No las ves con qué valor
+combaten contra el mal?
+
+¿Puedes tú quedar
+dormido o indiferente
+Cuando otros luchan sin descansar?
+
+Date prisa, no vaciles,
+él te necesita;
+Si amas a Jesús,
+también a otros amarás,
+
+Y si andan en las
+sendas de la iniquidad,
+A los pies de
+Cristo los llevarás.
+
+Es la mies muy grande
+y los obreros son muy pocos;
+Desde hoy mi Salvador
+hallarme él podrá
+
+Trabajando en Su mies
+en busca de las almas
+Y con su poder él me sostendrá.
+
+---
+
+## Himno 275 - Por La Sangre
+
+Por el mundo brilla luz
+Desde que murió Jesús,
+Por nosotros en la cruz,
+Del Calvario;
+
+Los pecados él llevó,
+De la culpa nos libró
+Con la sangre que manó
+Del Calvario.
+
+CORO:
+Por la sangre, por la sangre
+Somos redimidos, sí,
+Por la sangre carmesí:
+
+Por la sangre, por la sangre,
+Por la sangre de Jesús, del Calvario.
+
+Antes todo fue temor,
+Mas ahora es amor,
+Porque comprendí el valor
+Del Calvario.
+
+Yo viví en perdición,
+Hoy poseo salvación
+Por la grande redención
+Del Calvario.
+
+¿Eres grande pecador?
+¡He aquí tu Salvador!
+Tema del predicador: El Calvario.
+
+Salvación a cada cual
+Que padece por su mal;
+Dios ofrece gracia tal
+Por la sangre.
+
+---
+
+## Himno 276 - Voy a ver a Cristo el Rey
+
+Aunque peregrino y pobre soy aquí,
+Voy a ver a Cristo el Rey;
+Cuando en las nubes venga él por mí,
+Voy a ver a Cristo el Rey.
+
+CORO:
+Voy a ver a Cristo el Rey
+Y sus glorias cantaré;
+Cuando al cielo allá a los suyos llamará,
+Voy a ver a Cristo el Rey.
+
+Tras angustia y pena y tras cruel dolor,
+Voy a ver a Cristo el Rey.
+Perdurable gozo me dará el Señor, Voy,
+Voy a ver a Cristo el Rey.
+
+Tras las duras luchas que aquí tendré,
+Voy a ver a Cristo el Rey.
+Cuando mi carrera acabado habré,
+Voy a ver a Cristo el Rey.
+
+Con los redimidos que se fueron ya,
+Voy a ver a Cristo el Rey.
+Lágrimas y llanto nunca más habrá,
+Voy a ver a Cristo el Rey.
+
+---
+
+## Himno 283 - No Veremos
+
+En el mundo la Iglesia
+Peregrina ha de estar;
+Anhelante ella espera
+
+Su feliz, eterno hogar.
+Himnos de Gloria y Triunfo.
+
+CORO:
+Nos veremos, nos veremos
+Pronto en gloria, pronto en gloria,
+Nos veremos en la tierra mis Allí;
+
+Nos veremos, nos veremos
+Pronto en gloria, pronto en gloria,
+Junto al rio cristalino más Allá.
+
+Nada aquí es permanente,
+Todo ha de terminar;
+Mas miramos adelante,
+En el cielo nuestro hogar.
+
+Las familias en la tierra
+Se desunen al morir;
+Mas esperan la mañana
+En que se han de reunir.
+
+Con Jesús cual unos reyes
+Pronto habremos de estar;
+Juntos, miles de millares,
+Con Jesús para morar.
+
+---
+
+## Himno 289 - Mi Rey y Mi Amigo
+
+Jesús es mi Rey soberano,
+Mi gozo es cantar su loor;
+Es Rey y me ve cual hermano,
+Es Rey y me imparte su amor,
+
+Dejando su trono de gloria,
+Me vino a sacar de la escoria,
+¡Y yo soy feliz, y yo soy feliz con él!
+Himnos de Gloria y Triunfo.
+
+Jesús es mi Amigo anhelado,
+Y en sombras o en luz siempre va
+Paciente y humilde a mi lado,
+
+Su ayuda y consuelo me da;
+Por eso constante lo sigo,
+Porque él es mi Rey y mi Amigo,
+¡Y yo soy feliz, y yo soy feliz con él!
+
+Señor, ¿qué pudiera yo darte
+Por tanta bondad para mí?
+¿Me basta servirte y amarte?
+
+¿Es todo entregarme yo a ti?
+Entonces, acepta mi vida,
+Que a ti sólo queda rendida
+¡Pues yo soy feliz, pues yo soy feliz por ti!
+
+---
+
+## Himno 294 - Hay un Canto Nuevo en Mi Ser
+
+Hay un canto nuevo en mi ser,
+Es la voz de mi Jesús,
+Que me dice: «Ven a descansar,
+Tu paz conquisté en la cruz.»
+
+CORO:
+Cristo, Cristo, Cristo,
+Nombre sin Igual:
+Llena siempre mi alma
+De esa nota celestial.
+
+Náufrago en pecado me encontré,
+Sin paz en mi corazón;
+Mas en Cristo mi Señor hallé
+Dulce paz y protección.
+
+Tengo de su gracia celestial,
+Bajo sus alas de amor,
+Riquezas que fluyen a raudal
+Desde el trono del Señor
+
+Por las aguas hondas me llevó,
+Pruebas en mi senda hallé,
+Por áspero sendero me guió;
+Mas sus huellas seguiré.
+
+Cristo en las nubes volveré,
+Bajo el bello cielo azul,
+El entonces mi alma llevaré
+A vivir en gloria y luz.
+
+---
+
+## Himno 295 - Jesús Pronto Volverá
+
+Jesús pronto volverá
+Al mundo en gran poder;
+Promesa nos dio, él regresaré;
+Si, viene el Salvador.
+
+Señales abundan hoy,
+Cumpliéndose ya estén,
+Por su gracia listo estoy,
+Le espero sin más afán.
+
+CORO:
+Muy pronto Jesús vendré,
+El viene no tardara;
+Él ha de venir, él descenderé
+Del cielo, el Rey vendré.
+
+Despiértate, pecador,
+El tiempo es corto ya,
+Viene pronto el Salvador,
+No sabes cuándo será.
+
+Cuando Cristo volverá,
+El pueblo que le amó
+No más sufriré, al cielo iré,
+Pues Cristo ya le salvó.
+
+Mas el que rechaza aquí
+A Cristo y su amor,
+Sufriré por siempre allí
+Tinieblas y gran dolor.
+
+Del norte, del sur vendrán,
+De China, del África,
+Los blancos también, si, miles vendrán,
+Rodeando la mesa allá,
+
+Con Cristo se gozarán
+Las bodas al celebrar,
+Y jamás se cansarán
+De aquel tan feliz hogar.
+
+---
+
+## Himno 296 - Comprado con Sangre por Cristo
+
+Comprado con sangre por Cristo,
+Con gozo al cielo yo voy;
+Librado por gracia infinita,
+Ya sé que su hijo yo soy.
+
+CORO:
+Lo sé…………….Lo sé,
+Comprado con sangre yo soy;
+Lo sé…………….Lo sé,
+Con Cristo al cielo yo voy.
+
+Soy libre de pena y culpa,
+Su gozo él me hace sentir;
+El llena de gracia mi alma,
+Con él es tan dulce vivir.
+
+En Cristo yo siempre medito
+Y nunca le puedo olvidar;
+Callar sus favores no quiero,
+Voy siempre a Jesús alabar.
+
+Seguro sé que la belleza
+Del gran Rey yo voy a mirar;
+Ahora me guarda y me guía,
+Y siempre me quiere ayudar.
+
+Yo sé que me espera corona,
+La cual a los fieles dará,
+Jesús Salvador; en el cielo,
+Mi alma con él estará.
 
 ---
 
