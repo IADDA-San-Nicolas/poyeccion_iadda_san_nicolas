@@ -34,6 +34,7 @@
 * Con Todo Mi Corazón (Adoración - v01)
 * Cristo Puede Mover Montes (Adoración - v01)
 * Cristo Te Exalto (Adoración - v01)
+* Cristo Yo Te Amo (Adoración - v01)
 * Cuan Bello Es el Señor (Adoración - v01)
 * Cuan Grande Es Dios (Adoración - v01)
 * Cuan Grande Es el (Adoración - v01)
@@ -258,35 +259,32 @@
 
 ## Avisos del mes
 
-Martes 5 de Noviembre.
+Martes 19 de Noviembre.
 Estudio Bíblico 20:00 hrs.
 
-Miércoles 6 de Noviembre.
+Miércoles 20 de Noviembre.
 Culto Chillán, a las 19:30 hrs.
+Hogar: Hna. Silvia Ulloa.
+Dirige: Hna. Norma Ulloa.
+Palabra: Pr. Claudio Torres.
 
-Jueves 7 de Noviembre.
-Culto de Oración.
-Dirige: Maria Palavecino.
-Palabra: Cristian Rubilar.
+Jueves 21 de Noviembre.
+Culto de Oración 20:00.
+Dirige: Hna. María Perez.
+Palabra: Hno. Christian Vidal.
 
-Viernes 8 de Noviembre.
+Viernes 22 de Noviembre.
 Reunión de Hermanas a las 17:30.
 
-Viernes 8 de Noviembre.
-Reunión de Preadolescentes a las 17:30.
+Viernes 22 de Noviembre.
+Conferencia Pastores 
+San Carlos.
 
-Sabado 9 de Noviembre.
-Llamado a día de Oración y Ayuno.
-16:00  Nos reunimos en la Iglesia.
-
-Sabado 9 de Noviembre.
-Reunión de Iglesia a las 17:30 horas.
-(Después de la jornada
-de Oración y Ayuno)
-
-Domingo 10 de Noviembre.
+Domingo 24 de Noviembre.
 Culto Dominical 10:30.
-Predicación: Pr. Claudio Torres.
+Dirige: Hno. Gabriel Lagos.
+Predicación: Hno. Juan Mijica.
+Proyección: Hna. Saura Venegas.
 
 ---
 
@@ -1965,6 +1963,68 @@ Que sólo Tú eres digno de adorar
 
 ---
 
+## Cristo Yo Te Amo (Adoración - v01)
+
+Cristo, yo te amo
+Cristo, yo te amo
+
+No hay nadie como Tú
+Jesús
+
+Cristo, yo te amo
+Cristo, yo te amo
+
+No hay nadie como Tú
+Jesús
+
+Y no sé dónde estuviera
+Si yo a Ti no te tuviera
+
+Si no hubiera conocido
+Al Dios que me ama
+
+Cristo, yo te amo
+Cristo, yo te amo
+
+No hay nadie como Tú
+Jesús
+
+Cristo, yo te amo
+Cristo, yo te amo
+
+No hay nadie como Tú
+Jesús
+
+Y no sé dónde estuviera
+Si yo a ti no te tuviera
+
+Si no hubiera conocido
+Al Dios que me ama
+
+Y no sé dónde estuviera
+Si yo a ti no te tuviera
+
+Si no hubiera conocido
+Al Dios que me ama
+
+Cristo, yo te amo
+Cristo, yo te amo
+
+No hay nadie como Tú
+Jesús
+
+Y no sé dónde estuviera
+Si yo a ti no te tuviera
+
+Si no hubiera conocido
+
+Al Dios que me ama
+Al Dios que me ama
+Al Dios que me ama
+
+
+---
+
 ## Cuan Bello Es el Señor (Adoración - v01)
 
 Cuán bello es el Señor
@@ -2193,52 +2253,6 @@ La presencia de Dios
 
 Y aquí se siente
 La presencia de Dios
-
----
-
-## Cuando la Trompeta Suene Himno (Alabanza - v01)
-
-Cuando la trompeta suene
-En aquel día final
-Y que el alba eterna rompa en claridad
-
-Cuando las naciones salvas
-A su patria lleguen ya
-Y que sea pasada lista allí he de estar
-
-Cuando allá se pase lista
-Cuando allá se pase lista
-Cuando allá se pase lista
-
-A mi nombre yo feliz responderé
-
-En aquel día sin nieblas
-En que muerte ya no habrá
-Y su gloria el salvador impartirá
-
-Cuando los llamados entren
-A su celestial hogar
-Y que sea pasada lista allí he de estar
-
-Cuando allá se pase lista
-Cuando allá se pase lista
-Cuando allá se pase lista
-
-A mi nombre yo feliz responderé
-
-Trabajemos por el maestro
-Desde el alba al vislumbrar
-Siempre hablemos de su amor y fiel bondad
-
-Cuando todo aquí fenezca
-Y nuestra obra cese ya
-Y que sea pasada lista allí he de estar
-
-Cuando allá se pase lista
-Cuando allá se pase lista
-Cuando allá se pase lista
-
-A mi nombre yo feliz responderé
 
 ---
 
