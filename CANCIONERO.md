@@ -259,32 +259,26 @@
 
 ## Avisos del mes
 
-Martes 19 de Noviembre.
+Martes 26 de Noviembre.
 Estudio Bíblico 20:00 hrs.
 
-Miércoles 20 de Noviembre.
+Miércoles 27 de Noviembre.
 Culto Chillán, a las 19:30 hrs.
-Hogar: Hna. Silvia Ulloa.
-Dirige: Hna. Norma Ulloa.
-Palabra: Pr. Claudio Torres.
+Hogar: Familia Flores Sepulveda.
+Dirige: Hna. Fernanda Sepulveda.
+Palabra: Pr. Esteban Ruiz.
 
-Jueves 21 de Noviembre.
+Jueves 28 de Noviembre.
 Culto de Oración 20:00.
-Dirige: Hna. María Perez.
-Palabra: Hno. Christian Vidal.
+Dirige: Hno. Francisco Quijada.
+Palabra: Hna. Saura Venegas.
 
-Viernes 22 de Noviembre.
+Viernes 29 de Noviembre.
 Reunión de Hermanas a las 17:30.
 
-Viernes 22 de Noviembre.
-Conferencia Pastores 
-San Carlos.
-
-Domingo 24 de Noviembre.
+Domingo 1 de Diciembre.
 Culto Dominical 10:30.
-Dirige: Hno. Gabriel Lagos.
-Predicación: Hno. Juan Mijica.
-Proyección: Hna. Saura Venegas.
+Cena del Señor.
 
 ---
 
