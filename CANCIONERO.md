@@ -18,6 +18,7 @@
 * Aleluya Agnus Dei (Adoración - v01)
 * Aleluya (Adoración - v01)
 * Algo está cayendo aquí (Adoración - v01)
+* Ángeles Cantando Están (villancico - v01)
 * Así Es Tu Amor (Alabanza - v01)
 * Atraeme a Ti (Adoración - v01)
 * Aunque Mis Ojos (Adoración - v01)
@@ -1122,6 +1123,50 @@ Levantando al caído
 Su gloria esta aquí
 
 Su gloria esta aquí
+
+---
+
+##  Ángeles Cantando Están (villancico - v01)
+
+Ángeles cantando están
+Tan dulcícima canción
+
+Las montañas su eco dan
+Como fiel contestación
+
+Gloria
+En lo alto Gloria
+
+Gloria
+En lo alto Gloria
+
+En lo alto gloria Dios
+
+Los pastores sin cesar
+Sus loores dan a Dios
+
+Cuán glorioso es el cantar
+De su melodiosa voz
+
+Gloria
+En lo alto Gloria
+
+En lo alto gloria Dios
+
+Oh, venid pronto a Belén
+Para contemplar con fe
+
+A Jesús, autor del bien
+Al recién nacido rey
+
+Gloria
+En lo alto Gloria
+
+Gloria
+En lo alto Gloria
+
+En lo alto gloria Dios
+En lo alto gloria Dios
 
 ---
 
