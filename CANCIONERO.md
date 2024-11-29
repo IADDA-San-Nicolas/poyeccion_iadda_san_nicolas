@@ -44,6 +44,7 @@
 * De Gloria en Gloria Marcos Barrientos (Alabanza - v01)
 * De Gloria en Gloria Te Veo (Adoración - v01)
 * De Los Montes (Alabanza - v01)
+* De Tal Manera Me Amo (Adoración - v01)
 * Dios Esta Aquí (Adoración - v01)
 * Dios Ha Sido Bueno (Adoración - v01)
 * Donde está el Espiritú de Dios (Alabanza - v01)
@@ -2449,6 +2450,35 @@ Ya te cantan, con amor.
 
 Aleluya, aleluya
 Aleluya, aleluya
+
+---
+
+## De Tal Manera Me Amo (Adoración - v01)
+
+De tal manera me amó
+Que Su vida no escatimó
+
+Hasta el final Él se entregó
+Y a la muerte fue,
+porque Él me amó
+
+De tal manera me amó
+Y no hay forma en que podré pagar
+
+El precio de Su grande amor
+Pero toda mi alma quiero dar
+
+Por Su amor, yo viviré
+De Su amor, yo cantaré
+
+Con mi Jesús, caminaré
+Porque Él me amó a mí
+
+Le seguiré
+
+Le seguiré
+Señor, yo Te seguiré
+Con mi alma, mente y corazón
 
 ---
 
