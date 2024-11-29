@@ -259,26 +259,30 @@
 
 ## Avisos del mes
 
-Martes 26 de Noviembre.
+Martes 03 de Diciembre.
 Estudio Bíblico 20:00 hrs.
 
-Miércoles 27 de Noviembre.
+Miércoles 04 de Diciembre.
 Culto Chillán, a las 19:30 hrs.
-Hogar: Familia Flores Sepulveda.
-Dirige: Hna. Fernanda Sepulveda.
-Palabra: Pr. Esteban Ruiz.
 
-Jueves 28 de Noviembre.
+Jueves 05 de Diciembre.
 Culto de Oración 20:00.
-Dirige: Hno. Francisco Quijada.
-Palabra: Hna. Saura Venegas.
+Dirige: Hna. Marcia Fuentes.
+Palabra: Hno. Guillermo Luengo.
 
-Viernes 29 de Noviembre.
+Viernes 06 de Diciembre.
 Reunión de Hermanas a las 17:30.
 
-Domingo 1 de Diciembre.
-Culto Dominical 10:30.
-Cena del Señor.
+Viernes 06 de Diciembre.
+Reunión de Preadolescentes las 17:30.
+
+Sabado 07 de Diciembre.
+18.30 Templo.
+Cena Aniversario de la Iglesia.
+
+Domingo 08 de Diciembre.
+Culto Aniversario n° 47.
+Predica Visita: Pr. Hermes de la Hoz
 
 ---
 
