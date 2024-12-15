@@ -237,6 +237,7 @@
 * Tu Eres Digno De Gloria (Alabanza - v01)
 * Tu Fidelidad (Adoración - v01)
 * Tu Habitas En La Alabanza De Tu Pueblo (Adoración - v01)
+* Tu Nombre Levantaré (Alabanza - v01)
 * Tu Nombre Oh Dios (Alabanza - v01)
 * Tus Ojos Revelan Que Yo (Adoración - v01)
 * Un palacio tengo (Alabanza - v01)
@@ -9844,6 +9845,55 @@ La creación declara tu gloria, Santo eres tú
 La creación declara tu gloria, Santo eres tú
 La creación declara tu gloria, Santo eres tú
 La creación declara tu gloria, Santo eres tú
+
+---
+
+## Tu Nombre Levantaré (Alabanza - v01)
+
+Tu nombre levantaré
+Me deleito en adorarte
+
+Te agradezco que en mi vida estés
+Que vinieras a salvarme
+
+Dejaste el trono para
+Mostrarnos la luz
+De tu trono a la cruz
+Y mi deuda pagar
+
+De la cruz a morir
+De la muerte a tu trono
+Tu nombre yo levantaré
+
+Tu nombre levantaré
+Me deleito en adorarte
+
+Te agradezco que en mi vida estés
+Que vinieras a salvarme
+
+Dejaste el trono para
+Mostrarnos la luz
+De tu trono a la cruz
+Y mi deuda pagar
+
+De la cruz a morir
+De la muerte a tu trono
+Tu nombre yo levantaré
+
+Dejaste el trono para
+Mostrarnos la luz
+De tu trono a la cruz
+Y mi deuda pagar
+
+De la cruz a morir
+De la muerte a tu trono
+Tu nombre yo levantaré
+
+Tu nombre yo levantaré (levantaré)
+Tu nombre yo levantaré (levantaré)
+
+Tu nombre yo levantaré
+Levantaré tu Nombre
 
 ---
 
