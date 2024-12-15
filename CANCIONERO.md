@@ -263,30 +263,27 @@
 
 ## Avisos del mes
 
-Martes 03 de Diciembre.
-Estudio Bíblico 20:00 hrs.
-
-Miércoles 04 de Diciembre.
+Miércoles 18 de Diciembre.
 Culto Chillán, a las 19:30 hrs.
+Hogar: Familia Jara Ulloa
+Dirige: Hno. Jonathan Flores.
+Palabra: Pr. Williams Verdejo.
 
-Jueves 05 de Diciembre.
+Jueves 19 de Diciembre.
 Culto de Oración 20:00.
-Dirige: Hna. Marcia Fuentes.
-Palabra: Hno. Guillermo Luengo.
+Dirige: Hna. Maria Perez.
+Palabra: Hno. Christian Vidal.
 
-Viernes 06 de Diciembre.
+Viernes 20 de Diciembre.
 Reunión de Hermanas a las 17:30.
 
-Viernes 06 de Diciembre.
-Reunión de Preadolescentes las 17:30.
+Sábado 21 de Diciembre.
+Actividad Escuela Dominical
+Desde las 14:00 - Piscina Municipal 
+Tarde Recreativa
 
-Sabado 07 de Diciembre.
-18.30 Templo.
-Cena Aniversario de la Iglesia.
-
-Domingo 08 de Diciembre.
-Culto Aniversario n° 47.
-Predica Visita: Pr. Hermes de la Hoz
+Domingo 22 de Diciembre.
+Culto Especial Navidad.
 
 ---
 
@@ -8835,7 +8832,7 @@ Si no fuera por Tu gracia y por Tu amor
 
 ---
 
-## Quiero Levantar a Ti Mis Manos (Adoración - v01)
+## Quién Nos Separará (Alabanza - v01)
 
 ¿Quién nos separará 
 del amor de Cristo?
