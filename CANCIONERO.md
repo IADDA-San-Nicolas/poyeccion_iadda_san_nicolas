@@ -214,6 +214,7 @@
 * Porque Él Vive (Adoración - v01)
 * Que Dulce Es Estar (Adoración - v01)
 * Que Seria de Mí (Adoración - v01)
+* Quién Nos Separará (Alabanza - v01)
 * Quiero Entregarte Mis Sueños (Adoración - v01)
 * Quiero Levantar a Ti Mis Manos (Adoración - v01)
 * Quiero Levantar Mis Manos (Adoración - v01)
@@ -8830,6 +8831,39 @@ Seria como un ciervo que brama por agua en el desierto
 
 Si no fuera por Tu gracia y por Tu amor
 Si no fuera por Tu gracia y por Tu amor
+
+---
+
+## Quiero Levantar a Ti Mis Manos (Adoración - v01)
+
+¿Quién nos separará 
+del amor de Cristo?
+
+¿Quién nos alejará 
+del amor de nuestro Dios?
+
+Ni tribulación o angustia
+Peligro, hambre o desnudez
+
+Nos podrán separar de su amor
+
+¿Quién nos separará
+del amor de Cristo?
+
+¿Quién nos alejará 
+del amor de nuestro Dios?
+
+Ni lo alto ni lo profundo
+Ni ninguna otra cosa creada
+
+Nos podrán separar del amor de Dios
+
+En Cristo somos más que vencedores
+En Cristo somos más que ganadores
+
+Ni la vida ni la muerte
+Podrán separarnos
+Del amor de Dios en Cristo Jesús
 
 ---
 
