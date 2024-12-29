@@ -265,27 +265,23 @@
 
 ## Avisos del mes
 
-Miércoles 18 de Diciembre.
-Culto Chillán, a las 19:30 hrs.
-Hogar: Familia Jara Ulloa
-Dirige: Hno. Jonathan Flores.
-Palabra: Pr. Williams Verdejo.
-
-Jueves 19 de Diciembre.
+Jueves 02 de Enero.
 Culto de Oración 20:00.
-Dirige: Hna. Maria Perez.
-Palabra: Hno. Christian Vidal.
+Dirige: Hna. Marcia Fuentes.
+Palabra: Hno. Guillermo Luengo.
 
-Viernes 20 de Diciembre.
-Reunión de Hermanas a las 17:30.
+Sábado 04 de Enero.
+Reunión de Iglesia Anual 19:30.
 
-Sábado 21 de Diciembre.
-Actividad Escuela Dominical
-Desde las 14:00 - Piscina Municipal 
-Tarde Recreativa
+Domingo 05 de Enero.
+Santa Cena.
+Preside Pr. Williams Verdejo
 
-Domingo 22 de Diciembre.
-Culto Especial Navidad.
+Domingo 05 de Enero.
+Culto Dominical.
+Dirige: Hna. Elizabet Jara.
+Palabra: Pr. Claudio Torres.
+Data: Hno. Ramón Cabrera.
 
 ---
 
