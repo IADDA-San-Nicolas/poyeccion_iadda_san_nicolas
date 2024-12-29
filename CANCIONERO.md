@@ -31,6 +31,7 @@
 * Cantare de Tu Amor (Adoración - v01)
 * Celebrad (Alabanza - v01)
 * Con Mi Dios Yo Saltaré los Muros (Alabanza - v01)
+* Con Mis Labios - Mi Pensamiento (Adoración - v01)
 * Con Mis Manos Levantadas (Adoración - v01)
 * Con Todo Mi Corazón (Adoración - v01)
 * Cristo Puede Mover Montes (Adoración - v01)
@@ -186,6 +187,7 @@
 * Hoy He Venido Ante Ti (Adoración - v01)
 * Jesucristo Basta (Adoración - v01)
 * Jesus Eres Mi Buen Pastor (Adoración - v01)
+* La Bendición (Adoración - v01)
 * La Bondad de Dios (Adoración - v01)
 * La Única Razon (Alabanza v01)
 * Levanto Mis Manos (Adoración - v01)
@@ -1818,6 +1820,50 @@ Mi alto refugio y mi fortaleza
 Él es mi libertador
 
 Él es mi libertador
+
+---
+
+## Con Mis Labios - Mi Pensamiento (Adoración - v01)
+
+Con mis labios y mi vida
+Te alabo, Señor
+Te alabo, Señor
+
+Con mis labios y mi vida
+Te alabo bendito Jesús
+
+Porque Tú has sido
+Precioso para mi
+Precioso para mi
+Precioso para mi
+
+Porque Tú has sido
+Precioso para mi
+Te alabo bendito Jesús
+
+Mi pensamiento eres Tú, Señor
+Mi pensamiento eres Tú, Señor
+
+Mi pensamiento eres Tú, Señor
+Mi pensamiento eres Tú, Señor
+
+Porque Tú me has dado la vida
+Porque Tú me has dado el perdón
+
+Porque Tú me has dado cariño
+Me has dado amor
+
+Mirarte solo a Ti, Señor
+Mirarte solo a Ti, Señor
+
+Mirarte solo a Ti, Señor
+Y no mirar atrás
+
+Seguir tu caminar, Señor
+Seguir sin desmayar, Señor
+
+Postrado ante tu altar, Señor
+Y no mirar atrás
 
 ---
 
@@ -7588,6 +7634,78 @@ Oh mí Dios, me rindo hoy
 ---
 
 ## La Bondad de Dios (Adoración - v01)
+
+Dios te guarde y bendiga
+Que extienda Su amor 
+y te muestre favor
+
+Dios te mire con agrado
+Y te dé paz
+
+Dios te guarde y bendiga
+Que extienda Su amor 
+y te muestre favor
+
+Dios te mire con agrado
+Y te dé paz
+
+Amén, amén, amén
+Amén, amén, amén
+
+Dios te guarde y bendiga
+Que extienda Su amor 
+y te muestre favor
+
+Dios te mire con agrado
+Y te dé paz
+
+Amén, amén, amén
+Amén, amén, amén
+Amén, amén, amén
+Amén, amén, amén
+
+Que te cubra con Su gracia
+Hasta mil generaciones
+
+Tu familia y tus hijos
+Y los hijos de tus hijos
+
+Que te cubra con Su gracia
+Hasta mil generaciones
+
+Tu familia y tus hijos
+Y los hijos de tus hijos
+
+Que te cubra con Su gracia
+Hasta mil generaciones
+
+Tu familia y tus hijos
+Y los hijos de tus hijos
+
+Su presencia te acompañe
+Donde quiera que tú vayas
+
+Que te llene, te rodee
+Va contigo, va contigo
+
+De mañana y de noche
+En tu entrada y salida
+
+En tu llanto y alegría
+Él te ama, Él te ama
+
+Él te ama, Él te ama
+Él te ama, Él te ama
+Él te ama, Él te ama
+
+Amén, amén, amén
+Amén, amén, amén
+Amén, amén, amén
+Amén, amén, amén
+
+---
+
+## La Bendición (Adoración - v01)
 
 Te amo Dios
 Tú amor nunca me falla
