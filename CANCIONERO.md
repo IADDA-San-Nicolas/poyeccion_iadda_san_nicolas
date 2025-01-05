@@ -265,23 +265,22 @@
 
 ## Avisos del mes
 
-Jueves 02 de Enero.
+Jueves 09 de Enero.
 Culto de Oración 20:00.
-Dirige: Hna. Marcia Fuentes.
-Palabra: Hno. Guillermo Luengo.
+Dirige: Hna. María Perez.
+Palabra: Hna. Patricia Venegas.
 
-Sábado 04 de Enero.
-Reunión de Iglesia Anual 19:30.
+Sábado 11 de Enero.
+Trabajos en Salón Internado.
+Para Almuerzo Despedida.
+Se solicitará apoyo.
 
-Domingo 05 de Enero.
-Santa Cena.
-Preside Pr. Williams Verdejo
-
-Domingo 05 de Enero.
-Culto Dominical.
-Dirige: Hna. Elizabet Jara.
-Palabra: Pr. Claudio Torres.
-Data: Hno. Ramón Cabrera.
+Domingo 12 de Enero. Culto Especial 10:30.
+Despedida Pastor Williams y Hna. Adriana.
+Dirige: Pr. Claudio Torres.
+Palabra Visita: Pr. Patricio Orellana.
+Después todos al Salón del Internado.
+A compartir un almuerzo.
 
 ---
 
