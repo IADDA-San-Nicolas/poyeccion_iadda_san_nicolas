@@ -80,6 +80,7 @@
 * Gracia Sublime Es (Adoración - v01)
 * Gracias por la Cruz (Adoración - v01)
 * Grande Eres Tú (Adoración - v01)
+* Grandes Son (Alabanza - v01)
 * Hallelujah (Adoración - v01)
 * Has cambiado mí lamento en baile (Alabanza v01)
 * Hay Cosas Que (Alabanza - v01)
@@ -265,22 +266,21 @@
 
 ## Avisos del mes
 
-Jueves 09 de Enero.
+Miércoles 15 de Enero.
+Culto en Chillán 19:30.
+Hogar: Familia Jara Ulloa.
+Dirige: Hna. Norma Ulloa.
+Palabra: Pr. Claudio Torres.
+
+Jueves 16 de Enero.
 Culto de Oración 20:00.
-Dirige: Hna. María Perez.
-Palabra: Hna. Patricia Venegas.
+Dirige: Hno. Francisco Quijada.
+Palabra: Hno. Chistian Vidal.
 
-Sábado 11 de Enero.
-Trabajos en Salón Internado.
-Para Almuerzo Despedida.
-Se solicitará apoyo.
-
-Domingo 12 de Enero. Culto Especial 10:30.
-Despedida Pastor Williams y Hna. Adriana.
-Dirige: Pr. Claudio Torres.
-Palabra Visita: Pr. Patricio Orellana.
-Después todos al Salón del Internado.
-A compartir un almuerzo.
+Domingo 19 de Enero. 
+Culto Dominical 10:30.
+Dirige: Hna. María de Los Angeles Godoy.
+Palabra: Pr. Esteban Ruiz.
 
 ---
 
@@ -4125,6 +4125,22 @@ Grande eres Tú
 Grandes tus milagros son
 No hay otro como Tú
 No hay otro como Tú
+
+---
+
+## Grandes Son (Alabanza - v01)
+
+Te alabaré, oh señor
+Invocaré tu santo nombre
+
+Siempre daré a conocer
+En los pueblos tus obras
+
+Grandes son
+Grandes son
+
+Grandes son
+Tus maravillas
 
 ---
 
