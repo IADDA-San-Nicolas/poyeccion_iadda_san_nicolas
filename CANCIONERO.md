@@ -46,6 +46,7 @@
 * De Gloria en Gloria Te Veo (Adoración - v01)
 * De Los Montes (Alabanza - v01)
 * De Tal Manera Me Amo (Adoración - v01)
+* Digno y Santo (Adoración - v01)
 * Dios Esta Aquí (Adoración - v01)
 * Dios Ha Sido Bueno (Adoración - v01)
 * Donde está el Espiritú de Dios (Alabanza - v01)
@@ -208,6 +209,7 @@
 * No Hay Dios Tan Grande Como Tu (Alabanza - v01)
 * No Hay Lugar Mas Alto (Adoración - v01)
 * No hay problemas que Dios (Adoración - v01)
+* No Sabéis, No Sabéis, Que Somos Templo (Alabanza - v01)
 * Nos Reunimos Aquí (Alabanza - v01)
 * Oh Moradora (Alabanza - v01)
 * Pan de Vida (Adoración - v01)
@@ -232,6 +234,7 @@
 * Sumergeme (Adoración - v01)
 * Te Alabarán Oh Jehová (Alabanza - v01)
 * Tal Como Soy (Adoración - v01)
+* Te Alabamos, Te Adoramos (Adoración - v01)
 * Te Doy Gloria (Alabanza - v01)
 * Te Exaltamos (Alabanza - v01)
 * Temprano Yo Te Buscaré (Adoración - v01)
@@ -257,6 +260,7 @@
 * Vine A Adorarte (Adoración - v01)
 * Vive Jesus (Alabanza - v01)
 * Yo Entro Al Lugar Mas Santo (Adoración - v01)
+* Yo Quiero Cantar, Cantar, Cantar - (Alabanza - v01)
 * Yo Quiero Mas De Ti (Adoración - v01)
 * Yo Quiero Ser Un Adorador (Alabanza - v01)
 * Yo Te Busco (Adoración - v01)
@@ -2547,6 +2551,34 @@ Reina por los siglos
 Con poder
 Todo lo que existe
 Es por el
+
+---
+
+## Digno y Santo (Adoración - v01)
+
+Digno es el Cordero Santo 
+Santo, Santo es Él 
+
+Levantamos nuestra alabanza 
+Al que en el trono esta. 
+
+Santo, santo, santo Dios Todopoderoso 
+Quien fue, quien es y quien vendrá 
+
+La creación hoy canta y damos gloria a Él
+Tú eres digno por siempre y siempre. 
+
+Santo, santo, santo Dios Todopoderoso 
+Quien fue, quien es y quien vendrá 
+
+La creación hoy canta y damos gloria a Él
+Tú eres digno por siempre y siempre. 
+
+Levantamos nuestra alabanza 
+Al que en el trono esta. 
+
+La creación hoy canta y damos gloria a Él 
+Tú eres digno por siempre y siempre.
 
 ---
 
@@ -8561,6 +8593,34 @@ Te sostendrá
 
 ---
 
+## No Sabéis, No Sabéis, Que Somos Templo (Alabanza - v01)
+
+No sabéis, no sabéis,
+que somos templo
+
+No sabéis, no sabéis,
+que somos templo
+
+No sabéis, no sabéis,
+que somos templo
+
+Que somos templo 
+del Espíritu de Dios
+
+Llenos de poder,
+llenos de gloria y alabanza
+
+Llenos de poder,
+llenos de gloria y alabanza
+
+Llenos de poder,
+llenos de gloria y alabanza
+
+Que somos templo
+del Espíritu de Dios.
+
+---
+
 ## Nos Reunimos Aquí (Alabanza - v01)
 
 Nos reunimos aquí
@@ -9573,6 +9633,23 @@ Ser Señor
 
 Grato perfume yo quiero
 Ser Señor
+
+---
+
+## Te Alabamos, Te Adoramos (Adoración - v01)
+
+Te alabamos, Te adoramos
+Cristo eres mi rey
+Cristo eres mi rey
+
+Eres grande, Eres fuerte
+Poderoso, Llenas todo
+
+Ante ti, ante ti
+Todo es nada
+
+Cristo eres mi rey
+Cristo eres mi rey
 
 ---
 
@@ -10751,6 +10828,26 @@ Santo Dios
 
 Pues tu nombre es Santo
 Santo Dios
+
+---
+
+## Yo Quiero Cantar, Cantar, Cantar (Alabanza - v01)
+
+Yo quiero cantar,
+cantar, cantar.
+
+Yo quiero gritar,
+gritar, gritar.
+
+Yo quiero cantar,
+yo quiero gritar
+Gloria a Dios.
+
+Y cuando estemos allá con El
+En su presencia yo cantare
+
+Yo quiero cantar,
+yo quiero gritar Gloria Dios
 
 ---
 
