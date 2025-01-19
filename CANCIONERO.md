@@ -270,21 +270,22 @@
 
 ## Avisos del mes
 
-Miércoles 15 de Enero.
-Culto en Chillán 19:30.
-Hogar: Familia Jara Ulloa.
-Dirige: Hna. Norma Ulloa.
-Palabra: Pr. Claudio Torres.
-
-Jueves 16 de Enero.
+Jueves 23 de Enero.
 Culto de Oración 20:00.
-Dirige: Hno. Francisco Quijada.
-Palabra: Hno. Chistian Vidal.
+Dirige: Hno. Raúl Carrasco.
+Palabra: Hna. María de los Ángeles Godoy
 
-Domingo 19 de Enero. 
+Sábado 25 de Enero. 
+Jornada de oración y ayuno.
+Buscando juntos la dirección de Dios.
+Entregamos el ayuno a las 16:30, juntos
+en la Iglesia.
+Después tendremos reunión de iglesia.
+
+Domingo 26 de Enero. 
 Culto Dominical 10:30.
-Dirige: Hna. María de Los Angeles Godoy.
-Palabra: Pr. Esteban Ruiz.
+Dirige: Hna. Saura Venegas.
+Palabra: Pr. Carlos Ramirez.
 
 ---
 
