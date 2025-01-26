@@ -270,22 +270,27 @@
 
 ## Avisos del mes
 
-Jueves 23 de Enero.
+Miercoles 29 de Enero.
+Culto en Chillán 19:30.
+Casa: Hna Silvia Ulloa.
+Dirige: Hna. Fernanda Sepulveda.
+Palabra: Pr. Esteban Ruiz.
+
+Jueves 30 de Enero.
 Culto de Oración 20:00.
 Dirige: Hno. Raúl Carrasco.
-Palabra: Hna. María de los Ángeles Godoy
+Palabra: Hno. Cristian Rubilar.
 
-Sábado 25 de Enero. 
-Jornada de oración y ayuno.
-Buscando juntos la dirección de Dios.
-Entregamos el ayuno a las 16:30, juntos
-en la Iglesia.
-Después tendremos reunión de iglesia.
-
-Domingo 26 de Enero. 
+Domingo 02 de Febrero. 
 Culto Dominical 10:30.
-Dirige: Hna. Saura Venegas.
-Palabra: Pr. Carlos Ramirez.
+Dirige: Hna. Elizabet Jara.
+Debocional: Hno. Cristian Vidal
+Palabra: Pr. Claudio Torres.
+Ofrenda: Hno. Francisco Quijada y Hno. Julio Opazo.
+
+Domingo 02 de Febrero. 
+Santa Cena del Señor.
+Preside Pr. Carlos Ramírez.
 
 ---
 
