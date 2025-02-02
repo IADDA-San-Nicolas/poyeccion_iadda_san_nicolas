@@ -189,6 +189,7 @@
 * Hoy He Venido Ante Ti (Adoración - v01)
 * Jesucristo Basta (Adoración - v01)
 * Jesus Eres Mi Buen Pastor (Adoración - v01)
+* La Alegría Está en el Corazón (Adoración - v01)
 * La Bendición (Adoración - v01)
 * La Bondad de Dios (Adoración - v01)
 * La Única Razon (Alabanza v01)
@@ -7679,6 +7680,45 @@ Tú conoces mí camino
 Jesús, puedo confiar en Tí
 Oh mí Dios, me rindo hoy
 Oh mí Dios, me rindo hoy
+
+---
+
+## La Alegría Está en el Corazón
+
+La alegría está en el corazón
+De aquel que conoce a Jesús
+
+La verdadera paz la tiene aquel
+Que ya conoce a Jesús
+
+Un sentimiento tan hermoso
+Que viene del Señor
+
+El amor, es de aquel que 
+ya conoce a Jesús
+
+Me levanto y pongo mi 
+pensar en quien estoy
+Estoy en Cristo
+
+Me levanto y pongo mi 
+pensar en quien estoy
+Estoy en Cristo
+
+Aleluya, Aleluya,
+Soy libre gloria a Dios
+
+Aleluya, Aleluya,
+Soy libre gloria a Dios
+
+Aleluya (aleluya)
+Aleluya (aleluya)
+
+Un sentimiento tan hermoso
+Que viene del Señor
+
+El amor, es de aquel que 
+ya conoce a Jesús
 
 ---
 
