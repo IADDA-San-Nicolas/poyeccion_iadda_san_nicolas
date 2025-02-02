@@ -271,27 +271,22 @@
 
 ## Avisos del mes
 
-Miercoles 29 de Enero.
-Culto en Chillán 19:30.
-Casa: Hna Silvia Ulloa.
-Dirige: Hna. Fernanda Sepulveda.
-Palabra: Pr. Esteban Ruiz.
+Lunes 03 de Febrero.
+Inicio de Campamento en el Rosal.
+“PERMANEZCAN EN MI” Juan 15:4.
+Estemos orando por nuestros Preadolescentes.
 
-Jueves 30 de Enero.
+Jueves 03 de Febrero.
 Culto de Oración 20:00.
-Dirige: Hno. Raúl Carrasco.
-Palabra: Hno. Cristian Rubilar.
+Dirige: Hna. Marcia Fuentes.
+Palabra: Hno. Christian Vidal.
 
-Domingo 02 de Febrero. 
+Domingo 09 de Febrero. 
 Culto Dominical 10:30.
-Dirige: Hna. Elizabet Jara.
-Debocional: Hno. Cristian Vidal
-Palabra: Pr. Claudio Torres.
-Ofrenda: Hno. Francisco Quijada y Hno. Julio Opazo.
-
-Domingo 02 de Febrero. 
-Santa Cena del Señor.
-Preside Pr. Carlos Ramírez.
+Dirige: Hna. María de los Ángeles.
+Debocional: Hna. Nadia Sepúlveda.
+Palabra: Pr. Esteban Ruiz.
+Ofrenda: Hno. Edras Jara y Hna. Norma Ulloa.
 
 ---
 
