@@ -47,6 +47,7 @@
 * De Los Montes (Alabanza - v01)
 * De Tal Manera Me Amo (Adoración - v01)
 * Digno y Santo (Adoración - v01)
+* Dios de Pactos (Adoración - v01)
 * Dios Esta Aquí (Adoración - v01)
 * Dios Ha Sido Bueno (Adoración - v01)
 * Donde está el Espiritú de Dios (Alabanza - v01)
@@ -2581,6 +2582,45 @@ Al que en el trono esta.
 
 La creación hoy canta y damos gloria a Él 
 Tú eres digno por siempre y siempre.
+
+---
+
+## Dios de Pactos (Adoración - v01)
+
+Dios de pactos
+Que guardas tus promesas
+Que cumples tu palabra
+Que guías mi destino
+
+Dios de pactos
+Confío en tus promesas
+Descanso en tu Palabra
+Por tu gracia estoy aquí
+
+En la intimidad
+Al abrigo de tu gloria
+Puedo estar junto a ti
+Al ver tu santidad
+
+Estoy maravillado ante ti
+Y tu amor
+Nunca más seré igual
+Al salir de este Santísimo lugar
+
+Dios de Pactos
+Que guardas tus promesas
+Que cumples tu palabra
+Que guías mi destino
+
+Tengo redención
+Por la sangre que descansa
+En tu altar para mí
+La gracia y el perdón
+
+Son los frutos de vivir
+En comunión y adoración
+Nunca más seré igual
+Al salir de este Santísimo lugar
 
 ---
 
