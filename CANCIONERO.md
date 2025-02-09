@@ -248,8 +248,8 @@
 * Tu Nombre Levantaré (Alabanza - v01)
 * Tu Nombre Oh Dios (Alabanza - v01)
 * Tus Ojos Revelan Que Yo (Adoración - v01)
+* Un Corazón - Yo Veré (Alabanza - v01)
 * Un palacio tengo (Alabanza - v01)
-* Un Corazón - Yo veré (Alabanza - v01)
 * Una Mirada de Fe (Alabanza - v01)
 * Vamos a Alabar a Jehová (Alabanza - v01)
 * Vamos A Cantar (Alabanza - v01)
@@ -273,22 +273,14 @@
 
 ## Avisos del mes
 
-Lunes 03 de Febrero.
-Inicio de Campamento en el Rosal.
-“PERMANEZCAN EN MI” Juan 15:4.
-Estemos orando por nuestros Preadolescentes.
-
-Jueves 03 de Febrero.
+Jueves 13 de Febrero.
 Culto de Oración 20:00.
 Dirige: Hna. Marcia Fuentes.
 Palabra: Hno. Christian Vidal.
 
-Domingo 09 de Febrero. 
-Culto Dominical 10:30.
-Dirige: Hna. María de los Ángeles.
-Debocional: Hna. Nadia Sepúlveda.
-Palabra: Pr. Esteban Ruiz.
-Ofrenda: Hno. Edras Jara y Hna. Norma Ulloa.
+Domingo 16 de Febrero. 
+Paseo de Iglesia y Bautismos.
+En El Rosal, Pinto.
 
 ---
 
