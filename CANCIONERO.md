@@ -249,6 +249,7 @@
 * Tu Nombre Oh Dios (Alabanza - v01)
 * Tus Ojos Revelan Que Yo (Adoración - v01)
 * Un palacio tengo (Alabanza - v01)
+* Un Corazón - Yo veré (Alabanza - v01)
 * Una Mirada de Fe (Alabanza - v01)
 * Vamos a Alabar a Jehová (Alabanza - v01)
 * Vamos A Cantar (Alabanza - v01)
@@ -10267,6 +10268,64 @@ Me llena de tu paz
 
 Que tu mirada puesta en mí
 Me llena de tu paz
+
+---
+
+## Un Corazón - Yo Veré (Alabanza - v01)
+
+Si me encuentro frente al mar
+imposible de cruzar
+
+Yo levanto mi mirada 
+y ahí estás
+
+Si me encuentro en tempestad
+que parece no acabar
+
+Yo levanto mi mirada 
+y ahí estás
+
+Yo veré milagros suceder
+Recordaré que sigues siendo fiel
+
+No es por vista, es por fe
+que tus pasos seguiré
+
+Ya no hay nada que temer,
+yo confiaré, yo confiaré
+
+Yo veré milagros suceder
+Recordaré que sigues siendo fiel
+
+Yo veré milagros suceder
+Recordaré que sigues siendo fiel
+
+El que empezó la buena
+obra la terminará, la terminará
+
+Lo que intentaron en mi contra,
+usas para bien, usas para bien
+
+El que empezó la buena obra
+la terminará, la terminará
+
+Lo que intentaron en mi contra,
+usas para bien, usas para bien
+
+El que empezó la buena obra
+la terminará, la terminará
+
+Lo que intentaron en mi contra,
+usas para bien, usas para bien
+
+Tú usas para bien
+Tú usas para bien
+
+Yo veré milagros suceder
+Recordaré que sigues siendo fiel
+
+Yo veré milagros suceder
+Recordaré que sigues siendo fiel
 
 ---
 
