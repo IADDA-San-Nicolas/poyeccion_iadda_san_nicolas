@@ -274,14 +274,20 @@
 
 ## Avisos del mes
 
-Jueves 13 de Febrero.
+Jueves 27 de Febrero.
 Culto de Oración 20:00.
-Dirige: Hna. Marcia Fuentes.
-Palabra: Hno. Christian Vidal.
+Dirige: Hna. María Graciela.
+Palabra: Hno. Guillermo Luengo.
 
-Domingo 16 de Febrero. 
-Paseo de Iglesia y Bautismos.
-En El Rosal, Pinto.
+Sabado 01 Marzo A las 16:00.
+Jornada de Oración y Ayuno.
+Santa Cena y Reunión de Iglesia.
+
+Domingo 02 de Marzo. 
+Dirige: Hna. Elizabet Jara.
+Palabra: Pr. Carlos Ramírez.
+Data: Hno. Remón Cabrera.
+Ofrenda: Hna. Marcia Fuente y Hna. María Perez.
 
 ---
 
