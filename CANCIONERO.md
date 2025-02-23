@@ -49,6 +49,7 @@
 * Digno y Santo (Adoración - v01)
 * Dios de Pactos (Adoración - v01)
 * Dios Esta Aquí (Adoración - v01)
+* Dios Esta Aquí, Que Precioso Es (Alabanza - v01)
 * Dios Ha Sido Bueno (Adoración - v01)
 * Donde está el Espiritú de Dios (Alabanza - v01)
 * Dulce Comunión (Alabanza - v01)
@@ -2651,6 +2652,25 @@ Porque sólo Él nos sostendrá
 No fijeis los ojos en nadie más
 No adores a nadie, a nadie más
 Porque sólo Él nos sostendrá
+
+---
+
+## Dios Esta Aquí, Que Precioso Es (Alabanza - v01)
+
+Dios está aquí, que Precioso es,
+Él lo prometió donde hay dos o tres
+
+Quédate Señor, Quédate Señor.
+Quédate Señor en cada corazón.
+
+Quédate Señor, Quédate Señor.
+Quédate Señor Aquí.
+
+OH Cristo mío, has de mi Alma un Altar,
+Para adorarte con devoción,
+
+Para beber del Agua de la Vida,
+Y así saciar la sed del corazón
 
 ---
 
