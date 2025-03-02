@@ -282,8 +282,8 @@ Palabra: Pr. Carlos Ramírez.
 
 Jueves 07 de Marzo.
 Culto de Oración 20:00.
-Dirige: Hna. María Graciela.
-Palabra: Hno. Guillermo Luengo.
+Dirige: Hna. María Pérez.
+Palabra: Hno. Christian Vidal.
 
 Viernes 08 de Marzo.
 Reunión de Líderes 19:30.
