@@ -274,20 +274,31 @@
 
 ## Avisos del mes
 
-Jueves 27 de Febrero.
+Miércoles 05 de Marzo.
+Culto de Chillán 19:30.
+Hogar: Jara Ulloa.
+Dirige: Hno. Edra Jara.
+Palabra: Pr. Carlos Ramírez.
+
+Jueves 07 de Marzo.
 Culto de Oración 20:00.
 Dirige: Hna. María Graciela.
 Palabra: Hno. Guillermo Luengo.
 
-Sabado 01 Marzo A las 16:00.
-Jornada de Oración y Ayuno.
-Santa Cena y Reunión de Iglesia.
+Viernes 08 de Marzo.
+Reunión de Líderes 19:30.
+Planificación Primer Semestre.
 
-Domingo 02 de Marzo. 
-Dirige: Hna. Elizabet Jara.
-Palabra: Pr. Carlos Ramírez.
-Data: Hno. Remón Cabrera.
-Ofrenda: Hna. Marcia Fuente y Hna. María Perez.
+Domingo 09 de Marzo 10:30. 
+Dirige: Hna. Sabina Sepulveda.
+Palabra: Pr. Esteban Ruiz.
+Data: Hna. Saura Venegas.
+Ofrenda: Hnos. Francisco Quijada y Julio Opazo. 
+
+Domingo 09 de Marzo 10:00.
+Ministerio de Intercesión.
+Oración en Conjunto.
+En la Casa Pastoral.
 
 ---
 
