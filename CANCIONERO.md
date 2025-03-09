@@ -274,31 +274,33 @@
 
 ## Avisos del mes
 
-Miércoles 05 de Marzo.
+Martes 11 de Marzo.
+Curso Homilética 19:30.
+Pr. Carlos Ramírez.
+
+Miércoles 12 de Marzo.
 Culto de Chillán 19:30.
-Hogar: Jara Ulloa.
-Dirige: Hno. Edra Jara.
-Palabra: Pr. Carlos Ramírez.
+Hogar: Hno. Jose y Hna. Silvia.
+Dirige: Hna. Norma Ulloa.
+Palabra: Pr. Claudio Torres.
 
-Jueves 07 de Marzo.
+Jueves 13 de Marzo.
 Culto de Oración 20:00.
-Dirige: Hna. María Pérez.
-Palabra: Hno. Christian Vidal.
+Dirige: Hna. María Palavecino.
+Palabra: Hno. Guillermo Luengo.
 
-Viernes 08 de Marzo.
-Reunión de Líderes 19:30.
-Planificación Primer Semestre.
+Viernes 14 de Marzo.
+Reunión de Hermanas 17:30.
 
-Domingo 09 de Marzo 10:30. 
-Dirige: Hna. Sabina Sepulveda.
-Palabra: Pr. Esteban Ruiz.
-Data: Hna. Saura Venegas.
-Ofrenda: Hnos. Francisco Quijada y Julio Opazo. 
+Sabado 15 de Marzo. 
+Retiro de Varones en el Rosal, Pinto.
+Viajando desde San Nicolas a las 8:00
 
-Domingo 09 de Marzo 10:00.
-Ministerio de Intercesión.
-Oración en Conjunto.
-En la Casa Pastoral.
+Domingo 16 de Marzo 10:30. 
+Dirige: Hno. Cristian Rubilar
+Palabra: Pr. Claudio Torres.
+Data: Hna. Claudia Galindo.
+Ofrenda: Hnos. Edra Jara y Norma Ulloa. 
 
 ---
 
