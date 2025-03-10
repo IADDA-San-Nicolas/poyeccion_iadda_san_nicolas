@@ -96,6 +96,16 @@ Este resumen recoge cada argumento, reflexión y pregunta clave de nuestra conve
 
 📌 **Conclusión:** Seguir la justicia y la verdad es una decisión que cada persona debe tomar por sí misma.
 
+## 9️⃣ Jesús y la Profecía del Reino Eterno del Mesías
+
+📌 **El Mesías debía reinar eternamente desde su primera venida (Daniel 7:13-14).**
+
+- 🔹 Aunque Jesús no estableció un reino político, millones lo reconocen como Rey desde hace más de 2,000 años.
+- 🔹 Ningún imperio o rey humano ha tenido un reinado continuo comparable al de Jesús (Lucas 1:32-33).
+- 🔹 Su reino espiritual crece constantemente y no tiene fin (Juan 18:36).
+
+📌 **Conclusión:** La duración y expansión del reinado espiritual de Jesús es prueba contundente de que Él es el Mesías profetizado cuyo dominio es eterno y vigente hoy (Apocalipsis 11:15).
+
 ---
 
 ## 📌 Conclusión Final para tu Ministerio
