@@ -274,33 +274,34 @@
 
 ## Avisos del mes
 
-Martes 11 de Marzo.
+Martes 18 de Marzo.
 Curso Homilética 19:30.
 Pr. Carlos Ramírez.
 
-Miércoles 12 de Marzo.
+Miércoles 19 de Marzo.
 Culto de Chillán 19:30.
-Hogar: Hno. Jose y Hna. Silvia.
-Dirige: Hna. Norma Ulloa.
-Palabra: Pr. Claudio Torres.
+Hogar: Hna. Nadia Sepulveda.
+Dirige: Hno. Julio Opazo.
+Palabra: Pr. Esteban Ruiz.
 
-Jueves 13 de Marzo.
+Jueves 20 de Marzo.
 Culto de Oración 20:00.
-Dirige: Hna. María Palavecino.
+Dirige: Hna. Marcia Fuentes.
 Palabra: Hno. Guillermo Luengo.
 
-Viernes 14 de Marzo.
+Viernes 21 de Marzo.
 Reunión de Hermanas 17:30.
 
-Sabado 15 de Marzo. 
-Retiro de Varones en el Rosal, Pinto.
-Viajando desde San Nicolas a las 8:00
+Viernes 21 de Marzo.
+Reunión de Juveniles 17:30.
+Hnos Elizabet y Esteban.
 
-Domingo 16 de Marzo 10:30. 
-Dirige: Hno. Cristian Rubilar
-Palabra: Pr. Claudio Torres.
-Data: Hna. Claudia Galindo.
-Ofrenda: Hnos. Edra Jara y Norma Ulloa. 
+Domingo 23 de Marzo 10:30. 
+Dirige: Hna. Saura Venegas.
+Palabra: Visita.
+Data: Hna. Barbara Opazo.
+Porteria: Hnos. ...
+Ofrenda: Hnas. María Palavecino y Nolfa Pino.
 
 ---
 
