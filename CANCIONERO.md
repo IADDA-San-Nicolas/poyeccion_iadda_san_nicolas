@@ -274,34 +274,45 @@
 
 ## Avisos del mes
 
-Martes 18 de Marzo.
+Martes 25 de Marzo.
 Curso Homilética 19:30.
 Pr. Carlos Ramírez.
 
-Miércoles 19 de Marzo.
-Culto de Chillán 19:30.
-Hogar: Hna. Nadia Sepulveda.
-Dirige: Hno. Julio Opazo.
+Miércoles 26 de Marzo.
+Culto en Chillán 19:30.
+Hogar: Flores Sepúlveda.
+Dirige: Hna. Fernanda Sepúlveda.
 Palabra: Pr. Esteban Ruiz.
 
-Jueves 20 de Marzo.
+Jueves 27 de Marzo.
 Culto de Oración 20:00.
-Dirige: Hna. Marcia Fuentes.
-Palabra: Hno. Guillermo Luengo.
+Dirige: Hno. Raúl Carrasco.
+Palabra: Hno. Cristian Rubilar.
 
-Viernes 21 de Marzo.
+Viernes 28 de Marzo.
 Reunión de Hermanas 17:30.
+Hnas. Saura Venegas y María Palavecino.
 
-Viernes 21 de Marzo.
-Reunión de Juveniles 17:30.
-Hnos Elizabet y Esteban.
+Viernes 28 de Marzo.
+Reunión de Matrimonios 19:30.
+Hnos. María Godoy y Christian Vidal.
 
-Domingo 23 de Marzo 10:30. 
-Dirige: Hna. Saura Venegas.
-Palabra: Visita.
+Sabado 29 de Marzo.
+Mañana de limpieza a las 8:30
+Con Almuerzo, todos juntos.
+Hermanos y Hermanas todos invitados.
+
+Domingo 30 de Marzo 10:30. 
+Dirige: Hna. María Godoy.
+Palabra: Hno. Juan Mujica.
+Devocional: Hna. Fernanda Sepúlveda.
 Data: Hna. Barbara Opazo.
-Porteria: Hnos. ...
-Ofrenda: Hnas. María Palavecino y Nolfa Pino.
+Portería: Hnos. Marcia Fuentes y José Herrera.
+Ofrenda: Hnos. Francisco Quijada y Edra Jara.
+
+Domingo 30 de Marzo 10:30.
+Durante el culto se realizará
+un reconocimiento especial a dos hermanos.
 
 ---
 
