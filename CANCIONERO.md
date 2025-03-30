@@ -34,6 +34,7 @@
 * Con Mis Labios - Mi Pensamiento (Adoración - v01)
 * Con Mis Manos Levantadas (Adoración - v01)
 * Con Todo Mi Corazón (Adoración - v01)
+* Cristo me Dijo que Vendría Otra Vez  (Alabanza - v01)
 * Cristo Puede Mover Montes (Adoración - v01)
 * Cristo Te Exalto (Adoración - v01)
 * Cristo Yo Te Amo (Adoración - v01)
@@ -231,6 +232,7 @@
 * Renuevame (Adoración - v01)
 * Regocijaos (Alabanza - v01)
 * Se Exalta Nuestro Dios Se Exalta (Alabanza - v01)
+* Señor te alabo (Alabanza - v01)
 * Señor Tengo Sed de Ti (Adoración - v01)
 * Socorro (Alabanza - v01)
 * Solo Dios Hace el Hombre Feliz (Alabanza - v01)
@@ -1980,6 +1982,22 @@ Ayúdame Dios
 Y en mi debilidad
 Fuerte seré
 En ti, Señor
+
+---
+
+## Cristo me Dijo que Vendría Otra Vez  (Alabanza - v01)
+
+Cristo me dijo que vendría otra vez
+Que venía otra vez
+Que venía otra vez
+
+Cristo me dijo que vendría otra vez
+Que venía otra vez
+Que venía otra vez
+
+Yo le estaré esperando,
+Yo le estaré esperando,
+Yo le estaré esperando,
 
 ---
 
@@ -9469,6 +9487,22 @@ Grande es el Señor
 Grande es el Señor
 Grande es el Señor
 Grande es el Señor
+
+---
+
+## Señor te alabo (Alabanza - v01)
+
+Señor te alabo, Señor te alabo, 
+Señor te alabo con todo mi ser
+
+Señor te alabo, Señor te alabo, 
+Señor te alabo con todo mi ser
+
+Esclavo fui más tu me libertaste
+Esclavo fui más tu me libertaste
+
+Esclavo fui más tu me libertaste
+Señor te alabo con todo mi ser.
 
 ---
 
