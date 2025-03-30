@@ -280,45 +280,46 @@
 
 ## Avisos del mes
 
-Martes 25 de Marzo.
+Martes 1 de Abril.
 Curso Homilética 19:30.
 Pr. Carlos Ramírez.
 
-Miércoles 26 de Marzo.
+Miércoles 2 de Abril.
 Culto en Chillán 19:30.
-Hogar: Flores Sepúlveda.
-Dirige: Hna. Fernanda Sepúlveda.
-Palabra: Pr. Esteban Ruiz.
+Hogar: Jara Ulloa.
+Dirige: Hno. Edra Jara.
+Palabra: Pr. Claudio Torres.
 
-Jueves 27 de Marzo.
+Jueves 3 de Abril.
 Culto de Oración 20:00.
-Dirige: Hno. Raúl Carrasco.
-Palabra: Hno. Cristian Rubilar.
+Dirige: Hna. Elizabet Jara.
+Palabra: Pr. Claudio Torres.
 
-Viernes 28 de Marzo.
+Viernes 4 de Abril.
 Reunión de Hermanas 17:30.
 Hnas. Saura Venegas y María Palavecino.
 
-Viernes 28 de Marzo.
-Reunión de Matrimonios 19:30.
-Hnos. María Godoy y Christian Vidal.
+Viernes 4 de Abril.
+Reunión de Juveniles 17:30.
+Hnos. Elizabet y Pr Esteban.
 
-Sabado 29 de Marzo.
-Mañana de limpieza a las 8:30
-Con Almuerzo, todos juntos.
-Hermanos y Hermanas todos invitados.
+Viernes 4 de Abril.
+Reunión de Varones 19:30.
+Hnos. Sergio Emilio y Pr. Carlos.
 
-Domingo 30 de Marzo 10:30. 
-Dirige: Hna. María Godoy.
-Palabra: Hno. Juan Mujica.
+Sábado 5 de Abril.
+Jornada de Oración y Ayuno.
+Nos reunimos a las 16:30. 
+Continuamos con Sana Cena y 
+Reunión de Iglesia.
+
+Domingo 6 de Abril 10:30. 
+Dirige: Hna. Sabina Sepúlveda.
+Palabra: Visita.
 Devocional: Hna. Fernanda Sepúlveda.
-Data: Hna. Barbara Opazo.
-Portería: Hnos. Marcia Fuentes y José Herrera.
-Ofrenda: Hnos. Francisco Quijada y Edra Jara.
-
-Domingo 30 de Marzo 10:30.
-Durante el culto se realizará
-un reconocimiento especial a dos hermanos.
+Data: Hna. Claudia Galindo.
+Portería: Hnos. María Angelica y Nino Flores.
+Ofrenda: Hnas. Nolfa Pino y Marcia Fuentes.
 
 ---
 
