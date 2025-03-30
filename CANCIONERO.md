@@ -187,6 +187,7 @@
 * Himno 295 - Jesús Pronto Volverá
 * Himno 296 - Comprado con Sangre por Cristo
 * Himno 297 - Oh, sí, Quiero Verle
+* Himno 308 - En el Monte Calvario
 * Honor y Gloria Honra y Poder (Alabanza - v01)
 * Hoy He Venido Ante Ti (Adoración - v01)
 * Jesucristo Basta (Adoración - v01)
@@ -7590,6 +7591,54 @@ En servir al Salvador por los valles voy,
 Donde muchas sombras hay, más seguro estoy;
 Muchos triunfos obtendré, nunca faltará
 Mi Jesús, es la luz, él me sostendrá.
+
+---
+
+Himno 308 - En el Monte Calvario
+
+En el monte Calvario estaba una cruz
+Emblema de afrenta y dolor;
+
+Mas yo amo esa cruz do murió mi Jesús
+Por salvar al mis vil pecador.
+
+Oh, yo siempre amaré esa cruz:
+En sus triunfos mi gloria será:
+Y algún día, en vez de una cruz,
+Mi corona Jesús me dará.
+
+Y aunque el mundo desprecie la cruz de Jesús
+Para mi tiene suma atracción;
+
+Pues en ella llevó el Cordero de Dios
+De mi alma la condenación.
+
+Oh, yo siempre amaré esa cruz:
+En sus triunfos mi gloria será:
+Y algún día, en vez de una cruz,
+Mi corona Jesús me dará.
+
+En la cruz de Jesús do su sangre vertió
+Hermosura contemplo sin par;
+
+Pues en ella triunfante a la muerte venció
+Y mi ser puede santificar.
+
+Oh, yo siempre amaré esa cruz:
+En sus triunfos mi gloria será:
+Y algún día, en vez de una cruz,
+Mi corona Jesús me dará.
+
+Yo seré siempre fiel a la cruz de Jesús
+Sus desprecios con él llevaré,
+
+Y algún día feliz con los santos en luz
+Para siempre su gloria veré.
+
+Oh, yo siempre amaré esa cruz:
+En sus triunfos mi gloria será:
+Y algún día, en vez de una cruz,
+Mi corona Jesús me dará.
 
 ---
 
