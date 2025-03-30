@@ -90,6 +90,7 @@
 * Hay Cosas Que (Alabanza - v01)
 * Hay Libertad (Alabanza - v01)
 * Hay Momentos que (Adoración - v01)
+* Hay Momentos, Que las Palabras no Me Alcanzan  (Adoración - v01)
 * Hay Poder, Poder (Himnos de gloria y triunfo v01)
 * Hay una unción aquí (Adoración v01)
 * Haz Llover (Adoración - v01)
@@ -202,6 +203,7 @@
 * Los hijos de Sion (Alabanza v01)
 * Majestad (Adoración - v01)
 * Majestuoso, Poderoso (Adoración - v01)
+* Manda fuego, Señor (Alabanza - v01)
 * Mas el Dios (A Él Sea la Gloria) (Alabanza - v01)
 * Mas que Palabras (Adoración - v01)
 * Me Gozaré (Alabanza - v01)
@@ -4514,6 +4516,26 @@ Solo estamos tu y yo
 
 ---
 
+## Hay Momentos, Que las palabras no me alcanzan  (Adoración - v01)
+
+Hay Momentos 
+Que las palabras no me alcanzan
+Para decirte lo que siento
+Por ti mi buen Jesús
+
+Hay momentos
+Que las palabras no me alcanzan
+Para decirte lo que siento
+Por Ti mi buen Jesús
+
+Yo te agradezco por todo lo que has hecho
+Por todo lo que haces y todo lo que harás
+
+Yo te agradezco por todo lo que has hecho
+Por todo lo que haces y todo lo que harás
+
+---
+
 ## Hay Poder, Poder (Himnos de gloria y triunfo - v01)
 
 Quieres ser salvo
@@ -8211,6 +8233,19 @@ Jesucristo es rey, Jesucristo es rey
 Postrados hoy ante sus pies
 
 Jesucristo es rey
+
+---
+
+## Manda fuego, Señor (Alabanza - v01)
+
+Señor únenos,
+Señor únenos,
+Señor únenos,
+Con tu poder.
+
+Manda fuego, Señor
+Manda fuego, Señor
+Y bautízanos con tu poder
 
 ---
 
