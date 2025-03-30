@@ -32,6 +32,7 @@
 * Celebrad (Alabanza - v01)
 * Con Mi Dios Yo Saltaré los Muros (Alabanza - v01)
 * Con Mis Labios - Mi Pensamiento (Adoración - v01)
+* Con Mis Labios y Mi Vida (Alabanza - v01)
 * Con Mis Manos Levantadas (Adoración - v01)
 * Con Todo Mi Corazón (Adoración - v01)
 * Cristo me Dijo que Vendría Otra Vez  (Alabanza - v01)
@@ -1896,6 +1897,24 @@ Seguir sin desmayar, Señor
 
 Postrado ante tu altar, Señor
 Y no mirar atrás
+
+---
+
+## Con Mis Labios y Mi Vida (Alabanza - v01)
+
+Con mis labios y mi vida,
+te alabo Señor, 
+te alabo Señor.
+
+Con mis labios y mi vida,
+Te alabo bendito Señor.
+
+Porque Tú has sido precioso para mí,
+Precioso para mí,
+Precioso para mí.
+
+Porque tú has sido precioso para mi
+Te alabo bendito Señor.
 
 ---
 
