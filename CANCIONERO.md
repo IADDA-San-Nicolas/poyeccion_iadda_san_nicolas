@@ -7654,7 +7654,7 @@ Mi Jesús, es la luz, él me sostendrá.
 
 ---
 
-Himno 308 - En el Monte Calvario
+## Himno 308 - En el Monte Calvario
 
 En el monte Calvario estaba una cruz
 Emblema de afrenta y dolor;
