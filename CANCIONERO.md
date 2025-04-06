@@ -231,6 +231,7 @@
 * Quiero Entregarte Mis Sueños (Adoración - v01)
 * Quiero Levantar a Ti Mis Manos (Adoración - v01)
 * Quiero Levantar Mis Manos (Adoración - v01)
+* Quieto Estaré
 * Recibe Toda la Gloria (Adoración - v01)
 * Renuevame (Adoración - v01)
 * Regocijaos (Alabanza - v01)
@@ -9390,6 +9391,46 @@ Hijo de Dios
 Recibe hoy
 Toda la gloria
 La honra y honor
+
+---
+
+##  Quieto Estaré
+
+Escondeme en Ti Señor
+Cubreme con tus manos de amor
+
+Coro:
+Y aunque se levante y ruja el mar
+Volaré sobre la tempestad
+Padre en la tormenta eres Señor
+quieto estaré sé que eres Dios
+
+Tendré quietud solo en Jesús 
+Y en tranquilidad su poder conoceré
+
+Coro:
+Y aunque se levante y ruja el mar
+Volaré sobre la tempestad
+Padre en la tormenta eres Señor
+quieto estaré sé que eres Dios
+
+Tendré quietud solo en Jesús 
+Y en tranquilidad su poder conoceré
+
+Coro:
+Y aunque se levante y ruja el mar
+Volaré sobre la tempestad
+Padre en la tormenta eres Señor
+quieto estaré sé que eres Dios
+
+Tendré quietud solo en Jesús 
+Y en tranquilidad su poder conoceré
+
+Coro:
+Y aunque se levante y ruja el mar
+Volaré sobre la tempestad
+Padre en la tormenta eres Señor
+quieto estaré sé que eres Dios
 
 ---
 
