@@ -237,6 +237,7 @@
 * Recibe Toda la Gloria (Adoración - v01)
 * Renuevame (Adoración - v01)
 * Regocijaos (Alabanza - v01)
+* Santo por siempre (Adoración - v01)
 * Se Exalta Nuestro Dios Se Exalta (Alabanza - v01)
 * Señor te alabo (Alabanza - v01)
 * Señor Tengo Sed de Ti (Adoración - v01)
@@ -9629,6 +9630,111 @@ Batiendo las manos todos
 Así se alaba a Dios
 
 ---
+
+## Santo por siempre
+
+Mil generaciones
+Se postran adorarle
+Le cantan al cordero
+Que venció
+
+Los que nos precedieron
+Y los que en Él creerán
+Le cantarán a aquel
+Que ya venció
+
+Tu nombre, es más alto
+Tu nombre, es más grande
+Tu nombre, sobre todo es
+
+Sean tronos, dominios
+Poderes, potestades
+Tu nombre, sobre todo es
+
+Claman ángeles
+Santo
+Clama la creación
+Santo
+
+Exaltado Dios
+Santo
+Santo por siempre
+
+Si te ha perdonado
+Y tienes salvación
+Cántale al cordero
+Que venció
+
+Si te ha libertado
+Su nombre ha puesto en ti
+Cántale al cordero
+Que venció
+
+Cantaremos siempre "amén"
+
+Claman ángeles
+Santo
+Clama la creación
+Santo
+
+Exaltado Dios
+Santo
+Santo por siempre
+
+Canta el pueblo al Rey
+Santo
+Soberano es Él
+Santo
+
+Y por siempre es
+Santo
+Santo por siempre
+
+Tu nombre, es más alto
+Tu nombre, es más grande
+Tu nombre, sobre todo es
+
+Sean tronos, dominios
+Poderes, potestades
+Tu nombre, sobre todo es
+
+Tu nombre, es más alto
+Tu nombre, es más grande
+Tu nombre, sobre todo es
+
+Sean tronos, dominios
+Poderes, potestades
+Tu nombre, sobre todo es
+
+Claman ángeles
+Santo
+Clama la creación
+Santo
+
+Exaltado Dios
+Santo
+Santo por siempre
+
+Canta el pueblo al Rey
+Santo
+Soberano es Él
+Santo
+
+Y por siempre es
+Santo
+Santo por siempre
+
+Y por siempre es
+Santo
+Santo por siempre
+
+
+
+
+
+
+
+
 
 ## Se Exalta Nuestro Dios Se Exalta (Alabanza - v01)
 
