@@ -1,4 +1,4 @@
-º# Cancionero
+# Cancionero
 
 ## Índice
 
