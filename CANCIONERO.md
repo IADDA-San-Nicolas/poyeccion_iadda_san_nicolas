@@ -36,6 +36,7 @@
 * Con Mis Manos Levantadas (Adoración - v01)
 * Con Todo Mi Corazón (Adoración - v01)
 * Cristo me Dijo que Vendría Otra Vez  (Alabanza - v01)
+* Cristo no está muerto (Alabanza - v01)
 * Cristo Puede Mover Montes (Adoración - v01)
 * Cristo Te Exalto (Adoración - v01)
 * Cristo Yo Te Amo (Adoración - v01)
@@ -2005,6 +2006,43 @@ Que venía otra vez
 Yo le estaré esperando,
 Yo le estaré esperando,
 Yo le estaré esperando,
+
+---
+
+## Cristo No Está muerto (Alabanza - v01)
+
+¡Cristo no está muerto!
+Está vivo
+¡Mi Cristo no está muerto!
+Él está vivo
+¡Ay, pero que mi Cristo no está muerto!
+Está vivo
+
+Lo siento en mis manos
+En mis pies
+En todo mi ser
+
+¡Cristo no está muerto!
+Está vivo
+¡Cristo no está muerto!
+Él está vivo
+¡Mi Cristo no está muerto!
+Está vivo
+
+Lo siento en mis manos
+En mis pies
+En todo mi ser
+
+¡Cristo no está muerto!
+Está vivo
+¡Cristo no está muerto!
+Él está vivo
+¡Ay, pero que mi Cristo no está muerto!
+Está vivo
+
+Lo siento en mis manos
+En mis pies
+En todo mi ser
 
 ---
 
