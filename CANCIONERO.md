@@ -226,6 +226,7 @@
 * Por el Poder de Tu Amor (Adoración - v01)
 * Por un Momento en Tu Presencia (Adoración - v01)
 * Porque Él Vive (Adoración - v01)
+* Precioso Jesús (Adoración - v01)
 * Que Dulce Es Estar (Adoración - v01)
 * Que Seria de Mí (Adoración - v01)
 * Quién Nos Separará (Alabanza - v01)
@@ -9232,6 +9233,63 @@ Que el futuro es suyo
 
 La vida vale más y más
 Solo por Él
+
+---
+
+## Precioso Jesús 
+
+Al contemplar tu obra en la cruz
+Tanto amor derramado y todo por mí
+
+Con gratitud me quiero acercar
+Sólo tengo mi vida, acéptala
+
+No sé como expresarme ante tu hermosura
+Rodeada de gloria y poder
+
+Necesito decirte lo que siento ahora
+Me acerco a ti, al santo lugar
+
+Precioso Jesús, mi redentor
+Amado Señor, eres todo para mí
+Te adoraré, cada día de mi vida
+No puedo vivir si no estás junto a mí
+
+Al contemplar tu obra en la cruz
+Tanto amor derramado y todo por mí
+
+Con gratitud me quiero acercar
+Sólo tengo mi vida, acéptala
+
+No sé como expresarme ante tu hermosura
+Rodeada de gloria y poder
+
+Necesito decirte lo que siento ahora
+Me acerco a ti, al santo lugar
+
+Precioso Jesús, mi redentor
+Amado Señor, eres todo para mí
+Te adoraré cada día de mi vida
+No puedo vivir si no estás junto a mí
+
+Precioso Jesús, mi rendentor
+Amado Señor, eres todo para mí
+Te adoraré cada día de mi vida
+No puedo vivir si no estás junto a mí, oh
+
+Precioso Jesús
+Amado Señor
+Te adoraré, cada día de mi vida
+No puedo vivir si no estás junto a mí 
+
+Precioso Jesús
+Mi redentor
+Amado Señor
+Eres todo para mí
+
+Te adoraré
+Cada día de mi vida
+No puedo vivir si no estás junto a mí
 
 ---
 
