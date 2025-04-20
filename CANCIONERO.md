@@ -284,30 +284,36 @@
 
 ## Avisos del mes
 
-Martes 8 de Abril.
+Martes 22 de Abril.
 Curso Homilética 19:30.
 Pr. Carlos Ramírez.
 
-Jueves 10 de Abril.
-Culto de Oración 20:00.
-Dirige: Hna. María Palavecino.
-Palabra: Hno. Christian Vidal.
+Miércoles 23 de Abril.
+Culto Chillán 19:30.
+Hogar: Hna. Yasna.
+Dirige: Hno. Jonathan Flores.
+Palabra: Pr. Esteban Ruiz.
 
-Viernes 11 de Abril.
+Jueves 24 de Abril.
+Culto de Oración 19:30.
+Dirige: Hno. Raúl Carrasco.
+Palabra: Hna. Saura Venegas.
+
+Viernes 25 de Abril.
 Reunión de Hermanas 17:30.
 Hnas. Saura Venegas y María Palavecino.
 
-Sábado 12 de Abril.
-Actividad Evangelística.
-Hermanos de Chillán 9:00.
+Sábado 26 de Abril.
+Festiniños Escuela Dominical.
+Multicancha, Población Nueva Milenio.
 
 Domingo 13 de Abril 10:30. 
-Dirige: Pr. Claudio Torres.
-Palabra: Pr. Esteban Ruiz.
-Devocional: Hna. Nadia Sepúlveda.
-Data: Hna. Francisca Ruiz.
-Portería: Hnos. María Angelica y Julio Opazo.
-Ofrenda: Hnos. José Herrera y Edras Jara.
+Dirige: Hno. Cristian Rubilar.
+Palabra: Pr. Carlos Ramirez.
+Data: Hna. Silvana Neira.
+Portería: Hnos. Nadia Sepulveda y Sergio Emilio.
+Ofrenda: Hnas. Norma Ulloa y María Palavecino.
+Actividad Especial: Reconocimiento Trayectoria.
 
 ---
 
