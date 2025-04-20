@@ -307,8 +307,8 @@ Sábado 26 de Abril.
 Festiniños Escuela Dominical.
 Multicancha, Población Nueva Milenio.
 
-Domingo 13 de Abril 10:30. 
-Dirige: Hno. Cristian Rubilar.
+Domingo 27 de Abril 10:30. 
+Dirige: Pr. Claudio Torres.
 Palabra: Pr. Carlos Ramirez.
 Data: Hna. Silvana Neira.
 Portería: Hnos. Nadia Sepulveda y Sergio Emilio.
