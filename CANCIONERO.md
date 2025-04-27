@@ -210,7 +210,7 @@
 * Mas que Palabras (Adoración - v01)
 * Me Gozaré (Alabanza - v01)
 * Me gozare en Tu Presencia Jehová (Alabanza - v01)
-* Medley Alabaré, Alabaré (Alabanza - v01)
+* Medley de Adoración (Adoración - v01)
 * Mi Cristo Mi Rey (Adoración - v01)
 * Mora en Mi Vida (Adoración v01)
 * Muevete en Mi (Adoración - v01)
@@ -284,36 +284,42 @@
 
 ## Avisos del mes
 
-Martes 22 de Abril.
+Martes 29 de Abril.
 Curso Homilética 19:30.
 Pr. Carlos Ramírez.
 
-Miércoles 23 de Abril.
+Miércoles 30 de Abril.
 Culto Chillán 19:30.
 Hogar: Hna. Yasna.
 Dirige: Hno. Jonathan Flores.
 Palabra: Pr. Esteban Ruiz.
 
-Jueves 24 de Abril.
-Culto de Oración 19:30.
-Dirige: Hno. Raúl Carrasco.
-Palabra: Hna. Saura Venegas.
+Jueves 01 de Mayo.
+Se suspende culto de oración.
+Por feriado.
 
-Viernes 25 de Abril.
+Viernes 02 de Abril.
 Reunión de Hermanas 17:30.
 Hnas. Saura Venegas y María Palavecino.
 
-Sábado 26 de Abril.
-Festiniños Escuela Dominical.
-Multicancha, Población Nueva Milenio.
+Viernes 02 de Abril.
+Reunión de Varones 19:30.
+Pr. Carlos Ramírez y Hno. Sergio Emilio Saavedra.
 
-Domingo 27 de Abril 10:30. 
-Dirige: Pr. Claudio Torres.
-Palabra: Pr. Carlos Ramirez.
-Data: Hna. Silvana Neira.
-Portería: Hnos. Nadia Sepulveda y Sergio Emilio.
-Ofrenda: Hnas. Norma Ulloa y María Palavecino.
-Actividad Especial: Reconocimiento Trayectoria.
+Domingo 04 de Abril 07:00 - 19:00
+Cadena de Oración.
+Buscando juntos la guía del Señor.
+
+Domingo 04 de Abril 10:30.
+Santa Cena del Señor.
+Dirige Pastor Esteban Ruiz.
+
+Culto Dominilcal.
+Dirige: Hna Elizabet Jara.
+Palabra: Pr. Claudio Torres.
+Data: Hna. Barbara Opazo.
+Portería: Hnos. Nadia Sepulveda y Saturnino Flores.
+Ofrenda: Hnas. Nolfa Pino y Marcia Fuentes.
 
 ---
 
@@ -8454,52 +8460,46 @@ Saltare y me gozare
 
 ---
 
-## Medley Alabaré, Alabaré (Alabanza - v01)
+## Medley de Adoración (Adoración - v01)
 
-Alabaré, alabaré, alabaré, alabaré,
-Alabaré a mi Señor.
+Ven, es hora de adorarle
+Ven, abre tu corazón a Él
 
-Alabaré, alabaré, alabaré, alabaré,
-Alabaré a mi Señor.
+Ven, ante su trono estamos
+Ven, ante la majestad de Dios, ven
 
-Juan vió el número
-De los redimidos
-Y todos alababan al Señor
+Toda lengua confesará que Él es Dios
+Las rodillas se doblarán
 
-Unos oraban,
-Otros cantaban
-Y todos adoraban al Señor
+Y un tesoro eterno tendrás en Él
+Si escoges su amor
 
-Alabad a Jehová
-Naciones todas
-Pueblos todos alabadle
+¡Él es Rey! ¡Él es Rey! ¡Él es Rey
 
-Porque ha engrandecido
-Sobre vosotros sus misericordias
+Vengo a adorarte, vengo a postrarme
+Vengo a decir que eres mi Dios
 
-Y la verdad de Jehová
-Es para siempre
-Aleluya Amén
+Solo tú eres grande, solo tú eres digno
+Eres asombroso para mí
 
-Y la verdad de Jehová
-Es para siempre
-Aleluya Amén
+Tu fidelidad es grande
+Tu fidelidad incomparable es
 
-Yo quiero cantar,
-cantar, cantar.
+Nadie como tú, bendito Dios
+Grande es tu fidelidad
 
-Yo quiero gritar,
-gritar gritar.
+Y al estar aquí delante de ti, te adoraré
+Postrado ante ti, mi corazón te adora, oh Dios
 
-Yo quiero cantar,
-yo quiero gritar
-Gloria a Dios.
+Y siempre quiero estar para adorar
+Y contemplar tu santidad
 
-Y cuando estemos allá con El
-En su presencia yo cantare
+Te adoro a ti, Señor, te adoro a ti
 
-Yo quiero cantar,
-yo quiero gritar Gloria Dios
+A Él sea la gloria,
+A Él sea el imperio,
+Por los siglos de los siglos. 
+Amén.
 
 ---
 
