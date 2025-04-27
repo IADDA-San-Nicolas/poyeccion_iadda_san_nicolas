@@ -312,7 +312,7 @@ Buscando juntos la guía del Señor.
 
 Domingo 04 de Abril 10:30.
 Santa Cena del Señor.
-Dirige Pastor Esteban Ruiz.
+Dirige Pr. Esteban Ruiz.
 
 Culto Dominilcal.
 Dirige: Hna Elizabet Jara.
