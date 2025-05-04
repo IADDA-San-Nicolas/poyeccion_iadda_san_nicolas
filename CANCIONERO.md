@@ -284,42 +284,46 @@
 
 ## Avisos del mes
 
-Martes 29 de Abril.
+Martes 06 de Mayo.
 Curso Homilética 19:30.
 Pr. Carlos Ramírez.
 
-Miércoles 30 de Abril.
+Miércoles 07 de Mayo.
 Culto Chillán 19:30.
-Hogar: Hna. Yasna.
-Dirige: Hno. Jonathan Flores.
-Palabra: Pr. Esteban Ruiz.
+Hogar: Flores Sepúlveda.
+Dirige: Hno. Edra Jara.
+Palabra: Pr. Claudio Torres.
 
-Jueves 01 de Mayo.
-Se suspende culto de oración.
-Por feriado.
+Jueves 08 de Mayo.
+Culto de Oración 19:30.
+Dirige: Hna. María Pérez.
+Palabra: Hno. Christian Vidal.
 
-Viernes 02 de Abril.
+Viernes 09 de Mayo.
 Reunión de Hermanas 17:30.
 Hnas. Saura Venegas y María Palavecino.
 
-Viernes 02 de Abril.
-Reunión de Varones 19:30.
-Pr. Carlos Ramírez y Hno. Sergio Emilio Saavedra.
+Viernes 09 de Mayo.
+Reunión de Juveniles 17:30.
+Pr. Esteban Ruiz y Elizabet Jara.
 
-Domingo 04 de Abril 07:00 - 19:00
-Cadena de Oración.
-Buscando juntos la guía del Señor.
+Viernes 09 de Mayo.
+2º Encuentro de Matrimonios 19:30.
+Hnos. Cristian Vidal y María de los Ángeles.
+
+Domingo 04 de Abril 10:00.
+Ministerio de intercesión.
+Oración antes del culto.
+Salón en el segundo piso.
 
 Domingo 04 de Abril 10:30.
-Santa Cena del Señor.
-Dirige Pr. Esteban Ruiz.
-
-Culto Dominilcal.
-Dirige: Hna Elizabet Jara.
-Palabra: Pr. Claudio Torres.
-Data: Hna. Barbara Opazo.
-Portería: Hnos. Nadia Sepulveda y Saturnino Flores.
-Ofrenda: Hnas. Nolfa Pino y Marcia Fuentes.
+Culto Dominical.
+Dirige: Hno. Jonathan Flores.
+Palabra: Pr. Esteban Ruiz.
+Devocional: Hno. Raúl Carrasco.
+Data: Hna. Claudia Galindo.
+Portería: Hnos. María Angélica y José Herrera.
+Ofrenda: Hnos. Edras Jara y Norma Ulloa.
 
 ---
 
