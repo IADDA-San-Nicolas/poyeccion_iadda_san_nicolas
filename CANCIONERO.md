@@ -4,6 +4,7 @@
 
 * Avisos mes agosto
 * Motivos de oración agosto
+* Abba Padre (Adoración - v01)
 * A Dios Sea la Gloria (Adoración - v01)
 * A Ti el Alfa y la Omega (Adoración - v01)
 * Abre Mis Ojos (Alabanza - v01)
@@ -217,6 +218,7 @@
 * Nada Es Imposible Barrientos (Alabanza - v01)
 * No Hay Dios Tan Grande Como Tu (Alabanza - v01)
 * No Hay Lugar Mas Alto (Adoración - v01)
+* No Hay Nadie Como Tu (Adoración - v01)
 * No hay problemas que Dios (Adoración - v01)
 * No Sabéis, No Sabéis, Que Somos Templo (Alabanza - v01)
 * Nos Reunimos Aquí (Alabanza - v01)
@@ -331,6 +333,38 @@ Ofrenda: Hnos. Edras Jara y Norma Ulloa.
 
 Motivos de oración.
 En proceso...
+
+---
+
+## Abba Padre (Adoración - v01)
+
+Una vez más me acerco a ti con libertad en adoración
+
+Tu eres mi Dios, Tu Hijo soy, mi comunión contigo es una dulce bendición
+
+Abba Padre, Abba Padre, estar contigo es una dulce bendición
+
+Abba Padre, Te Amo Señor quiero estar en comunión
+Quiero estar contigo
+
+Una vez más me acerco a ti, con libertad en adoración
+
+Tu eres mi Dios, tu hijo soy, mi comunión contigo es una dulce bendición
+
+Abba Padre, Abba Padre, estar contigo es una dulce bendición
+
+Abba Padre, te amo señor quiero estar en comunión
+Quiero estar contigo
+
+Abba Padre, Abba Padre, estar contigo es una dulce bendición
+
+Abba Padre, te amo señor quiero estar en comunión
+Quiero estar contigo
+
+Abba Padre, Abba Padre, estar contigo es una dulce bendición
+
+Abba Padre, te amo señor quiero estar en comunión
+Quiero estar contigo
 
 ---
 
@@ -8844,6 +8878,54 @@ Postrado a tus pies
 
 Y aquí permaneceré
 A los pies de Cristo
+
+---
+
+## No Hay Nadie Como Tu (Adoración - v01)
+
+Precioso Jesús
+Te adoramos Señor
+Porque tu has sido tan bueno
+Porque tu has sido tan fiel
+
+Has puesto un nuevo canto en mi
+Jesús, si Jesús
+
+Eres la razón de nuestras vidas
+Eres la razón de nuestras vidas
+Eres tú
+
+Hoy te adoramos
+Hoy te adoramos, Señor
+Porque no hay nadie como tú
+
+No hay nadie como tu
+Jesús precioso Jesús
+
+Te cantamos
+Amado Dios te adoramos
+
+Porque tu misericordia
+Es mejor que la vida
+
+En este canto te ofrecemos
+Nuestro amor
+
+Para ministrarte
+Y que todo el mundo sepa, que
+
+No hay nadie como tu
+No hay nadie como tu
+Precioso y glorioso
+Tan bello y tan hermoso
+
+No hay nadie como tu
+No hay nadie como tu
+Precioso y glorioso
+Tan bello y tan hermoso
+
+Jesús, Jesús
+Jesús precioso Jesús
 
 ---
 
