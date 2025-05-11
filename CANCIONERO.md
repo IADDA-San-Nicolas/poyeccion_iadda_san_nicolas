@@ -309,7 +309,7 @@ Viernes 16 de Mayo.
 Reunión de Varones 19:30.
 Hno. Sergio Emilio Pr. Carlos Remírez.
 
-Sabado 17 de Mayo.
+Sabado 17 de Mayo 18:00.
 Cena Celebración Día de las Madres.
 Todas Invitadas.
 
@@ -324,7 +324,7 @@ Dirige: Hno. Gabriel Lagos.
 Palabra: Visita.
 Data: Hno. Ramón Cabrera.
 Portería: Hnos. María Perez y Julio Opazo.
-Ofrenda: Hnos. María Palavecino y Julio Opazo.
+Ofrenda: Hnos. Sergio Emilio y Julio Opazo.
 
 ---
 
