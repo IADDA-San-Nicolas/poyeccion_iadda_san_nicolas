@@ -286,46 +286,45 @@
 
 ## Avisos del mes
 
-Martes 06 de Mayo.
+Martes 13 de Mayo.
 Curso Homilética 19:30.
 Pr. Carlos Ramírez.
 
-Miércoles 07 de Mayo.
+Miércoles 14 de Mayo.
 Culto Chillán 19:30.
-Hogar: Flores Sepúlveda.
-Dirige: Hno. Edra Jara.
-Palabra: Pr. Claudio Torres.
+Hogar: Jara Ulloa.
+Dirige: Hna. Norma Ulloa.
+Palabra: Pr. Carlos Ramírez.
 
-Jueves 08 de Mayo.
+Jueves 15 de Mayo.
 Culto de Oración 19:30.
-Dirige: Hna. María Pérez.
-Palabra: Hno. Christian Vidal.
+Dirige: Hna. Marcia Fuentes.
+Palabra: Hna. Patricia Venegas.
 
-Viernes 09 de Mayo.
+Viernes 16 de Mayo.
 Reunión de Hermanas 17:30.
 Hnas. Saura Venegas y María Palavecino.
 
-Viernes 09 de Mayo.
-Reunión de Juveniles 17:30.
-Pr. Esteban Ruiz y Elizabet Jara.
+Viernes 16 de Mayo.
+Reunión de Varones 19:30.
+Hno. Sergio Emilio Pr. Carlos Remírez.
 
-Viernes 09 de Mayo.
-2º Encuentro de Matrimonios 19:30.
-Hnos. Cristian Vidal y María de los Ángeles.
+Sabado 17 de Mayo.
+Cena Celebración Día de las Madres.
+Todas Invitadas.
 
-Domingo 04 de Abril 10:00.
+Domingo 18 de Mayo 10:00.
 Ministerio de intercesión.
 Oración antes del culto.
 Salón en el segundo piso.
 
-Domingo 04 de Abril 10:30.
-Culto Dominical.
-Dirige: Hno. Jonathan Flores.
-Palabra: Pr. Esteban Ruiz.
-Devocional: Hno. Raúl Carrasco.
-Data: Hna. Claudia Galindo.
-Portería: Hnos. María Angélica y José Herrera.
-Ofrenda: Hnos. Edras Jara y Norma Ulloa.
+Domingo 18 de Mayo 10:30.
+Culto Especial Día de las Madres.
+Dirige: Hno. Gabriel Lagos.
+Palabra: Visita.
+Data: Hno. Ramón Cabrera.
+Portería: Hnos. María Perez y Julio Opazo.
+Ofrenda: Hnos. María Palavecino y Julio Opazo.
 
 ---
 
