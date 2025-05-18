@@ -286,45 +286,36 @@
 
 ## Avisos del mes
 
-Martes 13 de Mayo.
+Martes 20 de Mayo.
 Curso Homilética 19:30.
 Pr. Carlos Ramírez.
 
-Miércoles 14 de Mayo.
-Culto Chillán 19:30.
-Hogar: Jara Ulloa.
-Dirige: Hna. Norma Ulloa.
-Palabra: Pr. Carlos Ramírez.
-
-Jueves 15 de Mayo.
+Jueves 22 de Mayo.
 Culto de Oración 19:30.
-Dirige: Hna. Marcia Fuentes.
-Palabra: Hna. Patricia Venegas.
+Dirige: Hna. María Palavecino.
+Palabra: Hna. Saura Venegas.
 
-Viernes 16 de Mayo.
+Viernes 23 de Mayo.
 Reunión de Hermanas 17:30.
 Hnas. Saura Venegas y María Palavecino.
 
-Viernes 16 de Mayo.
-Reunión de Varones 19:30.
-Hno. Sergio Emilio Pr. Carlos Remírez.
+Viernes 23 de Mayo.
+Reunión de Juveniles.
+Pr. Esteban Ruiz. Hna. Elizabet Jara.
 
-Sabado 17 de Mayo 18:00.
-Cena Celebración Día de las Madres.
-Todas Invitadas.
-
-Domingo 18 de Mayo 10:00.
-Ministerio de intercesión.
+Domingo 25 de Mayo 10:00.
+Ministerio de Intercesión.
 Oración antes del culto.
 Salón en el segundo piso.
 
-Domingo 18 de Mayo 10:30.
-Culto Especial Día de las Madres.
-Dirige: Hno. Gabriel Lagos.
-Palabra: Visita.
-Data: Hno. Ramón Cabrera.
-Portería: Hnos. María Perez y Julio Opazo.
-Ofrenda: Hnos. Sergio Emilio y Julio Opazo.
+Domingo 25 de Mayo 10:30.
+Culto Especial.
+Licenciatura Escuela Dominical.
+Dirige: Hna. María de los Ángeles.
+Palabra: Pr. Carlos Ramirez.
+Data: Hna. Saura Venegas.
+Portería: Hnos. Marcia Fuentes y Sergio Emilio.
+Ofrenda: Hnos. Francisco Quijada y José Herrera.
 
 ---
 
