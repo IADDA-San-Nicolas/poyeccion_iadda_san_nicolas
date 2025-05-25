@@ -286,36 +286,54 @@
 
 ## Avisos del mes
 
-Martes 20 de Mayo.
+Martes 27 de Mayo.
 Curso Homilética 19:30.
 Pr. Carlos Ramírez.
 
-Jueves 22 de Mayo.
-Culto de Oración 19:30.
-Dirige: Hna. María Palavecino.
-Palabra: Hna. Saura Venegas.
+Miércoles 28 de Mayo.
+Culto Chillán 19:30.
+Hogar: Hna. Nadia Sepúlveda.
+Dirige: Hna. Fernanda Sepúlveda.
+Palabra: Pr. Esteban Ruiz.
 
-Viernes 23 de Mayo.
+Jueves 29 de Mayo.
+Culto de Oración 19:30.
+Dirige: Hno. Francisco Quijada.
+Palabra: Hno. Guillermo Luengo.
+
+Viernes 30 de Mayo.
 Reunión de Hermanas 17:30.
 Hnas. Saura Venegas y María Palavecino.
 
-Viernes 23 de Mayo.
-Reunión de Juveniles.
-Pr. Esteban Ruiz. Hna. Elizabet Jara.
+Viernes 30 de Mayo.
+Reunión de Varones 19:30.
+Hno. Sergio Emilio. Pr. Carlos Ramírez.
 
-Domingo 25 de Mayo 10:00.
+Sábado 31 de Mayo.
+Llamado a limpieza General Iglesia.
+Mañana Desde las 8:30
+
+Sábado 31 de Mayo.
+Almuerzo Veneficio Juveniles.
+Retirar desde la 12:30.
+Encargue su almuerzo.
+
+Domingo 1 de Junio 10:00.
 Ministerio de Intercesión.
 Oración antes del culto.
 Salón en el segundo piso.
 
-Domingo 25 de Mayo 10:30.
-Culto Especial.
-Licenciatura Escuela Dominical.
-Dirige: Hna. María de los Ángeles.
-Palabra: Pr. Carlos Ramirez.
-Data: Hna. Saura Venegas.
+Domingo 1 de Junio 10:30.
+Santa Cena del Señor.
+Preside: Pr Claudio Torres.
+
+Domingo 1 de Junio.
+Culto Dominical.
+Dirige: Hna. Elizabet Jara.
+Devocional: Hno. Guillermo Luengo.
+Palabra: Hno. Juan Mujica.
 Portería: Hnos. Marcia Fuentes y Sergio Emilio.
-Ofrenda: Hnos. Francisco Quijada y José Herrera.
+Ofrenda: Hnos. Marcia Fuentes y Julio Opazo.
 
 ---
 
