@@ -286,54 +286,46 @@
 
 ## Avisos del mes
 
-Martes 27 de Mayo.
+Martes 3 de Junio.
 Curso Homilética 19:30.
 Pr. Carlos Ramírez.
 
-Miércoles 28 de Mayo.
+Miércoles 4 de Junio.
 Culto Chillán 19:30.
-Hogar: Hna. Nadia Sepúlveda.
-Dirige: Hna. Fernanda Sepúlveda.
-Palabra: Pr. Esteban Ruiz.
+Hogar: Familia Flores Sepúlveda.
+Dirige: Hna. Julio Opazo.
+Palabra: Pr. Claudio Torres.
 
-Jueves 29 de Mayo.
+Jueves 5 de Junio.
 Culto de Oración 19:30.
 Dirige: Hno. Francisco Quijada.
-Palabra: Hno. Guillermo Luengo.
+Palabra: Hna. María de los Ángeles.
 
-Viernes 30 de Mayo.
+Viernes 6 de Junio.
 Reunión de Hermanas 17:30.
 Hnas. Saura Venegas y María Palavecino.
 
-Viernes 30 de Mayo.
-Reunión de Varones 19:30.
-Hno. Sergio Emilio. Pr. Carlos Ramírez.
+Sábado 7 de Junio.
+Retiro Juveniles Chillán.
+Salida del templo 9:00.
 
-Sábado 31 de Mayo.
-Llamado a limpieza General Iglesia.
-Mañana Desde las 8:30
+Sábado 7 de Junio. 16:30.
+Jornada de Oración y Ayuno.
+Buscando juntos la dirección del Señor.
 
-Sábado 31 de Mayo.
-Almuerzo Veneficio Juveniles.
-Retirar desde la 12:30.
-Encargue su almuerzo.
-
-Domingo 1 de Junio 10:00.
+Domingo 8 de Junio 10:00.
 Ministerio de Intercesión.
 Oración antes del culto.
 Salón en el segundo piso.
 
-Domingo 1 de Junio 10:30.
-Santa Cena del Señor.
-Preside: Pr Claudio Torres.
-
-Domingo 1 de Junio.
-Culto Dominical.
-Dirige: Hna. Elizabet Jara.
-Devocional: Hno. Guillermo Luengo.
-Palabra: Hno. Juan Mujica.
-Portería: Hnos. Marcia Fuentes y Sergio Emilio.
-Ofrenda: Hnos. Marcia Fuentes y Julio Opazo.
+Domingo 8 de Junio.
+Culto Especial de Pentecostés.
+Dirige: Hna. Sabina Sepúlveda.
+Devocional: Hno. Raúl Carrasco.
+Palabra: Visita.
+Proyección: Hna. Claudia Galindo.
+Portería: Hnos. María Perez y Saturnino Flores.
+Ofrenda: Hnos. Francisco Quijada y Julio Opazo.
 
 ---
 
