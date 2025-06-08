@@ -316,7 +316,7 @@ Oración antes del culto.
 Salón en el segundo piso.
 
 Domingo 15 de Junio.
-Culto Dominical.
+Culto Dominical 10:30.
 Dirige: Hna. Saura Venegas.
 Devocional: Hno. Guillermo Luengo.
 Palabra: Pr. Carlos Ramírez.
