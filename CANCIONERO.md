@@ -290,42 +290,39 @@ Martes 3 de Junio.
 Curso Homilética 19:30.
 Pr. Carlos Ramírez.
 
-Miércoles 4 de Junio.
+Miércoles 11 de Junio.
 Culto Chillán 19:30.
-Hogar: Familia Flores Sepúlveda.
-Dirige: Hna. Julio Opazo.
-Palabra: Pr. Claudio Torres.
+Hogar: Hnos. José y Silvia.
+Dirige: Hna. Norma Ulloa.
+Palabra: Hna. Nadia Sepúlveda.
 
-Jueves 5 de Junio.
+Jueves 12 de Junio.
 Culto de Oración 19:30.
-Dirige: Hno. Francisco Quijada.
-Palabra: Hna. María de los Ángeles.
+Dirige: Hna. María Palaveceino.
+Palabra: Hna. Patricia Venegas.
 
-Viernes 6 de Junio.
+Viernes 13 de Junio.
 Reunión de Hermanas 17:30.
 Hnas. Saura Venegas y María Palavecino.
 
-Sábado 7 de Junio.
-Retiro Juveniles Chillán.
-Salida del templo 9:00.
+Viernes 13 de Junio.
+Encuentro de Matrimonios 19:30.
+Poniendo el Pasado en Perspectiva.
+Hnos. Christian Vidal y María de los Ágeles.
 
-Sábado 7 de Junio. 16:30.
-Jornada de Oración y Ayuno.
-Buscando juntos la dirección del Señor.
-
-Domingo 8 de Junio 10:00.
+Domingo 15 de Junio 10:00.
 Ministerio de Intercesión.
 Oración antes del culto.
 Salón en el segundo piso.
 
-Domingo 8 de Junio.
-Culto Especial de Pentecostés.
-Dirige: Hna. Sabina Sepúlveda.
-Devocional: Hno. Raúl Carrasco.
-Palabra: Visita.
-Proyección: Hna. Claudia Galindo.
-Portería: Hnos. María Perez y Saturnino Flores.
-Ofrenda: Hnos. Francisco Quijada y Julio Opazo.
+Domingo 15 de Junio.
+Culto Dominical.
+Dirige: Hna. Saura Venegas.
+Devocional: Hno. Guillermo Luengo.
+Palabra: Pr. Carlos Ramírez.
+Proyección: Hno. Felipe Rivas.
+Portería: Hnos. Marcia Fuentes y Sergio Emilio.
+Ofrenda: Hnos. José Herrera y Edra Jara.
 
 ---
 
