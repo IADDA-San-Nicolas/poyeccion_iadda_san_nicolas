@@ -286,43 +286,43 @@
 
 ## Avisos del mes
 
-Martes 3 de Junio.
-Curso Homilética 19:30.
-Pr. Carlos Ramírez.
-
-Miércoles 11 de Junio.
+Miércoles 18 de Junio.
 Culto Chillán 19:30.
-Hogar: Hnos. José y Silvia.
-Dirige: Hna. Norma Ulloa.
-Palabra: Hna. Nadia Sepúlveda.
+Hogar: Hna. Yasna Lara.
+Dirige: Hno. Edra Jara.
+Palabra: Pr. Carlos Ramírez.
 
-Jueves 12 de Junio.
+Jueves 19 de Junio.
+Reunión de Juveniles 17:30.
+Prepartivos antes del campamento
+de Invierno El Rosal.
+
+Jueves 19 de Junio.
 Culto de Oración 19:30.
-Dirige: Hna. María Palaveceino.
-Palabra: Hna. Patricia Venegas.
+Dirige: Hno. Francisco Quijada.
+Palabra: Pr. Esteban Ruiz.
 
-Viernes 13 de Junio.
+Viernes 20 de Junio.
 Reunión de Hermanas 17:30.
 Hnas. Saura Venegas y María Palavecino.
 
-Viernes 13 de Junio.
-Encuentro de Matrimonios 19:30.
-Poniendo el Pasado en Perspectiva.
-Hnos. Christian Vidal y María de los Ágeles.
+Sábado 21 de Junio.
+Cena Especial día del Padre.
+Hora 19:30.
 
-Domingo 15 de Junio 10:00.
+Domingo 22 de Junio 10:00.
 Ministerio de Intercesión.
 Oración antes del culto.
 Salón en el segundo piso.
 
-Domingo 15 de Junio.
-Culto Dominical 10:30.
-Dirige: Hna. Saura Venegas.
-Devocional: Hno. Guillermo Luengo.
-Palabra: Pr. Carlos Ramírez.
-Proyección: Hno. Felipe Rivas.
-Portería: Hnos. Marcia Fuentes y Sergio Emilio.
-Ofrenda: Hnos. José Herrera y Edra Jara.
+Domingo 22 de Junio.
+Culto Especial 10:30.
+Celebración día del Padre.
+Dirige: Hna. María de los Ángeles.
+Palabra: Visita.
+Proyección: Hno. Ramón Cabrera.
+Portería: Hnos. Nadia Sepúlveda y Julio Opazo.
+Ofrenda: Hnas. Norma Ulloa y María Palavecinos.
 
 ---
 
