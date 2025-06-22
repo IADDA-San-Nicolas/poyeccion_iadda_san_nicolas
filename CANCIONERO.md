@@ -286,43 +286,39 @@
 
 ## Avisos del mes
 
-Miércoles 18 de Junio.
-Culto Chillán 19:30.
-Hogar: Hna. Yasna Lara.
-Dirige: Hno. Edra Jara.
-Palabra: Pr. Carlos Ramírez.
-
-Jueves 19 de Junio.
-Reunión de Juveniles 17:30.
-Prepartivos antes del campamento
-de Invierno El Rosal.
-
-Jueves 19 de Junio.
+Jueves 26 de Junio.
 Culto de Oración 19:30.
-Dirige: Hno. Francisco Quijada.
+Dirige: Hna. Marcia Fuentes.
 Palabra: Pr. Esteban Ruiz.
 
-Viernes 20 de Junio.
+Viernes 27 de Junio.
+Grupo de Juveniles.
+Inicia Campamento Inveierno El Rosal.
+Partimos del templo a las 15:30.
+Viernes a Domingo.
+
+Viernes 27 de Junio.
 Reunión de Hermanas 17:30.
 Hnas. Saura Venegas y María Palavecino.
 
-Sábado 21 de Junio.
-Cena Especial día del Padre.
-Hora 19:30.
+Viernes 27 de Junio.
+Actividad Especial.
+Hermanos de Chillán.
+Media Vigilia San Ingancio 20:00.
 
-Domingo 22 de Junio 10:00.
+Domingo 29 de Junio 10:00.
 Ministerio de Intercesión.
 Oración antes del culto.
 Salón en el segundo piso.
 
-Domingo 22 de Junio.
-Culto Especial 10:30.
-Celebración día del Padre.
-Dirige: Hna. María de los Ángeles.
-Palabra: Visita.
-Proyección: Hno. Ramón Cabrera.
-Portería: Hnos. Nadia Sepúlveda y Julio Opazo.
-Ofrenda: Hnas. Norma Ulloa y María Palavecinos.
+Domingo 29 de Junio.
+Culto Dominical 10:30.
+Dirige: Hno. Gabriel Lagos.
+Palabra: Pr. Claudio Torres.
+Proyección: Hna. Saura Venegas.
+Portería: Hnos. María Perez y José Herrera.
+Ofrenda: Hnas. Felipe Rivas y Ramón Cabrera.
+Reconocimineto Especial Trayectoria.
 
 ---
 
