@@ -13,6 +13,7 @@
 * Al Estar Ante Ti (Adoración - v01)
 * Al que Es Digno (Alabanza - v01)
 * Al que Está Sentado en el Trono (Adoración - v01)
+* Al que me ciñe (Alabanza - v01)
 * Al Único que Es Digno (Adoración - v01)
 * Alaba a Dios (Alabanza - v01)
 * Alabaré, alabaré (Alabanza - v01)
@@ -906,6 +907,49 @@ Santo
 Santo
 
 Santo eres Tú
+
+---
+
+## Al que me ciñe  (Alabanza - v01)
+
+Al que me ciñe de poder
+Aquel que mi victoria es
+Solo a Él alabaré, solo a Él exaltaré
+
+Al que me ciñe de poder
+Aquel que mi victoria es
+Solo a Él alabaré, solo a Él exaltaré
+
+De ti será mi alabanza
+En la congregación cantaré y alabaré
+Tu nombre, Señor
+
+De ti será mi alabanza
+En la congregación cantaré y alabaré
+Tu nombre, Señor
+
+Al que me ciñe de poder
+Aquel que mi victoria es
+Solo a Él alabaré, solo a Él exaltaré
+
+Al que me ciñe de poder
+Aquel que mi victoria es
+Solo a Él alabaré, solo a Él exaltaré
+
+De ti será mi alabanza
+En la congregación cantaré y alabaré
+Tu nombre, Señor
+
+De ti será mi alabanza
+En la congregación cantaré y alabaré
+Tu nombre, Señor
+
+De ti seré mi alabanza
+En la congregación cantaré y alabaré
+
+Tu nombre, Señor
+Tu nombre, Señor
+Tu nombre, Señor
 
 ---
 
