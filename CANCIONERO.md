@@ -287,39 +287,40 @@
 
 ## Avisos del mes
 
-Jueves 26 de Junio.
+Miércoles 02 de Julio.
+Culto en Chillán 19:30.
+
+Jueves 03 de Julio.
 Culto de Oración 19:30.
-Dirige: Hna. Marcia Fuentes.
-Palabra: Pr. Esteban Ruiz.
+Dirige: Hno. Francisco Quijada.
+Palabra: Pr. Carlos Ramírez.
 
-Viernes 27 de Junio.
-Grupo de Juveniles.
-Inicia Campamento Inveierno El Rosal.
-Partimos del templo a las 15:30.
-Viernes a Domingo.
-
-Viernes 27 de Junio.
+Viernes 04 de Julio.
 Reunión de Hermanas 17:30.
 Hnas. Saura Venegas y María Palavecino.
 
-Viernes 27 de Junio.
-Actividad Especial.
-Hermanos de Chillán.
-Media Vigilia San Ingancio 20:00.
+Sábado 05 de Julio. 18:00.
+Reunión de Lideres.
+Planificación Segundo Semestre.
 
-Domingo 29 de Junio 10:00.
+Domingo  06 de Julio. 07:00.
+Cadena de Oración.
+Buscando Juntos la Dirección de Dios.
+
+Domingo  06 de Julio. 10:00.
 Ministerio de Intercesión.
 Oración antes del culto.
 Salón en el segundo piso.
 
-Domingo 29 de Junio.
-Culto Dominical 10:30.
-Dirige: Hno. Gabriel Lagos.
-Palabra: Pr. Claudio Torres.
-Proyección: Hna. Saura Venegas.
-Portería: Hnos. María Perez y José Herrera.
-Ofrenda: Hnas. Felipe Rivas y Ramón Cabrera.
-Reconocimineto Especial Trayectoria.
+Domingo  06 de Julio. 10:30.
+Santa Cena del Señor.
+Preside Pr. Claudio Torres.
+
+Culto Dominical.
+Dirige: Hna. Elizabet Jara.
+Palabra: Pr. Esteban Ruiz.
+Portería: Hnos. Nadia Sepúlveda y Saturnino Flores.
+Ofrenda: Hnas. Nolfa Pino y Marcia Fuentes.
 
 ---
 
