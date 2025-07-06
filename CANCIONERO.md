@@ -285,42 +285,40 @@
 
 ---
 
-## Avisos del mes
+## Avisos de la Semana.
 
-Miércoles 02 de Julio.
+Miércoles 09 de Julio.
 Culto en Chillán 19:30.
+Hogar: Familia Jara Ulloa.
+Dirige: Edra Jara.
+Palabra: Pr. Claudio Torres.
 
-Jueves 03 de Julio.
+Jueves 10 de Julio.
 Culto de Oración 19:30.
-Dirige: Hno. Francisco Quijada.
-Palabra: Pr. Carlos Ramírez.
+Dirige: Hna. María Perez.
+Palabra: Hna. Saura Venegas.
 
-Viernes 04 de Julio.
+Viernes 11 de Julio.
 Reunión de Hermanas 17:30.
 Hnas. Saura Venegas y María Palavecino.
 
-Sábado 05 de Julio. 18:00.
-Reunión de Lideres.
-Planificación Segundo Semestre.
+Viernes 11 de Julio.
+Reunión de Juveniles 17:30.
+Hnas. Pr. Esteban, Hna Eli y Hna. Bety.
 
-Domingo  06 de Julio. 07:00.
-Cadena de Oración.
-Buscando Juntos la Dirección de Dios.
-
-Domingo  06 de Julio. 10:00.
+Domingo  13 de Julio. 10:00.
 Ministerio de Intercesión.
 Oración antes del culto.
 Salón en el segundo piso.
 
-Domingo  06 de Julio. 10:30.
-Santa Cena del Señor.
-Preside Pr. Claudio Torres.
-
-Culto Dominical.
-Dirige: Hna. Elizabet Jara.
-Palabra: Pr. Esteban Ruiz.
-Portería: Hnos. Nadia Sepúlveda y Saturnino Flores.
-Ofrenda: Hnas. Nolfa Pino y Marcia Fuentes.
+Domingo  13 de Julio. 
+Culto Dominical 10:30.
+Dirige: Hna. Sabina Sepúlveda.
+Palabra: Hno. Juan Mujica.
+Proyección: Hno. Ramón Cabrera.
+Devocional: Hno. Raúl Carrasco.
+Portería: Hnos. Julio Opazo y María Angélica.
+Ofrenda: Hnos. Sergio Sepúlveda y Sandra Fuentes.
 
 ---
 
