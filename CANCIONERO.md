@@ -51,6 +51,7 @@
 * De Gloria en Gloria Te Veo (Adoración - v01)
 * De Los Montes (Alabanza - v01)
 * De Tal Manera Me Amo (Adoración - v01)
+* Digno es el Cordero de Recibir  (Adoración - v01)
 * Digno y Santo (Adoración - v01)
 * Dios de Pactos (Adoración - v01)
 * Dios Esta Aquí (Adoración - v01)
@@ -2703,6 +2704,63 @@ Le seguiré
 Le seguiré
 Señor, yo Te seguiré
 Con mi alma, mente y corazón
+
+---
+
+## Digno es el Cordero de Recibir (Adoración - v01)
+
+Digno es el Cordero de recibir
+La Gloria, fuerza y honra,
+Todo el Poder
+
+Digno es el Cordero de recibir
+La Gloria, fuerza y honra,
+Todo el Poder
+
+Ángeles y querubines
+Delante del trono
+
+Y una nube de gloria
+Y una nube de gloria
+
+Digno es el Cordero de recibir
+La Gloria, fuerza y honra,
+Todo el Poder
+
+Ángeles y querubines
+Delante del trono
+
+Y una nube de gloria
+Y una nube de gloria
+
+Ángeles y querubines
+Delante del trono
+
+Y una nube de gloria
+Y una nube de gloria
+
+Eres Santo
+Eres Santo
+Eres Santo
+
+Aquel que venció la muerte
+Aquel que resucito
+
+Aquel que es el Señor
+El león de la tribu de Judá
+Raíz de David
+
+Estrella de la mañana
+El jinete del caballo blanco
+Sus ojos como llama de fuego
+
+Y en su boca una espada afilada
+Y esta vestido, con un manto de sangre
+
+Y en su muslo esta escrito
+
+Rey de reyes, señor de Señores
+Rey de reyes, señor de Señores
 
 ---
 
