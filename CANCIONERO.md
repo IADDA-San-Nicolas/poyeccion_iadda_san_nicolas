@@ -288,38 +288,26 @@
 
 ## Avisos de la Semana.
 
-Miércoles 09 de Julio.
+Miércoles 23 de Julio.
 Culto en Chillán 19:30.
-Hogar: Familia Jara Ulloa.
-Dirige: Edra Jara.
-Palabra: Pr. Claudio Torres.
 
-Jueves 10 de Julio.
+Jueves 24 de Julio.
 Culto de Oración 19:30.
-Dirige: Hna. María Perez.
-Palabra: Hna. Saura Venegas.
+Dirige: Hna. Elizabet Jara.
+Palabra: Hno. Cristian Rubilar.
 
-Viernes 11 de Julio.
+Viernes 25 de Julio.
 Reunión de Hermanas 17:30.
 Hnas. Saura Venegas y María Palavecino.
 
-Viernes 11 de Julio.
-Reunión de Juveniles 17:30.
-Hnas. Pr. Esteban, Hna Eli y Hna. Bety.
-
-Domingo  13 de Julio. 10:00.
-Ministerio de Intercesión.
-Oración antes del culto.
-Salón en el segundo piso.
-
-Domingo  13 de Julio. 
+Domingo  27 de Julio. 
 Culto Dominical 10:30.
-Dirige: Hna. Sabina Sepúlveda.
-Palabra: Hno. Juan Mujica.
-Proyección: Hno. Ramón Cabrera.
-Devocional: Hno. Raúl Carrasco.
-Portería: Hnos. Julio Opazo y María Angélica.
-Ofrenda: Hnos. Sergio Sepúlveda y Sandra Fuentes.
+Dirige: Hna. María de los Ángeles.
+Palabra: Visita.
+Proyección: Hna. Claudia Galindo.
+Portería: Hnos. José Herrera y Marcia Fuentes.
+Ofrenda: Hnos. Francisco Quijada y José Herrera.
+Reconocimiento Especial.
 
 ---
 
