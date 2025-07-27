@@ -288,26 +288,27 @@
 
 ## Avisos de la Semana.
 
-Miércoles 23 de Julio.
+Miércoles 30 de Julio.
 Culto en Chillán 19:30.
 
-Jueves 24 de Julio.
+Jueves 31 de Julio.
 Culto de Oración 19:30.
-Dirige: Hna. Elizabet Jara.
-Palabra: Hno. Cristian Rubilar.
-
-Viernes 25 de Julio.
+Dirige: Hna. Patricia Venegas.
+Palabra: Hno. Guillermo Luengo.
+ 
+Viernes 01 de Agosto.
 Reunión de Hermanas 17:30.
 Hnas. Saura Venegas y María Palavecino.
 
-Domingo  27 de Julio. 
-Culto Dominical 10:30.
-Dirige: Hna. María de los Ángeles.
-Palabra: Visita.
-Proyección: Hna. Claudia Galindo.
-Portería: Hnos. José Herrera y Marcia Fuentes.
-Ofrenda: Hnos. Francisco Quijada y José Herrera.
-Reconocimiento Especial.
+Domingo  03 de Agosto.
+Santa Cena del Señor 10:30.
+Preside: Pr. Claudio Torres.
+
+Domingo  03 de Agosto.
+Culto Dominical.
+Dirige: Hna. Saura Venegas.
+Palabra: Pr. Carlos Ramirez.
+Ofrenda: Hnas. Sandra Fuentes y Marcia Fuentes.
 
 ---
 
