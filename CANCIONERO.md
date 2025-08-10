@@ -288,27 +288,36 @@
 
 ## Avisos de la Semana.
 
-Miércoles 30 de Julio.
+Miércoles 13 de Agosto.
 Culto en Chillán 19:30.
+Hogar Hna. Nadia Sepulveda.
+Dirige: Hno. Edra Jara.
+Palabra: Hno. Jonathan Flores.
 
-Jueves 31 de Julio.
+Jueves 14 de Agosto.
 Culto de Oración 19:30.
-Dirige: Hna. Patricia Venegas.
-Palabra: Hno. Guillermo Luengo.
+Dirige: Hno. Francisco Quijada.
+Palabra: Hna. Patricia Venegas.
  
-Viernes 01 de Agosto.
-Reunión de Hermanas 17:30.
-Hnas. Saura Venegas y María Palavecino.
+Viernes 15 de Agosto.
+Retiro familiar en el Refugio, Pinto.
+El Bus estará partiendo a las 8:00.
 
-Domingo  03 de Agosto.
-Santa Cena del Señor 10:30.
-Preside: Pr. Claudio Torres.
+Sabado 16 de Agosto.
+Retiro de hermanas en San Carlos.
+Estaran avisando hora de partida.
 
-Domingo  03 de Agosto.
-Culto Dominical.
-Dirige: Hna. Saura Venegas.
-Palabra: Pr. Carlos Ramirez.
-Ofrenda: Hnas. Sandra Fuentes y Marcia Fuentes.
+Domingo 17 de Agosto.
+Grupo de Intercesión 10:00.
+Segundo Piso salón.
+
+Domingo  17 de Agosto.
+Culto Dominical 10:30.
+Dirige: Hna. Sabina Sepúlveda.
+Devocional: Guillermo Luengo.
+Palabra: Visita.
+Proyecciones: Hno. Ramón Cabrera.
+Ofrenda: Hnos. José Herrera y Edra Jara.
 
 ---
 
