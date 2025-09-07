@@ -288,32 +288,40 @@
 
 ## Avisos de la Semana.
 
-Jueves 21 de Agosto.
-Culto de Oración 19:30.
-Dirige: Hno. Raúl Carrasco.
-Palabra: Hno. Ramón Cabrera.
- 
-Viernes 22 de Agosto.
-Reanión de Hermanas 5:30.
-Dirige: Hna Rosa Pino.
-Palabra: Hna. María de los Ángeles Godoy.
+Lunes 08 de Septiembre.
+Estudio Bíblico 19:30.
+Tema: El estudio de Dios Padre.
+Profesor Ricardo Álvarez.
 
-Viernes 23 de Agosto.
-Reunión de Juveniles 5:30.
+Miércoles 10 de Septiembre.
+Reunión en Chillán 19:30.
+Hogar: Hna. Yasna Lara.
+Dirige: Hna. Fernanda Sepúlveda.
+Palabra: Hna. Nadia Sepúlveda.
 
+Jueves 11 de Septiembre.
+Reunión de oración 19:30.
+Dirige: Hno. Francisco Quijada.
+Palabra: Hno. Christian Vidal.
 
-Domingo 24 de Agosto.
+Viernes 12 Septiembre.
+Reunión de Hermanas 17:30.
+Compartir Fiestas Patrias.
+
+Viernes 12 Septiembre.
+Reunión de Varones 19:00.
+Hogar Juan Pablo Rubilar
+
+Domingo 14 Septiembre.
 Grupo de Intercesión 10:00.
-Segundo Piso salón.
+Segundo piso salón.
 
-Domingo 24 de Agosto.
+Domingo 14 Septiembre.
 Culto Dominical 10:30.
-Dirige: Hno. Sergio Emilio Saavedra.
-Devocional: Beatriz Concha.
-Palabra: Pr. Esteban Ruiz.
-Proyecciones: Hna. Claudia Galinodo.
-Portería: Hnas. Nadia Sepulveda y Marcia Fuentes.
-Ofrenda: Hnas. María Palavecino y Norma Ulloa.
+Dirige: Hna. Sabina Sepúlveda.
+Palabra: Pr. Claudio Torres.
+Portería: Hnos. Nadia Sepulveda y Jose Herrera.
+Ofrenda: Hnos. Jose Herrera y Esdra Jara.
 
 ---
 
